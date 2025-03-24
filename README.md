@@ -7,6 +7,8 @@ Below, I’ll decode one representative folio from each section, showing the ful
 
 #### Folio 14v (Herbal)
 
+![f14v](https://voynich.nu/q02/f014v_crd.jpg)
+
 **Full raw**: 
 
 pdychoiin yfodain oty!shy dy ypchor daiin kol ydain 
