@@ -1,10 +1,10 @@
 import re
 import requests
+import httpx
+import asyncio
 
-def extract_voynich_data(url):
-    response = requests.get(url)
-    text = response.text
 
+def extract_voynich_data(text, url):
     # Infer folio from filename
     match_page = re.search(r'f(\d{3}[rv])', url)
     page = match_page.group(1) if match_page else "unknown"
@@ -30,10 +30,23 @@ def extract_voynich_data(url):
         if not line or line.startswith("#"):
             continue
         # Only keep Voynichese words
-        parts = line.split()
-        voynich_words = [word for word in parts if re.match(r"^[a-zA-Z0-9_]+$", word)]
-        if voynich_words:
-            voynich_lines.append(" ".join(voynich_words))
+
+        if line.startswith('<f'):
+            parts = line.split('>')
+            prefix = parts[0] + '>'
+            text = parts[1]
+            words = text.split('.')
+            cleaned_words = []
+            for word in words:
+                cleaned_word = re.sub(r'[{!=-]+$', '', word)  # Remove trailing hyphens, !, =
+                cleaned_word = re.sub(r'\{.*?\}', '', cleaned_word) #remove anything between curly braces including the braces
+                cleaned_word = re.sub(r'-', '', cleaned_word) #remove any hyphens inside the words
+                cleaned_words.append(cleaned_word)
+
+            transformed_text = ' '.join(cleaned_words) + '.'
+            voynich_lines.append(prefix + transformed_text)
+        else:
+            voynich_lines.append(line)
 
     return {
         "subject": subject,
@@ -41,12 +54,32 @@ def extract_voynich_data(url):
         "voynich_text": voynich_lines
     }
 
-# Example usage
-url = "https://www.voynich.nu/q02/f014v_tr.txt"
-data = extract_voynich_data(url)
 
-print(f"Subject: {data['subject']}")
-print(f"Page: f{data['page']}")
-print("Extracted Voynichese lines:")
-for line in data['voynich_text']:
-    print(line)
+async def fetch_text_async(url: str) -> str:
+    """Retrieves a text file from a URL asynchronously."""
+    async with httpx.AsyncClient() as client:
+        try:
+            response = await client.get(url)
+            response.raise_for_status()  # Raise HTTPError for bad responses (4xx or 5xx)
+            return response.text
+        except httpx.RequestError as exc:
+            print(f"An error occurred while requesting {exc.request.url!r}.")
+            return None
+        except httpx.HTTPStatusError as exc:
+            print(f"Error response {exc.response.status_code} while requesting {exc.request.url!r}.")
+            return None
+        except Exception as generic:
+            print(f"A generic error occured: {generic}")
+            return None
+
+async def main():
+    url = "https://www.voynich.nu/q02/f014v_tr.txt"
+    
+    text_content = await fetch_text_async(url)
+    data = extract_voynich_data(text_content, url)
+
+    for line in data['voynich_text']:
+        print(line)
+
+if __name__ == "__main__":
+    asyncio.run(main())
