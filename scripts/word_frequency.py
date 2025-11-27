@@ -227,8 +227,8 @@ Examples:
                        help="Minimum word frequency (default: 3)")
     parser.add_argument("--top", type=int, default=50,
                        help="Show top N words in summary (default: 50)")
-    parser.add_argument("--output", default="data/word_frequency.json",
-                       help="Output file path")
+    parser.add_argument("--output", default="data/iterations/word_frequency.json",
+                        help="Output file path (default: data/iterations/word_frequency.json)")
     parser.add_argument("--format", choices=['json', 'csv', 'md'],
                        default='json', help="Output format (default: json)")
     parser.add_argument("--quiet", action="store_true",

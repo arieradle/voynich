@@ -1,7 +1,7 @@
 {
   "folio_id": "038r",
   "section": "Pharmaceutical",
-  "context": "herbal",
+  "context": "pharmaceutical",
   "voynich_text": "tolor chockhyoky choiin okshol oly oky tolor chockhyoky choiin okshol oly oky tolor chockhyoky choiin okshol oly oky okseey chodysytoiin otaiin otaiin cthar okshey chody sytoiin otaiin otaiin cthar okshey chodysytoiin otaiin otaiin cthar qokor okaiinotaiin qokchol chokokor qokor okaiinotaiin qokchol chokokor qokor okaiinotaiin qokchol chokokor ychok chey chckhchy chka odaiin daiin sy ychokchey chckhchy chkor odaiin daiin sy ychokchey chckhchy chka rodaiin daiin sy okor chey kainchor ctho dain ckholdy okor chey kainchor ctho dain ckholdy okor chey kainchor ctho dain ckholdy ysho sho kosdaiin okoy chochor daiin ysho sho kosdaiin okoy chochor daiin ysho sho kosdaiin okoy chochor daiin",
   "latin_text": "[tolor] [chockhyoky] facit [okshol] [oly] facit ad [tolor] [chockhyoky] facit [okshol] [oly] facit ad [tolor] [chockhyoky] facit [okshol] [oly] facit ad [okseey] [chodysytoiin] valde cursus caelum [okshey] movetur [sytoiin] valde cursus caelum [okshey] [chodysytoiin] valde cursus caelum dividit [okaiinotaiin] caulem producit [chokokor] dividit [okaiinotaiin] caulem producit [chokokor] dividit [okaiinotaiin] caulem producit [chokokor] [ychok] elementum [chckhchy] [chka] dat est ad ipse [ychokchey] [chckhchy] ordo dat est ad ipse [ychokchey] [chckhchy] [chka] [rodaiin] ad ipse robur ordo elementum [kainchor] [ctho] ad [ckholdy] robur ordo elementum [kainchor] [ctho] ad [ckholdy] robur ordo elementum [kainchor] [ctho] ad [ckholdy] ad hic facit hic facit [kosdaiin] [okoy] [chochor] ad ad hic facit hic facit [kosdaiin] [okoy] [chochor] ad ad hic facit hic facit [kosdaiin] [okoy] [chochor] ad",
   "english_text": "[tolor] [chockhyoky] makes [okshol] [oly] makes to [tolor] [chockhyoky] makes [okshol] [oly] makes to [tolor] [chockhyoky] makes [okshol] [oly] makes to [okseey] [chodysytoiin] very [cursus] [caelum] [okshey] moves [sytoiin] very [cursus] [caelum] [okshey] [chodysytoiin] very [cursus] [caelum] [dividit] [okaiinotaiin] stem produces [chokokor] [dividit] [okaiinotaiin] stem produces [chokokor] [dividit] [okaiinotaiin] stem produces [chokokor] [ychok] element [chckhchy] [chka] gives is to [ipse] [ychokchey] [chckhchy] order gives is to [ipse] [ychokchey] [chckhchy] [chka] [rodaiin] to [ipse] strong order element [kainchor] [ctho] to [ckholdy] strong order element [kainchor] [ctho] to [ckholdy] strong order element [kainchor] [ctho] to [ckholdy] to here makes here makes [kosdaiin] [okoy] [chochor] to to here makes here makes [kosdaiin] [okoy] [chochor] to to here makes here makes [kosdaiin] [okoy] [chochor] to.",
@@ -315,8 +315,8 @@
     {
       "original": "daiin",
       "latin": "ad",
-      "confidence": 0.8,
-      "notes": "polysemy:herbal section, directional to plant parts"
+      "confidence": 0.6,
+      "notes": "polysemy:base"
     },
     {
       "original": "sy",
@@ -351,8 +351,8 @@
     {
       "original": "daiin",
       "latin": "ad",
-      "confidence": 0.8,
-      "notes": "polysemy:herbal section, directional to plant parts"
+      "confidence": 0.6,
+      "notes": "polysemy:base"
     },
     {
       "original": "sy",
@@ -387,8 +387,8 @@
     {
       "original": "daiin",
       "latin": "ad",
-      "confidence": 0.8,
-      "notes": "polysemy:herbal section, directional to plant parts"
+      "confidence": 0.6,
+      "notes": "polysemy:base"
     },
     {
       "original": "sy",
@@ -537,8 +537,8 @@
     {
       "original": "daiin",
       "latin": "ad",
-      "confidence": 0.8,
-      "notes": "polysemy:herbal section, directional to plant parts"
+      "confidence": 0.6,
+      "notes": "polysemy:base"
     },
     {
       "original": "ysho",
@@ -573,8 +573,8 @@
     {
       "original": "daiin",
       "latin": "ad",
-      "confidence": 0.8,
-      "notes": "polysemy:herbal section, directional to plant parts"
+      "confidence": 0.6,
+      "notes": "polysemy:base"
     },
     {
       "original": "ysho",
@@ -609,15 +609,15 @@
     {
       "original": "daiin",
       "latin": "ad",
-      "confidence": 0.8,
-      "notes": "polysemy:herbal section, directional to plant parts"
+      "confidence": 0.6,
+      "notes": "polysemy:base"
     }
   ],
   "statistics": {
     "total": 101,
     "known": 50,
     "unknown": 51,
-    "avg_confidence": 0.4396039603960396,
+    "avg_confidence": 0.42772277227722777,
     "coverage": 0.49504950495049505
   },
   "unknown_words": [
@@ -643,5 +643,5 @@
     "ychok",
     "ychokchey"
   ],
-  "translated_at": "2025-11-27T21:41:36.901172"
+  "translated_at": "2025-11-27T21:54:25.034105"
 }

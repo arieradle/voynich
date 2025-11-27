@@ -1,7 +1,7 @@
 {
   "folio_id": "033r",
   "section": "Pharmaceutical",
-  "context": "herbal",
+  "context": "pharmaceutical",
   "voynich_text": "yteey shody tchedydy chekar okaiin okaiin daiin okal yteey shodykchedy dy chekar okaiin okaiin daiin okal yteey shody tchedydy chekar okaiin okaiin daiin okal dar chos aiin or aiin cheekaiin okain ar okeeey dar chos aiin or aiin cheekaiin okain ar okeeey dar chos aiin or aiin cheekaiin okain ar okeeey",
   "latin_text": "[yteey] hic movet [tchedydy] [chekar] valde ponit ad robur [yteey] [shodykchedy] et [chekar] valde ponit ad robur [yteey] hic movet [tchedydy] [chekar] valde ponit ad robur donum [chos] est ordo est [cheekaiin] erat et [okeeey] donum [chos] est ordo est [cheekaiin] erat et [okeeey] donum [chos] est ordo est [cheekaiin] erat et [okeeey]",
   "english_text": "[yteey] here moves [tchedydy] [chekar] very [ponit] to strong [yteey] [shodykchedy] and [chekar] very [ponit] to strong [yteey] here moves [tchedydy] [chekar] very [ponit] to strong gift [chos] is order is [cheekaiin] was and [okeeey] gift [chos] is order is [cheekaiin] was and [okeeey] gift [chos] is order is [cheekaiin] was and [okeeey].",
@@ -45,8 +45,8 @@
     {
       "original": "daiin",
       "latin": "ad",
-      "confidence": 0.8,
-      "notes": "polysemy:herbal section, directional to plant parts"
+      "confidence": 0.6,
+      "notes": "polysemy:base"
     },
     {
       "original": "okal",
@@ -69,8 +69,8 @@
     {
       "original": "dy",
       "latin": "et",
-      "confidence": 0.8,
-      "notes": "polysemy:herbal section, and (connector)"
+      "confidence": 0.6,
+      "notes": "polysemy:base"
     },
     {
       "original": "chekar",
@@ -93,8 +93,8 @@
     {
       "original": "daiin",
       "latin": "ad",
-      "confidence": 0.8,
-      "notes": "polysemy:herbal section, directional to plant parts"
+      "confidence": 0.6,
+      "notes": "polysemy:base"
     },
     {
       "original": "okal",
@@ -141,8 +141,8 @@
     {
       "original": "daiin",
       "latin": "ad",
-      "confidence": 0.8,
-      "notes": "polysemy:herbal section, directional to plant parts"
+      "confidence": 0.6,
+      "notes": "polysemy:base"
     },
     {
       "original": "okal",
@@ -317,7 +317,7 @@
     "total": 51,
     "known": 33,
     "unknown": 18,
-    "avg_confidence": 0.5627450980392157,
+    "avg_confidence": 0.5470588235294118,
     "coverage": 0.6470588235294118
   },
   "unknown_words": [
@@ -329,5 +329,5 @@
     "tchedydy",
     "yteey"
   ],
-  "translated_at": "2025-11-27T21:41:36.864766"
+  "translated_at": "2025-11-27T21:54:24.997797"
 }

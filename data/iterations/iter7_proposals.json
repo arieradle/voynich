@@ -1,0 +1,47 @@
+[
+  {
+    "word": "qotol",
+    "latin": "valde locus",
+    "description": "qo (intensifier) + tol (place/location); very much at location, emphatic place marker",
+    "frequency": 10,
+    "confidence": 0.75,
+    "morphology": "qo + tol",
+    "reasoning": "Strong qo- prefix pattern (intensifier). 'tol' likely relates to 'locus' (place/location). Botanical context: specific location on plant or in text.",
+    "contexts": ["herbal"],
+    "tier": 1
+  },
+  {
+    "word": "chotchy",
+    "latin": "facit ad",
+    "description": "cho (makes) + tchy (to/toward earth); makes to earth, directed downward",
+    "frequency": 6,
+    "confidence": 0.75,
+    "morphology": "cho + tchy",
+    "reasoning": "cho (facit/makes) prefix + tchy (contains 'chy' - ad plantam, toward plant/earth). Botanical context: growth direction, downward-growing parts.",
+    "contexts": ["herbal"],
+    "tier": 1
+  },
+  {
+    "word": "qotchol",
+    "latin": "valde caulem",
+    "description": "qo (intensifier) + tchol (stem/stalk); very much stem, emphatic stem reference",
+    "frequency": 6,
+    "confidence": 0.75,
+    "morphology": "qo + tchol",
+    "reasoning": "Strong qo- prefix (intensifier) + tchol (tangit caulem - touches stem). Combined: emphasizes stem/stalk portion of plant.",
+    "contexts": ["herbal"],
+    "tier": 1
+  },
+  {
+    "word": "oraiin",
+    "latin": "ordo est",
+    "description": "or (order) + aiin (is/state); in order, ordered state",
+    "frequency": 6,
+    "confidence": 0.70,
+    "morphology": "or + aiin",
+    "reasoning": "or (ordo/order) + aiin (est/erat state marker). Botanical context: arrangement, orderly pattern (leaves, petals).",
+    "contexts": ["herbal"],
+    "tier": 1
+  }
+]
+

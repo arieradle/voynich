@@ -1,0 +1,2053 @@
+[
+  {
+    "word": "ctho",
+    "frequency": 14,
+    "priority_score": 163.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "cheol",
+    "frequency": 12,
+    "priority_score": 143.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "chan",
+    "frequency": 11,
+    "priority_score": 133.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "she",
+    "frequency": 10,
+    "priority_score": 125.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "os",
+    "frequency": 8,
+    "priority_score": 105.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 2
+  },
+  {
+    "word": "do",
+    "frequency": 8,
+    "priority_score": 105.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 2
+  },
+  {
+    "word": "qotol",
+    "frequency": 8,
+    "priority_score": 103.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "dom",
+    "frequency": 7,
+    "priority_score": 95.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Biological",
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "daiiin",
+    "frequency": 7,
+    "priority_score": 93.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "daiir",
+    "frequency": 7,
+    "priority_score": 93.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "keol",
+    "frequency": 7,
+    "priority_score": 93.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "sheaiin",
+    "frequency": 7,
+    "priority_score": 93.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "chl",
+    "frequency": 7,
+    "priority_score": 90.0,
+    "sections": [
+      "Pharmaceutical",
+      "Astrological",
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "sheol",
+    "frequency": 7,
+    "priority_score": 88.0,
+    "sections": [
+      "Herbal A",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "shocthy",
+    "frequency": 7,
+    "priority_score": 88.0,
+    "sections": [
+      "Astrological",
+      "Biological",
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "qot",
+    "frequency": 6,
+    "priority_score": 85.0,
+    "sections": [
+      "Herbal A",
+      "Astrological",
+      "Biological",
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "t",
+    "frequency": 6,
+    "priority_score": 85.0,
+    "sections": [
+      "Herbal A",
+      "Astrological",
+      "Biological",
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 1
+  },
+  {
+    "word": "chotchy",
+    "frequency": 6,
+    "priority_score": 83.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "oaiin",
+    "frequency": 6,
+    "priority_score": 83.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "chos",
+    "frequency": 6,
+    "priority_score": 83.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "am",
+    "frequency": 6,
+    "priority_score": 80.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 2
+  },
+  {
+    "word": "kam",
+    "frequency": 6,
+    "priority_score": 80.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "ckhor",
+    "frequency": 6,
+    "priority_score": 78.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "oteol",
+    "frequency": 6,
+    "priority_score": 78.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "sair",
+    "frequency": 6,
+    "priority_score": 78.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Astrological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "cheody",
+    "frequency": 6,
+    "priority_score": 78.0,
+    "sections": [
+      "Herbal A",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "oraiin",
+    "frequency": 6,
+    "priority_score": 78.0,
+    "sections": [
+      "Pharmaceutical",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "ody",
+    "frequency": 5,
+    "priority_score": 75.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Biological",
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "cthom",
+    "frequency": 6,
+    "priority_score": 73.0,
+    "sections": [
+      "Herbal A",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "chotaiin",
+    "frequency": 5,
+    "priority_score": 73.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "ytor",
+    "frequency": 5,
+    "priority_score": 73.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "ckhol",
+    "frequency": 5,
+    "priority_score": 73.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "okam",
+    "frequency": 5,
+    "priority_score": 73.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "oly",
+    "frequency": 5,
+    "priority_score": 70.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "key",
+    "frequency": 5,
+    "priority_score": 70.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Astrological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "qor",
+    "frequency": 5,
+    "priority_score": 70.0,
+    "sections": [
+      "Pharmaceutical",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "otchey",
+    "frequency": 5,
+    "priority_score": 68.0,
+    "sections": [
+      "Pharmaceutical",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "qotchol",
+    "frequency": 5,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal A",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "sheo",
+    "frequency": 5,
+    "priority_score": 68.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Astrological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "cheo",
+    "frequency": 5,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal A",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "okeol",
+    "frequency": 5,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal A",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "otam",
+    "frequency": 5,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal A",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "raiin",
+    "frequency": 5,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal A",
+      "Astrological",
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "kshol",
+    "frequency": 4,
+    "priority_score": 63.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "odar",
+    "frequency": 4,
+    "priority_score": 63.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "qody",
+    "frequency": 4,
+    "priority_score": 63.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "tcheo",
+    "frequency": 4,
+    "priority_score": 63.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "cphor",
+    "frequency": 4,
+    "priority_score": 63.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "chom",
+    "frequency": 5,
+    "priority_score": 63.0,
+    "sections": [
+      "Herbal A",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "sain",
+    "frequency": 4,
+    "priority_score": 63.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "qokcho",
+    "frequency": 4,
+    "priority_score": 63.0,
+    "sections": [
+      "Herbal A",
+      "Astrological",
+      "Biological",
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "chees",
+    "frequency": 5,
+    "priority_score": 63.0,
+    "sections": [
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "qo",
+    "frequency": 4,
+    "priority_score": 60.0,
+    "sections": [
+      "Herbal A",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 2
+  },
+  {
+    "word": "keo",
+    "frequency": 4,
+    "priority_score": 60.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Astrological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "sos",
+    "frequency": 4,
+    "priority_score": 60.0,
+    "sections": [
+      "Herbal A",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "chyty",
+    "frequency": 4,
+    "priority_score": 58.0,
+    "sections": [
+      "Pharmaceutical",
+      "Astrological",
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "dchaiin",
+    "frequency": 4,
+    "priority_score": 58.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "kchaiin",
+    "frequency": 4,
+    "priority_score": 58.0,
+    "sections": [
+      "Pharmaceutical",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "qotshey",
+    "frequency": 4,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "tshey",
+    "frequency": 4,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "okoy",
+    "frequency": 4,
+    "priority_score": 58.0,
+    "sections": [
+      "Pharmaceutical",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "kchdy",
+    "frequency": 4,
+    "priority_score": 58.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Astrological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "ykcho",
+    "frequency": 4,
+    "priority_score": 58.0,
+    "sections": [
+      "Pharmaceutical",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "kchod",
+    "frequency": 4,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "qokam",
+    "frequency": 4,
+    "priority_score": 58.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "tcheey",
+    "frequency": 4,
+    "priority_score": 53.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "soiin",
+    "frequency": 4,
+    "priority_score": 53.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "kchody",
+    "frequency": 4,
+    "priority_score": 53.0,
+    "sections": [
+      "Herbal A",
+      "Astrological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "kechy",
+    "frequency": 4,
+    "priority_score": 53.0,
+    "sections": [
+      "Herbal A",
+      "Astrological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "olor",
+    "frequency": 4,
+    "priority_score": 53.0,
+    "sections": [
+      "Pharmaceutical",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "qokey",
+    "frequency": 4,
+    "priority_score": 53.0,
+    "sections": [
+      "Herbal A",
+      "Astrological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "ytol",
+    "frequency": 4,
+    "priority_score": 53.0,
+    "sections": [
+      "Pharmaceutical",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "cham",
+    "frequency": 4,
+    "priority_score": 53.0,
+    "sections": [
+      "Herbal A",
+      "Astrological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "cthody",
+    "frequency": 4,
+    "priority_score": 53.0,
+    "sections": [
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "olaiin",
+    "frequency": 4,
+    "priority_score": 53.0,
+    "sections": [
+      "Pharmaceutical",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "olol",
+    "frequency": 4,
+    "priority_score": 53.0,
+    "sections": [
+      "Biological",
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "rol",
+    "frequency": 3,
+    "priority_score": 50.0,
+    "sections": [
+      "Herbal A",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "chs",
+    "frequency": 3,
+    "priority_score": 50.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "chr",
+    "frequency": 3,
+    "priority_score": 50.0,
+    "sections": [
+      "Herbal A",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "om",
+    "frequency": 4,
+    "priority_score": 50.0,
+    "sections": [
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 2
+  },
+  {
+    "word": "sol",
+    "frequency": 3,
+    "priority_score": 50.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Astrological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "air",
+    "frequency": 3,
+    "priority_score": 50.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Astrological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "l",
+    "frequency": 3,
+    "priority_score": 50.0,
+    "sections": [
+      "Pharmaceutical",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 1
+  },
+  {
+    "word": "qol",
+    "frequency": 3,
+    "priority_score": 50.0,
+    "sections": [
+      "Pharmaceutical",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "ds",
+    "frequency": 3,
+    "priority_score": 50.0,
+    "sections": [
+      "Pharmaceutical",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 2
+  },
+  {
+    "word": "dchokchy",
+    "frequency": 3,
+    "priority_score": 48.0,
+    "sections": [
+      "Pharmaceutical",
+      "Astrological",
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "odal",
+    "frequency": 3,
+    "priority_score": 48.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "chckhol",
+    "frequency": 3,
+    "priority_score": 48.0,
+    "sections": [
+      "Herbal A",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "shos",
+    "frequency": 3,
+    "priority_score": 48.0,
+    "sections": [
+      "Herbal A",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "shoy",
+    "frequency": 3,
+    "priority_score": 48.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Astrological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "ycheey",
+    "frequency": 3,
+    "priority_score": 48.0,
+    "sections": [
+      "Herbal A",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "qokoiin",
+    "frequency": 3,
+    "priority_score": 48.0,
+    "sections": [
+      "Pharmaceutical",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "shosaiin",
+    "frequency": 3,
+    "priority_score": 48.0,
+    "sections": [
+      "Pharmaceutical",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "chokeody",
+    "frequency": 3,
+    "priority_score": 48.0,
+    "sections": [
+      "Herbal A",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "ksheo",
+    "frequency": 3,
+    "priority_score": 48.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "qocthy",
+    "frequency": 3,
+    "priority_score": 48.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "chykchy",
+    "frequency": 3,
+    "priority_score": 48.0,
+    "sections": [
+      "Herbal A",
+      "Biological",
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "chocthey",
+    "frequency": 3,
+    "priority_score": 48.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Astrological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "chty",
+    "frequency": 3,
+    "priority_score": 48.0,
+    "sections": [
+      "Pharmaceutical",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "ches",
+    "frequency": 3,
+    "priority_score": 48.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Astrological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "chkeey",
+    "frequency": 3,
+    "priority_score": 48.0,
+    "sections": [
+      "Herbal A",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "ctholy",
+    "frequency": 3,
+    "priority_score": 48.0,
+    "sections": [
+      "Pharmaceutical",
+      "Biological",
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "kchol",
+    "frequency": 4,
+    "priority_score": 48.0,
+    "sections": [
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "chckhey",
+    "frequency": 3,
+    "priority_score": 48.0,
+    "sections": [
+      "Pharmaceutical",
+      "Biological",
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "shan",
+    "frequency": 3,
+    "priority_score": 48.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A",
+      "Astrological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "cholody",
+    "frequency": 3,
+    "priority_score": 48.0,
+    "sections": [
+      "Pharmaceutical",
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "py",
+    "frequency": 3,
+    "priority_score": 45.0,
+    "sections": [
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 2
+  },
+  {
+    "word": "lor",
+    "frequency": 3,
+    "priority_score": 45.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "cth",
+    "frequency": 3,
+    "priority_score": 45.0,
+    "sections": [
+      "Herbal A",
+      "Astrological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "ear",
+    "frequency": 3,
+    "priority_score": 45.0,
+    "sections": [
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "toy",
+    "frequency": 3,
+    "priority_score": 45.0,
+    "sections": [
+      "Herbal A",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "chd",
+    "frequency": 3,
+    "priority_score": 45.0,
+    "sections": [
+      "Pharmaceutical",
+      "Astrological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "oro",
+    "frequency": 3,
+    "priority_score": 45.0,
+    "sections": [
+      "Biological",
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "chkol",
+    "frequency": 3,
+    "priority_score": 43.0,
+    "sections": [
+      "Pharmaceutical",
+      "Astrological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "tcheaiin",
+    "frequency": 3,
+    "priority_score": 43.0,
+    "sections": [
+      "Pharmaceutical",
+      "Astrological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "cphaiin",
+    "frequency": 3,
+    "priority_score": 43.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "shear",
+    "frequency": 3,
+    "priority_score": 43.0,
+    "sections": [
+      "Herbal A",
+      "Astrological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "chtol",
+    "frequency": 3,
+    "priority_score": 43.0,
+    "sections": [
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "doiir",
+    "frequency": 3,
+    "priority_score": 43.0,
+    "sections": [
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "schey",
+    "frequency": 3,
+    "priority_score": 43.0,
+    "sections": [
+      "Herbal A",
+      "Astrological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "shoshy",
+    "frequency": 3,
+    "priority_score": 43.0,
+    "sections": [
+      "Herbal A",
+      "Astrological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "sheky",
+    "frequency": 3,
+    "priority_score": 43.0,
+    "sections": [
+      "Herbal A",
+      "Astrological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "shoaiin",
+    "frequency": 3,
+    "priority_score": 43.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "ydar",
+    "frequency": 3,
+    "priority_score": 43.0,
+    "sections": [
+      "Herbal A",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "cheky",
+    "frequency": 3,
+    "priority_score": 43.0,
+    "sections": [
+      "Pharmaceutical",
+      "Astrological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "ykar",
+    "frequency": 3,
+    "priority_score": 43.0,
+    "sections": [
+      "Pharmaceutical",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "ytar",
+    "frequency": 3,
+    "priority_score": 43.0,
+    "sections": [
+      "Pharmaceutical",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "shees",
+    "frequency": 3,
+    "priority_score": 43.0,
+    "sections": [
+      "Herbal A",
+      "Astrological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "ykoiin",
+    "frequency": 3,
+    "priority_score": 43.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "okey",
+    "frequency": 3,
+    "priority_score": 43.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "chochy",
+    "frequency": 3,
+    "priority_score": 43.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "chokaiin",
+    "frequency": 3,
+    "priority_score": 43.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "qokshy",
+    "frequency": 3,
+    "priority_score": 43.0,
+    "sections": [
+      "Herbal A",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "shokchy",
+    "frequency": 3,
+    "priority_score": 43.0,
+    "sections": [
+      "Herbal A",
+      "Astrological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "daram",
+    "frequency": 3,
+    "priority_score": 43.0,
+    "sections": [
+      "Pharmaceutical",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "otshol",
+    "frequency": 3,
+    "priority_score": 43.0,
+    "sections": [
+      "Herbal A",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "ckham",
+    "frequency": 3,
+    "priority_score": 43.0,
+    "sections": [
+      "Herbal A",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "okom",
+    "frequency": 3,
+    "priority_score": 43.0,
+    "sections": [
+      "Pharmaceutical",
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "pchar",
+    "frequency": 3,
+    "priority_score": 43.0,
+    "sections": [
+      "Herbal A",
+      "Astrological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "kcheol",
+    "frequency": 3,
+    "priority_score": 43.0,
+    "sections": [
+      "Herbal A",
+      "Astrological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "okeom",
+    "frequency": 3,
+    "priority_score": 43.0,
+    "sections": [
+      "Herbal A",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "dcheey",
+    "frequency": 3,
+    "priority_score": 43.0,
+    "sections": [
+      "Herbal A",
+      "Astrological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "keeor",
+    "frequency": 3,
+    "priority_score": 43.0,
+    "sections": [
+      "Astrological",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "choldy",
+    "frequency": 3,
+    "priority_score": 43.0,
+    "sections": [
+      "Pharmaceutical",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "teeol",
+    "frequency": 3,
+    "priority_score": 43.0,
+    "sections": [
+      "Herbal A",
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "tchar",
+    "frequency": 3,
+    "priority_score": 43.0,
+    "sections": [
+      "Biological",
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "eees",
+    "frequency": 3,
+    "priority_score": 38.0,
+    "sections": [
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "chcphy",
+    "frequency": 3,
+    "priority_score": 38.0,
+    "sections": [
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "ycheol",
+    "frequency": 3,
+    "priority_score": 38.0,
+    "sections": [
+      "Biological"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  }
+]

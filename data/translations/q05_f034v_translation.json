@@ -1,7 +1,7 @@
 {
   "folio_id": "034v",
   "section": "Pharmaceutical",
-  "context": "herbal",
+  "context": "pharmaceutical",
   "voynich_text": "yshos ody aiin okoy okal shedy yshos ody aiin okey okal shedy yshos ody saiin okoy okal shedy yshos ody aiin okoy okalshedy",
   "latin_text": "[yshos] [ody] est [okoy] robur descendit [yshos] [ody] est [okey] robur descendit [yshos] [ody] sine [okoy] robur descendit [yshos] [ody] est [okoy] [okalshedy]",
   "english_text": "[yshos] [ody] is [okoy] strong from [yshos] [ody] is [okey] strong from [yshos] [ody] [sine] [okoy] strong from [yshos] [ody] is [okoy] [okalshedy].",
@@ -159,5 +159,5 @@
     "okoy",
     "yshos"
   ],
-  "translated_at": "2025-11-27T21:41:36.875271"
+  "translated_at": "2025-11-27T21:54:25.007843"
 }

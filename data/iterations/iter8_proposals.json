@@ -1,0 +1,91 @@
+[
+  {
+    "word": "chotaiin",
+    "latin": "herba cursus",
+    "description": "ch (from plant) + otaiin (movement/flow pattern); herbal flow, plant's directional growth",
+    "frequency": 5,
+    "confidence": 0.75,
+    "morphology": "ch + otaiin",
+    "reasoning": "Strong ch- prefix (herba/from plant) + otaiin (cursus/flow). Combined: describes plant growth direction or flow pattern (vines, tendrils, spreading growth).",
+    "contexts": ["herbal"],
+    "tier": 1
+  },
+  {
+    "word": "otchey",
+    "latin": "ex elementum",
+    "description": "ot (from/out of) + chey (element/small part); from element, elemental component",
+    "frequency": 5,
+    "confidence": 0.75,
+    "morphology": "ot + chey",
+    "reasoning": "ot (ex/from) prefix + chey (elementum/element). Botanical context: component from plant, elemental part (oil, juice, essence extracted from plant).",
+    "contexts": ["herbal"],
+    "tier": 1
+  },
+  {
+    "word": "oaiin",
+    "latin": "o est",
+    "description": "o (exclamation) + aiin (is/state marker); it is, statement of being",
+    "frequency": 6,
+    "confidence": 0.70,
+    "morphology": "o + aiin",
+    "reasoning": "o (exclamation/emphasis) + aiin (est/state). Combined: emphatic statement of being/existence. Context: declarative statement about plant state or property.",
+    "contexts": ["herbal"],
+    "tier": 1
+  },
+  {
+    "word": "raiin",
+    "latin": "et est",
+    "description": "r (and/connector) + aiin (is/state marker); and it is, connective state",
+    "frequency": 5,
+    "confidence": 0.70,
+    "morphology": "r + aiin",
+    "reasoning": "r (et/and) + aiin (est/state). Combined: connects clauses with existential statement. Common pattern for listing plant properties.",
+    "contexts": ["herbal"],
+    "tier": 1
+  },
+  {
+    "word": "dchaiin",
+    "latin": "dat erat",
+    "description": "d (gives) + chaiin (was/past state); gave was, past giving state",
+    "frequency": 4,
+    "confidence": 0.75,
+    "morphology": "d + chaiin",
+    "reasoning": "d (dat/gives) + chaiin (erat/was). Combined: past tense giving/providing. Context: plant gave/provided something in past (seasonal yield, historical use).",
+    "contexts": ["herbal"],
+    "tier": 1
+  },
+  {
+    "word": "kchaiin",
+    "latin": "facit erat",
+    "description": "k (makes) + chaiin (was/past state); made was, past making state",
+    "frequency": 4,
+    "confidence": 0.75,
+    "morphology": "k + chaiin",
+    "reasoning": "k (facit/makes) + chaiin (erat/was). Combined: past tense making/producing. Context: plant made/produced something previously.",
+    "contexts": ["herbal"],
+    "tier": 1
+  },
+  {
+    "word": "tcheey",
+    "latin": "tangit parvum",
+    "description": "t (touches) + cheey (small); touches small, contacts small part",
+    "frequency": 4,
+    "confidence": 0.75,
+    "morphology": "t + cheey",
+    "reasoning": "t (tangit/touches) + cheey (parvum/small). Combined: touches or contacts small parts. Context: fine details, delicate plant structures (stamens, pistils, fine hairs).",
+    "contexts": ["herbal"],
+    "tier": 1
+  },
+  {
+    "word": "olaiin",
+    "latin": "ille est",
+    "description": "ol (that/it) + aiin (is/state marker); that is, demonstrative statement",
+    "frequency": 4,
+    "confidence": 0.70,
+    "morphology": "ol + aiin",
+    "reasoning": "ol (ille/that) + aiin (est/state). Combined: demonstrative existential statement. Context: 'that (plant/part) is...' declarative identification.",
+    "contexts": ["herbal"],
+    "tier": 1
+  }
+]
+

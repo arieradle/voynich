@@ -3,8 +3,8 @@
   "section": "Astrological",
   "context": "herbal",
   "voynich_text": "ytchos octhey okeeos cheody okeey kchody daiin cheody keedy ytchos ockhey okeeos cheody okeey keeody daiin cheody keedy ytchos acthey okeeos cheody okeey kchody daiin cheody kchdy dair cthedy qokedy okeody chedar oked al ockhedy okeedy otas dair cthedy qokedy okeody chedar okedal ockhedy okeedy otaj dair cthedy qokedy okeody chedar oked al ockhedy okeedy otam ykeos cheeoy ar aiin ykeos cheeoy oraiin yteos cheeoy ar aiin saiin ar ckheos chedy okeey qoear oraiin cheom saiin ar ckheos chedy okeey qoear oraiin cheam saiin ar ckheos chedy okeey qoair oraiin cheam",
-  "latin_text": "[ytchos] circa elementum [okeeos] [cheody] quando [kchody] ad [cheody] [keedy] [ytchos] herba parva [okeeos] [cheody] quando [keeody] ad [cheody] [keedy] [ytchos] [acthey] [okeeos] [cheody] quando [kchody] ad [cheody] [kchdy] gratia [cthedy] crescit [okeody] [chedar] [oked] ala [ockhedy] dum [otas] gratia [cthedy] crescit [okeody] [chedar] [okedal] [ockhedy] dum [otaj] gratia [cthedy] crescit [okeody] [chedar] [oked] ala [ockhedy] dum [otam] [ykeos] [cheeoy] et est [ykeos] [cheeoy] [oraiin] [yteos] [cheeoy] et est sine et [ckheos] in quando [qoear] [oraiin] [cheom] sine et [ckheos] in quando [qoear] [oraiin] [cheam] sine et [ckheos] in quando [qoair] [oraiin] [cheam]",
-  "english_text": "[ytchos] [circa] element [okeeos] [cheody] [quando] [kchody] to [cheody] [keedy] [ytchos] herb small [okeeos] [cheody] [quando] [keeody] to [cheody] [keedy] [ytchos] [acthey] [okeeos] [cheody] [quando] [kchody] to [cheody] [kchdy] grace [cthedy] grows [okeody] [chedar] [oked] wing [ockhedy] [dum] [otas] grace [cthedy] grows [okeody] [chedar] [okedal] [ockhedy] [dum] [otaj] grace [cthedy] grows [okeody] [chedar] [oked] wing [ockhedy] [dum] [otam] [ykeos] [cheeoy] and is [ykeos] [cheeoy] [oraiin] [yteos] [cheeoy] and is [sine] and [ckheos] in [quando] [qoear] [oraiin] [cheom] [sine] and [ckheos] in [quando] [qoear] [oraiin] [cheam] [sine] and [ckheos] in [quando] [qoair] [oraiin] [cheam].",
+  "latin_text": "[ytchos] circa elementum [okeeos] [cheody] quando [kchody] ad [cheody] [keedy] [ytchos] herba parva [okeeos] [cheody] quando [keeody] ad [cheody] [keedy] [ytchos] [acthey] [okeeos] [cheody] quando [kchody] ad [cheody] [kchdy] gratia [cthedy] crescit [okeody] [chedar] [oked] ala [ockhedy] dum [otas] gratia [cthedy] crescit [okeody] [chedar] [okedal] [ockhedy] dum [otaj] gratia [cthedy] crescit [okeody] [chedar] [oked] ala [ockhedy] dum [otam] [ykeos] [cheeoy] et est [ykeos] [cheeoy] ordo est [yteos] [cheeoy] et est sine et [ckheos] in quando [qoear] ordo est [cheom] sine et [ckheos] in quando [qoear] ordo est [cheam] sine et [ckheos] in quando [qoair] ordo est [cheam]",
+  "english_text": "[ytchos] [circa] element [okeeos] [cheody] [quando] [kchody] to [cheody] [keedy] [ytchos] herb small [okeeos] [cheody] [quando] [keeody] to [cheody] [keedy] [ytchos] [acthey] [okeeos] [cheody] [quando] [kchody] to [cheody] [kchdy] grace [cthedy] grows [okeody] [chedar] [oked] wing [ockhedy] [dum] [otas] grace [cthedy] grows [okeody] [chedar] [okedal] [ockhedy] [dum] [otaj] grace [cthedy] grows [okeody] [chedar] [oked] wing [ockhedy] [dum] [otam] [ykeos] [cheeoy] and is [ykeos] [cheeoy] order is [yteos] [cheeoy] and is [sine] and [ckheos] in [quando] [qoear] order is [cheom] [sine] and [ckheos] in [quando] [qoear] order is [cheam] [sine] and [ckheos] in [quando] [qoair] order is [cheam].",
   "word_translations": [
     {
       "original": "ytchos",
@@ -380,9 +380,9 @@
     },
     {
       "original": "oraiin",
-      "latin": "[oraiin]",
-      "confidence": 0.0,
-      "notes": "unknown"
+      "latin": "ordo est",
+      "confidence": 0.9,
+      "notes": "or (order) + aiin (is/state); in order, ordered state"
     },
     {
       "original": "yteos",
@@ -446,9 +446,9 @@
     },
     {
       "original": "oraiin",
-      "latin": "[oraiin]",
-      "confidence": 0.0,
-      "notes": "unknown"
+      "latin": "ordo est",
+      "confidence": 0.9,
+      "notes": "or (order) + aiin (is/state); in order, ordered state"
     },
     {
       "original": "cheom",
@@ -494,9 +494,9 @@
     },
     {
       "original": "oraiin",
-      "latin": "[oraiin]",
-      "confidence": 0.0,
-      "notes": "unknown"
+      "latin": "ordo est",
+      "confidence": 0.9,
+      "notes": "or (order) + aiin (is/state); in order, ordered state"
     },
     {
       "original": "cheam",
@@ -542,9 +542,9 @@
     },
     {
       "original": "oraiin",
-      "latin": "[oraiin]",
-      "confidence": 0.0,
-      "notes": "unknown"
+      "latin": "ordo est",
+      "confidence": 0.9,
+      "notes": "or (order) + aiin (is/state); in order, ordered state"
     },
     {
       "original": "cheam",
@@ -555,10 +555,10 @@
   ],
   "statistics": {
     "total": 91,
-    "known": 35,
-    "unknown": 56,
-    "avg_confidence": 0.33736263736263733,
-    "coverage": 0.38461538461538464
+    "known": 39,
+    "unknown": 52,
+    "avg_confidence": 0.37692307692307697,
+    "coverage": 0.42857142857142855
   },
   "unknown_words": [
     "acthey",
@@ -580,7 +580,6 @@
     "okedal",
     "okeeos",
     "okeody",
-    "oraiin",
     "otaj",
     "otam",
     "otas",
@@ -590,5 +589,5 @@
     "ytchos",
     "yteos"
   ],
-  "translated_at": "2025-11-27T21:41:29.970266"
+  "translated_at": "2025-11-27T21:54:18.532876"
 }

@@ -2297,6 +2297,47 @@ voynich_decipherment_rules:
   - word: choy
     latin: facit ad
     description: cho (makes) + y (to/toward); makes toward, directs to
+  - word: qotol
+    latin: valde locus
+    description: qo (intensifier) + tol (place/location); very much at location, emphatic
+      place marker
+  - word: chotchy
+    latin: facit ad
+    description: cho (makes) + tchy (to/toward earth); makes to earth, directed downward
+  - word: qotchol
+    latin: valde caulem
+    description: qo (intensifier) + tchol (stem/stalk); very much stem, emphatic stem
+      reference
+  - word: oraiin
+    latin: ordo est
+    description: or (order) + aiin (is/state); in order, ordered state
+  - word: chotaiin
+    latin: herba cursus
+    description: ch (from plant) + otaiin (movement/flow pattern); herbal flow, plant's
+      directional growth
+  - word: otchey
+    latin: ex elementum
+    description: ot (from/out of) + chey (element/small part); from element, elemental
+      component
+  - word: oaiin
+    latin: o est
+    description: o (exclamation) + aiin (is/state marker); it is, statement of being
+  - word: raiin
+    latin: et est
+    description: r (and/connector) + aiin (is/state marker); and it is, connective
+      state
+  - word: dchaiin
+    latin: dat erat
+    description: d (gives) + chaiin (was/past state); gave was, past giving state
+  - word: kchaiin
+    latin: facit erat
+    description: k (makes) + chaiin (was/past state); made was, past making state
+  - word: tcheey
+    latin: tangit parvum
+    description: t (touches) + cheey (small); touches small, contacts small part
+  - word: olaiin
+    latin: ille est
+    description: ol (that/it) + aiin (is/state marker); that is, demonstrative statement
   polysemy:
   - word: qokedy
     meanings:
