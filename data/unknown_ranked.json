@@ -1,0 +1,8598 @@
+[
+  {
+    "word": "otchody",
+    "frequency": 18,
+    "priority_score": 193.0,
+    "sections": [
+      "Herbal A",
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "deo",
+    "frequency": 16,
+    "priority_score": 170.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "dn",
+    "frequency": 16,
+    "priority_score": 170.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 2
+  },
+  {
+    "word": "dr",
+    "frequency": 16,
+    "priority_score": 170.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 2
+  },
+  {
+    "word": "eeo",
+    "frequency": 16,
+    "priority_score": 170.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "eo",
+    "frequency": 16,
+    "priority_score": 170.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 2
+  },
+  {
+    "word": "es",
+    "frequency": 16,
+    "priority_score": 170.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 2
+  },
+  {
+    "word": "kos",
+    "frequency": 16,
+    "priority_score": 170.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "oin",
+    "frequency": 16,
+    "priority_score": 170.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "ok",
+    "frequency": 16,
+    "priority_score": 170.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 2
+  },
+  {
+    "word": "ory",
+    "frequency": 16,
+    "priority_score": 170.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "os",
+    "frequency": 16,
+    "priority_score": 170.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 2
+  },
+  {
+    "word": "ro",
+    "frequency": 16,
+    "priority_score": 170.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 2
+  },
+  {
+    "word": "rod",
+    "frequency": 16,
+    "priority_score": 170.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "rs",
+    "frequency": 16,
+    "priority_score": 170.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 2
+  },
+  {
+    "word": "sa",
+    "frequency": 16,
+    "priority_score": 170.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 2
+  },
+  {
+    "word": "she",
+    "frequency": 16,
+    "priority_score": 170.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "yto",
+    "frequency": 16,
+    "priority_score": 170.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "choo",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "chy,tol",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "ckhor",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "ckhyd",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "ckhyds",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "cphdaiils",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "cphealy",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "cphesaiin",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "cphodaiils",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 10
+  },
+  {
+    "word": "cphodal,es",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 10
+  },
+  {
+    "word": "cphodales",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "cphodals",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "cthar,dan",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "ctholdar",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "cthols",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "cthorys",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "cthr",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "cthres",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "dacthy",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "dadeto",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "daicthy",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "daiiin",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "dana",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "daoeta",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "daraiin",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "darain",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "das,ain",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "dasain",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "dchaiin",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "dcheo",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "deeo",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "dlocta",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "doct",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "dodyd",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "doin",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "dydyd",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "echo",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "fyays",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "kach",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "kadchy",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "kair",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "kchom",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "keeam",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "keey,dal",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "kochey",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "kodaiin",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "kodshey",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "koeam",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "koshey",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "kres",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "kshoy",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "o,kaiin",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "odaiin",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "odan",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "odar",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "odsoiin",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "ok,chey",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "okaiir",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "okan",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "okay",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "okchey",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "okchoy",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "okoin",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "ol,s",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "oldain",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "oldain,d",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "ooiin",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "or,y",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "os,chy",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "oschy",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "otaiiin",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "otairin",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "otear",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "oteody",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "oteol",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "oteos",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "oydar",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "potol",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "pshol",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "ptol",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "pydeey",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "rchy",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "ro,d",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "roloty",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "sair",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "sair,y",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "sairy",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "sckhey",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "sckhy",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "shckhey",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "shcky",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "shcthaiin",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "shear",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "sheky",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "sheo",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "sheo,pshol",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 10
+  },
+  {
+    "word": "sheopshol",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "shoaiin",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "shodain",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "shodan",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "shodary",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "shodasy",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "shokcheey",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "sholdo",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "sholdy",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "shos",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "shoshy",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "shoy",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "shtaiin",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "soloty",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "sory",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "syaiir",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "teody",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "tshodeesy",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "y,kor",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "ycheey",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "ydar",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "ydaraisho",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "ydaraishy",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "ydoin",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "yshey",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "ytain",
+    "frequency": 16,
+    "priority_score": 168.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "cthar,daiin",
+    "frequency": 16,
+    "priority_score": 163.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 11
+  },
+  {
+    "word": "oteos,roloty",
+    "frequency": 16,
+    "priority_score": 163.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 12
+  },
+  {
+    "word": "qoty",
+    "frequency": 15,
+    "priority_score": 163.0,
+    "sections": [
+      "Herbal A",
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "shkaiin",
+    "frequency": 15,
+    "priority_score": 163.0,
+    "sections": [
+      "Herbal A",
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "aj",
+    "frequency": 15,
+    "priority_score": 160.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 2
+  },
+  {
+    "word": "am",
+    "frequency": 15,
+    "priority_score": 160.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 2
+  },
+  {
+    "word": "dao",
+    "frequency": 15,
+    "priority_score": 160.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "do",
+    "frequency": 15,
+    "priority_score": 160.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 2
+  },
+  {
+    "word": "lol",
+    "frequency": 15,
+    "priority_score": 160.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "qo",
+    "frequency": 15,
+    "priority_score": 160.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 2
+  },
+  {
+    "word": "akolshol",
+    "frequency": 15,
+    "priority_score": 158.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "cfhar",
+    "frequency": 15,
+    "priority_score": 158.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "chadaiin",
+    "frequency": 15,
+    "priority_score": 158.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "cheol",
+    "frequency": 15,
+    "priority_score": 158.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "chodar",
+    "frequency": 15,
+    "priority_score": 158.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "chodo",
+    "frequency": 15,
+    "priority_score": 158.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "choeee",
+    "frequency": 15,
+    "priority_score": 158.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "choies",
+    "frequency": 15,
+    "priority_score": 158.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "chokeo",
+    "frequency": 15,
+    "priority_score": 158.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "chokody",
+    "frequency": 15,
+    "priority_score": 158.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "cholky",
+    "frequency": 15,
+    "priority_score": 158.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "chotchey",
+    "frequency": 15,
+    "priority_score": 158.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "ckho",
+    "frequency": 15,
+    "priority_score": 158.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "cphoaldar",
+    "frequency": 15,
+    "priority_score": 158.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "ctholshol",
+    "frequency": 15,
+    "priority_score": 158.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "damsochey",
+    "frequency": 15,
+    "priority_score": 158.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "darshol",
+    "frequency": 15,
+    "priority_score": 158.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "kchry",
+    "frequency": 15,
+    "priority_score": 158.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "kchsy",
+    "frequency": 15,
+    "priority_score": 158.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "kechy",
+    "frequency": 15,
+    "priority_score": 158.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "kolkecha",
+    "frequency": 15,
+    "priority_score": 158.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "kolkechy",
+    "frequency": 15,
+    "priority_score": 158.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "kotchody",
+    "frequency": 15,
+    "priority_score": 158.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "lkody",
+    "frequency": 15,
+    "priority_score": 158.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "ochydcho",
+    "frequency": 15,
+    "priority_score": 158.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "okodar",
+    "frequency": 15,
+    "priority_score": 158.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "okolshol",
+    "frequency": 15,
+    "priority_score": 158.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "olchoees",
+    "frequency": 15,
+    "priority_score": 158.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "olchoies",
+    "frequency": 15,
+    "priority_score": 158.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "ololtchey",
+    "frequency": 15,
+    "priority_score": 158.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "orochydcho",
+    "frequency": 15,
+    "priority_score": 158.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 10
+  },
+  {
+    "word": "otoaiin",
+    "frequency": 15,
+    "priority_score": 158.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "potoy",
+    "frequency": 15,
+    "priority_score": 158.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "shydksheey",
+    "frequency": 15,
+    "priority_score": 158.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 10
+  },
+  {
+    "word": "taor",
+    "frequency": 15,
+    "priority_score": 158.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "yteeay",
+    "frequency": 15,
+    "priority_score": 158.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "chodyschody",
+    "frequency": 15,
+    "priority_score": 153.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 11
+  },
+  {
+    "word": "okaldolchey",
+    "frequency": 15,
+    "priority_score": 153.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 11
+  },
+  {
+    "word": "chokchy",
+    "frequency": 14,
+    "priority_score": 153.0,
+    "sections": [
+      "Herbal A",
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "an",
+    "frequency": 14,
+    "priority_score": 150.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 2
+  },
+  {
+    "word": "cth",
+    "frequency": 14,
+    "priority_score": 150.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "key",
+    "frequency": 14,
+    "priority_score": 150.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "aiidychtod",
+    "frequency": 14,
+    "priority_score": 148.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 10
+  },
+  {
+    "word": "chan",
+    "frequency": 14,
+    "priority_score": 148.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "chansaiin",
+    "frequency": 14,
+    "priority_score": 148.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "chety",
+    "frequency": 14,
+    "priority_score": 148.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "cholaiin",
+    "frequency": 14,
+    "priority_score": 148.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "chyky",
+    "frequency": 14,
+    "priority_score": 148.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "ckholsy",
+    "frequency": 14,
+    "priority_score": 148.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "ctho",
+    "frequency": 14,
+    "priority_score": 148.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "daiildy",
+    "frequency": 14,
+    "priority_score": 148.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "daiinychol",
+    "frequency": 14,
+    "priority_score": 148.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 10
+  },
+  {
+    "word": "daiirdl",
+    "frequency": 14,
+    "priority_score": 148.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "daiirol",
+    "frequency": 14,
+    "priority_score": 148.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "daindd",
+    "frequency": 14,
+    "priority_score": 148.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "dainddkol",
+    "frequency": 14,
+    "priority_score": 148.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "dalor",
+    "frequency": 14,
+    "priority_score": 148.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "danolsaiin",
+    "frequency": 14,
+    "priority_score": 148.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 10
+  },
+  {
+    "word": "dlssho",
+    "frequency": 14,
+    "priority_score": 148.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "dycphy",
+    "frequency": 14,
+    "priority_score": 148.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "fodanyksh",
+    "frequency": 14,
+    "priority_score": 148.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "fodanytsh",
+    "frequency": 14,
+    "priority_score": 148.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "kydain",
+    "frequency": 14,
+    "priority_score": 148.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "kydainy",
+    "frequency": 14,
+    "priority_score": 148.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "olsheey",
+    "frequency": 14,
+    "priority_score": 148.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "otochor",
+    "frequency": 14,
+    "priority_score": 148.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "qokey",
+    "frequency": 14,
+    "priority_score": 148.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "schokaiin",
+    "frequency": 14,
+    "priority_score": 148.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "shan",
+    "frequency": 14,
+    "priority_score": 148.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "shansaiin",
+    "frequency": 14,
+    "priority_score": 148.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "sochol",
+    "frequency": 14,
+    "priority_score": 148.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "sorytoldy",
+    "frequency": 14,
+    "priority_score": 148.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "sshor",
+    "frequency": 14,
+    "priority_score": 148.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "taiincthey",
+    "frequency": 14,
+    "priority_score": 148.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 10
+  },
+  {
+    "word": "ydychaiin",
+    "frequency": 14,
+    "priority_score": 148.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "ykody",
+    "frequency": 14,
+    "priority_score": 148.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "ypchol",
+    "frequency": 14,
+    "priority_score": 148.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "ytoain",
+    "frequency": 14,
+    "priority_score": 148.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "chs",
+    "frequency": 13,
+    "priority_score": 145.0,
+    "sections": [
+      "Herbal A",
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "qot",
+    "frequency": 13,
+    "priority_score": 145.0,
+    "sections": [
+      "Herbal A",
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "t",
+    "frequency": 13,
+    "priority_score": 145.0,
+    "sections": [
+      "Herbal A",
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 1
+  },
+  {
+    "word": "alshodaiinchol",
+    "frequency": 14,
+    "priority_score": 143.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 14
+  },
+  {
+    "word": "chaindychtod",
+    "frequency": 14,
+    "priority_score": 143.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 12
+  },
+  {
+    "word": "dalschokaiin",
+    "frequency": 14,
+    "priority_score": 143.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 12
+  },
+  {
+    "word": "dorchorychkar",
+    "frequency": 14,
+    "priority_score": 143.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 13
+  },
+  {
+    "word": "otchalypchaiin",
+    "frequency": 14,
+    "priority_score": 143.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 14
+  },
+  {
+    "word": "qotaiincthey",
+    "frequency": 14,
+    "priority_score": 143.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 12
+  },
+  {
+    "word": "shaiidychtoddycphy",
+    "frequency": 14,
+    "priority_score": 143.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 18
+  },
+  {
+    "word": "chr",
+    "frequency": 13,
+    "priority_score": 140.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "kch",
+    "frequency": 13,
+    "priority_score": 140.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "chckhoys",
+    "frequency": 13,
+    "priority_score": 138.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "cheaiin",
+    "frequency": 13,
+    "priority_score": 138.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "cheo",
+    "frequency": 13,
+    "priority_score": 138.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "cheopchor",
+    "frequency": 13,
+    "priority_score": 138.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "chiol",
+    "frequency": 13,
+    "priority_score": 138.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "chokoishe",
+    "frequency": 13,
+    "priority_score": 138.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "chokolshe",
+    "frequency": 13,
+    "priority_score": 138.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "cholo",
+    "frequency": 13,
+    "priority_score": 138.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "chordair",
+    "frequency": 13,
+    "priority_score": 138.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "chtydaiin",
+    "frequency": 13,
+    "priority_score": 138.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "dolody",
+    "frequency": 13,
+    "priority_score": 138.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "kaoiin",
+    "frequency": 13,
+    "priority_score": 138.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "kchakchy",
+    "frequency": 13,
+    "priority_score": 138.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "kchokchy",
+    "frequency": 13,
+    "priority_score": 138.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "keol",
+    "frequency": 13,
+    "priority_score": 138.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "kooiin",
+    "frequency": 13,
+    "priority_score": 138.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "loeees",
+    "frequency": 13,
+    "priority_score": 138.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "lshy",
+    "frequency": 13,
+    "priority_score": 138.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "odain",
+    "frequency": 13,
+    "priority_score": 138.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "qotcho",
+    "frequency": 13,
+    "priority_score": 138.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "qoteeey",
+    "frequency": 13,
+    "priority_score": 138.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "qoteeiy",
+    "frequency": 13,
+    "priority_score": 138.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "qotsho",
+    "frequency": 13,
+    "priority_score": 138.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "qotychor",
+    "frequency": 13,
+    "priority_score": 138.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "shty",
+    "frequency": 13,
+    "priority_score": 138.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "teeey",
+    "frequency": 13,
+    "priority_score": 138.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "teeiy",
+    "frequency": 13,
+    "priority_score": 138.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "tychor",
+    "frequency": 13,
+    "priority_score": 138.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "chckhoysshey",
+    "frequency": 13,
+    "priority_score": 133.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 12
+  },
+  {
+    "word": "chckhysshey",
+    "frequency": 13,
+    "priority_score": 133.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 11
+  },
+  {
+    "word": "chckomsshey",
+    "frequency": 13,
+    "priority_score": 133.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 11
+  },
+  {
+    "word": "chodainchcthy",
+    "frequency": 13,
+    "priority_score": 133.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 13
+  },
+  {
+    "word": "chokeoschees",
+    "frequency": 13,
+    "priority_score": 133.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 12
+  },
+  {
+    "word": "chokioschees",
+    "frequency": 13,
+    "priority_score": 133.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 12
+  },
+  {
+    "word": "shodainchcthy",
+    "frequency": 13,
+    "priority_score": 133.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 13
+  },
+  {
+    "word": "ytchy",
+    "frequency": 12,
+    "priority_score": 133.0,
+    "sections": [
+      "Herbal A",
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "aor",
+    "frequency": 12,
+    "priority_score": 130.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "sam",
+    "frequency": 12,
+    "priority_score": 130.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "chaj",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "cham",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "cheody",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "cholcthom",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "chololy",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "chom",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "cthom",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "dago",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "daimg",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "daimm",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "damo",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "ekshy",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "keeo",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "keeodal",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "keom",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "kshey",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "ofchsy",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "okadaiin",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "okeom",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "okolor",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "olcheor",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "olchsy",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "otoldam",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "pcheol",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "pcheoldom",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "qacheor",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "qocheor",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "qodair",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "qokeeo",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "qokeeodal",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "qokeom",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "qokody",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "qokshey",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "qopchor",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "qopol",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "qoschodam",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "qotchag",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "qotcham",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "qoteol",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "qotshey",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "qotyotolom",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 10
+  },
+  {
+    "word": "saiinchor",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "schey",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "schodam",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "sheol",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "sheoldaj",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "sheoldam",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "shodaiin",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "shom",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "soeom",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "sols",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "tchag",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "tcham",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "teol",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "tsheoarom",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "tsheos",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "tshey",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "tyotolom",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "ycheor",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "ychtaiin",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "ydas",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "ysheor",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "yteody",
+    "frequency": 12,
+    "priority_score": 128.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "ody",
+    "frequency": 11,
+    "priority_score": 125.0,
+    "sections": [
+      "Herbal A",
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "daiinsoleeg",
+    "frequency": 12,
+    "priority_score": 123.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 11
+  },
+  {
+    "word": "daiinsoleem",
+    "frequency": 12,
+    "priority_score": 123.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 11
+  },
+  {
+    "word": "otchomoporar",
+    "frequency": 12,
+    "priority_score": 123.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 12
+  },
+  {
+    "word": "qosaiinchor",
+    "frequency": 12,
+    "priority_score": 123.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 11
+  },
+  {
+    "word": "ch",
+    "frequency": 11,
+    "priority_score": 120.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 2
+  },
+  {
+    "word": "ckh",
+    "frequency": 11,
+    "priority_score": 120.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "een",
+    "frequency": 11,
+    "priority_score": 120.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "ees",
+    "frequency": 11,
+    "priority_score": 120.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "eey",
+    "frequency": 11,
+    "priority_score": 120.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "oai",
+    "frequency": 11,
+    "priority_score": 120.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "oka",
+    "frequency": 11,
+    "priority_score": 120.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "oly",
+    "frequency": 11,
+    "priority_score": 120.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "osh",
+    "frequency": 11,
+    "priority_score": 120.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "sha",
+    "frequency": 11,
+    "priority_score": 120.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "toa",
+    "frequency": 11,
+    "priority_score": 120.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "toy",
+    "frequency": 11,
+    "priority_score": 120.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "cfham",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "chckhol",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "cheareeb",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "cheareen",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "cheeykam",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "chekeol",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "chodair",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "chodaly",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "ckha",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "ckhol",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "cpham",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "cphor",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "cthodoaly",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "daiida",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "daiidy",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "daiim",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "eear",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "eeor",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "kcha",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "kcham",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "kcheol",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "koaiin",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "kshol",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "ochas",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "okai",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "okary",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "okeeor",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "okeol",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "okom",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "olytol",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "otcham",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "qokcha",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "qokshol",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "qotchol",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "qoteeol",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "qotoa",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "qotoy",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "sches",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "seees",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "sheam",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "shockho",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "tcheol",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "teeol",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "ychear",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "yeeear",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "ykeam",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "ykoaiin",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "ytcheear",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "yteam",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "yteeaiir",
+    "frequency": 11,
+    "priority_score": 118.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "cha",
+    "frequency": 10,
+    "priority_score": 110.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "chaiins",
+    "frequency": 10,
+    "priority_score": 108.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "chpady",
+    "frequency": 10,
+    "priority_score": 108.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "ckhochy",
+    "frequency": 10,
+    "priority_score": 108.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "cphaiin",
+    "frequency": 10,
+    "priority_score": 108.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "cpholdy",
+    "frequency": 10,
+    "priority_score": 108.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "dycheey",
+    "frequency": 10,
+    "priority_score": 108.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "dytchay",
+    "frequency": 10,
+    "priority_score": 108.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "kodalchy",
+    "frequency": 10,
+    "priority_score": 108.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "koraiin",
+    "frequency": 10,
+    "priority_score": 108.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "odal",
+    "frequency": 10,
+    "priority_score": 108.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "pydaiin",
+    "frequency": 10,
+    "priority_score": 108.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "qotchoiin",
+    "frequency": 10,
+    "priority_score": 108.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "qoteydoiin",
+    "frequency": 10,
+    "priority_score": 108.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 10
+  },
+  {
+    "word": "qotoiin",
+    "frequency": 10,
+    "priority_score": 108.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "sheyr",
+    "frequency": 10,
+    "priority_score": 108.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "shtchy",
+    "frequency": 10,
+    "priority_score": 108.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "shyshol",
+    "frequency": 10,
+    "priority_score": 108.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "shytchy",
+    "frequency": 10,
+    "priority_score": 108.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "soiin",
+    "frequency": 10,
+    "priority_score": 108.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "taiindaiin",
+    "frequency": 10,
+    "priority_score": 108.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 10
+  },
+  {
+    "word": "tcheay",
+    "frequency": 10,
+    "priority_score": 108.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "tcheey",
+    "frequency": 10,
+    "priority_score": 108.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "tchoiin",
+    "frequency": 10,
+    "priority_score": 108.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "teydoiin",
+    "frequency": 10,
+    "priority_score": 108.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "ytoy",
+    "frequency": 10,
+    "priority_score": 108.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "dom",
+    "frequency": 9,
+    "priority_score": 105.0,
+    "sections": [
+      "Herbal A",
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "qotaiindaiin",
+    "frequency": 10,
+    "priority_score": 103.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 12
+  },
+  {
+    "word": "pchoy",
+    "frequency": 9,
+    "priority_score": 103.0,
+    "sections": [
+      "Herbal A",
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "choy",
+    "frequency": 9,
+    "priority_score": 103.0,
+    "sections": [
+      "Herbal A",
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "cph",
+    "frequency": 9,
+    "priority_score": 100.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "cto",
+    "frequency": 9,
+    "priority_score": 100.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "koy",
+    "frequency": 9,
+    "priority_score": 100.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "oko",
+    "frequency": 9,
+    "priority_score": 100.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "chapchy",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "cheeor",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "cheom",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "chkchor",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "chokeody",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "chopchy",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "choteody",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "choteol",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "chtody",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "chykey",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "chytey",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "cphody",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "cphydy",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "cthory",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "daiino",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "daiinoaram",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 10
+  },
+  {
+    "word": "doldsdlod",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "iiincheom",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "kcheor",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "kchoy",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "kshea",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "ksheo",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "ochodo",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "okeody",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "okoiiin",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "olaen",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "olain",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "olchey",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "olen",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "pchaoiin",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "pchooiin",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "pydy",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "qocthy",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "qodaiino",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "qokoy",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "qokshy",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "qooko",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "qookoiiin",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "qotol",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "sheeor",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "shkchor",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "shokcheor",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "shokchy",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "shoky",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "shooy",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "torchy",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "torshy",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "ytchoy",
+    "frequency": 9,
+    "priority_score": 98.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "cheorycholdy",
+    "frequency": 9,
+    "priority_score": 93.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 12
+  },
+  {
+    "word": "ctheychoaiin",
+    "frequency": 9,
+    "priority_score": 93.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 12
+  },
+  {
+    "word": "qodaiinoaram",
+    "frequency": 9,
+    "priority_score": 93.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 12
+  },
+  {
+    "word": "qotchoiinchodain",
+    "frequency": 9,
+    "priority_score": 93.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 16
+  },
+  {
+    "word": "tchoiinchodain",
+    "frequency": 9,
+    "priority_score": 93.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 14
+  },
+  {
+    "word": "dykchy",
+    "frequency": 8,
+    "priority_score": 93.0,
+    "sections": [
+      "Herbal A",
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "ytchor",
+    "frequency": 8,
+    "priority_score": 93.0,
+    "sections": [
+      "Herbal A",
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "oar",
+    "frequency": 8,
+    "priority_score": 90.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "cheokchy",
+    "frequency": 8,
+    "priority_score": 88.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "chkoy",
+    "frequency": 8,
+    "priority_score": 88.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "cholols",
+    "frequency": 8,
+    "priority_score": 88.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "dkshy",
+    "frequency": 8,
+    "priority_score": 88.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "eeey",
+    "frequency": 8,
+    "priority_score": 88.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "fchoy",
+    "frequency": 8,
+    "priority_score": 88.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "kchody",
+    "frequency": 8,
+    "priority_score": 88.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "kshody",
+    "frequency": 8,
+    "priority_score": 88.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "oaiin",
+    "frequency": 8,
+    "priority_score": 88.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "okaor",
+    "frequency": 8,
+    "priority_score": 88.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "okaos",
+    "frequency": 8,
+    "priority_score": 88.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "okey",
+    "frequency": 8,
+    "priority_score": 88.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "olsy",
+    "frequency": 8,
+    "priority_score": 88.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "otan",
+    "frequency": 8,
+    "priority_score": 88.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "oteee",
+    "frequency": 8,
+    "priority_score": 88.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "oteeen",
+    "frequency": 8,
+    "priority_score": 88.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "qoeeey",
+    "frequency": 8,
+    "priority_score": 88.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "qotcheo",
+    "frequency": 8,
+    "priority_score": 88.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "qotchody",
+    "frequency": 8,
+    "priority_score": 88.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "qotoeey",
+    "frequency": 8,
+    "priority_score": 88.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "qoykeeey",
+    "frequency": 8,
+    "priority_score": 88.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "sheody",
+    "frequency": 8,
+    "priority_score": 88.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "shotshy",
+    "frequency": 8,
+    "priority_score": 88.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "tcheo",
+    "frequency": 8,
+    "priority_score": 88.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "tchody",
+    "frequency": 8,
+    "priority_score": 88.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "toeey",
+    "frequency": 8,
+    "priority_score": 88.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "ykeeey",
+    "frequency": 8,
+    "priority_score": 88.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "dd",
+    "frequency": 7,
+    "priority_score": 80.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 2
+  },
+  {
+    "word": "dm",
+    "frequency": 7,
+    "priority_score": 80.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 2
+  },
+  {
+    "word": "cheotol",
+    "frequency": 7,
+    "priority_score": 78.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "chols",
+    "frequency": 7,
+    "priority_score": 78.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "chot",
+    "frequency": 7,
+    "priority_score": 78.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "chotaiin",
+    "frequency": 7,
+    "priority_score": 78.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "chots",
+    "frequency": 7,
+    "priority_score": 78.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "daiir",
+    "frequency": 7,
+    "priority_score": 78.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "dairodd",
+    "frequency": 7,
+    "priority_score": 78.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "dairodg",
+    "frequency": 7,
+    "priority_score": 78.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "dairodm",
+    "frequency": 7,
+    "priority_score": 78.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "darchor",
+    "frequency": 7,
+    "priority_score": 78.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "kocheor",
+    "frequency": 7,
+    "priority_score": 78.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "okchykaiin",
+    "frequency": 7,
+    "priority_score": 78.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 10
+  },
+  {
+    "word": "otof",
+    "frequency": 7,
+    "priority_score": 78.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "pshod",
+    "frequency": 7,
+    "priority_score": 78.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "shees",
+    "frequency": 7,
+    "priority_score": 78.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "shokeeol",
+    "frequency": 7,
+    "priority_score": 78.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "ychopor",
+    "frequency": 7,
+    "priority_score": 78.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "ychopordg",
+    "frequency": 7,
+    "priority_score": 78.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "ychopordm",
+    "frequency": 7,
+    "priority_score": 78.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "ykoiin",
+    "frequency": 7,
+    "priority_score": 78.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "ytchey",
+    "frequency": 7,
+    "priority_score": 78.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "ytoiiin",
+    "frequency": 7,
+    "priority_score": 78.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "ytor",
+    "frequency": 7,
+    "priority_score": 78.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "oir",
+    "frequency": 6,
+    "priority_score": 70.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "chokaiin",
+    "frequency": 6,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "cholor",
+    "frequency": 6,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "chos",
+    "frequency": 6,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "chotols",
+    "frequency": 6,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "ckham",
+    "frequency": 6,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "ctheod",
+    "frequency": 6,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "cthycthor",
+    "frequency": 6,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "foar",
+    "frequency": 6,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "foeear",
+    "frequency": 6,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "kaiim",
+    "frequency": 6,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "kshor",
+    "frequency": 6,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "odshe",
+    "frequency": 6,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "okam",
+    "frequency": 6,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "olchad",
+    "frequency": 6,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "olcham",
+    "frequency": 6,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "olchokaiin",
+    "frequency": 6,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 10
+  },
+  {
+    "word": "osho",
+    "frequency": 6,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "oteeam",
+    "frequency": 6,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "pchar",
+    "frequency": 6,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "poar",
+    "frequency": 6,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "poeear",
+    "frequency": 6,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "qocthol",
+    "frequency": 6,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "shea",
+    "frequency": 6,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "sheeol",
+    "frequency": 6,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "skaiiodar",
+    "frequency": 6,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "ykaiim",
+    "frequency": 6,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "ytaly",
+    "frequency": 6,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "dchokchy",
+    "frequency": 6,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "dyokchedy",
+    "frequency": 6,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "dyokchydy",
+    "frequency": 6,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "ochkchar",
+    "frequency": 6,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "ochkchor",
+    "frequency": 6,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "oeee",
+    "frequency": 6,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "oeeen",
+    "frequency": 6,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "olol",
+    "frequency": 6,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "oykeey",
+    "frequency": 6,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "pchodaiin",
+    "frequency": 6,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "sody",
+    "frequency": 6,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "soiiin",
+    "frequency": 6,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "sysho",
+    "frequency": 6,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "syshoty",
+    "frequency": 6,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "tyykeeyky",
+    "frequency": 6,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "ykeody",
+    "frequency": 6,
+    "priority_score": 68.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "chckhchopchol",
+    "frequency": 6,
+    "priority_score": 63.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 13
+  },
+  {
+    "word": "cheoeeesykeor",
+    "frequency": 6,
+    "priority_score": 63.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 13
+  },
+  {
+    "word": "cheoeesykeor",
+    "frequency": 6,
+    "priority_score": 63.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 12
+  },
+  {
+    "word": "cthaiinodam",
+    "frequency": 6,
+    "priority_score": 63.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 11
+  },
+  {
+    "word": "cthaiinydaiin",
+    "frequency": 6,
+    "priority_score": 63.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 13
+  },
+  {
+    "word": "otchamyaiir",
+    "frequency": 6,
+    "priority_score": 63.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 11
+  },
+  {
+    "word": "qokcho",
+    "frequency": 5,
+    "priority_score": 63.0,
+    "sections": [
+      "Herbal A",
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "qotyykeeyky",
+    "frequency": 6,
+    "priority_score": 63.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 11
+  },
+  {
+    "word": "sychor",
+    "frequency": 5,
+    "priority_score": 63.0,
+    "sections": [
+      "Herbal A",
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "tchykychodalg",
+    "frequency": 6,
+    "priority_score": 63.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 13
+  },
+  {
+    "word": "ad",
+    "frequency": 5,
+    "priority_score": 60.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 2
+  },
+  {
+    "word": "air",
+    "frequency": 5,
+    "priority_score": 60.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "dey",
+    "frequency": 5,
+    "priority_score": 60.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "eir",
+    "frequency": 5,
+    "priority_score": 60.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "kam",
+    "frequency": 5,
+    "priority_score": 60.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "kog",
+    "frequency": 5,
+    "priority_score": 60.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "kom",
+    "frequency": 5,
+    "priority_score": 60.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "lor",
+    "frequency": 5,
+    "priority_score": 60.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "mdy",
+    "frequency": 5,
+    "priority_score": 60.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "sos",
+    "frequency": 5,
+    "priority_score": 60.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 3
+  },
+  {
+    "word": "chaier",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "chaiir",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "cheas",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "cheekar",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "chekchoy",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "ches",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "chetchoy",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "chockhy",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "chocthey",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "chodam",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "choldar",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "ckhal",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "cshe",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "cthodam",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "dajy",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "doldom",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "ekchar",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "eockhy",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "jajy",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "kchar",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "kchas",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "kchdy",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "kche",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "kchey",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "kchod",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "kchos",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "koar",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "koary",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "lorchar",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "lorchor",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "octham",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "odaiiin",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "oeeo",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "oeeodal",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "oees",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "oheekar",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "oiir",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "okodyytody",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 10
+  },
+  {
+    "word": "okolrychos",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 10
+  },
+  {
+    "word": "okolsychos",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 10
+  },
+  {
+    "word": "oochockhy",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "otam",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "otydol",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "qoad",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "qoair",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "qochockhy",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "qoeir",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "qoekchar",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "qokam",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "qokchar",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "qokchas",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "qokche",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "qokchod",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "qokog",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "qokom",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "sain",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "shckhy",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "shocthol",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "tchalody",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "tcholody",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "ychaiin",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "ychckhy",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "ychos",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "ykchoy",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "yodaiin",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "yshckhy",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "ytcho",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "ytchocthol",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 10
+  },
+  {
+    "word": "ytchos",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "chokshor",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "daiindol",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "dchyd",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "dydy",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "dydydy",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "dydyodyd",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "dykshy",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "dyotyds",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "dytchy",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "kolydain",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "kydy",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 4
+  },
+  {
+    "word": "otchyty",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "otyds",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 5
+  },
+  {
+    "word": "otyshy",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "oykshy",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "pdychoiin",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 9
+  },
+  {
+    "word": "shokshor",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "yfodain",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "ykchyky",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "ykyaiin",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 7
+  },
+  {
+    "word": "ykykaiin",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 8
+  },
+  {
+    "word": "ypchor",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "ytychy",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "ytyshy",
+    "frequency": 5,
+    "priority_score": 58.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 6
+  },
+  {
+    "word": "koarysarcheekar",
+    "frequency": 5,
+    "priority_score": 53.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 15
+  },
+  {
+    "word": "koarysaroeeekar",
+    "frequency": 5,
+    "priority_score": 53.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 15
+  },
+  {
+    "word": "ocholykchos",
+    "frequency": 5,
+    "priority_score": 53.0,
+    "sections": [
+      "Herbal A"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 11
+  },
+  {
+    "word": "ctholdgdchckhy",
+    "frequency": 5,
+    "priority_score": 53.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 14
+  },
+  {
+    "word": "ctholdmdchckhy",
+    "frequency": 5,
+    "priority_score": 53.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 14
+  },
+  {
+    "word": "daiindoldair",
+    "frequency": 5,
+    "priority_score": 53.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 12
+  },
+  {
+    "word": "daiinokshody",
+    "frequency": 5,
+    "priority_score": 53.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 12
+  },
+  {
+    "word": "daiinokshydy",
+    "frequency": 5,
+    "priority_score": 53.0,
+    "sections": [
+      "Herbal B"
+    ],
+    "contexts": [
+      "herbal"
+    ],
+    "length": 12
+  }
+]

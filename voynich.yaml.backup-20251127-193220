@@ -110,9 +110,6 @@ voynich_decipherment_rules:
   - word: chodaiin
     description: chod (presents) + aiin direction
     latin: praebet ad
-  - word: chodar
-    description: chod (presents) + ar (and), botanical descriptor
-    latin: praebet et
   - word: chody
     description: ch- + ody, movement/motion
     latin: movetur
@@ -122,15 +119,9 @@ voynich_decipherment_rules:
   - word: choky
     description: large, great
     latin: magnus
-  - word: chokody
-    description: ch (botanical) + ok (magnitude) + ody (movement), growth action
-    latin: facit movet
   - word: chol
     description: ch- + ol, botanical location
     latin: pars
-  - word: cholaiin
-    description: ch (botanical) + ol (that) + aiin (is), descriptive phrase
-    latin: ille est
   - word: choor
     description: ch- + oor, arrangement/order
     latin: ordo
@@ -1881,18 +1872,12 @@ voynich_decipherment_rules:
   - word: shkchy
     latin: hic in
     description: 'systematic word family: sh- prefix pattern'
-  - word: shkaiin
-    latin: hic erat
-    description: sh (location) + kaiin (past state), appears in both sections
   - word: shkor
     latin: hic ordo
     description: 'systematic word family: sh- prefix pattern'
   - word: shod
     latin: hic est
     description: 'systematic word family: sh- prefix pattern'
-  - word: shodaiin
-    latin: hic dat est
-    description: sh (location) + od (gives) + aiin (state), locative giving
   - word: shoey
     latin: hic parvum
     description: 'systematic word family: sh- prefix pattern'

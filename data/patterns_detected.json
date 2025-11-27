@@ -1,0 +1,41 @@
+{
+  "repeated_sequences": [
+    {
+      "sequence": "{plant}chol.cthol.chody.chol.daiin- {plant}chol.cthol.chody.chol.daiin-",
+      "words": [
+        "{plant}chol.cthol.chody.chol.daiin-",
+        "{plant}chol.cthol.chody.chol.daiin-"
+      ],
+      "count": 3,
+      "length": 2
+    },
+    {
+      "sequence": "{plant}chear.shol.chaiin.shaiin.dolar- {plant}chear.shol.chaiin.shaiin.dolar-",
+      "words": [
+        "{plant}chear.shol.chaiin.shaiin.dolar-",
+        "{plant}chear.shol.chaiin.shaiin.dolar-"
+      ],
+      "count": 3,
+      "length": 2
+    }
+  ],
+  "word_pairs": [
+    {
+      "pair": "{plant}chol.cthol.chody.chol.daiin- {plant}chol.cthol.chody.chol.daiin-",
+      "words": [
+        "{plant}chol.cthol.chody.chol.daiin-",
+        "{plant}chol.cthol.chody.chol.daiin-"
+      ],
+      "count": 3
+    },
+    {
+      "pair": "{plant}chear.shol.chaiin.shaiin.dolar- {plant}chear.shol.chaiin.shaiin.dolar-",
+      "words": [
+        "{plant}chear.shol.chaiin.shaiin.dolar-",
+        "{plant}chear.shol.chaiin.shaiin.dolar-"
+      ],
+      "count": 3
+    }
+  ],
+  "word_triplets": []
+}

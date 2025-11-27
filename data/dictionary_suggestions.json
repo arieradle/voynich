@@ -298,5 +298,205 @@
     ],
     "reasoning": "Appears 16x across 1 section(s): Herbal A; Contains known roots: chey, ochey",
     "confidence": "low"
+  },
+  {
+    "word": "kodaiin",
+    "frequency": 16,
+    "suggested_latin": "[compound of: aiin, daiin, kod]",
+    "suggested_contexts": [
+      "herbal"
+    ],
+    "reasoning": "Appears 16x across 1 section(s): Herbal A; Contains known roots: aiin, daiin, kod",
+    "confidence": "low"
+  },
+  {
+    "word": "kodshey",
+    "frequency": 16,
+    "suggested_latin": "[compound of: shey, kod]",
+    "suggested_contexts": [
+      "herbal"
+    ],
+    "reasoning": "Appears 16x across 1 section(s): Herbal A; Contains known roots: shey, kod",
+    "confidence": "low"
+  },
+  {
+    "word": "koshey",
+    "frequency": 16,
+    "suggested_latin": "[compound of: shey]",
+    "suggested_contexts": [
+      "herbal"
+    ],
+    "reasoning": "Appears 16x across 1 section(s): Herbal A; Contains known roots: shey",
+    "confidence": "low"
+  },
+  {
+    "word": "kshoy",
+    "frequency": 16,
+    "suggested_latin": "[compound of: ksho, sho]",
+    "suggested_contexts": [
+      "herbal"
+    ],
+    "reasoning": "Appears 16x across 1 section(s): Herbal A; Contains known roots: ksho, sho",
+    "confidence": "low"
+  },
+  {
+    "word": "o,kaiin",
+    "frequency": 16,
+    "suggested_latin": "[compound of: aiin, kaiin]",
+    "suggested_contexts": [
+      "herbal"
+    ],
+    "reasoning": "Appears 16x across 1 section(s): Herbal A; Contains known roots: aiin, kaiin",
+    "confidence": "low"
+  },
+  {
+    "word": "odaiin",
+    "frequency": 16,
+    "suggested_latin": "[compound of: aiin, daiin]",
+    "suggested_contexts": [
+      "herbal"
+    ],
+    "reasoning": "Appears 16x across 1 section(s): Herbal A; Contains known roots: aiin, daiin",
+    "confidence": "low"
+  },
+  {
+    "word": "odan",
+    "frequency": 16,
+    "suggested_latin": "[compound of: dan]",
+    "suggested_contexts": [
+      "herbal"
+    ],
+    "reasoning": "Appears 16x across 1 section(s): Herbal A; Contains known roots: dan",
+    "confidence": "low"
+  },
+  {
+    "word": "odar",
+    "frequency": 16,
+    "suggested_latin": "[compound of: dar]",
+    "suggested_contexts": [
+      "herbal"
+    ],
+    "reasoning": "Appears 16x across 1 section(s): Herbal A; Contains known roots: dar",
+    "confidence": "low"
+  },
+  {
+    "word": "odsoiin",
+    "frequency": 16,
+    "suggested_latin": "[compound of: oiin]",
+    "suggested_contexts": [
+      "herbal"
+    ],
+    "reasoning": "Appears 16x across 1 section(s): Herbal A; Contains known roots: oiin",
+    "confidence": "low"
+  },
+  {
+    "word": "ok,chey",
+    "frequency": 16,
+    "suggested_latin": "[compound of: chey]",
+    "suggested_contexts": [
+      "herbal"
+    ],
+    "reasoning": "Appears 16x across 1 section(s): Herbal A; Contains known roots: chey",
+    "confidence": "low"
+  },
+  {
+    "word": "okaiir",
+    "frequency": 16,
+    "suggested_latin": "[compound of: okai]",
+    "suggested_contexts": [
+      "herbal"
+    ],
+    "reasoning": "Appears 16x across 1 section(s): Herbal A; Contains known roots: okai",
+    "confidence": "low"
+  },
+  {
+    "word": "okchey",
+    "frequency": 16,
+    "suggested_latin": "[compound of: chey]",
+    "suggested_contexts": [
+      "herbal"
+    ],
+    "reasoning": "Appears 16x across 1 section(s): Herbal A; Contains known roots: chey",
+    "confidence": "low"
+  },
+  {
+    "word": "okchoy",
+    "frequency": 16,
+    "suggested_latin": "[compound of: cho, kcho]",
+    "suggested_contexts": [
+      "herbal"
+    ],
+    "reasoning": "Appears 16x across 1 section(s): Herbal A; Contains known roots: cho, kcho",
+    "confidence": "low"
+  },
+  {
+    "word": "oldain",
+    "frequency": 16,
+    "suggested_latin": "[compound of: ain, dain]",
+    "suggested_contexts": [
+      "herbal"
+    ],
+    "reasoning": "Appears 16x across 1 section(s): Herbal A; Contains known roots: ain, dain",
+    "confidence": "low"
+  },
+  {
+    "word": "oldain,d",
+    "frequency": 16,
+    "suggested_latin": "[compound of: ain, dain]",
+    "suggested_contexts": [
+      "herbal"
+    ],
+    "reasoning": "Appears 16x across 1 section(s): Herbal A; Contains known roots: ain, dain",
+    "confidence": "low"
+  },
+  {
+    "word": "ooiin",
+    "frequency": 16,
+    "suggested_latin": "[compound of: oiin]",
+    "suggested_contexts": [
+      "herbal"
+    ],
+    "reasoning": "Appears 16x across 1 section(s): Herbal A; Contains known roots: oiin",
+    "confidence": "low"
+  },
+  {
+    "word": "os,chy",
+    "frequency": 16,
+    "suggested_latin": "[compound of: chy]",
+    "suggested_contexts": [
+      "herbal"
+    ],
+    "reasoning": "Appears 16x across 1 section(s): Herbal A; Contains known roots: chy",
+    "confidence": "low"
+  },
+  {
+    "word": "oschy",
+    "frequency": 16,
+    "suggested_latin": "[compound of: chy, schy]",
+    "suggested_contexts": [
+      "herbal"
+    ],
+    "reasoning": "Appears 16x across 1 section(s): Herbal A; Contains known roots: chy, schy",
+    "confidence": "low"
+  },
+  {
+    "word": "otaiiin",
+    "frequency": 16,
+    "suggested_latin": "[compound of: otai]",
+    "suggested_contexts": [
+      "herbal"
+    ],
+    "reasoning": "Appears 16x across 1 section(s): Herbal A; Contains known roots: otai",
+    "confidence": "low"
+  },
+  {
+    "word": "otairin",
+    "frequency": 16,
+    "suggested_latin": "[compound of: otai]",
+    "suggested_contexts": [
+      "herbal"
+    ],
+    "reasoning": "Appears 16x across 1 section(s): Herbal A; Contains known roots: otai",
+    "confidence": "low"
   }
 ]
