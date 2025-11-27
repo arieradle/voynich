@@ -1,0 +1,491 @@
+# Voynich Vocabulary Rules and Morphological Patterns
+# Systematic rules for vocabulary extension and validation
+
+# ============================================================================
+# MORPHOLOGICAL DECOMPOSITION RULES
+# ============================================================================
+
+morphological_rules:
+  # Prefix patterns and their meanings
+  prefixes:
+    qo:
+      pattern: "^qo"
+      meaning_modifier: "valde"  # Intensifier
+      latin_addition: "valde [base]"
+      description: "Intensifier prefix, 'very' or emphasis"
+      confidence_boost: 0.1
+      examples: ["qokedy→valde crescit", "qokaiin→valde terra"]
+      
+    ot:
+      pattern: "^ot"
+      meaning_modifier: "ex"  # From/source
+      latin_addition: "ex [base]"
+      description: "Source or origin prefix"
+      confidence_boost: 0.08
+      examples: ["otaiin→ex erat", "otchy→ex in"]
+      
+    ch:
+      pattern: "^ch"
+      context: "herbal"
+      meaning_modifier: "herba"  # Plant-related
+      description: "Botanical/plant prefix in herbal context"
+      confidence_boost: 0.07
+      examples: ["chol→caulis", "chor→ramus", "chy→in plantam"]
+      
+    sh:
+      pattern: "^sh"
+      meaning_modifier: "hic"  # Here/location
+      latin_addition: "hic [base]"
+      description: "Location/demonstrative prefix"
+      confidence_boost: 0.08
+      examples: ["shy→hic", "shol→hic locus", "sho→hic facit"]
+      
+    dy:
+      pattern: "^dy"
+      meaning_modifier: "et"  # And/connector
+      latin_addition: "et [base]"
+      description: "Conjunctive prefix"
+      confidence_boost: 0.05
+      examples: ["dychy→et in", "dyar→et et"]
+      
+    y:
+      pattern: "^y"
+      meaning_modifier: "ad"  # To/toward
+      latin_addition: "ad [base]"
+      description: "Directional prefix"
+      confidence_boost: 0.06
+      examples: ["ydain→ad versus", "ykal→ad ala"]
+      
+    d:
+      pattern: "^d(?!y)"  # d but not dy
+      meaning_modifier: "dat"  # Gives
+      latin_addition: "dat [base]"
+      description: "Giving/action prefix"
+      confidence_boost: 0.05
+      examples: ["daiin→dat", "dol→dat de"]
+      
+    t:
+      pattern: "^t"
+      meaning_modifier: "tangit"  # Touches
+      latin_addition: "tangit [base]"
+      description: "Touch/contact prefix"
+      confidence_boost: 0.05
+      examples: ["tchy→tangit in", "tor→tangit ordo"]
+      
+    p:
+      pattern: "^p"
+      context: "herbal"
+      meaning_modifier: "planta"  # Plant
+      description: "Plant prefix in botanical context"
+      confidence_boost: 0.06
+      examples: ["pchol→caulis", "pchor→resina"]
+      
+    f:
+      pattern: "^f"
+      context: "herbal"
+      meaning_modifier: "folium"  # Leaf/fruit
+      description: "Leaf/fruit prefix in botanical context"
+      confidence_boost: 0.05
+      examples: ["fchol→caulis fructifer", "fchor→fructus"]
+      
+    k:
+      pattern: "^k"
+      meaning_modifier: "facit"  # Makes
+      description: "Action/making prefix"
+      confidence_boost: 0.04
+      examples: ["kedy→facit", "kchy→facit"]
+      
+    s:
+      pattern: "^s(?!h)"  # s but not sh
+      meaning_modifier: "latus"  # Side
+      description: "Side/lateral prefix"
+      confidence_boost: 0.04
+      examples: ["sar→latus et", "sol→latus locus"]
+
+  # Suffix patterns and their meanings
+  suffixes:
+    aiin:
+      pattern: "aiin$"
+      meaning_modifier: "est/erat"  # Is/was
+      latin_addition: "[base] est"
+      description: "State of being suffix, present/past"
+      confidence_boost: 0.09
+      examples: ["daiin→ad est", "kaiin→erat"]
+      
+    ain:
+      pattern: "ain$"
+      meaning_modifier: "erat"  # Was/state
+      latin_addition: "[base] erat"
+      description: "Past tense or state marker"
+      confidence_boost: 0.07
+      examples: ["dain→ad erat", "tain→tangit erat"]
+      
+    edy:
+      pattern: "edy$"
+      meaning_modifier: "movet"  # Moves/acts
+      latin_addition: "[base] movet"
+      description: "Action verb suffix, movement"
+      confidence_boost: 0.08
+      examples: ["qokedy→crescit", "okedy→extendit"]
+      
+    ody:
+      pattern: "ody$"
+      meaning_modifier: "movet"  # Moves
+      latin_addition: "[base] movet"
+      description: "Movement/action suffix"
+      confidence_boost: 0.07
+      examples: ["chody→movetur", "shody→hic movet"]
+      
+    idy:
+      pattern: "idy$"
+      meaning_modifier: "movet"  # Moves
+      latin_addition: "[base] movet"
+      description: "Movement suffix variant"
+      confidence_boost: 0.06
+      examples: ["dyidy→et movet"]
+      
+    ar:
+      pattern: "ar$"
+      meaning_modifier: "et"  # And
+      latin_addition: "[base] et"
+      description: "Conjunction suffix"
+      confidence_boost: 0.06
+      examples: ["dar→donum et", "char→planta et"]
+      
+    or:
+      pattern: "or$"
+      meaning_modifier: "ordo"  # Order
+      latin_addition: "[base] ordo"
+      description: "Order/arrangement suffix"
+      confidence_boost: 0.05
+      examples: ["chor→ramus", "tor→tangit ordo"]
+      
+    ol:
+      pattern: "ol$"
+      meaning_modifier: "locus"  # Place
+      latin_addition: "[base] locus"
+      description: "Location suffix"
+      confidence_boost: 0.05
+      examples: ["chol→caulis", "shol→hic locus"]
+      
+    al:
+      pattern: "al$"
+      meaning_modifier: "ala"  # Wing/extension
+      latin_addition: "[base] ala"
+      description: "Extension/wing suffix"
+      confidence_boost: 0.05
+      examples: ["dal→dat alam", "chal→folii ala"]
+      
+    y:
+      pattern: "y$"
+      meaning_modifier: "ad/parvum"  # To/small
+      description: "Directional or diminutive suffix"
+      confidence_boost: 0.03
+      examples: ["shy→hic", "chy→ad plantam", "choty→parvus"]
+      
+    dy:
+      pattern: "dy$"
+      meaning_modifier: "parvum/movet"  # Small/moves
+      description: "Diminutive or movement suffix"
+      confidence_boost: 0.04
+      examples: ["chady→parvum", "chody→movetur"]
+      
+    chy:
+      pattern: "chy$"
+      meaning_modifier: "in"  # In
+      description: "Containment suffix"
+      confidence_boost: 0.05
+      examples: ["chy→in", "otchy→ex in"]
+      
+    ky:
+      pattern: "ky$"
+      meaning_modifier: "que"  # And (enclitic)
+      description: "Connective enclitic"
+      confidence_boost: 0.04
+      examples: ["choky→magnus", "oky→facit ad"]
+
+  # Root identification rules
+  root_patterns:
+    minimal_length: 2
+    maximal_length: 6
+    must_match_existing: true
+    fuzzy_match_threshold: 0.8
+    
+    common_roots:
+      - kedy: "facit/crescit"
+      - chol: "caulis"
+      - chor: "ramus"
+      - daiin: "ad"
+      - shy: "hic"
+      - aiin: "est"
+      - edy: "movet"
+      - chy: "in"
+
+# ============================================================================
+# COMPOUND FORMATION PATTERNS
+# ============================================================================
+
+compound_patterns:
+  # Two-component compounds
+  two_component:
+    - pattern: "prefix + root"
+      confidence: 0.7
+      examples: ["qo+kedy→qokedy", "ot+aiin→otaiin"]
+      decomposition_strategy: "greedy_prefix_first"
+      
+    - pattern: "root + suffix"
+      confidence: 0.8
+      examples: ["ked+y→kedy", "chol+ar→cholar"]
+      decomposition_strategy: "greedy_suffix_last"
+      
+  # Three-component compounds
+  three_component:
+    - pattern: "prefix + root + suffix"
+      confidence: 0.6
+      examples: ["qo+ked+y→qokedy", "ot+ch+dy→otchdy"]
+      decomposition_strategy: "balanced"
+      
+    - pattern: "prefix + prefix + root"
+      confidence: 0.5
+      examples: ["dy+ch+ol→dychol"]
+      decomposition_strategy: "multiple_prefix"
+      
+  # Complex compounds
+  multi_component:
+    - pattern: "root + root + suffix"
+      confidence: 0.4
+      examples: ["ko+ka+iin→kokaiin"]
+      decomposition_strategy: "exhaustive"
+      
+  # Decomposition strategies
+  strategies:
+    greedy_prefix_first:
+      description: "Match longest prefix first, then find root"
+      priority: 1
+      
+    greedy_suffix_last:
+      description: "Match longest suffix last, then find root"
+      priority: 2
+      
+    balanced:
+      description: "Try to balance prefix and suffix matching"
+      priority: 3
+      
+    exhaustive:
+      description: "Try all possible decompositions, rank by confidence"
+      priority: 4
+
+# ============================================================================
+# POLYSEMY DETECTION CRITERIA
+# ============================================================================
+
+polysemy_detection:
+  triggers:
+    - name: "multiple_sections"
+      condition: "word appears in 2+ different sections"
+      confidence_threshold: 0.7
+      action: "investigate_context_specific_meanings"
+      
+    - name: "context_variation"
+      condition: "word used in significantly different contexts"
+      confidence_threshold: 0.6
+      action: "analyze_contextual_patterns"
+      
+    - name: "morphological_ambiguity"
+      condition: "word can be decomposed multiple ways"
+      confidence_threshold: 0.5
+      action: "compare_alternative_meanings"
+      
+    - name: "frequency_distribution"
+      condition: "word frequency varies greatly by section"
+      confidence_threshold: 0.6
+      action: "check_section_specific_usage"
+  
+  validation_criteria:
+    min_occurrences_per_context: 3
+    min_contexts: 2
+    semantic_distance_threshold: 0.5
+    
+  entry_format:
+    base_meaning: "most common or general meaning"
+    context_specific_meanings:
+      - latin: "translation"
+        context: "section or usage context"
+        examples: ["folio references"]
+
+# ============================================================================
+# WORD FAMILY GENERATION RULES
+# ============================================================================
+
+word_family_generation:
+  # Generate systematic variations
+  templates:
+    - name: "prefix_family"
+      pattern: "[prefix][base]"
+      generate_for_prefixes: ["qo", "ot", "ch", "sh", "dy", "y", "d", "t", "p", "f", "k", "s"]
+      confidence: 0.5
+      
+    - name: "suffix_family"
+      pattern: "[base][suffix]"
+      generate_for_suffixes: ["aiin", "ain", "edy", "ody", "ar", "or", "ol", "al", "y", "dy"]
+      confidence: 0.5
+      
+    - name: "prefix_suffix_family"
+      pattern: "[prefix][base][suffix]"
+      common_combinations:
+        - ["qo", "aiin"]  # qo- intensifier with state marker
+        - ["ot", "edy"]   # source + action
+        - ["ch", "ol"]    # botanical + place
+        - ["sh", "y"]     # location + diminutive
+      confidence: 0.4
+  
+  generation_rules:
+    only_if_base_known: true
+    min_base_confidence: 0.7
+    validate_against_corpus: true
+    check_for_existing: true
+    
+  filtering:
+    exclude_if_already_in_dictionary: true
+    exclude_if_morphologically_invalid: true
+    require_minimum_plausibility: 0.5
+
+# ============================================================================
+# VALIDATION RULES FOR NEW ENTRIES
+# ============================================================================
+
+validation_rules:
+  required_fields:
+    - word
+    - latin
+    - description
+    
+  optional_fields:
+    - context
+    - frequency
+    - examples
+    - morphological_breakdown
+    
+  field_formats:
+    word:
+      type: "string"
+      pattern: "^[a-z]+$"  # Lowercase letters only
+      min_length: 1
+      max_length: 15
+      
+    latin:
+      type: "string"
+      pattern: "^[a-z ]+$"  # Lowercase letters and spaces
+      min_length: 1
+      max_length: 50
+      allow_valde_prefix: true
+      
+    description:
+      type: "string"
+      min_length: 5
+      should_contain_reasoning: true
+  
+  consistency_checks:
+    - name: "no_duplicates"
+      check: "word not already in vocab list"
+      severity: "critical"
+      
+    - name: "no_contradictions"
+      check: "latin translation consistent with morphology"
+      severity: "warning"
+      
+    - name: "pattern_adherence"
+      check: "follows established prefix/suffix patterns"
+      severity: "warning"
+      
+    - name: "context_appropriate"
+      check: "latin word appropriate for context (botanical, astronomical, etc)"
+      severity: "info"
+  
+  quality_gates:
+    auto_approve_if:
+      - "confidence >= 0.9"
+      - "frequency >= 20"
+      - "morphologically_clear"
+      - "all_validations_pass"
+      
+    require_review_if:
+      - "confidence < 0.7"
+      - "frequency < 5"
+      - "morphologically_ambiguous"
+      - "potential_polysemy"
+      
+    reject_if:
+      - "confidence < 0.4"
+      - "critical_validation_fails"
+      - "contradicts_known_patterns"
+
+# ============================================================================
+# CONTEXTUAL RULES
+# ============================================================================
+
+contextual_rules:
+  section_specific:
+    herbal:
+      preferred_latin_domains:
+        - botanical_terms
+        - plant_parts
+        - growth_verbs
+        - location_prepositions
+      common_patterns:
+        - "plant descriptions"
+        - "growth patterns"
+        - "part relationships"
+        
+    astronomical:
+      preferred_latin_domains:
+        - celestial_objects
+        - movement_verbs
+        - temporal_terms
+        - spatial_relationships
+      common_patterns:
+        - "star positions"
+        - "movements"
+        - "durations"
+        
+    biological:
+      preferred_latin_domains:
+        - body_parts
+        - fluid_terms
+        - channel_words
+        - flow_verbs
+      common_patterns:
+        - "water flow"
+        - "containment"
+        - "passage"
+        
+    pharmaceutical:
+      preferred_latin_domains:
+        - material_terms
+        - vessel_words
+        - process_verbs
+        - mixture_terms
+      common_patterns:
+        - "recipes"
+        - "ingredients"
+        - "procedures"
+  
+  cross_context_validation:
+    if_appears_in_multiple:
+      action: "check_for_polysemy"
+      threshold: 2  # Appears in 2+ contexts
+      
+    if_meaning_varies:
+      action: "create_polysemous_entry"
+      require_validation: true
+
+# ============================================================================
+# METADATA
+# ============================================================================
+
+metadata:
+  version: "1.0"
+  created: "2025-11-27"
+  compatible_with: "voynich.yaml v1.0"
+  last_updated: "2025-11-27"
+

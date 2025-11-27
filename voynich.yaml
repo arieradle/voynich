@@ -92,6 +92,9 @@ voynich_decipherment_rules:
   - word: chey
     description: ch- + ey, botanical element
     latin: elementum
+  - word: charod
+    description: char (plant) + od (varies), plant variation pattern
+    latin: plantae variatio
   - word: chky
     description: tall, high
     latin: altum
@@ -200,6 +203,9 @@ voynich_decipherment_rules:
   - word: dam
     description: end, completion
     latin: finis
+  - word: dan
+    description: preposition, from/of/about (17x frequency)
+    latin: de
   - word: dar
     description: short function word, gift/giving
     latin: donum
@@ -284,6 +290,9 @@ voynich_decipherment_rules:
   - word: keor
     description: botanical variation element
     latin: varietas
+  - word: kokaiin
+    description: kok (makes) + aiin (is) compound, appears near fruits/seeds (20x frequency)
+    latin: maturat
   - word: kol
     description: frequent in herbal folios, appears with plant descriptions
     latin: cum
@@ -482,6 +491,9 @@ voynich_decipherment_rules:
   - word: olchy
     description: ol + chy (in), location within
     latin: in loco
+  - word: ols
+    description: short function word, conjunction - or/alternatively (19x frequency)
+    latin: aut
   - word: or
     description: short connector, order/arrangement
     latin: ordo
@@ -596,6 +608,9 @@ voynich_decipherment_rules:
   - word: qokchol
     description: qo- prefix + chol (stem), intensified growth action
     latin: caulem producit
+  - word: qokchor
+    description: qo- prefix + kchor (branch/twig), very branching (16x frequency)
+    latin: valde ramulus
   - word: qokchy
     description: qo- prefix + kchy (makes), intensified making/creating
     latin: valde facit
@@ -641,6 +656,9 @@ voynich_decipherment_rules:
   - word: qotchor
     description: qo- prefix + tchor (twig), intensified branching
     latin: ramificat
+  - word: qotchey
+    description: qo- prefix + tchey (touches), very touches/contacts (16x frequency)
+    latin: valde tangit
   - word: qotchy
     description: high frequency herbal term with qo- prefix, near growth descriptions
     latin: crescit
@@ -653,6 +671,9 @@ voynich_decipherment_rules:
   - word: qotyykeey
     description: qo- prefix + oty direction, intensified movement/extension toward
     latin: valde extendit
+  - word: qoy
+    description: qo- prefix + y (motion), very to/toward direction (16x frequency)
+    latin: valde ad
   - word: r
     description: single letter, connector or possessive
     latin: et
@@ -668,6 +689,9 @@ voynich_decipherment_rules:
   - word: sar
     description: s- + ar, side and
     latin: latus et
+  - word: schy
+    description: s- prefix + chy (touches), here touches/contacts element (19x frequency)
+    latin: hic tangit
   - word: schol
     description: s- prefix + chol (stem), side stem or branch
     latin: caulis lateralis
@@ -807,6 +831,9 @@ voynich_decipherment_rules:
   - word: ytaiin
     description: y- + taiin, directional with state
     latin: ad erat
+  - word: yty
+    description: y-t-y pattern, passes through/transits motion (16x frequency)
+    latin: transit
   - word: chaar
     latin: et
     description: 'systematic word family: ch- prefix pattern'

@@ -1,0 +1,459 @@
+# Voynich Research Workflow Definition
+# Complete iterative research cycle with validation gates
+
+workflow_name: "Systematic Vocabulary Extension"
+version: "1.0"
+description: "Iterative workflow for extending Voynich dictionary through systematic analysis"
+
+# ============================================================================
+# RESEARCH CYCLE PHASES
+# ============================================================================
+
+phases:
+  # --------------------------------------------------------------------------
+  # Phase 1: ANALYZE - Understand current state
+  # --------------------------------------------------------------------------
+  - phase: 1
+    name: "analyze"
+    description: "Analyze current translation coverage and identify gaps"
+    
+    steps:
+      - step: 1.1
+        name: "validate_system_state"
+        action: "Run validation checker on dictionary and translations"
+        script: "scripts/validation_checker.py --check-type all"
+        success_criteria:
+          - "no_critical_errors"
+          - "dictionary_well_formed"
+        on_failure: "halt_and_fix"
+        
+      - step: 1.2
+        name: "analyze_current_coverage"
+        action: "Calculate coverage metrics for all translated folios"
+        script: "python translate_folio.py --section q01 --start 1 --end 8"
+        output: "coverage_by_folio.json"
+        success_criteria:
+          - "all_folios_translated"
+        
+      - step: 1.3
+        name: "identify_unknown_words"
+        action: "Extract and rank all unknown words by frequency"
+        script: "scripts/word_frequency.py --min-freq 3 --output data/unknown_ranked.json"
+        output: "data/unknown_ranked.json"
+        success_criteria:
+          - "file_generated"
+          - "words_ranked_by_priority"
+        
+      - step: 1.4
+        name: "detect_patterns"
+        action: "Find repeated patterns and formulaic phrases"
+        script: "scripts/pattern_detector.py --pattern-type all --min-occurrences 3"
+        output: "data/patterns_detected.json"
+        success_criteria:
+          - "patterns_identified"
+        
+      - step: 1.5
+        name: "analyze_gaps"
+        action: "Run comprehensive gap analysis"
+        script: "python analyze_gaps.py --min-freq 5 --max-suggestions 50"
+        output: "data/dictionary_suggestions.json"
+        success_criteria:
+          - "suggestions_generated"
+    
+    validation_gate:
+      name: "analysis_review"
+      prompt: |
+        Analysis Phase Complete. Review the following:
+        
+        1. Current Coverage Metrics
+        2. Top Unknown Words (frequency ranked)
+        3. Detected Patterns
+        4. Gap Analysis Suggestions
+        
+        Ready to proceed to vocabulary proposal phase?
+      options: ["proceed", "re-analyze", "adjust_parameters"]
+      required: false
+      auto_proceed_if: "high_priority_unknowns > 10"
+
+  # --------------------------------------------------------------------------
+  # Phase 2: PROPOSE - Generate vocabulary candidates
+  # --------------------------------------------------------------------------
+  - phase: 2
+    name: "propose"
+    description: "Generate and evaluate vocabulary entry candidates"
+    
+    steps:
+      - step: 2.1
+        name: "morphological_analysis"
+        action: "Decompose unknown words into morphological components"
+        script: "scripts/morphology_analyzer.py --batch-file data/unknown_ranked.json"
+        output: "data/morphology_analysis.json"
+        success_criteria:
+          - "decompositions_generated"
+          - "confidence_scores_calculated"
+        
+      - step: 2.2
+        name: "compound_decomposition"
+        action: "Analyze potential compound words"
+        script: "scripts/compound_decomposer.py --strategy heuristic --batch-mode"
+        output: "data/compound_analysis.json"
+        success_criteria:
+          - "compounds_identified"
+          - "translations_suggested"
+        
+      - step: 2.3
+        name: "rank_candidates"
+        action: "Rank vocabulary candidates by priority and confidence"
+        method: "combine_frequency_confidence_visual_context"
+        output: "data/ranked_candidates.json"
+        ranking_factors:
+          frequency: 0.4
+          confidence: 0.3
+          morphological_clarity: 0.2
+          context_consistency: 0.1
+        
+      - step: 2.4
+        name: "generate_proposals"
+        action: "Create proposed dictionary entries with reasoning"
+        output: "data/vocabulary_proposals.json"
+        include:
+          - "word"
+          - "proposed_latin"
+          - "frequency"
+          - "contexts"
+          - "morphological_breakdown"
+          - "reasoning"
+          - "confidence_score"
+    
+    validation_gate:
+      name: "vocabulary_proposal"
+      prompt: |
+        Vocabulary Proposal Ready. Top candidates for this iteration:
+        
+        [Display top N candidates with reasoning]
+        
+        Which words should be added to the dictionary?
+      options: ["approve_all", "select_subset", "modify_proposals", "reject_all"]
+      required: true
+      default_action: "select_subset"
+      selection_criteria:
+        auto_approve_if: "confidence >= 0.9 AND frequency >= 20"
+        recommend_if: "confidence >= 0.7 AND frequency >= 10"
+        skip_if: "confidence < 0.6 OR frequency < 5"
+
+  # --------------------------------------------------------------------------
+  # Phase 3: VALIDATE - Review proposals with human expert
+  # --------------------------------------------------------------------------
+  - phase: 3
+    name: "validate"
+    description: "Human validation of proposed vocabulary additions"
+    
+    steps:
+      - step: 3.1
+        name: "prepare_validation_package"
+        action: "Compile proposals with context and evidence"
+        include:
+          - "word_in_context_examples"
+          - "folio_image_references"
+          - "morphological_analysis"
+          - "similar_words_in_dictionary"
+          - "proposed_translation_rationale"
+        
+      - step: 3.2
+        name: "visual_context_check"
+        action: "Cross-reference with folio images where applicable"
+        manual: true
+        guidance: "Check if proposed botanical terms match illustrated plants"
+        
+      - step: 3.3
+        name: "consistency_check"
+        action: "Verify proposals don't contradict existing patterns"
+        script: "scripts/validation_checker.py --check-type consistency --proposals data/vocabulary_proposals.json"
+        success_criteria:
+          - "no_contradictions"
+          - "morphologically_consistent"
+        
+      - step: 3.4
+        name: "polysemy_detection"
+        action: "Identify words that may need polysemous entries"
+        criteria:
+          - "appears_in_multiple_sections"
+          - "different_contexts_suggest_different_meanings"
+          - "morphologically_ambiguous"
+    
+    validation_gate:
+      name: "dictionary_update_approval"
+      prompt: |
+        Ready to update dictionary with approved words.
+        
+        Summary:
+        - Words to add: [N]
+        - Estimated coverage improvement: [X%]
+        - Backup will be created automatically
+        
+        Approve dictionary update?
+      options: ["approve", "modify", "cancel"]
+      required: true
+      backup_required: true
+
+  # --------------------------------------------------------------------------
+  # Phase 4: IMPLEMENT - Update dictionary and systems
+  # --------------------------------------------------------------------------
+  - phase: 4
+    name: "implement"
+    description: "Add validated words to dictionary and update systems"
+    
+    steps:
+      - step: 4.1
+        name: "backup_dictionary"
+        action: "Create timestamped backup of voynich.yaml"
+        script: "cp voynich.yaml voynich.yaml.backup-$(date +%Y%m%d-%H%M%S)"
+        success_criteria:
+          - "backup_created"
+        on_failure: "halt"
+        
+      - step: 4.2
+        name: "update_dictionary"
+        action: "Add approved words to voynich.yaml"
+        script: "scripts/batch_dictionary_updater.py --import-file data/approved_words.json --backup"
+        success_criteria:
+          - "words_added_successfully"
+          - "yaml_valid"
+          - "no_duplicates_created"
+        on_failure: "rollback_from_backup"
+        
+      - step: 4.3
+        name: "validate_dictionary"
+        action: "Verify dictionary integrity after update"
+        script: "scripts/validation_checker.py --check-type all"
+        success_criteria:
+          - "yaml_well_formed"
+          - "no_duplicate_entries"
+          - "all_required_fields_present"
+        on_failure: "rollback_and_halt"
+        
+      - step: 4.4
+        name: "update_polysemy"
+        action: "Add polysemous entries if detected"
+        manual: true
+        guidance: "Add context-specific meanings to polysemy section"
+    
+    validation_gate:
+      name: "implementation_verification"
+      prompt: |
+        Dictionary updated successfully.
+        
+        - Words added: [N]
+        - Dictionary size: [old] → [new]
+        - Validation: PASSED
+        
+        Proceed to re-translation phase?
+      options: ["proceed", "review_changes", "rollback"]
+      required: false
+      auto_proceed: true
+
+  # --------------------------------------------------------------------------
+  # Phase 5: TEST - Re-translate and measure improvement
+  # --------------------------------------------------------------------------
+  - phase: 5
+    name: "test"
+    description: "Re-translate folios and measure coverage improvement"
+    
+    steps:
+      - step: 5.1
+        name: "clear_unknown_cache"
+        action: "Reset unknown words tracking in translator"
+        script: "rm -f data/.unknown_cache.json"
+        
+      - step: 5.2
+        name: "re_translate_all_folios"
+        action: "Translate all folios with updated dictionary"
+        script: |
+          python translate_folio.py --section q01 --start 1 --end 8 --force
+          python translate_folio.py --section q02 --start 14 --end 16 --force
+        success_criteria:
+          - "all_folios_translated"
+          - "no_translation_errors"
+        
+      - step: 5.3
+        name: "calculate_new_coverage"
+        action: "Compute coverage metrics for comparison"
+        output: "data/coverage_after.json"
+        metrics:
+          - "coverage_overall"
+          - "coverage_by_section"
+          - "coverage_by_folio"
+          - "unknown_words_count"
+        
+      - step: 5.4
+        name: "compare_coverage"
+        action: "Calculate improvement from baseline"
+        compare: ["data/coverage_before.json", "data/coverage_after.json"]
+        output: "data/coverage_delta.json"
+        
+      - step: 5.5
+        name: "analyze_remaining_unknowns"
+        action: "Identify next iteration priorities"
+        script: "python analyze_gaps.py --min-freq 5 --max-suggestions 20"
+        output: "data/next_iteration_priorities.json"
+    
+    validation_gate:
+      name: "translation_review"
+      prompt: |
+        Re-translation complete. Results:
+        
+        Coverage Improvement:
+        - Overall: [old]% → [new]% ([delta]%)
+        - Herbal A: [old]% → [new]% ([delta]%)
+        - Herbal B: [old]% → [new]% ([delta]%)
+        
+        Unknown Words: [old] → [new] ([delta])
+        
+        Review translations and continue?
+      options: ["proceed", "review_specific_folios", "rollback_iteration"]
+      required: true
+      auto_proceed_if: "coverage_improvement >= 0.03"
+
+  # --------------------------------------------------------------------------
+  # Phase 6: REPORT - Summarize iteration and plan next steps
+  # --------------------------------------------------------------------------
+  - phase: 6
+    name: "report"
+    description: "Generate iteration report and determine next steps"
+    
+    steps:
+      - step: 6.1
+        name: "generate_iteration_report"
+        action: "Create comprehensive iteration summary"
+        output: "reports/iteration_[N]_report.md"
+        include:
+          - "words_added"
+          - "coverage_improvements"
+          - "remaining_priorities"
+          - "pattern_insights"
+          - "recommended_next_steps"
+        
+      - step: 6.2
+        name: "update_metrics_tracking"
+        action: "Log metrics for historical comparison"
+        output: "data/metrics_history.json"
+        
+      - step: 6.3
+        name: "evaluate_stopping_criteria"
+        action: "Determine if iteration should continue"
+        criteria:
+          stop_if:
+            - "target_coverage_reached"
+            - "no_high_priority_unknowns_remaining"
+            - "improvement_below_threshold"
+            - "max_iterations_reached"
+          continue_if:
+            - "significant_improvement_made"
+            - "high_priority_unknowns_remain"
+            - "new_patterns_discovered"
+        
+      - step: 6.4
+        name: "prepare_next_iteration"
+        action: "If continuing, set up next iteration parameters"
+        output: "data/next_iteration_config.json"
+    
+    validation_gate:
+      name: "iteration_completion"
+      prompt: |
+        Iteration [N] Complete
+        
+        Summary:
+        - Words added: [N]
+        - Coverage improvement: [X]%
+        - Current overall coverage: [Y]%
+        - High-priority unknowns remaining: [Z]
+        
+        Recommended next step: [recommendation]
+        
+        What would you like to do?
+      options: ["start_next_iteration", "review_results", "pause_research", "change_strategy"]
+      required: true
+
+# ============================================================================
+# SUCCESS CRITERIA
+# ============================================================================
+
+success_criteria:
+  iteration_success:
+    - coverage_improvement: ">= 0.03"  # At least 3% improvement
+    - words_added: ">= 5"  # At least 5 words added
+    - no_coverage_regression: true
+    - dictionary_valid: true
+    
+  overall_success:
+    - coverage_overall: ">= 0.65"  # 65% overall coverage
+    - coverage_herbal_a: ">= 0.60"  # 60% Herbal A
+    - coverage_herbal_b: ">= 0.70"  # 70% Herbal B
+    - coherency_score: ">= 7.0"  # Maintain coherency
+    
+  quality_gates:
+    - no_duplicate_entries: true
+    - all_words_have_descriptions: true
+    - latin_translations_valid: true
+    - polysemy_properly_formatted: true
+
+# ============================================================================
+# FALLBACK STRATEGIES
+# ============================================================================
+
+fallback_strategies:
+  if_coverage_not_improving:
+    strategy: "focus_on_morphological_decomposition"
+    actions:
+      - "analyze_compound_words_more_aggressively"
+      - "generate_systematic_word_families"
+      - "review_prefix_suffix_patterns"
+    
+  if_low_confidence_words:
+    strategy: "visual_validation_emphasis"
+    actions:
+      - "cross_reference_with_folio_images"
+      - "check_context_in_manuscripts"
+      - "compare_with_medieval_herbals"
+    
+  if_contradictory_evidence:
+    strategy: "polysemy_investigation"
+    actions:
+      - "check_if_word_appears_in_multiple_contexts"
+      - "analyze_section_specific_meanings"
+      - "create_polysemous_entry_if_warranted"
+    
+  if_stuck_after_multiple_iterations:
+    strategy: "methodology_review"
+    actions:
+      - "review_fundamental_assumptions"
+      - "consult_external_resources"
+      - "try_alternative_decomposition_strategies"
+      - "request_expert_linguistic_consultation"
+
+# ============================================================================
+# HELPER SCRIPT LINKS
+# ============================================================================
+
+scripts:
+  word_frequency: "scripts/word_frequency.py"
+  morphology_analyzer: "scripts/morphology_analyzer.py"
+  pattern_detector: "scripts/pattern_detector.py"
+  batch_dictionary_updater: "scripts/batch_dictionary_updater.py"
+  compound_decomposer: "scripts/compound_decomposer.py"
+  iteration_orchestrator: "scripts/iteration_orchestrator.py"
+  validation_checker: "scripts/validation_checker.py"
+  translate_folio: "translate_folio.py"
+  analyze_gaps: "analyze_gaps.py"
+
+# ============================================================================
+# WORKFLOW METADATA
+# ============================================================================
+
+metadata:
+  created: "2025-11-27"
+  version: "1.0"
+  author: "Voynich Research Team"
+  last_updated: "2025-11-27"
+  compatible_with: "voynich.yaml v1.0"
+

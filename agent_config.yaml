@@ -1,0 +1,230 @@
+# Voynich AI Research Agent Configuration
+# Configuration for hybrid AI agent system with human validation gates
+
+agent_profile:
+  name: "Voynich Manuscript Researcher"
+  type: "hybrid_collaborative"
+  role: "Systematic translation researcher with human oversight"
+  capabilities:
+    - vocabulary_analysis
+    - pattern_detection
+    - morphological_decomposition
+    - translation_validation
+    - iterative_improvement
+  limitations:
+    - requires_human_validation_for_dictionary_updates
+    - cannot_make_final_claims_without_review
+    - operates_within_established_framework
+
+workflow_parameters:
+  # Frequency analysis thresholds
+  min_word_frequency: 5  # Minimum occurrences to consider a word
+  high_priority_frequency: 15  # Words appearing 15+ times are high priority
+  
+  # Batch processing sizes
+  batch_size_vocabulary: 10  # Add words in batches of 10
+  batch_size_translation: 5   # Translate 5 folios at a time
+  
+  # Confidence thresholds
+  min_confidence_auto_add: 0.9  # Auto-add words with 90%+ confidence
+  min_confidence_suggest: 0.6   # Suggest words with 60%+ confidence
+  validation_required_below: 0.8  # Require validation below 80%
+  
+  # Coverage targets
+  target_coverage_overall: 0.65  # 65% overall coverage goal
+  target_coverage_herbal_a: 0.60  # 60% for Herbal A
+  target_coverage_herbal_b: 0.70  # 70% for Herbal B
+  acceptable_improvement: 0.03    # 3% improvement per iteration minimum
+  
+  # Iteration limits
+  max_iterations_per_session: 5
+  max_words_per_iteration: 50
+  stop_if_no_improvement: true
+
+validation_gates:
+  # Human validation checkpoints in workflow
+  gates:
+    - name: "vocabulary_proposal"
+      trigger: "after_gap_analysis"
+      action: "present_top_candidates_for_approval"
+      bypass_condition: "confidence > 0.9 AND frequency > 20"
+      
+    - name: "dictionary_update"
+      trigger: "before_adding_words"
+      action: "show_diff_and_request_confirmation"
+      bypass_condition: "never"  # Always require confirmation
+      
+    - name: "translation_review"
+      trigger: "after_batch_translation"
+      action: "show_coverage_changes_request_continue"
+      bypass_condition: "coverage_improvement > 0.05"
+      
+    - name: "iteration_completion"
+      trigger: "end_of_iteration"
+      action: "summarize_results_request_next_steps"
+      bypass_condition: "never"  # Always review iteration results
+
+tool_configurations:
+  # Which scripts to use in which workflow steps
+  word_frequency:
+    script: "scripts/word_frequency.py"
+    when: ["gap_analysis", "pattern_detection"]
+    default_args: "--min-freq 5 --format json"
+    
+  morphology_analyzer:
+    script: "scripts/morphology_analyzer.py"
+    when: ["vocabulary_proposal", "compound_analysis"]
+    default_args: "--auto-suggest"
+    
+  pattern_detector:
+    script: "scripts/pattern_detector.py"
+    when: ["pattern_analysis", "formula_detection"]
+    default_args: "--min-occurrences 3"
+    
+  batch_dictionary_updater:
+    script: "scripts/batch_dictionary_updater.py"
+    when: ["dictionary_update"]
+    default_args: "--interactive --backup"
+    
+  compound_decomposer:
+    script: "scripts/compound_decomposer.py"
+    when: ["unknown_word_analysis"]
+    default_args: "--strategy heuristic"
+    
+  validation_checker:
+    script: "scripts/validation_checker.py"
+    when: ["pre_translation", "post_dictionary_update"]
+    default_args: "--check-type all"
+    
+  iteration_orchestrator:
+    script: "scripts/iteration_orchestrator.py"
+    when: ["full_iteration"]
+    default_args: "--validation-gates --target-coverage 0.65"
+
+context_awareness:
+  # Section-specific translation contexts
+  sections:
+    q01:
+      name: "Herbal A"
+      context: "herbal"
+      characteristics:
+        - "plant descriptions"
+        - "botanical terminology"
+        - "root, stem, leaf, flower references"
+      priority_patterns: ["ch-", "pch-", "fch-"]
+      
+    q02:
+      name: "Herbal B"
+      context: "herbal"
+      characteristics:
+        - "plant descriptions"
+        - "pharmaceutical recipes"
+        - "botanical terminology"
+      priority_patterns: ["qo-", "ch-", "ot-"]
+      
+    q13:
+      name: "Astronomical"
+      context: "astronomical"
+      characteristics:
+        - "celestial objects"
+        - "star positions"
+        - "cosmic terminology"
+      priority_patterns: ["qo-", "cthar", "okar"]
+      
+    q20:
+      name: "Biological"
+      context: "biological"
+      characteristics:
+        - "water flow"
+        - "body parts"
+        - "channels and tubes"
+      priority_patterns: ["qo-", "ot-", "shy"]
+
+morphological_priorities:
+  # Which morphological patterns to focus on
+  prefix_families:
+    high_priority: ["qo-", "ot-", "ch-", "sh-", "dy-"]
+    medium_priority: ["y-", "d-", "t-", "p-", "f-", "k-"]
+    low_priority: ["s-", "sy-"]
+  
+  suffix_families:
+    high_priority: ["-aiin", "-ain", "-edy", "-ody"]
+    medium_priority: ["-ar", "-or", "-ol", "-al"]
+    low_priority: ["-y", "-dy"]
+  
+  compound_indicators:
+    - length: "> 6"
+    - contains: ["ch", "qo"]
+    - pattern: "prefix+root+suffix"
+
+decision_framework:
+  # How agent should make decisions
+  add_to_dictionary_if:
+    - "frequency >= 10 AND confidence >= 0.7"
+    - "frequency >= 15 AND confidence >= 0.6"
+    - "morphological_match AND visual_context_confirms"
+    - "human_validated"
+  
+  request_validation_if:
+    - "confidence < 0.8"
+    - "frequency < 5"
+    - "contradicts_existing_pattern"
+    - "polysemy_suspected"
+  
+  skip_word_if:
+    - "frequency < 3"
+    - "appears_to_be_transcription_error"
+    - "single_occurrence_without_pattern"
+
+reporting:
+  # What to report at each stage
+  after_analysis:
+    - "total_unknown_words"
+    - "high_priority_candidates"
+    - "pattern_discoveries"
+    - "morphological_insights"
+  
+  after_translation:
+    - "coverage_before_after"
+    - "words_resolved"
+    - "new_unknowns_discovered"
+    - "coherency_score_estimate"
+  
+  iteration_summary:
+    - "words_added_this_iteration"
+    - "coverage_improvement"
+    - "remaining_high_priority_unknowns"
+    - "recommended_next_steps"
+
+quality_control:
+  # Quality checks before accepting changes
+  pre_dictionary_update:
+    - "check_for_duplicates"
+    - "validate_yaml_syntax"
+    - "verify_latin_format"
+    - "confirm_description_present"
+  
+  post_translation:
+    - "coverage_not_decreased"
+    - "no_new_critical_errors"
+    - "unknown_count_decreased"
+    - "coherency_maintained"
+
+emergency_procedures:
+  # What to do if things go wrong
+  if_coverage_decreases:
+    action: "rollback_dictionary_changes"
+    notify: true
+    
+  if_yaml_corrupted:
+    action: "restore_from_backup"
+    notify: true
+    
+  if_validation_fails:
+    action: "halt_and_request_review"
+    notify: true
+    
+  if_no_improvement_after_3_iterations:
+    action: "request_strategy_discussion"
+    notify: true
+
