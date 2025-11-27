@@ -1,0 +1,333 @@
+{
+  "folio_id": "033r",
+  "section": "Pharmaceutical",
+  "context": "herbal",
+  "voynich_text": "yteey shody tchedydy chekar okaiin okaiin daiin okal yteey shodykchedy dy chekar okaiin okaiin daiin okal yteey shody tchedydy chekar okaiin okaiin daiin okal dar chos aiin or aiin cheekaiin okain ar okeeey dar chos aiin or aiin cheekaiin okain ar okeeey dar chos aiin or aiin cheekaiin okain ar okeeey",
+  "latin_text": "[yteey] hic movet [tchedydy] [chekar] valde ponit ad robur [yteey] [shodykchedy] et [chekar] valde ponit ad robur [yteey] hic movet [tchedydy] [chekar] valde ponit ad robur donum [chos] est ordo est [cheekaiin] erat et [okeeey] donum [chos] est ordo est [cheekaiin] erat et [okeeey] donum [chos] est ordo est [cheekaiin] erat et [okeeey]",
+  "english_text": "[yteey] here moves [tchedydy] [chekar] very [ponit] to strong [yteey] [shodykchedy] and [chekar] very [ponit] to strong [yteey] here moves [tchedydy] [chekar] very [ponit] to strong gift [chos] is order is [cheekaiin] was and [okeeey] gift [chos] is order is [cheekaiin] was and [okeeey] gift [chos] is order is [cheekaiin] was and [okeeey].",
+  "word_translations": [
+    {
+      "original": "yteey",
+      "latin": "[yteey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shody",
+      "latin": "hic movet",
+      "confidence": 0.9,
+      "notes": "sh (here) + ody (movement), location movement, appears 18x"
+    },
+    {
+      "original": "tchedydy",
+      "latin": "[tchedydy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chekar",
+      "latin": "[chekar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okaiin",
+      "latin": "ponit",
+      "confidence": 0.9,
+      "notes": "placing"
+    },
+    {
+      "original": "okaiin",
+      "latin": "ponit",
+      "confidence": 0.9,
+      "notes": "placing"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "okal",
+      "latin": "robur",
+      "confidence": 0.9,
+      "notes": "k- + al, strength/support extension"
+    },
+    {
+      "original": "yteey",
+      "latin": "[yteey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shodykchedy",
+      "latin": "[shodykchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dy",
+      "latin": "et",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, and (connector)"
+    },
+    {
+      "original": "chekar",
+      "latin": "[chekar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okaiin",
+      "latin": "ponit",
+      "confidence": 0.9,
+      "notes": "placing"
+    },
+    {
+      "original": "okaiin",
+      "latin": "ponit",
+      "confidence": 0.9,
+      "notes": "placing"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "okal",
+      "latin": "robur",
+      "confidence": 0.9,
+      "notes": "k- + al, strength/support extension"
+    },
+    {
+      "original": "yteey",
+      "latin": "[yteey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shody",
+      "latin": "hic movet",
+      "confidence": 0.9,
+      "notes": "sh (here) + ody (movement), location movement, appears 18x"
+    },
+    {
+      "original": "tchedydy",
+      "latin": "[tchedydy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chekar",
+      "latin": "[chekar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okaiin",
+      "latin": "ponit",
+      "confidence": 0.9,
+      "notes": "placing"
+    },
+    {
+      "original": "okaiin",
+      "latin": "ponit",
+      "confidence": 0.9,
+      "notes": "placing"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "okal",
+      "latin": "robur",
+      "confidence": 0.9,
+      "notes": "k- + al, strength/support extension"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "chos",
+      "latin": "[chos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "or",
+      "latin": "ordo",
+      "confidence": 0.9,
+      "notes": "short connector, order/arrangement"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "cheekaiin",
+      "latin": "[cheekaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okain",
+      "latin": "erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: ka- prefix pattern"
+    },
+    {
+      "original": "ar",
+      "latin": "et",
+      "confidence": 0.9,
+      "notes": "frequent, suits conjunction; links nouns"
+    },
+    {
+      "original": "okeeey",
+      "latin": "[okeeey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "chos",
+      "latin": "[chos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "or",
+      "latin": "ordo",
+      "confidence": 0.9,
+      "notes": "short connector, order/arrangement"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "cheekaiin",
+      "latin": "[cheekaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okain",
+      "latin": "erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: ka- prefix pattern"
+    },
+    {
+      "original": "ar",
+      "latin": "et",
+      "confidence": 0.9,
+      "notes": "frequent, suits conjunction; links nouns"
+    },
+    {
+      "original": "okeeey",
+      "latin": "[okeeey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "chos",
+      "latin": "[chos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "or",
+      "latin": "ordo",
+      "confidence": 0.9,
+      "notes": "short connector, order/arrangement"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "cheekaiin",
+      "latin": "[cheekaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okain",
+      "latin": "erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: ka- prefix pattern"
+    },
+    {
+      "original": "ar",
+      "latin": "et",
+      "confidence": 0.9,
+      "notes": "frequent, suits conjunction; links nouns"
+    },
+    {
+      "original": "okeeey",
+      "latin": "[okeeey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    }
+  ],
+  "statistics": {
+    "total": 51,
+    "known": 33,
+    "unknown": 18,
+    "avg_confidence": 0.5627450980392157,
+    "coverage": 0.6470588235294118
+  },
+  "unknown_words": [
+    "cheekaiin",
+    "chekar",
+    "chos",
+    "okeeey",
+    "shodykchedy",
+    "tchedydy",
+    "yteey"
+  ],
+  "translated_at": "2025-11-27T21:39:57.282963"
+}

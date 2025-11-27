@@ -52,8 +52,11 @@ This project provides a complete **hybrid AI agent framework** for systematicall
 # 1. Validate system
 python scripts/validation_checker.py --check-type all
 
-# 2. Download folios
+# 2. Download folios (option A: legacy downloader for q01/q02)
 python download_folios.py --section q02 --start 14 --end 16
+
+# 2. Download folios (option B: NEW scraper for any quire)
+python scrape_voynich_nu.py --quire q03 --output-dir data/scraped
 
 # 3. Translate
 python translate_folio.py --section q02 --start 14 --end 16
@@ -63,6 +66,18 @@ python translate_folio.py --section q02 --show 014r
 
 # 5. Analyze gaps
 python analyze_gaps.py --min-freq 5
+```
+
+### 🆕 Expanding to New Sections
+
+```bash
+# List all available quires
+python scrape_voynich_nu.py --list-quires
+
+# Scrape new sections (q03-q20 available!)
+python scrape_voynich_nu.py --quire q03 q04 q05
+
+# See SECTION_EXPANSION_GUIDE.md for complete workflow
 ```
 
 ### For AI Agents

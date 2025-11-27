@@ -1,0 +1,58 @@
+[
+  {
+    "word": "qoty",
+    "latin": "valde ad",
+    "description": "qo (intensifier) + ty (to/toward); very much to/toward",
+    "frequency": 4,
+    "confidence": 0.75,
+    "morphology": "qo + ty",
+    "reasoning": "Strong qo- prefix pattern. 'ty' relates to directional marker. Meaning: emphatic direction/movement toward something.",
+    "contexts": ["herbal"],
+    "tier": 1
+  },
+  {
+    "word": "tchody",
+    "latin": "tangit movetur",
+    "description": "t (touch) + chody (moves); touches and moves",
+    "frequency": 3,
+    "confidence": 0.75,
+    "morphology": "t + chody",
+    "reasoning": "t- prefix (tangit/touches) + chody (movetur/moves) from dictionary. Describes contact with movement.",
+    "contexts": ["herbal"],
+    "tier": 1
+  },
+  {
+    "word": "kchey",
+    "latin": "facit elementum",
+    "description": "k (makes) + chey (element); makes element/component",
+    "frequency": 3,
+    "confidence": 0.75,
+    "morphology": "k + chey",
+    "reasoning": "k- prefix (facit/makes) + chey (elementum) from dictionary. Botanical context: produces plant part/component.",
+    "contexts": ["herbal"],
+    "tier": 1
+  },
+  {
+    "word": "odaiin",
+    "latin": "dat est",
+    "description": "od (gives) + aiin (is/state); gives being/exists",
+    "frequency": 4,
+    "confidence": 0.70,
+    "morphology": "od + aiin",
+    "reasoning": "od- root (dat/gives) + aiin (est/erat state marker). Combined meaning: presents itself, exists.",
+    "contexts": ["herbal"],
+    "tier": 1
+  },
+  {
+    "word": "choy",
+    "latin": "facit ad",
+    "description": "cho (makes) + y (to/toward); makes toward, directs to",
+    "frequency": 3,
+    "confidence": 0.70,
+    "morphology": "cho + y",
+    "reasoning": "cho (facit) + y (ad directional suffix). Botanical context: growth direction, plant orientation.",
+    "contexts": ["herbal"],
+    "tier": 1
+  }
+]
+

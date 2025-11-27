@@ -10,7 +10,7 @@ import yaml
 import shutil
 from pathlib import Path
 from datetime import datetime
-from typing import Dict, List
+from typing import Dict, List, Tuple
 
 
 class DictionaryUpdater:
@@ -281,6 +281,8 @@ Examples:
                        help="Create backup before changes")
     parser.add_argument("--validate-only", action="store_true",
                        help="Validate without saving")
+    parser.add_argument("--yes", action="store_true",
+                       help="Auto-approve changes (non-interactive)")
     
     args = parser.parse_args()
     
@@ -313,8 +315,12 @@ Examples:
     # Save if not validate-only
     if not args.validate_only:
         if updater.changes_made:
-            print("\nSave changes? (yes/no): ", end='')
-            response = input().strip().lower()
+            if args.yes:
+                response = 'yes'
+                print("\n✓ Auto-approving changes (--yes flag)")
+            else:
+                print("\nSave changes? (yes/no): ", end='')
+                response = input().strip().lower()
             
             if response in ['yes', 'y']:
                 if updater.save_dictionary():

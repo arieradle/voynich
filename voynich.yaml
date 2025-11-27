@@ -309,7 +309,8 @@ voynich_decipherment_rules:
     description: botanical variation element
     latin: varietas
   - word: kokaiin
-    description: kok (makes) + aiin (is) compound, appears near fruits/seeds (20x frequency)
+    description: kok (makes) + aiin (is) compound, appears near fruits/seeds (20x
+      frequency)
     latin: maturat
   - word: koaiin
     description: k + o + aiin (state marker), simple state marker
@@ -880,7 +881,8 @@ voynich_decipherment_rules:
     description: y- + taiin, directional with state
     latin: ad erat
   - word: ytchor
-    description: y (direction) + tchor (small branch), toward small branch, appears in both sections
+    description: y (direction) + tchor (small branch), toward small branch, appears
+      in both sections
     latin: ad ramusculus
   - word: ytchy
     description: y (direction) + tchy (interior), toward inside, appears in both sections
@@ -2280,6 +2282,21 @@ voynich_decipherment_rules:
   - word: ythy
     latin: ad parvum
     description: 'systematic word family: yt- prefix pattern'
+  - word: qoty
+    latin: valde ad
+    description: qo (intensifier) + ty (to/toward); very much to/toward
+  - word: tchody
+    latin: tangit movetur
+    description: t (touch) + chody (moves); touches and moves
+  - word: kchey
+    latin: facit elementum
+    description: k (makes) + chey (element); makes element/component
+  - word: odaiin
+    latin: dat est
+    description: od (gives) + aiin (is/state); gives being/exists
+  - word: choy
+    latin: facit ad
+    description: cho (makes) + y (to/toward); makes toward, directs to
   polysemy:
   - word: qokedy
     meanings:

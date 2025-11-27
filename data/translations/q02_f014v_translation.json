@@ -1023,8 +1023,8 @@
     {
       "original": "qoty",
       "latin": "valde ad",
-      "confidence": 0.81,
-      "notes": "qo-prefix:direction marker"
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + ty (to/toward); very much to/toward"
     },
     {
       "original": "choky",
@@ -1065,8 +1065,8 @@
     {
       "original": "qoty",
       "latin": "valde ad",
-      "confidence": 0.81,
-      "notes": "qo-prefix:direction marker"
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + ty (to/toward); very much to/toward"
     },
     {
       "original": "choky",
@@ -1119,8 +1119,8 @@
     {
       "original": "qoty",
       "latin": "valde ad",
-      "confidence": 0.81,
-      "notes": "qo-prefix:direction marker"
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + ty (to/toward); very much to/toward"
     },
     {
       "original": "choky",
@@ -1161,8 +1161,8 @@
     {
       "original": "qoty",
       "latin": "valde ad",
-      "confidence": 0.81,
-      "notes": "qo-prefix:direction marker"
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + ty (to/toward); very much to/toward"
     },
     {
       "original": "choky",
@@ -1577,7 +1577,7 @@
     "total": 261,
     "known": 195,
     "unknown": 66,
-    "avg_confidence": 0.6495785440613027,
+    "avg_confidence": 0.6509578544061303,
     "coverage": 0.7471264367816092
   },
   "unknown_words": [
@@ -1602,7 +1602,6 @@
     "otyshy",
     "oykshy",
     "pdychoiin",
-    "qoty",
     "shokshor",
     "yfodain",
     "ykchyky",
@@ -1612,5 +1611,5 @@
     "ytychy",
     "ytyshy"
   ],
-  "translated_at": "2025-11-27T21:13:42.419533"
+  "translated_at": "2025-11-27T21:21:11.804199"
 }

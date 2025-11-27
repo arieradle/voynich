@@ -1029,8 +1029,8 @@
     {
       "original": "qoty",
       "latin": "valde ad",
-      "confidence": 0.81,
-      "notes": "qo-prefix:direction marker"
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + ty (to/toward); very much to/toward"
     },
     {
       "original": "qotchoiin",
@@ -1047,8 +1047,8 @@
     {
       "original": "qoty",
       "latin": "valde ad",
-      "confidence": 0.81,
-      "notes": "qo-prefix:direction marker"
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + ty (to/toward); very much to/toward"
     },
     {
       "original": "qotchoiin",
@@ -1065,8 +1065,8 @@
     {
       "original": "qoty",
       "latin": "valde ad",
-      "confidence": 0.81,
-      "notes": "qo-prefix:direction marker"
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + ty (to/toward); very much to/toward"
     },
     {
       "original": "qotchoiin",
@@ -1083,8 +1083,8 @@
     {
       "original": "qoty",
       "latin": "valde ad",
-      "confidence": 0.81,
-      "notes": "qo-prefix:direction marker"
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + ty (to/toward); very much to/toward"
     },
     {
       "original": "soiin",
@@ -1181,7 +1181,7 @@
     "total": 195,
     "known": 127,
     "unknown": 68,
-    "avg_confidence": 0.5568717948717948,
+    "avg_confidence": 0.5587179487179488,
     "coverage": 0.6512820512820513
   },
   "unknown_words": [
@@ -1203,7 +1203,6 @@
     "qotchol",
     "qoteydoiin",
     "qotoiin",
-    "qoty",
     "shear",
     "sheol",
     "sheyr",
@@ -1218,5 +1217,5 @@
     "teydoiin",
     "ytoy"
   ],
-  "translated_at": "2025-11-27T21:13:34.762234"
+  "translated_at": "2025-11-27T21:21:06.503319"
 }
