@@ -1,10 +1,10 @@
 {
   "folio_id": "031v",
   "section": "Astrological",
-  "context": "herbal",
+  "context": "astronomical",
   "voynich_text": "ytchos octhey okeeos cheody okeey kchody daiin cheody keedy ytchos ockhey okeeos cheody okeey keeody daiin cheody keedy ytchos acthey okeeos cheody okeey kchody daiin cheody kchdy dair cthedy qokedy okeody chedar oked al ockhedy okeedy otas dair cthedy qokedy okeody chedar okedal ockhedy okeedy otaj dair cthedy qokedy okeody chedar oked al ockhedy okeedy otam ykeos cheeoy ar aiin ykeos cheeoy oraiin yteos cheeoy ar aiin saiin ar ckheos chedy okeey qoear oraiin cheom saiin ar ckheos chedy okeey qoear oraiin cheam saiin ar ckheos chedy okeey qoair oraiin cheam",
-  "latin_text": "[ytchos] circa elementum [okeeos] [cheody] quando [kchody] ad [cheody] [keedy] [ytchos] herba parva [okeeos] [cheody] quando [keeody] ad [cheody] [keedy] [ytchos] [acthey] [okeeos] [cheody] quando [kchody] ad [cheody] [kchdy] gratia [cthedy] crescit [okeody] [chedar] [oked] ala [ockhedy] dum [otas] gratia [cthedy] crescit [okeody] [chedar] [okedal] [ockhedy] dum [otaj] gratia [cthedy] crescit [okeody] [chedar] [oked] ala [ockhedy] dum [otam] [ykeos] [cheeoy] et est [ykeos] [cheeoy] ordo est [yteos] [cheeoy] et est sine et [ckheos] in quando [qoear] ordo est [cheom] sine et [ckheos] in quando [qoear] ordo est [cheam] sine et [ckheos] in quando [qoair] ordo est [cheam]",
-  "english_text": "[ytchos] [circa] element [okeeos] [cheody] [quando] [kchody] to [cheody] [keedy] [ytchos] herb small [okeeos] [cheody] [quando] [keeody] to [cheody] [keedy] [ytchos] [acthey] [okeeos] [cheody] [quando] [kchody] to [cheody] [kchdy] grace [cthedy] grows [okeody] [chedar] [oked] wing [ockhedy] [dum] [otas] grace [cthedy] grows [okeody] [chedar] [okedal] [ockhedy] [dum] [otaj] grace [cthedy] grows [okeody] [chedar] [oked] wing [ockhedy] [dum] [otam] [ykeos] [cheeoy] and is [ykeos] [cheeoy] order is [yteos] [cheeoy] and is [sine] and [ckheos] in [quando] [qoear] order is [cheom] [sine] and [ckheos] in [quando] [qoear] order is [cheam] [sine] and [ckheos] in [quando] [qoair] order is [cheam].",
+  "latin_text": "[ytchos] circa elementum [okeeos] [cheody] quando [kchody] versus [cheody] [keedy] [ytchos] herba parva [okeeos] [cheody] quando [keeody] versus [cheody] [keedy] [ytchos] [acthey] [okeeos] [cheody] quando [kchody] versus [cheody] [kchdy] gratia [cthedy] lucet [okeody] [chedar] [oked] ala [ockhedy] dum [otas] gratia [cthedy] lucet [okeody] [chedar] [okedal] [ockhedy] dum [otaj] gratia [cthedy] lucet [okeody] [chedar] [oked] ala [ockhedy] dum [otam] [ykeos] [cheeoy] et est [ykeos] [cheeoy] ordo est [yteos] [cheeoy] et est sine et [ckheos] in quando [qoear] ordo est [cheom] sine et [ckheos] in quando [qoear] ordo est [cheam] sine et [ckheos] in quando [qoair] ordo est [cheam]",
+  "english_text": "[ytchos] [circa] element [okeeos] [cheody] [quando] [kchody] toward [cheody] [keedy] [ytchos] herb small [okeeos] [cheody] [quando] [keeody] toward [cheody] [keedy] [ytchos] [acthey] [okeeos] [cheody] [quando] [kchody] toward [cheody] [kchdy] grace [cthedy] [lucet] [okeody] [chedar] [oked] wing [ockhedy] [dum] [otas] grace [cthedy] [lucet] [okeody] [chedar] [okedal] [ockhedy] [dum] [otaj] grace [cthedy] [lucet] [okeody] [chedar] [oked] wing [ockhedy] [dum] [otam] [ykeos] [cheeoy] and is [ykeos] [cheeoy] order is [yteos] [cheeoy] and is [sine] and [ckheos] in [quando] [qoear] order is [cheom] [sine] and [ckheos] in [quando] [qoear] order is [cheam] [sine] and [ckheos] in [quando] [qoair] order is [cheam].",
   "word_translations": [
     {
       "original": "ytchos",
@@ -44,9 +44,9 @@
     },
     {
       "original": "daiin",
-      "latin": "ad",
+      "latin": "versus",
       "confidence": 0.8,
-      "notes": "polysemy:herbal section, directional to plant parts"
+      "notes": "polysemy:astronomical section, toward celestial bodies"
     },
     {
       "original": "cheody",
@@ -98,9 +98,9 @@
     },
     {
       "original": "daiin",
-      "latin": "ad",
+      "latin": "versus",
       "confidence": 0.8,
-      "notes": "polysemy:herbal section, directional to plant parts"
+      "notes": "polysemy:astronomical section, toward celestial bodies"
     },
     {
       "original": "cheody",
@@ -152,9 +152,9 @@
     },
     {
       "original": "daiin",
-      "latin": "ad",
+      "latin": "versus",
       "confidence": 0.8,
-      "notes": "polysemy:herbal section, directional to plant parts"
+      "notes": "polysemy:astronomical section, toward celestial bodies"
     },
     {
       "original": "cheody",
@@ -182,9 +182,9 @@
     },
     {
       "original": "qokedy",
-      "latin": "crescit",
+      "latin": "lucet",
       "confidence": 0.8,
-      "notes": "polysemy:herbal section, near plants"
+      "notes": "polysemy:astronomical section, near stars"
     },
     {
       "original": "okeody",
@@ -242,9 +242,9 @@
     },
     {
       "original": "qokedy",
-      "latin": "crescit",
+      "latin": "lucet",
       "confidence": 0.8,
-      "notes": "polysemy:herbal section, near plants"
+      "notes": "polysemy:astronomical section, near stars"
     },
     {
       "original": "okeody",
@@ -296,9 +296,9 @@
     },
     {
       "original": "qokedy",
-      "latin": "crescit",
+      "latin": "lucet",
       "confidence": 0.8,
-      "notes": "polysemy:herbal section, near plants"
+      "notes": "polysemy:astronomical section, near stars"
     },
     {
       "original": "okeody",
@@ -589,5 +589,5 @@
     "ytchos",
     "yteos"
   ],
-  "translated_at": "2025-11-27T21:54:18.532876"
+  "translated_at": "2025-11-27T22:32:03.454740"
 }

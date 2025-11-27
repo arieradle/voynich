@@ -2338,14 +2338,6 @@ voynich_decipherment_rules:
   - word: olaiin
     latin: ille est
     description: ol (that/it) + aiin (is/state marker); that is, demonstrative statement
-  - word: she
-    latin: iste
-    description: sh- location prefix + e element, demonstrative pronoun; appears near
-      shy (hic), shol (locus)
-  - word: cheol
-    latin: folia
-    description: che- botanical variation + ol location; leaf variation, strongly
-      associated with chol (plant part)
   polysemy:
   - word: qokedy
     meanings:

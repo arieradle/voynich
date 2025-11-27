@@ -71,6 +71,18 @@ tool_configurations:
     when: ["gap_analysis", "pattern_detection"]
     default_args: "--min-freq 5 --format json"
     
+  neighbor_tracker:
+    script: "scripts/neighbor_tracker.py"
+    when: ["post_translation", "dictionary_update", "gap_analysis"]
+    default_args: "--export data/word_neighbors.json --top-n 15"
+    note: "Rebuild neighbor database after translations or dictionary changes"
+    
+  neighbor_query:
+    script: "scripts/neighbor_query.py"
+    when: ["vocabulary_proposal", "context_analysis"]
+    default_args: ""
+    note: "Fast lookups from neighbor database for collocation analysis"
+    
   morphology_analyzer:
     script: "scripts/morphology_analyzer.py"
     when: ["vocabulary_proposal", "compound_analysis"]

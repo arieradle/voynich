@@ -1,0 +1,85 @@
+{
+  "iteration": 9,
+  "date": "2025-11-27",
+  "focus": "Folios with highest unknown counts (q01 Herbal A primarily)",
+  "analyst": "AI Research Agent",
+  
+  "proposals": [
+    {
+      "word": "she",
+      "latin": "iste",
+      "description": "sh- location prefix + e element, demonstrative pronoun; appears near shy (hic), shol (locus)",
+      "frequency": 10,
+      "confidence": 0.75,
+      "sections": ["Pharmaceutical", "Herbal A", "Astrological", "Biological"],
+      "reasoning": "Strongly associated with sh- location words (shy, sho, shol). Pattern matches demonstrative function. Neighbors include shol (4x), kodshey (4x), sheaiin (4x).",
+      "morphology": "sh- (location) + -e (element marker)",
+      "tier": 1,
+      "similar_words": ["shy (hic)", "sho (hic facit)", "shol (locus)"],
+      "example_contexts": [
+        "cthey she oldain shoy",
+        "shol she kodshey cphealy"
+      ]
+    },
+    {
+      "word": "cheol",
+      "latin": "folia",
+      "description": "che- botanical variation + ol location; leaf variation, strongly associated with chol (plant part)",
+      "frequency": 12,
+      "confidence": 0.70,
+      "sections": ["Pharmaceutical", "Herbal A", "Astrological", "Biological"],
+      "reasoning": "Very strongly associated with chol (15x neighbor). Similar to cheor (variat), cheod (pars variat). All che- words relate to botanical variation/elements.",
+      "morphology": "che- (botanical variation) + -ol (location/part)",
+      "tier": 1,
+      "similar_words": ["cheor (variat)", "cheod (pars variat)", "chol (pars/caulis)"],
+      "example_contexts": [
+        "choies cheol dol cthey",
+        "chor cheol chol dolody"
+      ]
+    },
+    {
+      "word": "ctho",
+      "latin": "tangit",
+      "description": "ct- touch prefix + ho action; touches/makes contact, appears in descriptive passages",
+      "frequency": 14,
+      "confidence": 0.65,
+      "sections": ["Pharmaceutical", "Herbal A", "Astrological", "Biological"],
+      "reasoning": "Similar to cho (facit) but with 't' insertion. Neighbors include daiin (9x), sho (4x), shy (3x). Pattern suggests contact/touching action.",
+      "morphology": "ct- (touch) + -ho (action marker)",
+      "tier": 2,
+      "similar_words": ["cho (facit)", "cthy (terra)", "tchy (touches)"],
+      "example_contexts": [
+        "cthy ctho qotaiincthey",
+        "otam ctho mdy lorchor",
+        "cholal ctho cthey shol"
+      ]
+    },
+    {
+      "word": "chan",
+      "latin": "planta",
+      "description": "ch- botanical + an suffix; plant/herbal reference in formulaic contexts",
+      "frequency": 11,
+      "confidence": 0.65,
+      "sections": ["Pharmaceutical", "Herbal A", "Astrological", "Biological"],
+      "reasoning": "Appears in formulaic contexts with dor (6x), otchor (4x), daiin (4x). ch- prefix (botanical) confirmed. Similar to chai (alius).",
+      "morphology": "ch- (botanical) + -an (noun suffix)",
+      "tier": 2,
+      "similar_words": ["chai (alius)", "char (planta et)", "chal (folii ala)"],
+      "example_contexts": [
+        "otochor alshodaiinchol chan otochor",
+        "otchor chan dor chol"
+      ]
+    }
+  ],
+  
+  "summary": {
+    "total_proposals": 4,
+    "tier_1_count": 2,
+    "tier_2_count": 2,
+    "total_occurrences": 47,
+    "estimated_coverage_gain": "1.5% to 2.0%",
+    "target_folios": ["q01_f001r", "q01_f006v", "q01_f008r", "q01_f003v"]
+  },
+  
+  "recommendation": "Add Tier 1 words (she, cheol) immediately - 22 occurrences, high confidence. Review Tier 2 (ctho, chan) with human validation - 25 occurrences, moderate confidence."
+}

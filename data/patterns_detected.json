@@ -1,10 +1,124 @@
 {
   "repeated_sequences": [
     {
+      "sequence": "{plant} {plant}",
+      "words": [
+        "{plant}",
+        "{plant}"
+      ],
+      "count": 12,
+      "length": 2
+    },
+    {
+      "sequence": "{plant} {plant} {plant}",
+      "words": [
+        "{plant}",
+        "{plant}",
+        "{plant}"
+      ],
+      "count": 9,
+      "length": 3
+    },
+    {
+      "sequence": "{plant} {plant} {plant} {plant}",
+      "words": [
+        "{plant}",
+        "{plant}",
+        "{plant}",
+        "{plant}"
+      ],
+      "count": 6,
+      "length": 4
+    },
+    {
+      "sequence": "{plant} {plant} {plant} {plant} {plant}",
+      "words": [
+        "{plant}",
+        "{plant}",
+        "{plant}",
+        "{plant}",
+        "{plant}"
+      ],
+      "count": 4,
+      "length": 5
+    },
+    {
+      "sequence": "{plant}ytam.otam.cham- {plant}ytam.otam.cham-",
+      "words": [
+        "{plant}ytam.otam.cham-",
+        "{plant}ytam.otam.cham-"
+      ],
+      "count": 3,
+      "length": 2
+    },
+    {
+      "sequence": "{plant}okain.dal.dy- {plant}okain.dal.dy-",
+      "words": [
+        "{plant}okain.dal.dy-",
+        "{plant}okain.dal.dy-"
+      ],
+      "count": 3,
+      "length": 2
+    },
+    {
       "sequence": "{plant}chol.cthol.chody.chol.daiin- {plant}chol.cthol.chody.chol.daiin-",
       "words": [
         "{plant}chol.cthol.chody.chol.daiin-",
         "{plant}chol.cthol.chody.chol.daiin-"
+      ],
+      "count": 3,
+      "length": 2
+    },
+    {
+      "sequence": "{plant}cho.shy.daiin- {plant}cho.shy.daiin-",
+      "words": [
+        "{plant}cho.shy.daiin-",
+        "{plant}cho.shy.daiin-"
+      ],
+      "count": 3,
+      "length": 2
+    },
+    {
+      "sequence": "{plant}shody- {plant}shody-",
+      "words": [
+        "{plant}shody-",
+        "{plant}shody-"
+      ],
+      "count": 3,
+      "length": 2
+    },
+    {
+      "sequence": "{plant}chy.cthody.dol- {plant}chy.cthody.dol-",
+      "words": [
+        "{plant}chy.cthody.dol-",
+        "{plant}chy.cthody.dol-"
+      ],
+      "count": 3,
+      "length": 2
+    },
+    {
+      "sequence": "tchdaiin.chekal.shedy.qokedar.chdaiin.oldar.qoldar.chedy.daiin.otam- tchdaiin.chekal.shedy.qokedar.chdaiin.oldar.qoldar.chedy.daiin.otam-",
+      "words": [
+        "tchdaiin.chekal.shedy.qokedar.chdaiin.oldar.qoldar.chedy.daiin.otam-",
+        "tchdaiin.chekal.shedy.qokedar.chdaiin.oldar.qoldar.chedy.daiin.otam-"
+      ],
+      "count": 3,
+      "length": 2
+    },
+    {
+      "sequence": "{plant}daiin.cthol- {plant}daiin.cthol-",
+      "words": [
+        "{plant}daiin.cthol-",
+        "{plant}daiin.cthol-"
+      ],
+      "count": 3,
+      "length": 2
+    },
+    {
+      "sequence": "{plant}opchordy-{plant} {plant}opchordy-{plant}",
+      "words": [
+        "{plant}opchordy-{plant}",
+        "{plant}opchordy-{plant}"
       ],
       "count": 3,
       "length": 2
@@ -21,10 +135,82 @@
   ],
   "word_pairs": [
     {
+      "pair": "{plant} {plant}",
+      "words": [
+        "{plant}",
+        "{plant}"
+      ],
+      "count": 12
+    },
+    {
+      "pair": "{plant}ytam.otam.cham- {plant}ytam.otam.cham-",
+      "words": [
+        "{plant}ytam.otam.cham-",
+        "{plant}ytam.otam.cham-"
+      ],
+      "count": 3
+    },
+    {
+      "pair": "{plant}okain.dal.dy- {plant}okain.dal.dy-",
+      "words": [
+        "{plant}okain.dal.dy-",
+        "{plant}okain.dal.dy-"
+      ],
+      "count": 3
+    },
+    {
       "pair": "{plant}chol.cthol.chody.chol.daiin- {plant}chol.cthol.chody.chol.daiin-",
       "words": [
         "{plant}chol.cthol.chody.chol.daiin-",
         "{plant}chol.cthol.chody.chol.daiin-"
+      ],
+      "count": 3
+    },
+    {
+      "pair": "{plant}cho.shy.daiin- {plant}cho.shy.daiin-",
+      "words": [
+        "{plant}cho.shy.daiin-",
+        "{plant}cho.shy.daiin-"
+      ],
+      "count": 3
+    },
+    {
+      "pair": "{plant}shody- {plant}shody-",
+      "words": [
+        "{plant}shody-",
+        "{plant}shody-"
+      ],
+      "count": 3
+    },
+    {
+      "pair": "{plant}chy.cthody.dol- {plant}chy.cthody.dol-",
+      "words": [
+        "{plant}chy.cthody.dol-",
+        "{plant}chy.cthody.dol-"
+      ],
+      "count": 3
+    },
+    {
+      "pair": "tchdaiin.chekal.shedy.qokedar.chdaiin.oldar.qoldar.chedy.daiin.otam- tchdaiin.chekal.shedy.qokedar.chdaiin.oldar.qoldar.chedy.daiin.otam-",
+      "words": [
+        "tchdaiin.chekal.shedy.qokedar.chdaiin.oldar.qoldar.chedy.daiin.otam-",
+        "tchdaiin.chekal.shedy.qokedar.chdaiin.oldar.qoldar.chedy.daiin.otam-"
+      ],
+      "count": 3
+    },
+    {
+      "pair": "{plant}daiin.cthol- {plant}daiin.cthol-",
+      "words": [
+        "{plant}daiin.cthol-",
+        "{plant}daiin.cthol-"
+      ],
+      "count": 3
+    },
+    {
+      "pair": "{plant}opchordy-{plant} {plant}opchordy-{plant}",
+      "words": [
+        "{plant}opchordy-{plant}",
+        "{plant}opchordy-{plant}"
       ],
       "count": 3
     },
@@ -37,5 +223,15 @@
       "count": 3
     }
   ],
-  "word_triplets": []
+  "word_triplets": [
+    {
+      "triplet": "{plant} {plant} {plant}",
+      "words": [
+        "{plant}",
+        "{plant}",
+        "{plant}"
+      ],
+      "count": 9
+    }
+  ]
 }

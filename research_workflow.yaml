@@ -44,6 +44,15 @@ phases:
           - "file_generated"
           - "words_ranked_by_priority"
         
+      - step: 1.3b
+        name: "update_neighbor_database"
+        action: "Rebuild neighbor tracking database with current translations"
+        script: "scripts/neighbor_tracker.py --export data/word_neighbors.json --top-n 15"
+        output: "data/word_neighbors.json"
+        success_criteria:
+          - "neighbor_db_updated"
+        note: "Run this after any new translations or dictionary updates"
+        
       - step: 1.4
         name: "detect_patterns"
         action: "Find repeated patterns and formulaic phrases"
@@ -91,6 +100,14 @@ phases:
         success_criteria:
           - "decompositions_generated"
           - "confidence_scores_calculated"
+      
+      - step: 2.1b
+        name: "neighbor_context_analysis"
+        action: "Analyze collocations for unknown words using neighbor database"
+        script: "scripts/neighbor_query.py --find-with [UNKNOWN_WORD]"
+        note: "Use neighbor database to find similar usage patterns"
+        success_criteria:
+          - "neighbor_patterns_identified"
         
       - step: 2.2
         name: "compound_decomposition"
@@ -443,6 +460,8 @@ scripts:
   compound_decomposer: "scripts/compound_decomposer.py"
   iteration_orchestrator: "scripts/iteration_orchestrator.py"
   validation_checker: "scripts/validation_checker.py"
+  neighbor_tracker: "scripts/neighbor_tracker.py"
+  neighbor_query: "scripts/neighbor_query.py"
   translate_folio: "translate_folio.py"
   analyze_gaps: "analyze_gaps.py"
 
