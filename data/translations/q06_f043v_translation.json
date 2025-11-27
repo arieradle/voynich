@@ -1,0 +1,1244 @@
+{
+  "folio_id": "043v",
+  "section": "q06",
+  "context": "all",
+  "voynich_text": "dshey ykeedy chees aiin chy qocthedy chey qokar checkhy okam dshey ykeedy chees ain shy qocthedy chey qokar checkhy okam dshey ykeedy chees ain chy qocthedy chey qokar checkhy okam derey ykeedy chees aiin chy qocthedy chey qokar checkhy okam dshey ykeedy cheesain chy qocthedy chey qokar checkhy okam qokchedy or alody otedol chcthdy chtey qokchedy oralody otedol chcthdy chtey qokchedy or alody otedol chcthdy chtey qokchedy oralody otedol chcthdy chtey ytshedy ykeody oykeedy chedy tedy chcthy otam ot ytaiin otas ytshedy ykeody oykeedy chedy tedy chcthy otam ot ytaiin otar ytshedy ykeody oykeedy chedy tedy chcthy%%%%%%%%%%%%%%%%%%%% ytshedy ykeody oykeedy chedy tedy chcthy otam ot ytaiin otar yteedy olos aiin ockhy yteedy olos aiin ockhy yteedy olos aiin ockhy teedy olos aiin ocfhy ytchdy olos aiin ockhy oteod qolkeey kaldy chy darod qokeey kol dary taros oteod qolkeey kaldy chy darody qokeey kol dary taros oteod qolkeey taldy chy darody qokeey kol dary taros oteod qoekeey taldy chy darody qokeey kol dary taros oteod qolkeeytaldy chy darody qokeey koldarytaros ol eees aiin oloaiin oteos qoky chey ol eees aiin oloaiin oteos qoky chey ol eees aiin oloaiin oteos qoky chey ol eees aiin oloaiin oteor qoky chey",
+  "latin_text": "[dshey] [ykeedy] [chees] est in [qocthedy] elementum gustat [checkhy] [okam] [dshey] [ykeedy] [chees] erat hic [qocthedy] elementum gustat [checkhy] [okam] [dshey] [ykeedy] [chees] erat in [qocthedy] elementum gustat [checkhy] [okam] [derey] [ykeedy] [chees] est in [qocthedy] elementum gustat [checkhy] [okam] [dshey] [ykeedy] [cheesain] in [qocthedy] elementum gustat [checkhy] [okam] [qokchedy] ordo [alody] [otedol] [chcthdy] parvum [qokchedy] [oralody] [otedol] [chcthdy] parvum [qokchedy] ordo [alody] [otedol] [chcthdy] parvum [qokchedy] [oralody] [otedol] [chcthdy] parvum [ytshedy] [ykeody] [oykeedy] in tangit movet terram inspicit [otam] ex ad erat [otas] [ytshedy] [ykeody] [oykeedy] in tangit movet terram inspicit [otam] ex ad erat ex et [ytshedy] [ykeody] [oykeedy] in tangit movet [chcthy%%%%%%%%%%%%%%%%%%%%] [ytshedy] [ykeody] [oykeedy] in tangit movet terram inspicit [otam] ex ad erat ex et [yteedy] [olos] est herba in [yteedy] [olos] est herba in [yteedy] [olos] est herba in [teedy] [olos] est [ocfhy] [ytchdy] [olos] est herba in [oteod] [qolkeey] [kaldy] in [darod] iterum cum [dary] [taros] [oteod] [qolkeey] [kaldy] in materia iterum cum [dary] [taros] [oteod] [qolkeey] [taldy] in materia iterum cum [dary] [taros] [oteod] [qoekeey] [taldy] in materia iterum cum [dary] [taros] [oteod] [qolkeeytaldy] in materia iterum [koldarytaros] omnis [eees] est [oloaiin] [oteos] valde et elementum omnis [eees] est [oloaiin] [oteos] valde et elementum omnis [eees] est [oloaiin] [oteos] valde et elementum omnis [eees] est [oloaiin] ex ordo valde et elementum",
+  "english_text": "[dshey] [ykeedy] [chees] is in [qocthedy] element [gustat] [checkhy] [okam] [dshey] [ykeedy] [chees] was here [qocthedy] element [gustat] [checkhy] [okam] [dshey] [ykeedy] [chees] was in [qocthedy] element [gustat] [checkhy] [okam] [derey] [ykeedy] [chees] is in [qocthedy] element [gustat] [checkhy] [okam] [dshey] [ykeedy] [cheesain] in [qocthedy] element [gustat] [checkhy] [okam] [qokchedy] order [alody] [otedol] [chcthdy] small [qokchedy] [oralody] [otedol] [chcthdy] small [qokchedy] order [alody] [otedol] [chcthdy] small [qokchedy] [oralody] [otedol] [chcthdy] small [ytshedy] [ykeody] [oykeedy] in touches moves earth examines [otam] from to was [otas] [ytshedy] [ykeody] [oykeedy] in touches moves earth examines [otam] from to was from and [ytshedy] [ykeody] [oykeedy] in touches moves [chcthy%%%%%%%%%%%%%%%%%%%%] [ytshedy] [ykeody] [oykeedy] in touches moves earth examines [otam] from to was from and [yteedy] [olos] is herb in [yteedy] [olos] is herb in [yteedy] [olos] is herb in [teedy] [olos] is [ocfhy] [ytchdy] [olos] is herb in [oteod] [qolkeey] [kaldy] in [darod] [iterum] with [dary] [taros] [oteod] [qolkeey] [kaldy] in matter [iterum] with [dary] [taros] [oteod] [qolkeey] [taldy] in matter [iterum] with [dary] [taros] [oteod] [qoekeey] [taldy] in matter [iterum] with [dary] [taros] [oteod] [qolkeeytaldy] in matter [iterum] [koldarytaros] all [eees] is [oloaiin] [oteos] very and element all [eees] is [oloaiin] [oteos] very and element all [eees] is [oloaiin] [oteos] very and element all [eees] is [oloaiin] from order very and element.",
+  "word_translations": [
+    {
+      "original": "dshey",
+      "latin": "[dshey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ykeedy",
+      "latin": "[ykeedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chees",
+      "latin": "[chees]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "chy",
+      "latin": "in",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "qocthedy",
+      "latin": "[qocthedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chey",
+      "latin": "elementum",
+      "confidence": 0.9,
+      "notes": "ch- + ey, botanical element"
+    },
+    {
+      "original": "qokar",
+      "latin": "gustat",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, juice context"
+    },
+    {
+      "original": "checkhy",
+      "latin": "[checkhy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okam",
+      "latin": "[okam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dshey",
+      "latin": "[dshey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ykeedy",
+      "latin": "[ykeedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chees",
+      "latin": "[chees]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ain",
+      "latin": "erat",
+      "confidence": 0.9,
+      "notes": "suffix marker for state/being/past"
+    },
+    {
+      "original": "shy",
+      "latin": "hic",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "qocthedy",
+      "latin": "[qocthedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chey",
+      "latin": "elementum",
+      "confidence": 0.9,
+      "notes": "ch- + ey, botanical element"
+    },
+    {
+      "original": "qokar",
+      "latin": "gustat",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, juice context"
+    },
+    {
+      "original": "checkhy",
+      "latin": "[checkhy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okam",
+      "latin": "[okam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dshey",
+      "latin": "[dshey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ykeedy",
+      "latin": "[ykeedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chees",
+      "latin": "[chees]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ain",
+      "latin": "erat",
+      "confidence": 0.9,
+      "notes": "suffix marker for state/being/past"
+    },
+    {
+      "original": "chy",
+      "latin": "in",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "qocthedy",
+      "latin": "[qocthedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chey",
+      "latin": "elementum",
+      "confidence": 0.9,
+      "notes": "ch- + ey, botanical element"
+    },
+    {
+      "original": "qokar",
+      "latin": "gustat",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, juice context"
+    },
+    {
+      "original": "checkhy",
+      "latin": "[checkhy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okam",
+      "latin": "[okam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "derey",
+      "latin": "[derey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ykeedy",
+      "latin": "[ykeedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chees",
+      "latin": "[chees]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "chy",
+      "latin": "in",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "qocthedy",
+      "latin": "[qocthedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chey",
+      "latin": "elementum",
+      "confidence": 0.9,
+      "notes": "ch- + ey, botanical element"
+    },
+    {
+      "original": "qokar",
+      "latin": "gustat",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, juice context"
+    },
+    {
+      "original": "checkhy",
+      "latin": "[checkhy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okam",
+      "latin": "[okam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dshey",
+      "latin": "[dshey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ykeedy",
+      "latin": "[ykeedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheesain",
+      "latin": "[cheesain]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chy",
+      "latin": "in",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "qocthedy",
+      "latin": "[qocthedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chey",
+      "latin": "elementum",
+      "confidence": 0.9,
+      "notes": "ch- + ey, botanical element"
+    },
+    {
+      "original": "qokar",
+      "latin": "gustat",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, juice context"
+    },
+    {
+      "original": "checkhy",
+      "latin": "[checkhy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okam",
+      "latin": "[okam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokchedy",
+      "latin": "[qokchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "or",
+      "latin": "ordo",
+      "confidence": 0.9,
+      "notes": "short connector, order/arrangement"
+    },
+    {
+      "original": "alody",
+      "latin": "[alody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otedol",
+      "latin": "[otedol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chcthdy",
+      "latin": "[chcthdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chtey",
+      "latin": "parvum",
+      "confidence": 0.9,
+      "notes": "systematic word family: ch- prefix pattern"
+    },
+    {
+      "original": "qokchedy",
+      "latin": "[qokchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oralody",
+      "latin": "[oralody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otedol",
+      "latin": "[otedol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chcthdy",
+      "latin": "[chcthdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chtey",
+      "latin": "parvum",
+      "confidence": 0.9,
+      "notes": "systematic word family: ch- prefix pattern"
+    },
+    {
+      "original": "qokchedy",
+      "latin": "[qokchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "or",
+      "latin": "ordo",
+      "confidence": 0.9,
+      "notes": "short connector, order/arrangement"
+    },
+    {
+      "original": "alody",
+      "latin": "[alody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otedol",
+      "latin": "[otedol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chcthdy",
+      "latin": "[chcthdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chtey",
+      "latin": "parvum",
+      "confidence": 0.9,
+      "notes": "systematic word family: ch- prefix pattern"
+    },
+    {
+      "original": "qokchedy",
+      "latin": "[qokchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oralody",
+      "latin": "[oralody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otedol",
+      "latin": "[otedol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chcthdy",
+      "latin": "[chcthdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chtey",
+      "latin": "parvum",
+      "confidence": 0.9,
+      "notes": "systematic word family: ch- prefix pattern"
+    },
+    {
+      "original": "ytshedy",
+      "latin": "[ytshedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ykeody",
+      "latin": "[ykeody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oykeedy",
+      "latin": "[oykeedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chedy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "frequent, fits preposition; containment"
+    },
+    {
+      "original": "tedy",
+      "latin": "tangit movet",
+      "confidence": 0.9,
+      "notes": "systematic word family: te- prefix pattern"
+    },
+    {
+      "original": "chcthy",
+      "latin": "terram inspicit",
+      "confidence": 0.9,
+      "notes": "ch- + cthy (earth), checking/examining earth"
+    },
+    {
+      "original": "otam",
+      "latin": "[otam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ot",
+      "latin": "ex",
+      "confidence": 0.9,
+      "notes": "short, frequent, suits preposition; source"
+    },
+    {
+      "original": "ytaiin",
+      "latin": "ad erat",
+      "confidence": 0.9,
+      "notes": "y- + taiin, directional with state"
+    },
+    {
+      "original": "otas",
+      "latin": "[otas]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ytshedy",
+      "latin": "[ytshedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ykeody",
+      "latin": "[ykeody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oykeedy",
+      "latin": "[oykeedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chedy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "frequent, fits preposition; containment"
+    },
+    {
+      "original": "tedy",
+      "latin": "tangit movet",
+      "confidence": 0.9,
+      "notes": "systematic word family: te- prefix pattern"
+    },
+    {
+      "original": "chcthy",
+      "latin": "terram inspicit",
+      "confidence": 0.9,
+      "notes": "ch- + cthy (earth), checking/examining earth"
+    },
+    {
+      "original": "otam",
+      "latin": "[otam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ot",
+      "latin": "ex",
+      "confidence": 0.9,
+      "notes": "short, frequent, suits preposition; source"
+    },
+    {
+      "original": "ytaiin",
+      "latin": "ad erat",
+      "confidence": 0.9,
+      "notes": "y- + taiin, directional with state"
+    },
+    {
+      "original": "otar",
+      "latin": "ex et",
+      "confidence": 0.9,
+      "notes": "ot (from) + ar (and), from and"
+    },
+    {
+      "original": "ytshedy",
+      "latin": "[ytshedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ykeody",
+      "latin": "[ykeody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oykeedy",
+      "latin": "[oykeedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chedy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "frequent, fits preposition; containment"
+    },
+    {
+      "original": "tedy",
+      "latin": "tangit movet",
+      "confidence": 0.9,
+      "notes": "systematic word family: te- prefix pattern"
+    },
+    {
+      "original": "chcthy%%%%%%%%%%%%%%%%%%%%",
+      "latin": "[chcthy%%%%%%%%%%%%%%%%%%%%]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ytshedy",
+      "latin": "[ytshedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ykeody",
+      "latin": "[ykeody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oykeedy",
+      "latin": "[oykeedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chedy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "frequent, fits preposition; containment"
+    },
+    {
+      "original": "tedy",
+      "latin": "tangit movet",
+      "confidence": 0.9,
+      "notes": "systematic word family: te- prefix pattern"
+    },
+    {
+      "original": "chcthy",
+      "latin": "terram inspicit",
+      "confidence": 0.9,
+      "notes": "ch- + cthy (earth), checking/examining earth"
+    },
+    {
+      "original": "otam",
+      "latin": "[otam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ot",
+      "latin": "ex",
+      "confidence": 0.9,
+      "notes": "short, frequent, suits preposition; source"
+    },
+    {
+      "original": "ytaiin",
+      "latin": "ad erat",
+      "confidence": 0.9,
+      "notes": "y- + taiin, directional with state"
+    },
+    {
+      "original": "otar",
+      "latin": "ex et",
+      "confidence": 0.9,
+      "notes": "ot (from) + ar (and), from and"
+    },
+    {
+      "original": "yteedy",
+      "latin": "[yteedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "olos",
+      "latin": "[olos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "ockhy",
+      "latin": "herba in",
+      "confidence": 0.9,
+      "notes": "ck- + hy, botanical compound"
+    },
+    {
+      "original": "yteedy",
+      "latin": "[yteedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "olos",
+      "latin": "[olos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "ockhy",
+      "latin": "herba in",
+      "confidence": 0.9,
+      "notes": "ck- + hy, botanical compound"
+    },
+    {
+      "original": "yteedy",
+      "latin": "[yteedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "olos",
+      "latin": "[olos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "ockhy",
+      "latin": "herba in",
+      "confidence": 0.9,
+      "notes": "ck- + hy, botanical compound"
+    },
+    {
+      "original": "teedy",
+      "latin": "[teedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "olos",
+      "latin": "[olos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "ocfhy",
+      "latin": "[ocfhy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ytchdy",
+      "latin": "[ytchdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "olos",
+      "latin": "[olos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "ockhy",
+      "latin": "herba in",
+      "confidence": 0.9,
+      "notes": "ck- + hy, botanical compound"
+    },
+    {
+      "original": "oteod",
+      "latin": "[oteod]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qolkeey",
+      "latin": "[qolkeey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "kaldy",
+      "latin": "[kaldy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chy",
+      "latin": "in",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "darod",
+      "latin": "[darod]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokeey",
+      "latin": "iterum",
+      "confidence": 0.9,
+      "notes": "again"
+    },
+    {
+      "original": "kol",
+      "latin": "cum",
+      "confidence": 0.9,
+      "notes": "frequent in herbal folios, appears with plant descriptions"
+    },
+    {
+      "original": "dary",
+      "latin": "[dary]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "taros",
+      "latin": "[taros]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oteod",
+      "latin": "[oteod]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qolkeey",
+      "latin": "[qolkeey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "kaldy",
+      "latin": "[kaldy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chy",
+      "latin": "in",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "darody",
+      "latin": "materia",
+      "confidence": 0.9,
+      "notes": "material/substance"
+    },
+    {
+      "original": "qokeey",
+      "latin": "iterum",
+      "confidence": 0.9,
+      "notes": "again"
+    },
+    {
+      "original": "kol",
+      "latin": "cum",
+      "confidence": 0.9,
+      "notes": "frequent in herbal folios, appears with plant descriptions"
+    },
+    {
+      "original": "dary",
+      "latin": "[dary]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "taros",
+      "latin": "[taros]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oteod",
+      "latin": "[oteod]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qolkeey",
+      "latin": "[qolkeey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "taldy",
+      "latin": "[taldy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chy",
+      "latin": "in",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "darody",
+      "latin": "materia",
+      "confidence": 0.9,
+      "notes": "material/substance"
+    },
+    {
+      "original": "qokeey",
+      "latin": "iterum",
+      "confidence": 0.9,
+      "notes": "again"
+    },
+    {
+      "original": "kol",
+      "latin": "cum",
+      "confidence": 0.9,
+      "notes": "frequent in herbal folios, appears with plant descriptions"
+    },
+    {
+      "original": "dary",
+      "latin": "[dary]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "taros",
+      "latin": "[taros]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oteod",
+      "latin": "[oteod]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qoekeey",
+      "latin": "[qoekeey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "taldy",
+      "latin": "[taldy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chy",
+      "latin": "in",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "darody",
+      "latin": "materia",
+      "confidence": 0.9,
+      "notes": "material/substance"
+    },
+    {
+      "original": "qokeey",
+      "latin": "iterum",
+      "confidence": 0.9,
+      "notes": "again"
+    },
+    {
+      "original": "kol",
+      "latin": "cum",
+      "confidence": 0.9,
+      "notes": "frequent in herbal folios, appears with plant descriptions"
+    },
+    {
+      "original": "dary",
+      "latin": "[dary]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "taros",
+      "latin": "[taros]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oteod",
+      "latin": "[oteod]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qolkeeytaldy",
+      "latin": "[qolkeeytaldy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chy",
+      "latin": "in",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "darody",
+      "latin": "materia",
+      "confidence": 0.9,
+      "notes": "material/substance"
+    },
+    {
+      "original": "qokeey",
+      "latin": "iterum",
+      "confidence": 0.9,
+      "notes": "again"
+    },
+    {
+      "original": "koldarytaros",
+      "latin": "[koldarytaros]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ol",
+      "latin": "omnis",
+      "confidence": 0.8,
+      "notes": "polysemy:quantitative, all/every"
+    },
+    {
+      "original": "eees",
+      "latin": "[eees]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "oloaiin",
+      "latin": "[oloaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oteos",
+      "latin": "[oteos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qoky",
+      "latin": "valde et",
+      "confidence": 0.9,
+      "notes": "qo- (intensifier) + ky (and), intensified connector, appears 17x"
+    },
+    {
+      "original": "chey",
+      "latin": "elementum",
+      "confidence": 0.9,
+      "notes": "ch- + ey, botanical element"
+    },
+    {
+      "original": "ol",
+      "latin": "omnis",
+      "confidence": 0.8,
+      "notes": "polysemy:quantitative, all/every"
+    },
+    {
+      "original": "eees",
+      "latin": "[eees]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "oloaiin",
+      "latin": "[oloaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oteos",
+      "latin": "[oteos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qoky",
+      "latin": "valde et",
+      "confidence": 0.9,
+      "notes": "qo- (intensifier) + ky (and), intensified connector, appears 17x"
+    },
+    {
+      "original": "chey",
+      "latin": "elementum",
+      "confidence": 0.9,
+      "notes": "ch- + ey, botanical element"
+    },
+    {
+      "original": "ol",
+      "latin": "omnis",
+      "confidence": 0.8,
+      "notes": "polysemy:quantitative, all/every"
+    },
+    {
+      "original": "eees",
+      "latin": "[eees]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "oloaiin",
+      "latin": "[oloaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oteos",
+      "latin": "[oteos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qoky",
+      "latin": "valde et",
+      "confidence": 0.9,
+      "notes": "qo- (intensifier) + ky (and), intensified connector, appears 17x"
+    },
+    {
+      "original": "chey",
+      "latin": "elementum",
+      "confidence": 0.9,
+      "notes": "ch- + ey, botanical element"
+    },
+    {
+      "original": "ol",
+      "latin": "omnis",
+      "confidence": 0.8,
+      "notes": "polysemy:quantitative, all/every"
+    },
+    {
+      "original": "eees",
+      "latin": "[eees]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "oloaiin",
+      "latin": "[oloaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oteor",
+      "latin": "ex ordo",
+      "confidence": 0.9,
+      "notes": "systematic word family: ot- prefix pattern"
+    },
+    {
+      "original": "qoky",
+      "latin": "valde et",
+      "confidence": 0.9,
+      "notes": "qo- (intensifier) + ky (and), intensified connector, appears 17x"
+    },
+    {
+      "original": "chey",
+      "latin": "elementum",
+      "confidence": 0.9,
+      "notes": "ch- + ey, botanical element"
+    }
+  ],
+  "statistics": {
+    "total": 197,
+    "known": 88,
+    "unknown": 109,
+    "avg_confidence": 0.37664974619289343,
+    "coverage": 0.4467005076142132
+  },
+  "unknown_words": [
+    "alody",
+    "chcthdy",
+    "chcthy%%%%%%%%%%%%%%%%%%%%",
+    "checkhy",
+    "chees",
+    "cheesain",
+    "cthedy",
+    "darod",
+    "dary",
+    "derey",
+    "dshey",
+    "eees",
+    "ekeey",
+    "kaldy",
+    "kchedy",
+    "koldarytaros",
+    "lkeey",
+    "lkeeytaldy",
+    "ocfhy",
+    "okam",
+    "oloaiin",
+    "olos",
+    "oralody",
+    "otam",
+    "otas",
+    "otedol",
+    "oteod",
+    "oteos",
+    "oykeedy",
+    "qocthedy",
+    "qoekeey",
+    "qokchedy",
+    "qolkeey",
+    "qolkeeytaldy",
+    "taldy",
+    "taros",
+    "teedy",
+    "ykeedy",
+    "ykeody",
+    "ytchdy",
+    "yteedy",
+    "ytshedy"
+  ],
+  "translated_at": "2025-11-27T22:55:03.277264"
+}

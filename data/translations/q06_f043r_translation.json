@@ -1,0 +1,475 @@
+{
+  "folio_id": "043r",
+  "section": "q06",
+  "context": "all",
+  "voynich_text": "kchedy chedy daly cheody cheolkeepchy kchedy chedy daly cheody cheolkeepchy kchedy chedy daly cheody cheol keepchy kchedy chedy dala cheody cheol keepchy kchedy chedy daly cheody cheolkeepchy dshedy qotedy dor cheey odain dshedy qotedy dor cheey odain dshedy qotedy dor cheey odain dshedy qotedy dor cheey odain ykeody checkhy chotehy odain chckhhhy chokor aiin ykeody checkhy choteey odain chckheey chokoraiin ykeody checkhy choteey odain chckhey choko raiin ykeody checkhy choteey odain chckheey chokoraiin",
+  "latin_text": "[kchedy] in [daly] [cheody] [cheolkeepchy] [kchedy] in [daly] [cheody] [cheolkeepchy] [kchedy] in [daly] [cheody] folia [keepchy] [kchedy] in ala [cheody] folia [keepchy] [kchedy] in [daly] [cheody] [cheolkeepchy] [dshedy] valde tangit movet ordinat parvum dat erat [dshedy] valde tangit movet ordinat parvum dat erat [dshedy] valde tangit movet ordinat parvum dat erat [dshedy] valde tangit movet ordinat parvum dat erat [ykeody] [checkhy] [chotehy] dat erat [chckhhhy] [chokor] est [ykeody] [checkhy] [choteey] dat erat [chckheey] [chokoraiin] [ykeody] [checkhy] [choteey] dat erat [chckhey] [choko] et est [ykeody] [checkhy] [choteey] dat erat [chckheey] [chokoraiin]",
+  "english_text": "[kchedy] in [daly] [cheody] [cheolkeepchy] [kchedy] in [daly] [cheody] [cheolkeepchy] [kchedy] in [daly] [cheody] leaves [keepchy] [kchedy] in wing [cheody] leaves [keepchy] [kchedy] in [daly] [cheody] [cheolkeepchy] [dshedy] very touches moves arranges small gives was [dshedy] very touches moves arranges small gives was [dshedy] very touches moves arranges small gives was [dshedy] very touches moves arranges small gives was [ykeody] [checkhy] [chotehy] gives was [chckhhhy] [chokor] is [ykeody] [checkhy] [choteey] gives was [chckheey] [chokoraiin] [ykeody] [checkhy] [choteey] gives was [chckhey] [choko] and is [ykeody] [checkhy] [choteey] gives was [chckheey] [chokoraiin].",
+  "word_translations": [
+    {
+      "original": "kchedy",
+      "latin": "[kchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chedy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "frequent, fits preposition; containment"
+    },
+    {
+      "original": "daly",
+      "latin": "[daly]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheody",
+      "latin": "[cheody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheolkeepchy",
+      "latin": "[cheolkeepchy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "kchedy",
+      "latin": "[kchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chedy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "frequent, fits preposition; containment"
+    },
+    {
+      "original": "daly",
+      "latin": "[daly]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheody",
+      "latin": "[cheody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheolkeepchy",
+      "latin": "[cheolkeepchy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "kchedy",
+      "latin": "[kchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chedy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "frequent, fits preposition; containment"
+    },
+    {
+      "original": "daly",
+      "latin": "[daly]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheody",
+      "latin": "[cheody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheol",
+      "latin": "folia",
+      "confidence": 0.9,
+      "notes": "che- botanical variation + ol location; leaf variation, strongly associated with chol (plant part)"
+    },
+    {
+      "original": "keepchy",
+      "latin": "[keepchy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "kchedy",
+      "latin": "[kchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chedy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "frequent, fits preposition; containment"
+    },
+    {
+      "original": "dala",
+      "latin": "ala",
+      "confidence": 0.9,
+      "notes": "d- prefix + ala, wing/extension"
+    },
+    {
+      "original": "cheody",
+      "latin": "[cheody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheol",
+      "latin": "folia",
+      "confidence": 0.9,
+      "notes": "che- botanical variation + ol location; leaf variation, strongly associated with chol (plant part)"
+    },
+    {
+      "original": "keepchy",
+      "latin": "[keepchy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "kchedy",
+      "latin": "[kchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chedy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "frequent, fits preposition; containment"
+    },
+    {
+      "original": "daly",
+      "latin": "[daly]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheody",
+      "latin": "[cheody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheolkeepchy",
+      "latin": "[cheolkeepchy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dshedy",
+      "latin": "[dshedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qotedy",
+      "latin": "valde tangit movet",
+      "confidence": 0.81,
+      "notes": "qo-prefix:systematic word family: te- prefix pattern"
+    },
+    {
+      "original": "dor",
+      "latin": "ordinat",
+      "confidence": 0.9,
+      "notes": "d- + or, giving order/arrangement"
+    },
+    {
+      "original": "cheey",
+      "latin": "parvum",
+      "confidence": 0.9,
+      "notes": "systematic word family: ch- prefix pattern"
+    },
+    {
+      "original": "odain",
+      "latin": "dat erat",
+      "confidence": 0.9,
+      "notes": "od (gives) + ain (past state), past giving"
+    },
+    {
+      "original": "dshedy",
+      "latin": "[dshedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qotedy",
+      "latin": "valde tangit movet",
+      "confidence": 0.81,
+      "notes": "qo-prefix:systematic word family: te- prefix pattern"
+    },
+    {
+      "original": "dor",
+      "latin": "ordinat",
+      "confidence": 0.9,
+      "notes": "d- + or, giving order/arrangement"
+    },
+    {
+      "original": "cheey",
+      "latin": "parvum",
+      "confidence": 0.9,
+      "notes": "systematic word family: ch- prefix pattern"
+    },
+    {
+      "original": "odain",
+      "latin": "dat erat",
+      "confidence": 0.9,
+      "notes": "od (gives) + ain (past state), past giving"
+    },
+    {
+      "original": "dshedy",
+      "latin": "[dshedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qotedy",
+      "latin": "valde tangit movet",
+      "confidence": 0.81,
+      "notes": "qo-prefix:systematic word family: te- prefix pattern"
+    },
+    {
+      "original": "dor",
+      "latin": "ordinat",
+      "confidence": 0.9,
+      "notes": "d- + or, giving order/arrangement"
+    },
+    {
+      "original": "cheey",
+      "latin": "parvum",
+      "confidence": 0.9,
+      "notes": "systematic word family: ch- prefix pattern"
+    },
+    {
+      "original": "odain",
+      "latin": "dat erat",
+      "confidence": 0.9,
+      "notes": "od (gives) + ain (past state), past giving"
+    },
+    {
+      "original": "dshedy",
+      "latin": "[dshedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qotedy",
+      "latin": "valde tangit movet",
+      "confidence": 0.81,
+      "notes": "qo-prefix:systematic word family: te- prefix pattern"
+    },
+    {
+      "original": "dor",
+      "latin": "ordinat",
+      "confidence": 0.9,
+      "notes": "d- + or, giving order/arrangement"
+    },
+    {
+      "original": "cheey",
+      "latin": "parvum",
+      "confidence": 0.9,
+      "notes": "systematic word family: ch- prefix pattern"
+    },
+    {
+      "original": "odain",
+      "latin": "dat erat",
+      "confidence": 0.9,
+      "notes": "od (gives) + ain (past state), past giving"
+    },
+    {
+      "original": "ykeody",
+      "latin": "[ykeody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "checkhy",
+      "latin": "[checkhy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chotehy",
+      "latin": "[chotehy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "odain",
+      "latin": "dat erat",
+      "confidence": 0.9,
+      "notes": "od (gives) + ain (past state), past giving"
+    },
+    {
+      "original": "chckhhhy",
+      "latin": "[chckhhhy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chokor",
+      "latin": "[chokor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "ykeody",
+      "latin": "[ykeody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "checkhy",
+      "latin": "[checkhy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "choteey",
+      "latin": "[choteey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "odain",
+      "latin": "dat erat",
+      "confidence": 0.9,
+      "notes": "od (gives) + ain (past state), past giving"
+    },
+    {
+      "original": "chckheey",
+      "latin": "[chckheey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chokoraiin",
+      "latin": "[chokoraiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ykeody",
+      "latin": "[ykeody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "checkhy",
+      "latin": "[checkhy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "choteey",
+      "latin": "[choteey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "odain",
+      "latin": "dat erat",
+      "confidence": 0.9,
+      "notes": "od (gives) + ain (past state), past giving"
+    },
+    {
+      "original": "chckhey",
+      "latin": "[chckhey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "choko",
+      "latin": "[choko]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "raiin",
+      "latin": "et est",
+      "confidence": 0.9,
+      "notes": "r (and/connector) + aiin (is/state marker); and it is, connective state"
+    },
+    {
+      "original": "ykeody",
+      "latin": "[ykeody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "checkhy",
+      "latin": "[checkhy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "choteey",
+      "latin": "[choteey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "odain",
+      "latin": "dat erat",
+      "confidence": 0.9,
+      "notes": "od (gives) + ain (past state), past giving"
+    },
+    {
+      "original": "chckheey",
+      "latin": "[chckheey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chokoraiin",
+      "latin": "[chokoraiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    }
+  ],
+  "statistics": {
+    "total": 73,
+    "known": 30,
+    "unknown": 43,
+    "avg_confidence": 0.3635616438356164,
+    "coverage": 0.410958904109589
+  },
+  "unknown_words": [
+    "chckheey",
+    "chckhey",
+    "chckhhhy",
+    "checkhy",
+    "cheody",
+    "cheolkeepchy",
+    "choko",
+    "chokor",
+    "chokoraiin",
+    "choteey",
+    "chotehy",
+    "daly",
+    "dshedy",
+    "kchedy",
+    "keepchy",
+    "qotedy",
+    "ykeody"
+  ],
+  "translated_at": "2025-11-27T22:55:03.275502"
+}

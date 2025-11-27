@@ -1,0 +1,839 @@
+{
+  "folio_id": "046r",
+  "section": "q06",
+  "context": "all",
+  "voynich_text": "dsheol chy chckhy shy shdy chky chody cthdy cheos chey dsheol chy chckhy shy shdy chky chody cthdy cheosh chey dsheol chy chckhy shy shdy chky chody cthdy cheos chey tchey shy chkal chd qokdy shdy aloldy olaiir sheol tchey shy chkal chd qokdy shdy yjoldy olaiir sheol tchey shy chkal chd qokdy shdy aloldy olaiir sheol tchey shy chkal chd qokdy shdy aloldy olair sheol arakaiin shol okeey chol dar ols lain ar akaiin shol okeey chol dar ols lainy arakaiin shol okeey chol dar ols lain arakaiin shol okeey chol dar ols laiin otshealkar sholkshy qokar cheol okal dam chdam qokam otcheal kar sholkshy qokar cheol okal dam chdam qokam otcheal tar sholkshy qokar cheol okal dam chdam qokam qokar sholkal olkeody qokar shol kal olkeody qokar shol kal alkeody",
+  "latin_text": "[dsheol] in inspicit hic [shdy] altum movetur [cthdy] [cheos] elementum [dsheol] in inspicit hic [shdy] altum movetur [cthdy] [cheosh] elementum [dsheol] in inspicit hic [shdy] altum movetur [cthdy] [cheos] elementum tangit elementum hic ala [chd] [qokdy] [shdy] [aloldy] [olaiir] [sheol] tangit elementum hic ala [chd] [qokdy] [shdy] [yjoldy] [olaiir] [sheol] tangit elementum hic ala [chd] [qokdy] [shdy] [aloldy] [olaiir] [sheol] tangit elementum hic ala [chd] [qokdy] [shdy] [aloldy] [olair] [sheol] [arakaiin] facit quando caulis donum aut [lain] et [akaiin] facit quando caulis donum aut [lainy] [arakaiin] facit quando caulis donum aut [lain] [arakaiin] facit quando caulis donum aut [laiin] [otshealkar] [sholkshy] gustat folia robur finis [chdam] [qokam] [otcheal] robur et [sholkshy] gustat folia robur finis [chdam] [qokam] [otcheal] tangit et [sholkshy] gustat folia robur finis [chdam] [qokam] gustat [sholkal] [olkeody] gustat facit robur [olkeody] gustat facit robur [alkeody]",
+  "english_text": "[dsheol] in examines here [shdy] tall moves [cthdy] [cheos] element [dsheol] in examines here [shdy] tall moves [cthdy] [cheosh] element [dsheol] in examines here [shdy] tall moves [cthdy] [cheos] element touches element here wing [chd] [qokdy] [shdy] [aloldy] [olaiir] [sheol] touches element here wing [chd] [qokdy] [shdy] [yjoldy] [olaiir] [sheol] touches element here wing [chd] [qokdy] [shdy] [aloldy] [olaiir] [sheol] touches element here wing [chd] [qokdy] [shdy] [aloldy] [olair] [sheol] [arakaiin] makes [quando] stem gift [aut] [lain] and [akaiin] makes [quando] stem gift [aut] [lainy] [arakaiin] makes [quando] stem gift [aut] [lain] [arakaiin] makes [quando] stem gift [aut] [laiin] [otshealkar] [sholkshy] [gustat] leaves strong [finis] [chdam] [qokam] [otcheal] strong and [sholkshy] [gustat] leaves strong [finis] [chdam] [qokam] [otcheal] touches and [sholkshy] [gustat] leaves strong [finis] [chdam] [qokam] [gustat] [sholkal] [olkeody] [gustat] makes strong [olkeody] [gustat] makes strong [alkeody].",
+  "word_translations": [
+    {
+      "original": "dsheol",
+      "latin": "[dsheol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chy",
+      "latin": "in",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "chckhy",
+      "latin": "inspicit",
+      "confidence": 0.9,
+      "notes": "ch- + ckhy compound, checking/examining"
+    },
+    {
+      "original": "shy",
+      "latin": "hic",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "shdy",
+      "latin": "[shdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chky",
+      "latin": "altum",
+      "confidence": 0.9,
+      "notes": "tall, high"
+    },
+    {
+      "original": "chody",
+      "latin": "movetur",
+      "confidence": 0.9,
+      "notes": "ch- + ody, movement/motion"
+    },
+    {
+      "original": "cthdy",
+      "latin": "[cthdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheos",
+      "latin": "[cheos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chey",
+      "latin": "elementum",
+      "confidence": 0.9,
+      "notes": "ch- + ey, botanical element"
+    },
+    {
+      "original": "dsheol",
+      "latin": "[dsheol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chy",
+      "latin": "in",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "chckhy",
+      "latin": "inspicit",
+      "confidence": 0.9,
+      "notes": "ch- + ckhy compound, checking/examining"
+    },
+    {
+      "original": "shy",
+      "latin": "hic",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "shdy",
+      "latin": "[shdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chky",
+      "latin": "altum",
+      "confidence": 0.9,
+      "notes": "tall, high"
+    },
+    {
+      "original": "chody",
+      "latin": "movetur",
+      "confidence": 0.9,
+      "notes": "ch- + ody, movement/motion"
+    },
+    {
+      "original": "cthdy",
+      "latin": "[cthdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheosh",
+      "latin": "[cheosh]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chey",
+      "latin": "elementum",
+      "confidence": 0.9,
+      "notes": "ch- + ey, botanical element"
+    },
+    {
+      "original": "dsheol",
+      "latin": "[dsheol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chy",
+      "latin": "in",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "chckhy",
+      "latin": "inspicit",
+      "confidence": 0.9,
+      "notes": "ch- + ckhy compound, checking/examining"
+    },
+    {
+      "original": "shy",
+      "latin": "hic",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "shdy",
+      "latin": "[shdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chky",
+      "latin": "altum",
+      "confidence": 0.9,
+      "notes": "tall, high"
+    },
+    {
+      "original": "chody",
+      "latin": "movetur",
+      "confidence": 0.9,
+      "notes": "ch- + ody, movement/motion"
+    },
+    {
+      "original": "cthdy",
+      "latin": "[cthdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheos",
+      "latin": "[cheos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chey",
+      "latin": "elementum",
+      "confidence": 0.9,
+      "notes": "ch- + ey, botanical element"
+    },
+    {
+      "original": "tchey",
+      "latin": "tangit elementum",
+      "confidence": 0.9,
+      "notes": "t- + chey (element), touches/affects element"
+    },
+    {
+      "original": "shy",
+      "latin": "hic",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "chkal",
+      "latin": "ala",
+      "confidence": 0.9,
+      "notes": "systematic word family: ch- prefix pattern"
+    },
+    {
+      "original": "chd",
+      "latin": "[chd]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokdy",
+      "latin": "[qokdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shdy",
+      "latin": "[shdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aloldy",
+      "latin": "[aloldy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "olaiir",
+      "latin": "[olaiir]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sheol",
+      "latin": "[sheol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "tchey",
+      "latin": "tangit elementum",
+      "confidence": 0.9,
+      "notes": "t- + chey (element), touches/affects element"
+    },
+    {
+      "original": "shy",
+      "latin": "hic",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "chkal",
+      "latin": "ala",
+      "confidence": 0.9,
+      "notes": "systematic word family: ch- prefix pattern"
+    },
+    {
+      "original": "chd",
+      "latin": "[chd]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokdy",
+      "latin": "[qokdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shdy",
+      "latin": "[shdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "yjoldy",
+      "latin": "[yjoldy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "olaiir",
+      "latin": "[olaiir]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sheol",
+      "latin": "[sheol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "tchey",
+      "latin": "tangit elementum",
+      "confidence": 0.9,
+      "notes": "t- + chey (element), touches/affects element"
+    },
+    {
+      "original": "shy",
+      "latin": "hic",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "chkal",
+      "latin": "ala",
+      "confidence": 0.9,
+      "notes": "systematic word family: ch- prefix pattern"
+    },
+    {
+      "original": "chd",
+      "latin": "[chd]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokdy",
+      "latin": "[qokdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shdy",
+      "latin": "[shdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aloldy",
+      "latin": "[aloldy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "olaiir",
+      "latin": "[olaiir]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sheol",
+      "latin": "[sheol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "tchey",
+      "latin": "tangit elementum",
+      "confidence": 0.9,
+      "notes": "t- + chey (element), touches/affects element"
+    },
+    {
+      "original": "shy",
+      "latin": "hic",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "chkal",
+      "latin": "ala",
+      "confidence": 0.9,
+      "notes": "systematic word family: ch- prefix pattern"
+    },
+    {
+      "original": "chd",
+      "latin": "[chd]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokdy",
+      "latin": "[qokdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shdy",
+      "latin": "[shdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aloldy",
+      "latin": "[aloldy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "olair",
+      "latin": "[olair]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sheol",
+      "latin": "[sheol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "arakaiin",
+      "latin": "[arakaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shol",
+      "latin": "facit",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "okeey",
+      "latin": "quando",
+      "confidence": 0.9,
+      "notes": "when"
+    },
+    {
+      "original": "chol",
+      "latin": "caulis",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "ols",
+      "latin": "aut",
+      "confidence": 0.9,
+      "notes": "short function word, conjunction - or/alternatively (19x frequency)"
+    },
+    {
+      "original": "lain",
+      "latin": "[lain]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ar",
+      "latin": "et",
+      "confidence": 0.9,
+      "notes": "frequent, suits conjunction; links nouns"
+    },
+    {
+      "original": "akaiin",
+      "latin": "[akaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shol",
+      "latin": "facit",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "okeey",
+      "latin": "quando",
+      "confidence": 0.9,
+      "notes": "when"
+    },
+    {
+      "original": "chol",
+      "latin": "caulis",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "ols",
+      "latin": "aut",
+      "confidence": 0.9,
+      "notes": "short function word, conjunction - or/alternatively (19x frequency)"
+    },
+    {
+      "original": "lainy",
+      "latin": "[lainy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "arakaiin",
+      "latin": "[arakaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shol",
+      "latin": "facit",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "okeey",
+      "latin": "quando",
+      "confidence": 0.9,
+      "notes": "when"
+    },
+    {
+      "original": "chol",
+      "latin": "caulis",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "ols",
+      "latin": "aut",
+      "confidence": 0.9,
+      "notes": "short function word, conjunction - or/alternatively (19x frequency)"
+    },
+    {
+      "original": "lain",
+      "latin": "[lain]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "arakaiin",
+      "latin": "[arakaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shol",
+      "latin": "facit",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "okeey",
+      "latin": "quando",
+      "confidence": 0.9,
+      "notes": "when"
+    },
+    {
+      "original": "chol",
+      "latin": "caulis",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "ols",
+      "latin": "aut",
+      "confidence": 0.9,
+      "notes": "short function word, conjunction - or/alternatively (19x frequency)"
+    },
+    {
+      "original": "laiin",
+      "latin": "[laiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otshealkar",
+      "latin": "[otshealkar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sholkshy",
+      "latin": "[sholkshy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokar",
+      "latin": "gustat",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, juice context"
+    },
+    {
+      "original": "cheol",
+      "latin": "folia",
+      "confidence": 0.9,
+      "notes": "che- botanical variation + ol location; leaf variation, strongly associated with chol (plant part)"
+    },
+    {
+      "original": "okal",
+      "latin": "robur",
+      "confidence": 0.9,
+      "notes": "k- + al, strength/support extension"
+    },
+    {
+      "original": "dam",
+      "latin": "finis",
+      "confidence": 0.9,
+      "notes": "end, completion"
+    },
+    {
+      "original": "chdam",
+      "latin": "[chdam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokam",
+      "latin": "[qokam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otcheal",
+      "latin": "[otcheal]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "kar",
+      "latin": "robur et",
+      "confidence": 0.9,
+      "notes": "k- + ar, strength and"
+    },
+    {
+      "original": "sholkshy",
+      "latin": "[sholkshy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokar",
+      "latin": "gustat",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, juice context"
+    },
+    {
+      "original": "cheol",
+      "latin": "folia",
+      "confidence": 0.9,
+      "notes": "che- botanical variation + ol location; leaf variation, strongly associated with chol (plant part)"
+    },
+    {
+      "original": "okal",
+      "latin": "robur",
+      "confidence": 0.9,
+      "notes": "k- + al, strength/support extension"
+    },
+    {
+      "original": "dam",
+      "latin": "finis",
+      "confidence": 0.9,
+      "notes": "end, completion"
+    },
+    {
+      "original": "chdam",
+      "latin": "[chdam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokam",
+      "latin": "[qokam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otcheal",
+      "latin": "[otcheal]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "tar",
+      "latin": "tangit et",
+      "confidence": 0.9,
+      "notes": "t- + ar, touching and"
+    },
+    {
+      "original": "sholkshy",
+      "latin": "[sholkshy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokar",
+      "latin": "gustat",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, juice context"
+    },
+    {
+      "original": "cheol",
+      "latin": "folia",
+      "confidence": 0.9,
+      "notes": "che- botanical variation + ol location; leaf variation, strongly associated with chol (plant part)"
+    },
+    {
+      "original": "okal",
+      "latin": "robur",
+      "confidence": 0.9,
+      "notes": "k- + al, strength/support extension"
+    },
+    {
+      "original": "dam",
+      "latin": "finis",
+      "confidence": 0.9,
+      "notes": "end, completion"
+    },
+    {
+      "original": "chdam",
+      "latin": "[chdam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokam",
+      "latin": "[qokam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokar",
+      "latin": "gustat",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, juice context"
+    },
+    {
+      "original": "sholkal",
+      "latin": "[sholkal]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "olkeody",
+      "latin": "[olkeody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokar",
+      "latin": "gustat",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, juice context"
+    },
+    {
+      "original": "shol",
+      "latin": "facit",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "kal",
+      "latin": "robur",
+      "confidence": 0.9,
+      "notes": "k- + al, strength/support extension"
+    },
+    {
+      "original": "olkeody",
+      "latin": "[olkeody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokar",
+      "latin": "gustat",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, juice context"
+    },
+    {
+      "original": "shol",
+      "latin": "facit",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "kal",
+      "latin": "robur",
+      "confidence": 0.9,
+      "notes": "k- + al, strength/support extension"
+    },
+    {
+      "original": "alkeody",
+      "latin": "[alkeody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    }
+  ],
+  "statistics": {
+    "total": 132,
+    "known": 72,
+    "unknown": 60,
+    "avg_confidence": 0.4409090909090909,
+    "coverage": 0.5454545454545454
+  },
+  "unknown_words": [
+    "akaiin",
+    "alkeody",
+    "aloldy",
+    "arakaiin",
+    "chd",
+    "chdam",
+    "cheos",
+    "cheosh",
+    "cthdy",
+    "dsheol",
+    "kam",
+    "kdy",
+    "laiin",
+    "lain",
+    "lainy",
+    "olaiir",
+    "olair",
+    "olkeody",
+    "otcheal",
+    "otshealkar",
+    "qokam",
+    "qokdy",
+    "shdy",
+    "sheol",
+    "sholkal",
+    "sholkshy",
+    "yjoldy"
+  ],
+  "translated_at": "2025-11-27T22:55:03.290448"
+}

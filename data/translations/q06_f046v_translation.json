@@ -1,0 +1,1170 @@
+{
+  "folio_id": "046v",
+  "section": "q06",
+  "context": "all",
+  "voynich_text": "lodaiin shedy qokedy chdy okedy dykaly lodaiin shedy qokedy chdy okedy dykaly lodaiin shedy qokedy chdy okedy dykaly lodaiin shedy qokedy chdy okedy dykaly tos aiirchar chedy olaiin qotedy sheedy tor aiir char shedy olaiin qotedy sheedy tosaiirchar chedy olaiin qotedy sheedy tosainm char chedy olaiin qotedy sheedy tosaiirchar shedy olaiin qotedy sheedy dchedy cheeky dam ched chedy chedy dchedy cheeky dam ched chedy chedy dchedy cheeky dam ched lchedy chedy dchedy cheeky dam ched lchedy chedy dchedy cheeky damchedlchedy chedy yteedy shedy checkhdy chtedy daim yteedy shedy checkhdy chtedy daim yteedy shedy checkhdy chtedy daim ytedy shedy checkhdy chtedy daim yteedy shedy checkhdy chtedy daim sheol or chey okaiin daim oty om sheol ar chey okaiin daim oty om sheol or chey okaiin daim otyom sheol or chey okaiin daim oty om sheolor chey okaiin daim oty om tolshey otedy chocpheod oty dam tokshey otedy aocpheod oty dam tolchey otedy choctheod oty dam tolshey otedy chocpheod oty dam tolshey otedy choctheod otydam dair aly chdam chcthy chdam dair aly chdar chcthy chdam dair aly chdam chcthy chdam ykar chedy ykar chedy ykar chedy ykar chedy",
+  "latin_text": "[lodaiin] descendit tendit herba et extendit [dykaly] [lodaiin] descendit tendit herba et extendit [dykaly] [lodaiin] descendit tendit herba et extendit [dykaly] [lodaiin] descendit tendit herba et extendit [dykaly] [tos] [aiirchar] in ille est valde tangit movet [sheedy] tangit ordine [aiir] planta et descendit ille est valde tangit movet [sheedy] [tosaiirchar] in ille est valde tangit movet [sheedy] [tosainm] planta et in ille est valde tangit movet [sheedy] [tosaiirchar] descendit ille est valde tangit movet [sheedy] [dchedy] [cheeky] finis [ched] valde in [dchedy] [cheeky] finis [ched] valde in [dchedy] [cheeky] finis [ched] [lchedy] in [dchedy] [cheeky] finis [ched] [lchedy] in [dchedy] [cheeky] [damchedlchedy] in [yteedy] descendit [checkhdy] [chtedy] [daim] [yteedy] descendit [checkhdy] [chtedy] [daim] [yteedy] descendit [checkhdy] [chtedy] [daim] [ytedy] descendit [checkhdy] [chtedy] [daim] [yteedy] descendit [checkhdy] [chtedy] [daim] [sheol] ordo elementum ponit [daim] ex [om] [sheol] et elementum ponit [daim] ex [om] [sheol] ordo elementum ponit [daim] [otyom] [sheol] ordo elementum ponit [daim] ex [om] [sheolor] elementum ponit [daim] ex [om] [tolshey] ex movet [chocpheod] ex finis [tokshey] ex movet [aocpheod] ex finis [tolchey] ex movet [choctheod] ex finis [tolshey] ex movet [chocpheod] ex finis [tolshey] ex movet [choctheod] [otydam] gratia [aly] [chdam] terram inspicit [chdam] gratia [aly] [chdar] terram inspicit [chdam] gratia [aly] [chdam] terram inspicit [chdam] [ykar] in [ykar] in [ykar] in [ykar] in",
+  "english_text": "[lodaiin] from stretches herb and extends [dykaly] [lodaiin] from stretches herb and extends [dykaly] [lodaiin] from stretches herb and extends [dykaly] [lodaiin] from stretches herb and extends [dykaly] [tos] [aiirchar] in that is very touches moves [sheedy] touches [ordine] [aiir] plant and from that is very touches moves [sheedy] [tosaiirchar] in that is very touches moves [sheedy] [tosainm] plant and in that is very touches moves [sheedy] [tosaiirchar] from that is very touches moves [sheedy] [dchedy] [cheeky] [finis] [ched] very in [dchedy] [cheeky] [finis] [ched] very in [dchedy] [cheeky] [finis] [ched] [lchedy] in [dchedy] [cheeky] [finis] [ched] [lchedy] in [dchedy] [cheeky] [damchedlchedy] in [yteedy] from [checkhdy] [chtedy] [daim] [yteedy] from [checkhdy] [chtedy] [daim] [yteedy] from [checkhdy] [chtedy] [daim] [ytedy] from [checkhdy] [chtedy] [daim] [yteedy] from [checkhdy] [chtedy] [daim] [sheol] order element [ponit] [daim] from [om] [sheol] and element [ponit] [daim] from [om] [sheol] order element [ponit] [daim] [otyom] [sheol] order element [ponit] [daim] from [om] [sheolor] element [ponit] [daim] from [om] [tolshey] from moves [chocpheod] from [finis] [tokshey] from moves [aocpheod] from [finis] [tolchey] from moves [choctheod] from [finis] [tolshey] from moves [chocpheod] from [finis] [tolshey] from moves [choctheod] [otydam] grace [aly] [chdam] earth examines [chdam] grace [aly] [chdar] earth examines [chdam] grace [aly] [chdam] earth examines [chdam] [ykar] in [ykar] in [ykar] in [ykar] in.",
+  "word_translations": [
+    {
+      "original": "lodaiin",
+      "latin": "[lodaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shedy",
+      "latin": "descendit",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, broad use"
+    },
+    {
+      "original": "qokedy",
+      "latin": "tendit",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, broad use"
+    },
+    {
+      "original": "chdy",
+      "latin": "herba et",
+      "confidence": 0.9,
+      "notes": "ch- + dy (and), botanical connector"
+    },
+    {
+      "original": "okedy",
+      "latin": "extendit",
+      "confidence": 0.9,
+      "notes": "action, broad use for extends"
+    },
+    {
+      "original": "dykaly",
+      "latin": "[dykaly]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "lodaiin",
+      "latin": "[lodaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shedy",
+      "latin": "descendit",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, broad use"
+    },
+    {
+      "original": "qokedy",
+      "latin": "tendit",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, broad use"
+    },
+    {
+      "original": "chdy",
+      "latin": "herba et",
+      "confidence": 0.9,
+      "notes": "ch- + dy (and), botanical connector"
+    },
+    {
+      "original": "okedy",
+      "latin": "extendit",
+      "confidence": 0.9,
+      "notes": "action, broad use for extends"
+    },
+    {
+      "original": "dykaly",
+      "latin": "[dykaly]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "lodaiin",
+      "latin": "[lodaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shedy",
+      "latin": "descendit",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, broad use"
+    },
+    {
+      "original": "qokedy",
+      "latin": "tendit",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, broad use"
+    },
+    {
+      "original": "chdy",
+      "latin": "herba et",
+      "confidence": 0.9,
+      "notes": "ch- + dy (and), botanical connector"
+    },
+    {
+      "original": "okedy",
+      "latin": "extendit",
+      "confidence": 0.9,
+      "notes": "action, broad use for extends"
+    },
+    {
+      "original": "dykaly",
+      "latin": "[dykaly]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "lodaiin",
+      "latin": "[lodaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shedy",
+      "latin": "descendit",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, broad use"
+    },
+    {
+      "original": "qokedy",
+      "latin": "tendit",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, broad use"
+    },
+    {
+      "original": "chdy",
+      "latin": "herba et",
+      "confidence": 0.9,
+      "notes": "ch- + dy (and), botanical connector"
+    },
+    {
+      "original": "okedy",
+      "latin": "extendit",
+      "confidence": 0.9,
+      "notes": "action, broad use for extends"
+    },
+    {
+      "original": "dykaly",
+      "latin": "[dykaly]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "tos",
+      "latin": "[tos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aiirchar",
+      "latin": "[aiirchar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chedy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "frequent, fits preposition; containment"
+    },
+    {
+      "original": "olaiin",
+      "latin": "ille est",
+      "confidence": 0.9,
+      "notes": "ol (that/it) + aiin (is/state marker); that is, demonstrative statement"
+    },
+    {
+      "original": "qotedy",
+      "latin": "valde tangit movet",
+      "confidence": 0.81,
+      "notes": "qo-prefix:systematic word family: te- prefix pattern"
+    },
+    {
+      "original": "sheedy",
+      "latin": "[sheedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "tor",
+      "latin": "tangit ordine",
+      "confidence": 0.9,
+      "notes": "t- + or, touching order"
+    },
+    {
+      "original": "aiir",
+      "latin": "[aiir]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "char",
+      "latin": "planta et",
+      "confidence": 0.9,
+      "notes": "ch- + ar, botanical and"
+    },
+    {
+      "original": "shedy",
+      "latin": "descendit",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, broad use"
+    },
+    {
+      "original": "olaiin",
+      "latin": "ille est",
+      "confidence": 0.9,
+      "notes": "ol (that/it) + aiin (is/state marker); that is, demonstrative statement"
+    },
+    {
+      "original": "qotedy",
+      "latin": "valde tangit movet",
+      "confidence": 0.81,
+      "notes": "qo-prefix:systematic word family: te- prefix pattern"
+    },
+    {
+      "original": "sheedy",
+      "latin": "[sheedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "tosaiirchar",
+      "latin": "[tosaiirchar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chedy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "frequent, fits preposition; containment"
+    },
+    {
+      "original": "olaiin",
+      "latin": "ille est",
+      "confidence": 0.9,
+      "notes": "ol (that/it) + aiin (is/state marker); that is, demonstrative statement"
+    },
+    {
+      "original": "qotedy",
+      "latin": "valde tangit movet",
+      "confidence": 0.81,
+      "notes": "qo-prefix:systematic word family: te- prefix pattern"
+    },
+    {
+      "original": "sheedy",
+      "latin": "[sheedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "tosainm",
+      "latin": "[tosainm]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "char",
+      "latin": "planta et",
+      "confidence": 0.9,
+      "notes": "ch- + ar, botanical and"
+    },
+    {
+      "original": "chedy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "frequent, fits preposition; containment"
+    },
+    {
+      "original": "olaiin",
+      "latin": "ille est",
+      "confidence": 0.9,
+      "notes": "ol (that/it) + aiin (is/state marker); that is, demonstrative statement"
+    },
+    {
+      "original": "qotedy",
+      "latin": "valde tangit movet",
+      "confidence": 0.81,
+      "notes": "qo-prefix:systematic word family: te- prefix pattern"
+    },
+    {
+      "original": "sheedy",
+      "latin": "[sheedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "tosaiirchar",
+      "latin": "[tosaiirchar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shedy",
+      "latin": "descendit",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, broad use"
+    },
+    {
+      "original": "olaiin",
+      "latin": "ille est",
+      "confidence": 0.9,
+      "notes": "ol (that/it) + aiin (is/state marker); that is, demonstrative statement"
+    },
+    {
+      "original": "qotedy",
+      "latin": "valde tangit movet",
+      "confidence": 0.81,
+      "notes": "qo-prefix:systematic word family: te- prefix pattern"
+    },
+    {
+      "original": "sheedy",
+      "latin": "[sheedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dchedy",
+      "latin": "[dchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheeky",
+      "latin": "[cheeky]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dam",
+      "latin": "finis",
+      "confidence": 0.9,
+      "notes": "end, completion"
+    },
+    {
+      "original": "ched",
+      "latin": "[ched]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chedy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "frequent, fits preposition; containment"
+    },
+    {
+      "original": "chedy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "frequent, fits preposition; containment"
+    },
+    {
+      "original": "dchedy",
+      "latin": "[dchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheeky",
+      "latin": "[cheeky]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dam",
+      "latin": "finis",
+      "confidence": 0.9,
+      "notes": "end, completion"
+    },
+    {
+      "original": "ched",
+      "latin": "[ched]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chedy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "frequent, fits preposition; containment"
+    },
+    {
+      "original": "chedy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "frequent, fits preposition; containment"
+    },
+    {
+      "original": "dchedy",
+      "latin": "[dchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheeky",
+      "latin": "[cheeky]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dam",
+      "latin": "finis",
+      "confidence": 0.9,
+      "notes": "end, completion"
+    },
+    {
+      "original": "ched",
+      "latin": "[ched]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "lchedy",
+      "latin": "[lchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chedy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "frequent, fits preposition; containment"
+    },
+    {
+      "original": "dchedy",
+      "latin": "[dchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheeky",
+      "latin": "[cheeky]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dam",
+      "latin": "finis",
+      "confidence": 0.9,
+      "notes": "end, completion"
+    },
+    {
+      "original": "ched",
+      "latin": "[ched]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "lchedy",
+      "latin": "[lchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chedy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "frequent, fits preposition; containment"
+    },
+    {
+      "original": "dchedy",
+      "latin": "[dchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheeky",
+      "latin": "[cheeky]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "damchedlchedy",
+      "latin": "[damchedlchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chedy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "frequent, fits preposition; containment"
+    },
+    {
+      "original": "yteedy",
+      "latin": "[yteedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shedy",
+      "latin": "descendit",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, broad use"
+    },
+    {
+      "original": "checkhdy",
+      "latin": "[checkhdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chtedy",
+      "latin": "[chtedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daim",
+      "latin": "[daim]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "yteedy",
+      "latin": "[yteedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shedy",
+      "latin": "descendit",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, broad use"
+    },
+    {
+      "original": "checkhdy",
+      "latin": "[checkhdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chtedy",
+      "latin": "[chtedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daim",
+      "latin": "[daim]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "yteedy",
+      "latin": "[yteedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shedy",
+      "latin": "descendit",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, broad use"
+    },
+    {
+      "original": "checkhdy",
+      "latin": "[checkhdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chtedy",
+      "latin": "[chtedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daim",
+      "latin": "[daim]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ytedy",
+      "latin": "[ytedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shedy",
+      "latin": "descendit",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, broad use"
+    },
+    {
+      "original": "checkhdy",
+      "latin": "[checkhdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chtedy",
+      "latin": "[chtedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daim",
+      "latin": "[daim]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "yteedy",
+      "latin": "[yteedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shedy",
+      "latin": "descendit",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, broad use"
+    },
+    {
+      "original": "checkhdy",
+      "latin": "[checkhdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chtedy",
+      "latin": "[chtedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daim",
+      "latin": "[daim]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sheol",
+      "latin": "[sheol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "or",
+      "latin": "ordo",
+      "confidence": 0.9,
+      "notes": "short connector, order/arrangement"
+    },
+    {
+      "original": "chey",
+      "latin": "elementum",
+      "confidence": 0.9,
+      "notes": "ch- + ey, botanical element"
+    },
+    {
+      "original": "okaiin",
+      "latin": "ponit",
+      "confidence": 0.9,
+      "notes": "placing"
+    },
+    {
+      "original": "daim",
+      "latin": "[daim]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oty",
+      "latin": "ex",
+      "confidence": 0.9,
+      "notes": "source, appears in multiple folios"
+    },
+    {
+      "original": "om",
+      "latin": "[om]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sheol",
+      "latin": "[sheol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ar",
+      "latin": "et",
+      "confidence": 0.9,
+      "notes": "frequent, suits conjunction; links nouns"
+    },
+    {
+      "original": "chey",
+      "latin": "elementum",
+      "confidence": 0.9,
+      "notes": "ch- + ey, botanical element"
+    },
+    {
+      "original": "okaiin",
+      "latin": "ponit",
+      "confidence": 0.9,
+      "notes": "placing"
+    },
+    {
+      "original": "daim",
+      "latin": "[daim]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oty",
+      "latin": "ex",
+      "confidence": 0.9,
+      "notes": "source, appears in multiple folios"
+    },
+    {
+      "original": "om",
+      "latin": "[om]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sheol",
+      "latin": "[sheol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "or",
+      "latin": "ordo",
+      "confidence": 0.9,
+      "notes": "short connector, order/arrangement"
+    },
+    {
+      "original": "chey",
+      "latin": "elementum",
+      "confidence": 0.9,
+      "notes": "ch- + ey, botanical element"
+    },
+    {
+      "original": "okaiin",
+      "latin": "ponit",
+      "confidence": 0.9,
+      "notes": "placing"
+    },
+    {
+      "original": "daim",
+      "latin": "[daim]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otyom",
+      "latin": "[otyom]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sheol",
+      "latin": "[sheol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "or",
+      "latin": "ordo",
+      "confidence": 0.9,
+      "notes": "short connector, order/arrangement"
+    },
+    {
+      "original": "chey",
+      "latin": "elementum",
+      "confidence": 0.9,
+      "notes": "ch- + ey, botanical element"
+    },
+    {
+      "original": "okaiin",
+      "latin": "ponit",
+      "confidence": 0.9,
+      "notes": "placing"
+    },
+    {
+      "original": "daim",
+      "latin": "[daim]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oty",
+      "latin": "ex",
+      "confidence": 0.9,
+      "notes": "source, appears in multiple folios"
+    },
+    {
+      "original": "om",
+      "latin": "[om]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sheolor",
+      "latin": "[sheolor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chey",
+      "latin": "elementum",
+      "confidence": 0.9,
+      "notes": "ch- + ey, botanical element"
+    },
+    {
+      "original": "okaiin",
+      "latin": "ponit",
+      "confidence": 0.9,
+      "notes": "placing"
+    },
+    {
+      "original": "daim",
+      "latin": "[daim]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oty",
+      "latin": "ex",
+      "confidence": 0.9,
+      "notes": "source, appears in multiple folios"
+    },
+    {
+      "original": "om",
+      "latin": "[om]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "tolshey",
+      "latin": "[tolshey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otedy",
+      "latin": "ex movet",
+      "confidence": 0.9,
+      "notes": "systematic word family: ot- prefix pattern"
+    },
+    {
+      "original": "chocpheod",
+      "latin": "[chocpheod]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oty",
+      "latin": "ex",
+      "confidence": 0.9,
+      "notes": "source, appears in multiple folios"
+    },
+    {
+      "original": "dam",
+      "latin": "finis",
+      "confidence": 0.9,
+      "notes": "end, completion"
+    },
+    {
+      "original": "tokshey",
+      "latin": "[tokshey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otedy",
+      "latin": "ex movet",
+      "confidence": 0.9,
+      "notes": "systematic word family: ot- prefix pattern"
+    },
+    {
+      "original": "aocpheod",
+      "latin": "[aocpheod]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oty",
+      "latin": "ex",
+      "confidence": 0.9,
+      "notes": "source, appears in multiple folios"
+    },
+    {
+      "original": "dam",
+      "latin": "finis",
+      "confidence": 0.9,
+      "notes": "end, completion"
+    },
+    {
+      "original": "tolchey",
+      "latin": "[tolchey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otedy",
+      "latin": "ex movet",
+      "confidence": 0.9,
+      "notes": "systematic word family: ot- prefix pattern"
+    },
+    {
+      "original": "choctheod",
+      "latin": "[choctheod]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oty",
+      "latin": "ex",
+      "confidence": 0.9,
+      "notes": "source, appears in multiple folios"
+    },
+    {
+      "original": "dam",
+      "latin": "finis",
+      "confidence": 0.9,
+      "notes": "end, completion"
+    },
+    {
+      "original": "tolshey",
+      "latin": "[tolshey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otedy",
+      "latin": "ex movet",
+      "confidence": 0.9,
+      "notes": "systematic word family: ot- prefix pattern"
+    },
+    {
+      "original": "chocpheod",
+      "latin": "[chocpheod]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oty",
+      "latin": "ex",
+      "confidence": 0.9,
+      "notes": "source, appears in multiple folios"
+    },
+    {
+      "original": "dam",
+      "latin": "finis",
+      "confidence": 0.9,
+      "notes": "end, completion"
+    },
+    {
+      "original": "tolshey",
+      "latin": "[tolshey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otedy",
+      "latin": "ex movet",
+      "confidence": 0.9,
+      "notes": "systematic word family: ot- prefix pattern"
+    },
+    {
+      "original": "choctheod",
+      "latin": "[choctheod]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otydam",
+      "latin": "[otydam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dair",
+      "latin": "gratia",
+      "confidence": 0.9,
+      "notes": "for benefit"
+    },
+    {
+      "original": "aly",
+      "latin": "[aly]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chdam",
+      "latin": "[chdam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chcthy",
+      "latin": "terram inspicit",
+      "confidence": 0.9,
+      "notes": "ch- + cthy (earth), checking/examining earth"
+    },
+    {
+      "original": "chdam",
+      "latin": "[chdam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dair",
+      "latin": "gratia",
+      "confidence": 0.9,
+      "notes": "for benefit"
+    },
+    {
+      "original": "aly",
+      "latin": "[aly]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chdar",
+      "latin": "[chdar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chcthy",
+      "latin": "terram inspicit",
+      "confidence": 0.9,
+      "notes": "ch- + cthy (earth), checking/examining earth"
+    },
+    {
+      "original": "chdam",
+      "latin": "[chdam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dair",
+      "latin": "gratia",
+      "confidence": 0.9,
+      "notes": "for benefit"
+    },
+    {
+      "original": "aly",
+      "latin": "[aly]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chdam",
+      "latin": "[chdam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chcthy",
+      "latin": "terram inspicit",
+      "confidence": 0.9,
+      "notes": "ch- + cthy (earth), checking/examining earth"
+    },
+    {
+      "original": "chdam",
+      "latin": "[chdam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ykar",
+      "latin": "[ykar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chedy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "frequent, fits preposition; containment"
+    },
+    {
+      "original": "ykar",
+      "latin": "[ykar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chedy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "frequent, fits preposition; containment"
+    },
+    {
+      "original": "ykar",
+      "latin": "[ykar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chedy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "frequent, fits preposition; containment"
+    },
+    {
+      "original": "ykar",
+      "latin": "[ykar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chedy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "frequent, fits preposition; containment"
+    }
+  ],
+  "statistics": {
+    "total": 186,
+    "known": 91,
+    "unknown": 95,
+    "avg_confidence": 0.4298387096774194,
+    "coverage": 0.489247311827957
+  },
+  "unknown_words": [
+    "aiir",
+    "aiirchar",
+    "aly",
+    "aocpheod",
+    "chdam",
+    "chdar",
+    "checkhdy",
+    "ched",
+    "cheeky",
+    "chocpheod",
+    "choctheod",
+    "chtedy",
+    "daim",
+    "damchedlchedy",
+    "dchedy",
+    "dykaly",
+    "lchedy",
+    "lodaiin",
+    "om",
+    "otydam",
+    "otyom",
+    "qotedy",
+    "sheedy",
+    "sheol",
+    "sheolor",
+    "tokshey",
+    "tolchey",
+    "tolshey",
+    "tos",
+    "tosaiirchar",
+    "tosainm",
+    "ykar",
+    "ytedy",
+    "yteedy"
+  ],
+  "translated_at": "2025-11-27T22:55:03.292469"
+}

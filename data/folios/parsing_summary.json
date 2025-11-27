@@ -1,27 +1,5 @@
 {
-  "total_quires": 1,
-  "total_folios": 16,
-  "quires": {
-    "q03": {
-      "folio_count": 16,
-      "folios": [
-        "f017r",
-        "f017v",
-        "f018r",
-        "f018v",
-        "f019r",
-        "f019v",
-        "f020r",
-        "f020v",
-        "f021r",
-        "f021v",
-        "f022r",
-        "f022v",
-        "f023r",
-        "f023v",
-        "f024r",
-        "f024v"
-      ]
-    }
-  }
+  "total_quires": 0,
+  "total_folios": 0,
+  "quires": {}
 }

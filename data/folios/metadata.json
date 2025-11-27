@@ -488,5 +488,117 @@
     "word_count": 120,
     "downloaded_at": "2025-11-27T21:39:48.955327",
     "file": "data/folios/q05_f040v.txt"
+  },
+  "q06_f047v": {
+    "folio_id": "047v",
+    "section": "q06",
+    "word_count": 239,
+    "downloaded_at": "2025-11-27T22:54:56.341744",
+    "file": "data/folios/q06_f047v.txt"
+  },
+  "q06_f041r": {
+    "folio_id": "041r",
+    "section": "q06",
+    "word_count": 198,
+    "downloaded_at": "2025-11-27T22:54:56.357379",
+    "file": "data/folios/q06_f041r.txt"
+  },
+  "q06_f046r": {
+    "folio_id": "046r",
+    "section": "q06",
+    "word_count": 132,
+    "downloaded_at": "2025-11-27T22:54:56.359222",
+    "file": "data/folios/q06_f046r.txt"
+  },
+  "q06_f045r": {
+    "folio_id": "045r",
+    "section": "q06",
+    "word_count": 282,
+    "downloaded_at": "2025-11-27T22:54:56.361261",
+    "file": "data/folios/q06_f045r.txt"
+  },
+  "q06_f048v": {
+    "folio_id": "048v",
+    "section": "q06",
+    "word_count": 257,
+    "downloaded_at": "2025-11-27T22:54:56.362545",
+    "file": "data/folios/q06_f048v.txt"
+  },
+  "q06_f041v": {
+    "folio_id": "041v",
+    "section": "q06",
+    "word_count": 164,
+    "downloaded_at": "2025-11-27T22:54:56.364171",
+    "file": "data/folios/q06_f041v.txt"
+  },
+  "q06_f045v": {
+    "folio_id": "045v",
+    "section": "q06",
+    "word_count": 253,
+    "downloaded_at": "2025-11-27T22:54:56.366506",
+    "file": "data/folios/q06_f045v.txt"
+  },
+  "q06_f048r": {
+    "folio_id": "048r",
+    "section": "q06",
+    "word_count": 36,
+    "downloaded_at": "2025-11-27T22:54:56.367440",
+    "file": "data/folios/q06_f048r.txt"
+  },
+  "q06_f046v": {
+    "folio_id": "046v",
+    "section": "q06",
+    "word_count": 186,
+    "downloaded_at": "2025-11-27T22:54:56.370509",
+    "file": "data/folios/q06_f046v.txt"
+  },
+  "q06_f044v": {
+    "folio_id": "044v",
+    "section": "q06",
+    "word_count": 323,
+    "downloaded_at": "2025-11-27T22:54:56.372369",
+    "file": "data/folios/q06_f044v.txt"
+  },
+  "q06_f044r": {
+    "folio_id": "044r",
+    "section": "q06",
+    "word_count": 270,
+    "downloaded_at": "2025-11-27T22:54:56.374239",
+    "file": "data/folios/q06_f044r.txt"
+  },
+  "q06_f043r": {
+    "folio_id": "043r",
+    "section": "q06",
+    "word_count": 73,
+    "downloaded_at": "2025-11-27T22:54:56.375989",
+    "file": "data/folios/q06_f043r.txt"
+  },
+  "q06_f043v": {
+    "folio_id": "043v",
+    "section": "q06",
+    "word_count": 197,
+    "downloaded_at": "2025-11-27T22:54:56.377464",
+    "file": "data/folios/q06_f043v.txt"
+  },
+  "q06_f042r": {
+    "folio_id": "042r",
+    "section": "q06",
+    "word_count": 464,
+    "downloaded_at": "2025-11-27T22:54:56.379553",
+    "file": "data/folios/q06_f042r.txt"
+  },
+  "q06_f047r": {
+    "folio_id": "047r",
+    "section": "q06",
+    "word_count": 271,
+    "downloaded_at": "2025-11-27T22:54:56.385531",
+    "file": "data/folios/q06_f047r.txt"
+  },
+  "q06_f042v": {
+    "folio_id": "042v",
+    "section": "q06",
+    "word_count": 305,
+    "downloaded_at": "2025-11-27T22:54:56.389976",
+    "file": "data/folios/q06_f042v.txt"
   }
 }

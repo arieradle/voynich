@@ -1,21 +1,15 @@
 {
   "results": [
     {
-      "quire": "q04",
-      "success": 16,
-      "failed": 0,
-      "total": 16
-    },
-    {
-      "quire": "q05",
+      "quire": "q06",
       "success": 16,
       "failed": 0,
       "total": 16
     }
   ],
   "summary": {
-    "total": 32,
-    "success": 32,
+    "total": 16,
+    "success": 16,
     "failed": 0
   }
 }

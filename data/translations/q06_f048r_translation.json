@@ -1,0 +1,246 @@
+{
+  "folio_id": "048r",
+  "section": "q06",
+  "context": "all",
+  "voynich_text": "otchdain shol oteol oteoly ykeey dam dr otchdain shol oteol oteoly ykeey dam dr otchdain shol oteol oteoly ykeey damdr yteched ar alkey okeoam yteched ar olkey okeoam yteched ar alkey okeoam ytchej ar alkey okeoam",
+  "latin_text": "[otchdain] facit [oteol] [oteoly] extenditur finis [dr] [otchdain] facit [oteol] [oteoly] extenditur finis [dr] [otchdain] facit [oteol] [oteoly] extenditur [damdr] [yteched] et [alkey] [okeoam] [yteched] et [olkey] [okeoam] [yteched] et [alkey] [okeoam] [ytchej] et [alkey] [okeoam]",
+  "english_text": "[otchdain] makes [oteol] [oteoly] extends [finis] [dr] [otchdain] makes [oteol] [oteoly] extends [finis] [dr] [otchdain] makes [oteol] [oteoly] extends [damdr] [yteched] and [alkey] [okeoam] [yteched] and [olkey] [okeoam] [yteched] and [alkey] [okeoam] [ytchej] and [alkey] [okeoam].",
+  "word_translations": [
+    {
+      "original": "otchdain",
+      "latin": "[otchdain]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shol",
+      "latin": "facit",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "oteol",
+      "latin": "[oteol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oteoly",
+      "latin": "[oteoly]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ykeey",
+      "latin": "extenditur",
+      "confidence": 0.9,
+      "notes": "y- + keey, botanical extension pattern"
+    },
+    {
+      "original": "dam",
+      "latin": "finis",
+      "confidence": 0.9,
+      "notes": "end, completion"
+    },
+    {
+      "original": "dr",
+      "latin": "[dr]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otchdain",
+      "latin": "[otchdain]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shol",
+      "latin": "facit",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "oteol",
+      "latin": "[oteol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oteoly",
+      "latin": "[oteoly]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ykeey",
+      "latin": "extenditur",
+      "confidence": 0.9,
+      "notes": "y- + keey, botanical extension pattern"
+    },
+    {
+      "original": "dam",
+      "latin": "finis",
+      "confidence": 0.9,
+      "notes": "end, completion"
+    },
+    {
+      "original": "dr",
+      "latin": "[dr]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otchdain",
+      "latin": "[otchdain]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shol",
+      "latin": "facit",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "oteol",
+      "latin": "[oteol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oteoly",
+      "latin": "[oteoly]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ykeey",
+      "latin": "extenditur",
+      "confidence": 0.9,
+      "notes": "y- + keey, botanical extension pattern"
+    },
+    {
+      "original": "damdr",
+      "latin": "[damdr]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "yteched",
+      "latin": "[yteched]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ar",
+      "latin": "et",
+      "confidence": 0.9,
+      "notes": "frequent, suits conjunction; links nouns"
+    },
+    {
+      "original": "alkey",
+      "latin": "[alkey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okeoam",
+      "latin": "[okeoam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "yteched",
+      "latin": "[yteched]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ar",
+      "latin": "et",
+      "confidence": 0.9,
+      "notes": "frequent, suits conjunction; links nouns"
+    },
+    {
+      "original": "olkey",
+      "latin": "[olkey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okeoam",
+      "latin": "[okeoam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "yteched",
+      "latin": "[yteched]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ar",
+      "latin": "et",
+      "confidence": 0.9,
+      "notes": "frequent, suits conjunction; links nouns"
+    },
+    {
+      "original": "alkey",
+      "latin": "[alkey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okeoam",
+      "latin": "[okeoam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ytchej",
+      "latin": "[ytchej]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ar",
+      "latin": "et",
+      "confidence": 0.9,
+      "notes": "frequent, suits conjunction; links nouns"
+    },
+    {
+      "original": "alkey",
+      "latin": "[alkey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okeoam",
+      "latin": "[okeoam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    }
+  ],
+  "statistics": {
+    "total": 36,
+    "known": 12,
+    "unknown": 24,
+    "avg_confidence": 0.275,
+    "coverage": 0.3333333333333333
+  },
+  "unknown_words": [
+    "alkey",
+    "damdr",
+    "dr",
+    "okeoam",
+    "olkey",
+    "otchdain",
+    "oteol",
+    "oteoly",
+    "ytchej",
+    "yteched"
+  ],
+  "translated_at": "2025-11-27T22:55:03.298892"
+}
