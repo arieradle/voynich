@@ -1,0 +1,1246 @@
+{
+  "folio_id": "040r",
+  "section": "Pharmaceutical",
+  "context": "herbal",
+  "voynich_text": "pchey keodar aldydy pchey keodar aldydy pchey keodar aldydy qokar okar okedy dar qokar okar okedy dar qokar okar okedy dar shy qokal chdy chckhd shy qokal chdy chckhd shy qokal chdy chckhd or aiin chekody dasqokol okaiin okar oky okoldy ol or aiin chekody darqokol okaiin okar oky okoldy ol or aiin chekody darqokol okaiin okar oky okoldy ol lokar qokar okarokol ol chedy qokchd ar ar or dam lokar qokar okarokol ol chedy qokchd ar ar or dam lokar qokar okarokol ol chedy qokchd ar ar or dam tor or ar shokor omolshedy qokam chdy kar oraiin tor or ar shok or amolshdy qokam chdy kar oraiin tor or ar shokoramolshedy qokaim chdy kar oraiin yaiin chekaiin okyycheey yaiin chekaiin okyycheey yaiin chekaiin okyycheey ksheo keeey dar aimkcheo cfhdy orain chefal daiin dm sheo keeey dar aimkcheo cfhdy orain chefal daiin dg ksheo kchey dar aimkcheo cfhdy orain chefal daiin dm taiin ol olaiin ordain okaiin okaiin okaiin daram taiin al olaiin ardain okaiin okaiin okaiin daram taiin ol olaiin ordain okaiin okaiin okaiin daram saiin olcheey chdy saiin olcheey chdy saiin olcheey chdy toar ykaiin ory dal toar ykaiin ory dal toar ykaiin ory dal",
+  "latin_text": "sustinet parvum [keodar] [aldydy] sustinet parvum [keodar] [aldydy] sustinet parvum [keodar] [aldydy] gustat orbis extendit donum gustat orbis extendit donum gustat orbis extendit donum hic valde ala herba et [chckhd] hic valde ala herba et [chckhd] hic valde ala herba et [chckhd] ordo est [chekody] [dasqokol] ponit orbis facit ad [okoldy] ille ordo est [chekody] [darqokol] ponit orbis facit ad [okoldy] ille ordo est [chekody] [darqokol] ponit orbis facit ad [okoldy] ille [lokar] gustat [okarokol] ille in [qokchd] valde et ordo finis [lokar] gustat [okarokol] ille in [qokchd] valde et ordo finis [lokar] gustat [okarokol] ille in [qokchd] valde et ordo finis tangit ordine ordo et [shokor] [omolshedy] [qokam] herba et robur et [oraiin] tangit ordine ordo et hic facit ordo [amolshdy] [qokam] herba et robur et [oraiin] tangit ordine ordo et [shokoramolshedy] [qokaim] herba et robur et [oraiin] ad erat [chekaiin] [okyycheey] ad erat [chekaiin] [okyycheey] ad erat [chekaiin] [okyycheey] [ksheo] [keeey] donum [aimkcheo] [cfhdy] [orain] [chefal] ad [dm] [sheo] [keeey] donum [aimkcheo] [cfhdy] [orain] [chefal] ad [dg] [ksheo] facit elementum donum [aimkcheo] [cfhdy] [orain] [chefal] ad [dm] tangit erat ille [olaiin] [ordain] valde ponit ponit [daram] tangit erat ala [olaiin] [ardain] valde ponit ponit [daram] tangit erat ille [olaiin] [ordain] valde ponit ponit [daram] sine [olcheey] herba et sine [olcheey] herba et sine [olcheey] herba et [toar] erat quidem [ory] dat alam [toar] erat quidem [ory] dat alam [toar] erat quidem [ory] dat alam",
+  "english_text": "[sustinet] small [keodar] [aldydy] [sustinet] small [keodar] [aldydy] [sustinet] small [keodar] [aldydy] [gustat] [orbis] extends gift [gustat] [orbis] extends gift [gustat] [orbis] extends gift here very wing herb and [chckhd] here very wing herb and [chckhd] here very wing herb and [chckhd] order is [chekody] [dasqokol] [ponit] [orbis] makes to [okoldy] that order is [chekody] [darqokol] [ponit] [orbis] makes to [okoldy] that order is [chekody] [darqokol] [ponit] [orbis] makes to [okoldy] that [lokar] [gustat] [okarokol] that in [qokchd] very and order [finis] [lokar] [gustat] [okarokol] that in [qokchd] very and order [finis] [lokar] [gustat] [okarokol] that in [qokchd] very and order [finis] touches [ordine] order and [shokor] [omolshedy] [qokam] herb and strong and [oraiin] touches [ordine] order and here makes order [amolshdy] [qokam] herb and strong and [oraiin] touches [ordine] order and [shokoramolshedy] [qokaim] herb and strong and [oraiin] to was [chekaiin] [okyycheey] to was [chekaiin] [okyycheey] to was [chekaiin] [okyycheey] [ksheo] [keeey] gift [aimkcheo] [cfhdy] [orain] [chefal] to [dm] [sheo] [keeey] gift [aimkcheo] [cfhdy] [orain] [chefal] to [dg] [ksheo] makes element gift [aimkcheo] [cfhdy] [orain] [chefal] to [dm] touches was that [olaiin] [ordain] very [ponit] [ponit] [daram] touches was wing [olaiin] [ardain] very [ponit] [ponit] [daram] touches was that [olaiin] [ordain] very [ponit] [ponit] [daram] [sine] [olcheey] herb and [sine] [olcheey] herb and [sine] [olcheey] herb and [toar] was indeed [ory] gives wing [toar] was indeed [ory] gives wing [toar] was indeed [ory] gives wing.",
+  "word_translations": [
+    {
+      "original": "pchey",
+      "latin": "sustinet parvum",
+      "confidence": 0.9,
+      "notes": "p- + chey, supporting small element"
+    },
+    {
+      "original": "keodar",
+      "latin": "[keodar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aldydy",
+      "latin": "[aldydy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "pchey",
+      "latin": "sustinet parvum",
+      "confidence": 0.9,
+      "notes": "p- + chey, supporting small element"
+    },
+    {
+      "original": "keodar",
+      "latin": "[keodar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aldydy",
+      "latin": "[aldydy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "pchey",
+      "latin": "sustinet parvum",
+      "confidence": 0.9,
+      "notes": "p- + chey, supporting small element"
+    },
+    {
+      "original": "keodar",
+      "latin": "[keodar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aldydy",
+      "latin": "[aldydy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokar",
+      "latin": "gustat",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, juice context"
+    },
+    {
+      "original": "okar",
+      "latin": "orbis",
+      "confidence": 0.9,
+      "notes": "orbital paths"
+    },
+    {
+      "original": "okedy",
+      "latin": "extendit",
+      "confidence": 0.9,
+      "notes": "action, broad use for extends"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "qokar",
+      "latin": "gustat",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, juice context"
+    },
+    {
+      "original": "okar",
+      "latin": "orbis",
+      "confidence": 0.9,
+      "notes": "orbital paths"
+    },
+    {
+      "original": "okedy",
+      "latin": "extendit",
+      "confidence": 0.9,
+      "notes": "action, broad use for extends"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "qokar",
+      "latin": "gustat",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, juice context"
+    },
+    {
+      "original": "okar",
+      "latin": "orbis",
+      "confidence": 0.9,
+      "notes": "orbital paths"
+    },
+    {
+      "original": "okedy",
+      "latin": "extendit",
+      "confidence": 0.9,
+      "notes": "action, broad use for extends"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "shy",
+      "latin": "hic",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, here/this place"
+    },
+    {
+      "original": "qokal",
+      "latin": "valde ala",
+      "confidence": 0.9,
+      "notes": "systematic word family: qo- prefix pattern"
+    },
+    {
+      "original": "chdy",
+      "latin": "herba et",
+      "confidence": 0.9,
+      "notes": "ch- + dy (and), botanical connector"
+    },
+    {
+      "original": "chckhd",
+      "latin": "[chckhd]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shy",
+      "latin": "hic",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, here/this place"
+    },
+    {
+      "original": "qokal",
+      "latin": "valde ala",
+      "confidence": 0.9,
+      "notes": "systematic word family: qo- prefix pattern"
+    },
+    {
+      "original": "chdy",
+      "latin": "herba et",
+      "confidence": 0.9,
+      "notes": "ch- + dy (and), botanical connector"
+    },
+    {
+      "original": "chckhd",
+      "latin": "[chckhd]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shy",
+      "latin": "hic",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, here/this place"
+    },
+    {
+      "original": "qokal",
+      "latin": "valde ala",
+      "confidence": 0.9,
+      "notes": "systematic word family: qo- prefix pattern"
+    },
+    {
+      "original": "chdy",
+      "latin": "herba et",
+      "confidence": 0.9,
+      "notes": "ch- + dy (and), botanical connector"
+    },
+    {
+      "original": "chckhd",
+      "latin": "[chckhd]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "or",
+      "latin": "ordo",
+      "confidence": 0.9,
+      "notes": "short connector, order/arrangement"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "chekody",
+      "latin": "[chekody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dasqokol",
+      "latin": "[dasqokol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okaiin",
+      "latin": "ponit",
+      "confidence": 0.9,
+      "notes": "placing"
+    },
+    {
+      "original": "okar",
+      "latin": "orbis",
+      "confidence": 0.9,
+      "notes": "orbital paths"
+    },
+    {
+      "original": "oky",
+      "latin": "facit ad",
+      "confidence": 0.9,
+      "notes": "ok (action) + y (direction), directed action"
+    },
+    {
+      "original": "okoldy",
+      "latin": "[okoldy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ol",
+      "latin": "ille",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, that/the"
+    },
+    {
+      "original": "or",
+      "latin": "ordo",
+      "confidence": 0.9,
+      "notes": "short connector, order/arrangement"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "chekody",
+      "latin": "[chekody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "darqokol",
+      "latin": "[darqokol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okaiin",
+      "latin": "ponit",
+      "confidence": 0.9,
+      "notes": "placing"
+    },
+    {
+      "original": "okar",
+      "latin": "orbis",
+      "confidence": 0.9,
+      "notes": "orbital paths"
+    },
+    {
+      "original": "oky",
+      "latin": "facit ad",
+      "confidence": 0.9,
+      "notes": "ok (action) + y (direction), directed action"
+    },
+    {
+      "original": "okoldy",
+      "latin": "[okoldy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ol",
+      "latin": "ille",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, that/the"
+    },
+    {
+      "original": "or",
+      "latin": "ordo",
+      "confidence": 0.9,
+      "notes": "short connector, order/arrangement"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "chekody",
+      "latin": "[chekody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "darqokol",
+      "latin": "[darqokol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okaiin",
+      "latin": "ponit",
+      "confidence": 0.9,
+      "notes": "placing"
+    },
+    {
+      "original": "okar",
+      "latin": "orbis",
+      "confidence": 0.9,
+      "notes": "orbital paths"
+    },
+    {
+      "original": "oky",
+      "latin": "facit ad",
+      "confidence": 0.9,
+      "notes": "ok (action) + y (direction), directed action"
+    },
+    {
+      "original": "okoldy",
+      "latin": "[okoldy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ol",
+      "latin": "ille",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, that/the"
+    },
+    {
+      "original": "lokar",
+      "latin": "[lokar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokar",
+      "latin": "gustat",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, juice context"
+    },
+    {
+      "original": "okarokol",
+      "latin": "[okarokol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ol",
+      "latin": "ille",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, that/the"
+    },
+    {
+      "original": "chedy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "frequent, fits preposition; containment"
+    },
+    {
+      "original": "qokchd",
+      "latin": "[qokchd]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ar",
+      "latin": "et",
+      "confidence": 0.9,
+      "notes": "frequent, suits conjunction; links nouns"
+    },
+    {
+      "original": "ar",
+      "latin": "et",
+      "confidence": 0.9,
+      "notes": "frequent, suits conjunction; links nouns"
+    },
+    {
+      "original": "or",
+      "latin": "ordo",
+      "confidence": 0.9,
+      "notes": "short connector, order/arrangement"
+    },
+    {
+      "original": "dam",
+      "latin": "finis",
+      "confidence": 0.9,
+      "notes": "end, completion"
+    },
+    {
+      "original": "lokar",
+      "latin": "[lokar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokar",
+      "latin": "gustat",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, juice context"
+    },
+    {
+      "original": "okarokol",
+      "latin": "[okarokol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ol",
+      "latin": "ille",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, that/the"
+    },
+    {
+      "original": "chedy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "frequent, fits preposition; containment"
+    },
+    {
+      "original": "qokchd",
+      "latin": "[qokchd]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ar",
+      "latin": "et",
+      "confidence": 0.9,
+      "notes": "frequent, suits conjunction; links nouns"
+    },
+    {
+      "original": "ar",
+      "latin": "et",
+      "confidence": 0.9,
+      "notes": "frequent, suits conjunction; links nouns"
+    },
+    {
+      "original": "or",
+      "latin": "ordo",
+      "confidence": 0.9,
+      "notes": "short connector, order/arrangement"
+    },
+    {
+      "original": "dam",
+      "latin": "finis",
+      "confidence": 0.9,
+      "notes": "end, completion"
+    },
+    {
+      "original": "lokar",
+      "latin": "[lokar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokar",
+      "latin": "gustat",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, juice context"
+    },
+    {
+      "original": "okarokol",
+      "latin": "[okarokol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ol",
+      "latin": "ille",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, that/the"
+    },
+    {
+      "original": "chedy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "frequent, fits preposition; containment"
+    },
+    {
+      "original": "qokchd",
+      "latin": "[qokchd]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ar",
+      "latin": "et",
+      "confidence": 0.9,
+      "notes": "frequent, suits conjunction; links nouns"
+    },
+    {
+      "original": "ar",
+      "latin": "et",
+      "confidence": 0.9,
+      "notes": "frequent, suits conjunction; links nouns"
+    },
+    {
+      "original": "or",
+      "latin": "ordo",
+      "confidence": 0.9,
+      "notes": "short connector, order/arrangement"
+    },
+    {
+      "original": "dam",
+      "latin": "finis",
+      "confidence": 0.9,
+      "notes": "end, completion"
+    },
+    {
+      "original": "tor",
+      "latin": "tangit ordine",
+      "confidence": 0.9,
+      "notes": "t- + or, touching order"
+    },
+    {
+      "original": "or",
+      "latin": "ordo",
+      "confidence": 0.9,
+      "notes": "short connector, order/arrangement"
+    },
+    {
+      "original": "ar",
+      "latin": "et",
+      "confidence": 0.9,
+      "notes": "frequent, suits conjunction; links nouns"
+    },
+    {
+      "original": "shokor",
+      "latin": "[shokor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "omolshedy",
+      "latin": "[omolshedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokam",
+      "latin": "[qokam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chdy",
+      "latin": "herba et",
+      "confidence": 0.9,
+      "notes": "ch- + dy (and), botanical connector"
+    },
+    {
+      "original": "kar",
+      "latin": "robur et",
+      "confidence": 0.9,
+      "notes": "k- + ar, strength and"
+    },
+    {
+      "original": "oraiin",
+      "latin": "[oraiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "tor",
+      "latin": "tangit ordine",
+      "confidence": 0.9,
+      "notes": "t- + or, touching order"
+    },
+    {
+      "original": "or",
+      "latin": "ordo",
+      "confidence": 0.9,
+      "notes": "short connector, order/arrangement"
+    },
+    {
+      "original": "ar",
+      "latin": "et",
+      "confidence": 0.9,
+      "notes": "frequent, suits conjunction; links nouns"
+    },
+    {
+      "original": "shok",
+      "latin": "hic facit",
+      "confidence": 0.9,
+      "notes": "location + action marker"
+    },
+    {
+      "original": "or",
+      "latin": "ordo",
+      "confidence": 0.9,
+      "notes": "short connector, order/arrangement"
+    },
+    {
+      "original": "amolshdy",
+      "latin": "[amolshdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokam",
+      "latin": "[qokam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chdy",
+      "latin": "herba et",
+      "confidence": 0.9,
+      "notes": "ch- + dy (and), botanical connector"
+    },
+    {
+      "original": "kar",
+      "latin": "robur et",
+      "confidence": 0.9,
+      "notes": "k- + ar, strength and"
+    },
+    {
+      "original": "oraiin",
+      "latin": "[oraiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "tor",
+      "latin": "tangit ordine",
+      "confidence": 0.9,
+      "notes": "t- + or, touching order"
+    },
+    {
+      "original": "or",
+      "latin": "ordo",
+      "confidence": 0.9,
+      "notes": "short connector, order/arrangement"
+    },
+    {
+      "original": "ar",
+      "latin": "et",
+      "confidence": 0.9,
+      "notes": "frequent, suits conjunction; links nouns"
+    },
+    {
+      "original": "shokoramolshedy",
+      "latin": "[shokoramolshedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokaim",
+      "latin": "[qokaim]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chdy",
+      "latin": "herba et",
+      "confidence": 0.9,
+      "notes": "ch- + dy (and), botanical connector"
+    },
+    {
+      "original": "kar",
+      "latin": "robur et",
+      "confidence": 0.9,
+      "notes": "k- + ar, strength and"
+    },
+    {
+      "original": "oraiin",
+      "latin": "[oraiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "yaiin",
+      "latin": "ad erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: ya- prefix pattern"
+    },
+    {
+      "original": "chekaiin",
+      "latin": "[chekaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okyycheey",
+      "latin": "[okyycheey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "yaiin",
+      "latin": "ad erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: ya- prefix pattern"
+    },
+    {
+      "original": "chekaiin",
+      "latin": "[chekaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okyycheey",
+      "latin": "[okyycheey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "yaiin",
+      "latin": "ad erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: ya- prefix pattern"
+    },
+    {
+      "original": "chekaiin",
+      "latin": "[chekaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okyycheey",
+      "latin": "[okyycheey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ksheo",
+      "latin": "[ksheo]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "keeey",
+      "latin": "[keeey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "aimkcheo",
+      "latin": "[aimkcheo]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cfhdy",
+      "latin": "[cfhdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "orain",
+      "latin": "[orain]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chefal",
+      "latin": "[chefal]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "dm",
+      "latin": "[dm]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sheo",
+      "latin": "[sheo]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "keeey",
+      "latin": "[keeey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "aimkcheo",
+      "latin": "[aimkcheo]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cfhdy",
+      "latin": "[cfhdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "orain",
+      "latin": "[orain]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chefal",
+      "latin": "[chefal]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "dg",
+      "latin": "[dg]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ksheo",
+      "latin": "[ksheo]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "kchey",
+      "latin": "facit elementum",
+      "confidence": 0.9,
+      "notes": "k (makes) + chey (element); makes element/component"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "aimkcheo",
+      "latin": "[aimkcheo]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cfhdy",
+      "latin": "[cfhdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "orain",
+      "latin": "[orain]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chefal",
+      "latin": "[chefal]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "dm",
+      "latin": "[dm]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "taiin",
+      "latin": "tangit erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: ta- prefix pattern"
+    },
+    {
+      "original": "ol",
+      "latin": "ille",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, that/the"
+    },
+    {
+      "original": "olaiin",
+      "latin": "[olaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ordain",
+      "latin": "[ordain]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okaiin",
+      "latin": "ponit",
+      "confidence": 0.9,
+      "notes": "placing"
+    },
+    {
+      "original": "okaiin",
+      "latin": "ponit",
+      "confidence": 0.9,
+      "notes": "placing"
+    },
+    {
+      "original": "okaiin",
+      "latin": "ponit",
+      "confidence": 0.9,
+      "notes": "placing"
+    },
+    {
+      "original": "daram",
+      "latin": "[daram]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "taiin",
+      "latin": "tangit erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: ta- prefix pattern"
+    },
+    {
+      "original": "al",
+      "latin": "ala",
+      "confidence": 0.9,
+      "notes": "wing/extension suffix"
+    },
+    {
+      "original": "olaiin",
+      "latin": "[olaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ardain",
+      "latin": "[ardain]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okaiin",
+      "latin": "ponit",
+      "confidence": 0.9,
+      "notes": "placing"
+    },
+    {
+      "original": "okaiin",
+      "latin": "ponit",
+      "confidence": 0.9,
+      "notes": "placing"
+    },
+    {
+      "original": "okaiin",
+      "latin": "ponit",
+      "confidence": 0.9,
+      "notes": "placing"
+    },
+    {
+      "original": "daram",
+      "latin": "[daram]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "taiin",
+      "latin": "tangit erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: ta- prefix pattern"
+    },
+    {
+      "original": "ol",
+      "latin": "ille",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, that/the"
+    },
+    {
+      "original": "olaiin",
+      "latin": "[olaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ordain",
+      "latin": "[ordain]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okaiin",
+      "latin": "ponit",
+      "confidence": 0.9,
+      "notes": "placing"
+    },
+    {
+      "original": "okaiin",
+      "latin": "ponit",
+      "confidence": 0.9,
+      "notes": "placing"
+    },
+    {
+      "original": "okaiin",
+      "latin": "ponit",
+      "confidence": 0.9,
+      "notes": "placing"
+    },
+    {
+      "original": "daram",
+      "latin": "[daram]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "saiin",
+      "latin": "sine",
+      "confidence": 0.9,
+      "notes": "without"
+    },
+    {
+      "original": "olcheey",
+      "latin": "[olcheey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chdy",
+      "latin": "herba et",
+      "confidence": 0.9,
+      "notes": "ch- + dy (and), botanical connector"
+    },
+    {
+      "original": "saiin",
+      "latin": "sine",
+      "confidence": 0.9,
+      "notes": "without"
+    },
+    {
+      "original": "olcheey",
+      "latin": "[olcheey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chdy",
+      "latin": "herba et",
+      "confidence": 0.9,
+      "notes": "ch- + dy (and), botanical connector"
+    },
+    {
+      "original": "saiin",
+      "latin": "sine",
+      "confidence": 0.9,
+      "notes": "without"
+    },
+    {
+      "original": "olcheey",
+      "latin": "[olcheey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chdy",
+      "latin": "herba et",
+      "confidence": 0.9,
+      "notes": "ch- + dy (and), botanical connector"
+    },
+    {
+      "original": "toar",
+      "latin": "[toar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ykaiin",
+      "latin": "erat quidem",
+      "confidence": 0.9,
+      "notes": "y- + kaiin, associated with state/being"
+    },
+    {
+      "original": "ory",
+      "latin": "[ory]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dal",
+      "latin": "dat alam",
+      "confidence": 0.9,
+      "notes": "d- + al, giving wing/extension"
+    },
+    {
+      "original": "toar",
+      "latin": "[toar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ykaiin",
+      "latin": "erat quidem",
+      "confidence": 0.9,
+      "notes": "y- + kaiin, associated with state/being"
+    },
+    {
+      "original": "ory",
+      "latin": "[ory]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dal",
+      "latin": "dat alam",
+      "confidence": 0.9,
+      "notes": "d- + al, giving wing/extension"
+    },
+    {
+      "original": "toar",
+      "latin": "[toar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ykaiin",
+      "latin": "erat quidem",
+      "confidence": 0.9,
+      "notes": "y- + kaiin, associated with state/being"
+    },
+    {
+      "original": "ory",
+      "latin": "[ory]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dal",
+      "latin": "dat alam",
+      "confidence": 0.9,
+      "notes": "d- + al, giving wing/extension"
+    }
+  ],
+  "statistics": {
+    "total": 198,
+    "known": 117,
+    "unknown": 81,
+    "avg_confidence": 0.5202020202020202,
+    "coverage": 0.5909090909090909
+  },
+  "unknown_words": [
+    "aimkcheo",
+    "aldydy",
+    "amolshdy",
+    "ardain",
+    "cfhdy",
+    "chckhd",
+    "chefal",
+    "chekaiin",
+    "chekody",
+    "daram",
+    "darqokol",
+    "dasqokol",
+    "dg",
+    "dm",
+    "kaim",
+    "kam",
+    "kchd",
+    "keeey",
+    "keodar",
+    "ksheo",
+    "lokar",
+    "okarokol",
+    "okoldy",
+    "okyycheey",
+    "olaiin",
+    "olcheey",
+    "omolshedy",
+    "oraiin",
+    "orain",
+    "ordain",
+    "ory",
+    "qokaim",
+    "qokam",
+    "qokchd",
+    "sheo",
+    "shokor",
+    "shokoramolshedy",
+    "toar"
+  ],
+  "translated_at": "2025-11-27T21:41:36.915435"
+}

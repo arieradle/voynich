@@ -1,0 +1,163 @@
+{
+  "folio_id": "034v",
+  "section": "Pharmaceutical",
+  "context": "herbal",
+  "voynich_text": "yshos ody aiin okoy okal shedy yshos ody aiin okey okal shedy yshos ody saiin okoy okal shedy yshos ody aiin okoy okalshedy",
+  "latin_text": "[yshos] [ody] est [okoy] robur descendit [yshos] [ody] est [okey] robur descendit [yshos] [ody] sine [okoy] robur descendit [yshos] [ody] est [okoy] [okalshedy]",
+  "english_text": "[yshos] [ody] is [okoy] strong from [yshos] [ody] is [okey] strong from [yshos] [ody] [sine] [okoy] strong from [yshos] [ody] is [okoy] [okalshedy].",
+  "word_translations": [
+    {
+      "original": "yshos",
+      "latin": "[yshos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ody",
+      "latin": "[ody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "okoy",
+      "latin": "[okoy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okal",
+      "latin": "robur",
+      "confidence": 0.9,
+      "notes": "k- + al, strength/support extension"
+    },
+    {
+      "original": "shedy",
+      "latin": "descendit",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, broad use"
+    },
+    {
+      "original": "yshos",
+      "latin": "[yshos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ody",
+      "latin": "[ody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "okey",
+      "latin": "[okey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okal",
+      "latin": "robur",
+      "confidence": 0.9,
+      "notes": "k- + al, strength/support extension"
+    },
+    {
+      "original": "shedy",
+      "latin": "descendit",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, broad use"
+    },
+    {
+      "original": "yshos",
+      "latin": "[yshos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ody",
+      "latin": "[ody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "saiin",
+      "latin": "sine",
+      "confidence": 0.9,
+      "notes": "without"
+    },
+    {
+      "original": "okoy",
+      "latin": "[okoy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okal",
+      "latin": "robur",
+      "confidence": 0.9,
+      "notes": "k- + al, strength/support extension"
+    },
+    {
+      "original": "shedy",
+      "latin": "descendit",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, broad use"
+    },
+    {
+      "original": "yshos",
+      "latin": "[yshos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ody",
+      "latin": "[ody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "okoy",
+      "latin": "[okoy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okalshedy",
+      "latin": "[okalshedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    }
+  ],
+  "statistics": {
+    "total": 23,
+    "known": 10,
+    "unknown": 13,
+    "avg_confidence": 0.3652173913043478,
+    "coverage": 0.43478260869565216
+  },
+  "unknown_words": [
+    "ody",
+    "okalshedy",
+    "okey",
+    "okoy",
+    "yshos"
+  ],
+  "translated_at": "2025-11-27T21:41:36.875271"
+}

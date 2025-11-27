@@ -1,0 +1,820 @@
+{
+  "folio_id": "039r",
+  "section": "Pharmaceutical",
+  "context": "herbal",
+  "voynich_text": "dchdy chdy ykaiin dchdy chdy ykaiin dchdy chdy ykaiin dchdy chdy ykaiin tchedy shol odal qokaiin shdaiin tchedy shol odal qokaiin shdaiin tchedy shol odal qokaiin shdaiin tchedy shol odal qokaiin shdaiin tolchdaiin chckhy saiin olor chls aiin oky ches aiin dal tok chdaiin chckhy saiin olor chl saiin oky chesaiin dal tolchdaiin chckhy saiin olor chls aiin oky ches aiin dal tolchdaiin chckhy saiin olor chls aiin oky ches aiin dal qolkain olcheol daiin dar ol dld iir ador aiin ofcheefar qokkain olcheol daiin dar ol dl dar or aiin ofcheefar qolkain olcheol daiin dar ol dld iir ador aiin ofchee far qolkain olcheol daiin dar ol dld iir ador aiin ofcheefar oteol cholkalqokal dar ykdy oteol cholkalqokal dar ykdy oteol cholkalqokal dar ykdy oteol cholkalqokyl dar ykdy",
+  "latin_text": "[dchdy] herba et erat quidem [dchdy] herba et erat quidem [dchdy] herba et erat quidem [dchdy] herba et erat quidem [tchedy] locus [odal] terra [shdaiin] [tchedy] locus [odal] terra [shdaiin] [tchedy] locus [odal] terra [shdaiin] [tchedy] locus [odal] terra [shdaiin] [tolchdaiin] inspicit sine [olor] [chls] est facit ad [ches] est dat alam tangit est [chdaiin] inspicit sine [olor] [chl] sine facit ad [chesaiin] dat alam [tolchdaiin] inspicit sine [olor] [chls] est facit ad [ches] est dat alam [tolchdaiin] inspicit sine [olor] [chls] est facit ad [ches] est dat alam [qolkain] [olcheol] ad donum ille [dld] [iir] [ador] est [ofcheefar] [qokkain] [olcheol] ad donum ille [dl] donum ordo est [ofcheefar] [qolkain] [olcheol] ad donum ille [dld] [iir] [ador] est [ofchee] et [qolkain] [olcheol] ad donum ille [dld] [iir] [ador] est [ofcheefar] [oteol] [cholkalqokal] donum [ykdy] [oteol] [cholkalqokal] donum [ykdy] [oteol] [cholkalqokal] donum [ykdy] [oteol] [cholkalqokyl] donum [ykdy]",
+  "english_text": "[dchdy] herb and was indeed [dchdy] herb and was indeed [dchdy] herb and was indeed [dchdy] herb and was indeed [tchedy] place [odal] earth [shdaiin] [tchedy] place [odal] earth [shdaiin] [tchedy] place [odal] earth [shdaiin] [tchedy] place [odal] earth [shdaiin] [tolchdaiin] examines [sine] [olor] [chls] is makes to [ches] is gives wing touches is [chdaiin] examines [sine] [olor] [chl] [sine] makes to [chesaiin] gives wing [tolchdaiin] examines [sine] [olor] [chls] is makes to [ches] is gives wing [tolchdaiin] examines [sine] [olor] [chls] is makes to [ches] is gives wing [qolkain] [olcheol] to gift that [dld] [iir] [ador] is [ofcheefar] [qokkain] [olcheol] to gift that [dl] gift order is [ofcheefar] [qolkain] [olcheol] to gift that [dld] [iir] [ador] is [ofchee] and [qolkain] [olcheol] to gift that [dld] [iir] [ador] is [ofcheefar] [oteol] [cholkalqokal] gift [ykdy] [oteol] [cholkalqokal] gift [ykdy] [oteol] [cholkalqokal] gift [ykdy] [oteol] [cholkalqokyl] gift [ykdy].",
+  "word_translations": [
+    {
+      "original": "dchdy",
+      "latin": "[dchdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chdy",
+      "latin": "herba et",
+      "confidence": 0.9,
+      "notes": "ch- + dy (and), botanical connector"
+    },
+    {
+      "original": "ykaiin",
+      "latin": "erat quidem",
+      "confidence": 0.9,
+      "notes": "y- + kaiin, associated with state/being"
+    },
+    {
+      "original": "dchdy",
+      "latin": "[dchdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chdy",
+      "latin": "herba et",
+      "confidence": 0.9,
+      "notes": "ch- + dy (and), botanical connector"
+    },
+    {
+      "original": "ykaiin",
+      "latin": "erat quidem",
+      "confidence": 0.9,
+      "notes": "y- + kaiin, associated with state/being"
+    },
+    {
+      "original": "dchdy",
+      "latin": "[dchdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chdy",
+      "latin": "herba et",
+      "confidence": 0.9,
+      "notes": "ch- + dy (and), botanical connector"
+    },
+    {
+      "original": "ykaiin",
+      "latin": "erat quidem",
+      "confidence": 0.9,
+      "notes": "y- + kaiin, associated with state/being"
+    },
+    {
+      "original": "dchdy",
+      "latin": "[dchdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chdy",
+      "latin": "herba et",
+      "confidence": 0.9,
+      "notes": "ch- + dy (and), botanical connector"
+    },
+    {
+      "original": "ykaiin",
+      "latin": "erat quidem",
+      "confidence": 0.9,
+      "notes": "y- + kaiin, associated with state/being"
+    },
+    {
+      "original": "tchedy",
+      "latin": "[tchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shol",
+      "latin": "locus",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, place/location"
+    },
+    {
+      "original": "odal",
+      "latin": "[odal]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokaiin",
+      "latin": "terra",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, near plants"
+    },
+    {
+      "original": "shdaiin",
+      "latin": "[shdaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "tchedy",
+      "latin": "[tchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shol",
+      "latin": "locus",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, place/location"
+    },
+    {
+      "original": "odal",
+      "latin": "[odal]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokaiin",
+      "latin": "terra",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, near plants"
+    },
+    {
+      "original": "shdaiin",
+      "latin": "[shdaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "tchedy",
+      "latin": "[tchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shol",
+      "latin": "locus",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, place/location"
+    },
+    {
+      "original": "odal",
+      "latin": "[odal]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokaiin",
+      "latin": "terra",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, near plants"
+    },
+    {
+      "original": "shdaiin",
+      "latin": "[shdaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "tchedy",
+      "latin": "[tchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shol",
+      "latin": "locus",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, place/location"
+    },
+    {
+      "original": "odal",
+      "latin": "[odal]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokaiin",
+      "latin": "terra",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, near plants"
+    },
+    {
+      "original": "shdaiin",
+      "latin": "[shdaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "tolchdaiin",
+      "latin": "[tolchdaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chckhy",
+      "latin": "inspicit",
+      "confidence": 0.9,
+      "notes": "ch- + ckhy compound, checking/examining"
+    },
+    {
+      "original": "saiin",
+      "latin": "sine",
+      "confidence": 0.9,
+      "notes": "without"
+    },
+    {
+      "original": "olor",
+      "latin": "[olor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chls",
+      "latin": "[chls]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "oky",
+      "latin": "facit ad",
+      "confidence": 0.9,
+      "notes": "ok (action) + y (direction), directed action"
+    },
+    {
+      "original": "ches",
+      "latin": "[ches]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "dal",
+      "latin": "dat alam",
+      "confidence": 0.9,
+      "notes": "d- + al, giving wing/extension"
+    },
+    {
+      "original": "tok",
+      "latin": "tangit est",
+      "confidence": 0.9,
+      "notes": "systematic word family: to- prefix pattern"
+    },
+    {
+      "original": "chdaiin",
+      "latin": "[chdaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chckhy",
+      "latin": "inspicit",
+      "confidence": 0.9,
+      "notes": "ch- + ckhy compound, checking/examining"
+    },
+    {
+      "original": "saiin",
+      "latin": "sine",
+      "confidence": 0.9,
+      "notes": "without"
+    },
+    {
+      "original": "olor",
+      "latin": "[olor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chl",
+      "latin": "[chl]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "saiin",
+      "latin": "sine",
+      "confidence": 0.9,
+      "notes": "without"
+    },
+    {
+      "original": "oky",
+      "latin": "facit ad",
+      "confidence": 0.9,
+      "notes": "ok (action) + y (direction), directed action"
+    },
+    {
+      "original": "chesaiin",
+      "latin": "[chesaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dal",
+      "latin": "dat alam",
+      "confidence": 0.9,
+      "notes": "d- + al, giving wing/extension"
+    },
+    {
+      "original": "tolchdaiin",
+      "latin": "[tolchdaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chckhy",
+      "latin": "inspicit",
+      "confidence": 0.9,
+      "notes": "ch- + ckhy compound, checking/examining"
+    },
+    {
+      "original": "saiin",
+      "latin": "sine",
+      "confidence": 0.9,
+      "notes": "without"
+    },
+    {
+      "original": "olor",
+      "latin": "[olor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chls",
+      "latin": "[chls]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "oky",
+      "latin": "facit ad",
+      "confidence": 0.9,
+      "notes": "ok (action) + y (direction), directed action"
+    },
+    {
+      "original": "ches",
+      "latin": "[ches]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "dal",
+      "latin": "dat alam",
+      "confidence": 0.9,
+      "notes": "d- + al, giving wing/extension"
+    },
+    {
+      "original": "tolchdaiin",
+      "latin": "[tolchdaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chckhy",
+      "latin": "inspicit",
+      "confidence": 0.9,
+      "notes": "ch- + ckhy compound, checking/examining"
+    },
+    {
+      "original": "saiin",
+      "latin": "sine",
+      "confidence": 0.9,
+      "notes": "without"
+    },
+    {
+      "original": "olor",
+      "latin": "[olor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chls",
+      "latin": "[chls]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "oky",
+      "latin": "facit ad",
+      "confidence": 0.9,
+      "notes": "ok (action) + y (direction), directed action"
+    },
+    {
+      "original": "ches",
+      "latin": "[ches]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "dal",
+      "latin": "dat alam",
+      "confidence": 0.9,
+      "notes": "d- + al, giving wing/extension"
+    },
+    {
+      "original": "qolkain",
+      "latin": "[qolkain]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "olcheol",
+      "latin": "[olcheol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "ol",
+      "latin": "ille",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, that/the"
+    },
+    {
+      "original": "dld",
+      "latin": "[dld]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "iir",
+      "latin": "[iir]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ador",
+      "latin": "[ador]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "ofcheefar",
+      "latin": "[ofcheefar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokkain",
+      "latin": "[qokkain]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "olcheol",
+      "latin": "[olcheol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "ol",
+      "latin": "ille",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, that/the"
+    },
+    {
+      "original": "dl",
+      "latin": "[dl]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "or",
+      "latin": "ordo",
+      "confidence": 0.9,
+      "notes": "short connector, order/arrangement"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "ofcheefar",
+      "latin": "[ofcheefar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qolkain",
+      "latin": "[qolkain]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "olcheol",
+      "latin": "[olcheol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "ol",
+      "latin": "ille",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, that/the"
+    },
+    {
+      "original": "dld",
+      "latin": "[dld]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "iir",
+      "latin": "[iir]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ador",
+      "latin": "[ador]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "ofchee",
+      "latin": "[ofchee]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "far",
+      "latin": "et",
+      "confidence": 0.9,
+      "notes": "systematic word family: fa- prefix pattern"
+    },
+    {
+      "original": "qolkain",
+      "latin": "[qolkain]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "olcheol",
+      "latin": "[olcheol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "ol",
+      "latin": "ille",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, that/the"
+    },
+    {
+      "original": "dld",
+      "latin": "[dld]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "iir",
+      "latin": "[iir]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ador",
+      "latin": "[ador]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "ofcheefar",
+      "latin": "[ofcheefar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oteol",
+      "latin": "[oteol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cholkalqokal",
+      "latin": "[cholkalqokal]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "ykdy",
+      "latin": "[ykdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oteol",
+      "latin": "[oteol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cholkalqokal",
+      "latin": "[cholkalqokal]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "ykdy",
+      "latin": "[ykdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oteol",
+      "latin": "[oteol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cholkalqokal",
+      "latin": "[cholkalqokal]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "ykdy",
+      "latin": "[ykdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oteol",
+      "latin": "[oteol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cholkalqokyl",
+      "latin": "[cholkalqokyl]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "ykdy",
+      "latin": "[ykdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    }
+  ],
+  "statistics": {
+    "total": 129,
+    "known": 63,
+    "unknown": 66,
+    "avg_confidence": 0.4193798449612403,
+    "coverage": 0.4883720930232558
+  },
+  "unknown_words": [
+    "ador",
+    "chdaiin",
+    "ches",
+    "chesaiin",
+    "chl",
+    "chls",
+    "cholkalqokal",
+    "cholkalqokyl",
+    "dchdy",
+    "dl",
+    "dld",
+    "iir",
+    "kkain",
+    "lkain",
+    "odal",
+    "ofchee",
+    "ofcheefar",
+    "olcheol",
+    "olor",
+    "oteol",
+    "qokkain",
+    "qolkain",
+    "shdaiin",
+    "tchedy",
+    "tolchdaiin",
+    "ykdy"
+  ],
+  "translated_at": "2025-11-27T21:41:36.907682"
+}

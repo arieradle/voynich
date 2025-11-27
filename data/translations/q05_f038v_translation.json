@@ -1,0 +1,969 @@
+{
+  "folio_id": "038v",
+  "section": "Pharmaceutical",
+  "context": "herbal",
+  "voynich_text": "okchop chol shotol oteol okeey schor aiin okchop chol shotol oteol okeey schar daiin okchop chol shotol oteol okeey schor daiin choiin shey keo sho oiin chol ldyokeaiin okom choiin shey key sho oiin choldyokeaiin okam choiin shey key sho oiin chol ldyokeaiin okom qokeey keor daiin okey keey daiindair daiin qokeey keor daiin okey keey daiindair daiin qokeey keordaiin okey keey daiindair daiin okeey daiin qokeey chotey todyoky aiiin okeey daiin qokchy chotey todyoky aiiin okeey daiin qokeey chotey todyoky aiin qoty daiin chol oteeol dodycheod chody qoty daiin chol oteeol dodycheod chody qoty daiin chol oteeol dodycheod chody sho keeey key tey daiin daiiindain dain sho keeey key tey daiin daiiindain dain sho keeey key tey daiin daiiindain dain daiin qol chy dain or daiindais daldy daiin qol chy dain sor daiindain daldy daiin qolchy dain or daiindain daldy aiin char chshol chokaiin oaiin char chshol chokaiin oaiin char chshol chokaiin",
+  "latin_text": "[okchop] caulis [shotol] [oteol] quando [schor] est [okchop] caulis [shotol] [oteol] quando [schar] ad [okchop] caulis [shotol] [oteol] quando [schor] ad facit exit [keo] hic facit est caulis [ldyokeaiin] [okom] facit exit [key] hic facit est [choldyokeaiin] [okam] facit exit [key] hic facit est caulis [ldyokeaiin] [okom] iterum varietas ad [okey] parvum [daiindair] ad iterum varietas ad [okey] parvum [daiindair] ad iterum [keordaiin] [okey] parvum [daiindair] ad quando ad iterum facit tendit [todyoky] [aiiin] quando ad valde facit facit tendit [todyoky] [aiiin] quando ad iterum facit tendit [todyoky] est valde ad ad caulis [oteeol] [dodycheod] movetur valde ad ad caulis [oteeol] [dodycheod] movetur valde ad ad caulis [oteeol] [dodycheod] movetur hic facit [keeey] [key] [tey] ad [daiiindain] ad hic facit [keeey] [key] [tey] ad [daiiindain] ad hic facit [keeey] [key] [tey] ad [daiiindain] ad ad [qol] in ad ordo [daiindais] [daldy] ad [qol] in ad latus ordo [daiindain] [daldy] ad [qolchy] ad ordo [daiindain] [daldy] est planta et [chshol] [chokaiin] [oaiin] planta et [chshol] [chokaiin] [oaiin] planta et [chshol] [chokaiin]",
+  "english_text": "[okchop] stem [shotol] [oteol] [quando] [schor] is [okchop] stem [shotol] [oteol] [quando] [schar] to [okchop] stem [shotol] [oteol] [quando] [schor] to makes from [keo] here makes is stem [ldyokeaiin] [okom] makes from [key] here makes is [choldyokeaiin] [okam] makes from [key] here makes is stem [ldyokeaiin] [okom] [iterum] [varietas] to [okey] small [daiindair] to [iterum] [varietas] to [okey] small [daiindair] to [iterum] [keordaiin] [okey] small [daiindair] to [quando] to [iterum] makes stretches [todyoky] [aiiin] [quando] to very makes makes stretches [todyoky] [aiiin] [quando] to [iterum] makes stretches [todyoky] is very to to stem [oteeol] [dodycheod] moves very to to stem [oteeol] [dodycheod] moves very to to stem [oteeol] [dodycheod] moves here makes [keeey] [key] [tey] to [daiiindain] to here makes [keeey] [key] [tey] to [daiiindain] to here makes [keeey] [key] [tey] to [daiiindain] to to [qol] in to order [daiindais] [daldy] to [qol] in to wide order [daiindain] [daldy] to [qolchy] to order [daiindain] [daldy] is plant and [chshol] [chokaiin] [oaiin] plant and [chshol] [chokaiin] [oaiin] plant and [chshol] [chokaiin].",
+  "word_translations": [
+    {
+      "original": "okchop",
+      "latin": "[okchop]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chol",
+      "latin": "caulis",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, stem/stalk of plants"
+    },
+    {
+      "original": "shotol",
+      "latin": "[shotol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oteol",
+      "latin": "[oteol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okeey",
+      "latin": "quando",
+      "confidence": 0.9,
+      "notes": "when"
+    },
+    {
+      "original": "schor",
+      "latin": "[schor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "okchop",
+      "latin": "[okchop]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chol",
+      "latin": "caulis",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, stem/stalk of plants"
+    },
+    {
+      "original": "shotol",
+      "latin": "[shotol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oteol",
+      "latin": "[oteol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okeey",
+      "latin": "quando",
+      "confidence": 0.9,
+      "notes": "when"
+    },
+    {
+      "original": "schar",
+      "latin": "[schar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "okchop",
+      "latin": "[okchop]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chol",
+      "latin": "caulis",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, stem/stalk of plants"
+    },
+    {
+      "original": "shotol",
+      "latin": "[shotol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oteol",
+      "latin": "[oteol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okeey",
+      "latin": "quando",
+      "confidence": 0.9,
+      "notes": "when"
+    },
+    {
+      "original": "schor",
+      "latin": "[schor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "choiin",
+      "latin": "facit",
+      "confidence": 0.9,
+      "notes": "systematic word family: ch- prefix pattern"
+    },
+    {
+      "original": "shey",
+      "latin": "exit",
+      "confidence": 0.9,
+      "notes": "goes out, water context"
+    },
+    {
+      "original": "keo",
+      "latin": "[keo]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sho",
+      "latin": "hic facit",
+      "confidence": 0.9,
+      "notes": "sh- + o, location action"
+    },
+    {
+      "original": "oiin",
+      "latin": "est",
+      "confidence": 0.9,
+      "notes": "suffix marker, state/being"
+    },
+    {
+      "original": "chol",
+      "latin": "caulis",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, stem/stalk of plants"
+    },
+    {
+      "original": "ldyokeaiin",
+      "latin": "[ldyokeaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okom",
+      "latin": "[okom]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "choiin",
+      "latin": "facit",
+      "confidence": 0.9,
+      "notes": "systematic word family: ch- prefix pattern"
+    },
+    {
+      "original": "shey",
+      "latin": "exit",
+      "confidence": 0.9,
+      "notes": "goes out, water context"
+    },
+    {
+      "original": "key",
+      "latin": "[key]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sho",
+      "latin": "hic facit",
+      "confidence": 0.9,
+      "notes": "sh- + o, location action"
+    },
+    {
+      "original": "oiin",
+      "latin": "est",
+      "confidence": 0.9,
+      "notes": "suffix marker, state/being"
+    },
+    {
+      "original": "choldyokeaiin",
+      "latin": "[choldyokeaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okam",
+      "latin": "[okam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "choiin",
+      "latin": "facit",
+      "confidence": 0.9,
+      "notes": "systematic word family: ch- prefix pattern"
+    },
+    {
+      "original": "shey",
+      "latin": "exit",
+      "confidence": 0.9,
+      "notes": "goes out, water context"
+    },
+    {
+      "original": "key",
+      "latin": "[key]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sho",
+      "latin": "hic facit",
+      "confidence": 0.9,
+      "notes": "sh- + o, location action"
+    },
+    {
+      "original": "oiin",
+      "latin": "est",
+      "confidence": 0.9,
+      "notes": "suffix marker, state/being"
+    },
+    {
+      "original": "chol",
+      "latin": "caulis",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, stem/stalk of plants"
+    },
+    {
+      "original": "ldyokeaiin",
+      "latin": "[ldyokeaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okom",
+      "latin": "[okom]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokeey",
+      "latin": "iterum",
+      "confidence": 0.9,
+      "notes": "again"
+    },
+    {
+      "original": "keor",
+      "latin": "varietas",
+      "confidence": 0.9,
+      "notes": "botanical variation element"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "okey",
+      "latin": "[okey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "keey",
+      "latin": "parvum",
+      "confidence": 0.9,
+      "notes": "systematic word family: ke- prefix pattern"
+    },
+    {
+      "original": "daiindair",
+      "latin": "[daiindair]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "qokeey",
+      "latin": "iterum",
+      "confidence": 0.9,
+      "notes": "again"
+    },
+    {
+      "original": "keor",
+      "latin": "varietas",
+      "confidence": 0.9,
+      "notes": "botanical variation element"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "okey",
+      "latin": "[okey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "keey",
+      "latin": "parvum",
+      "confidence": 0.9,
+      "notes": "systematic word family: ke- prefix pattern"
+    },
+    {
+      "original": "daiindair",
+      "latin": "[daiindair]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "qokeey",
+      "latin": "iterum",
+      "confidence": 0.9,
+      "notes": "again"
+    },
+    {
+      "original": "keordaiin",
+      "latin": "[keordaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okey",
+      "latin": "[okey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "keey",
+      "latin": "parvum",
+      "confidence": 0.9,
+      "notes": "systematic word family: ke- prefix pattern"
+    },
+    {
+      "original": "daiindair",
+      "latin": "[daiindair]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "okeey",
+      "latin": "quando",
+      "confidence": 0.9,
+      "notes": "when"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "qokeey",
+      "latin": "iterum",
+      "confidence": 0.9,
+      "notes": "again"
+    },
+    {
+      "original": "chotey",
+      "latin": "facit tendit",
+      "confidence": 0.9,
+      "notes": "cho + tey, botanical action"
+    },
+    {
+      "original": "todyoky",
+      "latin": "[todyoky]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aiiin",
+      "latin": "[aiiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okeey",
+      "latin": "quando",
+      "confidence": 0.9,
+      "notes": "when"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "qokchy",
+      "latin": "valde facit",
+      "confidence": 0.9,
+      "notes": "qo- prefix + kchy (makes), intensified making/creating"
+    },
+    {
+      "original": "chotey",
+      "latin": "facit tendit",
+      "confidence": 0.9,
+      "notes": "cho + tey, botanical action"
+    },
+    {
+      "original": "todyoky",
+      "latin": "[todyoky]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aiiin",
+      "latin": "[aiiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okeey",
+      "latin": "quando",
+      "confidence": 0.9,
+      "notes": "when"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "qokeey",
+      "latin": "iterum",
+      "confidence": 0.9,
+      "notes": "again"
+    },
+    {
+      "original": "chotey",
+      "latin": "facit tendit",
+      "confidence": 0.9,
+      "notes": "cho + tey, botanical action"
+    },
+    {
+      "original": "todyoky",
+      "latin": "[todyoky]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "qoty",
+      "latin": "valde ad",
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + ty (to/toward); very much to/toward"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "chol",
+      "latin": "caulis",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, stem/stalk of plants"
+    },
+    {
+      "original": "oteeol",
+      "latin": "[oteeol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dodycheod",
+      "latin": "[dodycheod]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chody",
+      "latin": "movetur",
+      "confidence": 0.9,
+      "notes": "ch- + ody, movement/motion"
+    },
+    {
+      "original": "qoty",
+      "latin": "valde ad",
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + ty (to/toward); very much to/toward"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "chol",
+      "latin": "caulis",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, stem/stalk of plants"
+    },
+    {
+      "original": "oteeol",
+      "latin": "[oteeol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dodycheod",
+      "latin": "[dodycheod]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chody",
+      "latin": "movetur",
+      "confidence": 0.9,
+      "notes": "ch- + ody, movement/motion"
+    },
+    {
+      "original": "qoty",
+      "latin": "valde ad",
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + ty (to/toward); very much to/toward"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "chol",
+      "latin": "caulis",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, stem/stalk of plants"
+    },
+    {
+      "original": "oteeol",
+      "latin": "[oteeol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dodycheod",
+      "latin": "[dodycheod]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chody",
+      "latin": "movetur",
+      "confidence": 0.9,
+      "notes": "ch- + ody, movement/motion"
+    },
+    {
+      "original": "sho",
+      "latin": "hic facit",
+      "confidence": 0.9,
+      "notes": "sh- + o, location action"
+    },
+    {
+      "original": "keeey",
+      "latin": "[keeey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "key",
+      "latin": "[key]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "tey",
+      "latin": "[tey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "daiiindain",
+      "latin": "[daiiindain]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dain",
+      "latin": "ad",
+      "confidence": 0.9,
+      "notes": "variant of daiin (to), directional"
+    },
+    {
+      "original": "sho",
+      "latin": "hic facit",
+      "confidence": 0.9,
+      "notes": "sh- + o, location action"
+    },
+    {
+      "original": "keeey",
+      "latin": "[keeey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "key",
+      "latin": "[key]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "tey",
+      "latin": "[tey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "daiiindain",
+      "latin": "[daiiindain]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dain",
+      "latin": "ad",
+      "confidence": 0.9,
+      "notes": "variant of daiin (to), directional"
+    },
+    {
+      "original": "sho",
+      "latin": "hic facit",
+      "confidence": 0.9,
+      "notes": "sh- + o, location action"
+    },
+    {
+      "original": "keeey",
+      "latin": "[keeey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "key",
+      "latin": "[key]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "tey",
+      "latin": "[tey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "daiiindain",
+      "latin": "[daiiindain]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dain",
+      "latin": "ad",
+      "confidence": 0.9,
+      "notes": "variant of daiin (to), directional"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "qol",
+      "latin": "[qol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chy",
+      "latin": "in",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, in/within plant"
+    },
+    {
+      "original": "dain",
+      "latin": "ad",
+      "confidence": 0.9,
+      "notes": "variant of daiin (to), directional"
+    },
+    {
+      "original": "or",
+      "latin": "ordo",
+      "confidence": 0.9,
+      "notes": "short connector, order/arrangement"
+    },
+    {
+      "original": "daiindais",
+      "latin": "[daiindais]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daldy",
+      "latin": "[daldy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "qol",
+      "latin": "[qol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chy",
+      "latin": "in",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, in/within plant"
+    },
+    {
+      "original": "dain",
+      "latin": "ad",
+      "confidence": 0.9,
+      "notes": "variant of daiin (to), directional"
+    },
+    {
+      "original": "sor",
+      "latin": "latus ordo",
+      "confidence": 0.9,
+      "notes": "s- + or, side order"
+    },
+    {
+      "original": "daiindain",
+      "latin": "[daiindain]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daldy",
+      "latin": "[daldy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "qolchy",
+      "latin": "[qolchy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dain",
+      "latin": "ad",
+      "confidence": 0.9,
+      "notes": "variant of daiin (to), directional"
+    },
+    {
+      "original": "or",
+      "latin": "ordo",
+      "confidence": 0.9,
+      "notes": "short connector, order/arrangement"
+    },
+    {
+      "original": "daiindain",
+      "latin": "[daiindain]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daldy",
+      "latin": "[daldy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "char",
+      "latin": "planta et",
+      "confidence": 0.9,
+      "notes": "ch- + ar, botanical and"
+    },
+    {
+      "original": "chshol",
+      "latin": "[chshol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chokaiin",
+      "latin": "[chokaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oaiin",
+      "latin": "[oaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "char",
+      "latin": "planta et",
+      "confidence": 0.9,
+      "notes": "ch- + ar, botanical and"
+    },
+    {
+      "original": "chshol",
+      "latin": "[chshol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chokaiin",
+      "latin": "[chokaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oaiin",
+      "latin": "[oaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "char",
+      "latin": "planta et",
+      "confidence": 0.9,
+      "notes": "ch- + ar, botanical and"
+    },
+    {
+      "original": "chshol",
+      "latin": "[chshol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chokaiin",
+      "latin": "[chokaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    }
+  ],
+  "statistics": {
+    "total": 153,
+    "known": 85,
+    "unknown": 68,
+    "avg_confidence": 0.4790849673202614,
+    "coverage": 0.5555555555555556
+  },
+  "unknown_words": [
+    "aiiin",
+    "chokaiin",
+    "choldyokeaiin",
+    "chshol",
+    "daiiindain",
+    "daiindain",
+    "daiindair",
+    "daiindais",
+    "daldy",
+    "dodycheod",
+    "keeey",
+    "keo",
+    "keordaiin",
+    "key",
+    "l",
+    "lchy",
+    "ldyokeaiin",
+    "oaiin",
+    "okam",
+    "okchop",
+    "okey",
+    "okom",
+    "oteeol",
+    "oteol",
+    "qol",
+    "qolchy",
+    "schar",
+    "schor",
+    "shotol",
+    "tey",
+    "todyoky"
+  ],
+  "translated_at": "2025-11-27T21:41:36.904477"
+}

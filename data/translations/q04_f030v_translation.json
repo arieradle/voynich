@@ -1,0 +1,1177 @@
+{
+  "folio_id": "030v",
+  "section": "Astrological",
+  "context": "herbal",
+  "voynich_text": "cthscthain shosaiin chocthey sho chepchy shor sheaiin cthschain shosaiin chocthey sho chepchy shor sheaiin cthscthain shosaiin chocthey sho chepchy shor sheaiin qotchor chy she kchor chory keor ol chy daiin ctholdy qotchor chy shekchor chory keorol chy daiin ctholdy qotchor chy she kchor chory keor ol chy daiin ctholdy chotchol daiin cthol doiin daiin chokeor dal chtoithy chotchol daiin cthol doiin daiin chokeor dar chtocthy chotchol daiin cthol doiin daiin chokeor dal chtocthy otchey daiin chor checkhy qotchod daiin otchey daiin chor checkhy qotchod daiin otchey daiin chor checkhy qotchod daiin dain shoty chkol ytor cheoldy dain choty chkol ytor cheol dy dain shoty chkol ytor cheofdy qokeeor chokol chokeody dairy qokeeor chokol chokeody dair qokeeor chokol chokeody dairy chokchy sho kcho tcho ctho sos chakchy shokchotcho ctho sos chokchy sho kcho tcho ctho sos oyshy cheotol cphoaiin cphey oyshy cheotol cphoaiin cphey oyshy cheotol cphoaiin cphey qotchor chor sheey cheol sos qotchor chor sheey cheor sos qotchor chor sheey cheol sos sho sheoldy otcheor daiin sho sheoldy otcheor daiin sho sheoldy otcheor daiin sol chokcheey daiin kchydy shol chokcheey daiin kchydy sol chokcheey daiin kchody",
+  "latin_text": "[cthscthain] [shosaiin] [chocthey] hic facit [chepchy] saepe [sheaiin] [cthschain] [shosaiin] [chocthey] hic facit [chepchy] saepe [sheaiin] [cthscthain] [shosaiin] [chocthey] hic facit [chepchy] saepe [sheaiin] ramificat in [she] ramulus ordo varietas ille in ad [ctholdy] ramificat in [shekchor] ordo [keorol] in ad [ctholdy] ramificat in [she] ramulus ordo varietas ille in ad [ctholdy] [chotchol] ad continet dat est ad [chokeor] dat alam [chtoithy] [chotchol] ad continet dat est ad [chokeor] donum [chtocthy] [chotchol] ad continet dat est ad [chokeor] dat alam [chtocthy] [otchey] ad ramus [checkhy] [qotchod] ad [otchey] ad ramus [checkhy] [qotchod] ad [otchey] ad ramus [checkhy] [qotchod] ad ad versus [chkol] [ytor] [cheoldy] ad parvus [chkol] [ytor] [cheol] et ad versus [chkol] [ytor] [cheofdy] [qokeeor] [chokol] [chokeody] [dairy] [qokeeor] [chokol] [chokeody] gratia [qokeeor] [chokol] [chokeody] [dairy] facit hic facit facit tangit facit [ctho] [sos] [chakchy] [shokchotcho] [ctho] [sos] facit hic facit facit tangit facit [ctho] [sos] [oyshy] [cheotol] [cphoaiin] partem [oyshy] [cheotol] [cphoaiin] partem [oyshy] [cheotol] [cphoaiin] partem ramificat ramus hic elementum [cheol] [sos] ramificat ramus hic elementum variat [sos] ramificat ramus hic elementum [cheol] [sos] hic facit [sheoldy] [otcheor] ad hic facit [sheoldy] [otcheor] ad hic facit [sheoldy] [otcheor] ad [sol] [chokcheey] ad [kchydy] locus [chokcheey] ad [kchydy] [sol] [chokcheey] ad [kchody]",
+  "english_text": "[cthscthain] [shosaiin] [chocthey] here makes [chepchy] often [sheaiin] [cthschain] [shosaiin] [chocthey] here makes [chepchy] often [sheaiin] [cthscthain] [shosaiin] [chocthey] here makes [chepchy] often [sheaiin] branches in [she] twig order [varietas] that in to [ctholdy] branches in [shekchor] order [keorol] in to [ctholdy] branches in [she] twig order [varietas] that in to [ctholdy] [chotchol] to contains gives is to [chokeor] gives wing [chtoithy] [chotchol] to contains gives is to [chokeor] gift [chtocthy] [chotchol] to contains gives is to [chokeor] gives wing [chtocthy] [otchey] to branch [checkhy] [qotchod] to [otchey] to branch [checkhy] [qotchod] to [otchey] to branch [checkhy] [qotchod] to to toward [chkol] [ytor] [cheoldy] to small [chkol] [ytor] [cheol] and to toward [chkol] [ytor] [cheofdy] [qokeeor] [chokol] [chokeody] [dairy] [qokeeor] [chokol] [chokeody] grace [qokeeor] [chokol] [chokeody] [dairy] makes here makes makes touches makes [ctho] [sos] [chakchy] [shokchotcho] [ctho] [sos] makes here makes makes touches makes [ctho] [sos] [oyshy] [cheotol] [cphoaiin] [partem] [oyshy] [cheotol] [cphoaiin] [partem] [oyshy] [cheotol] [cphoaiin] [partem] branches branch here element [cheol] [sos] branches branch here element varies [sos] branches branch here element [cheol] [sos] here makes [sheoldy] [otcheor] to here makes [sheoldy] [otcheor] to here makes [sheoldy] [otcheor] to [sol] [chokcheey] to [kchydy] place [chokcheey] to [kchydy] [sol] [chokcheey] to [kchody].",
+  "word_translations": [
+    {
+      "original": "cthscthain",
+      "latin": "[cthscthain]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shosaiin",
+      "latin": "[shosaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chocthey",
+      "latin": "[chocthey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sho",
+      "latin": "hic facit",
+      "confidence": 0.9,
+      "notes": "sh- + o, location action"
+    },
+    {
+      "original": "chepchy",
+      "latin": "[chepchy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shor",
+      "latin": "saepe",
+      "confidence": 0.9,
+      "notes": "often"
+    },
+    {
+      "original": "sheaiin",
+      "latin": "[sheaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cthschain",
+      "latin": "[cthschain]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shosaiin",
+      "latin": "[shosaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chocthey",
+      "latin": "[chocthey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sho",
+      "latin": "hic facit",
+      "confidence": 0.9,
+      "notes": "sh- + o, location action"
+    },
+    {
+      "original": "chepchy",
+      "latin": "[chepchy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shor",
+      "latin": "saepe",
+      "confidence": 0.9,
+      "notes": "often"
+    },
+    {
+      "original": "sheaiin",
+      "latin": "[sheaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cthscthain",
+      "latin": "[cthscthain]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shosaiin",
+      "latin": "[shosaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chocthey",
+      "latin": "[chocthey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sho",
+      "latin": "hic facit",
+      "confidence": 0.9,
+      "notes": "sh- + o, location action"
+    },
+    {
+      "original": "chepchy",
+      "latin": "[chepchy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shor",
+      "latin": "saepe",
+      "confidence": 0.9,
+      "notes": "often"
+    },
+    {
+      "original": "sheaiin",
+      "latin": "[sheaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qotchor",
+      "latin": "ramificat",
+      "confidence": 0.9,
+      "notes": "qo- prefix + tchor (twig), intensified branching"
+    },
+    {
+      "original": "chy",
+      "latin": "in",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, in/within plant"
+    },
+    {
+      "original": "she",
+      "latin": "[she]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "kchor",
+      "latin": "ramulus",
+      "confidence": 0.9,
+      "notes": "compound with chor root, botanical term"
+    },
+    {
+      "original": "chory",
+      "latin": "ordo",
+      "confidence": 0.9,
+      "notes": "systematic word family: ch- prefix pattern"
+    },
+    {
+      "original": "keor",
+      "latin": "varietas",
+      "confidence": 0.9,
+      "notes": "botanical variation element"
+    },
+    {
+      "original": "ol",
+      "latin": "ille",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, that/the"
+    },
+    {
+      "original": "chy",
+      "latin": "in",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, in/within plant"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "ctholdy",
+      "latin": "[ctholdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qotchor",
+      "latin": "ramificat",
+      "confidence": 0.9,
+      "notes": "qo- prefix + tchor (twig), intensified branching"
+    },
+    {
+      "original": "chy",
+      "latin": "in",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, in/within plant"
+    },
+    {
+      "original": "shekchor",
+      "latin": "[shekchor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chory",
+      "latin": "ordo",
+      "confidence": 0.9,
+      "notes": "systematic word family: ch- prefix pattern"
+    },
+    {
+      "original": "keorol",
+      "latin": "[keorol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chy",
+      "latin": "in",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, in/within plant"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "ctholdy",
+      "latin": "[ctholdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qotchor",
+      "latin": "ramificat",
+      "confidence": 0.9,
+      "notes": "qo- prefix + tchor (twig), intensified branching"
+    },
+    {
+      "original": "chy",
+      "latin": "in",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, in/within plant"
+    },
+    {
+      "original": "she",
+      "latin": "[she]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "kchor",
+      "latin": "ramulus",
+      "confidence": 0.9,
+      "notes": "compound with chor root, botanical term"
+    },
+    {
+      "original": "chory",
+      "latin": "ordo",
+      "confidence": 0.9,
+      "notes": "systematic word family: ch- prefix pattern"
+    },
+    {
+      "original": "keor",
+      "latin": "varietas",
+      "confidence": 0.9,
+      "notes": "botanical variation element"
+    },
+    {
+      "original": "ol",
+      "latin": "ille",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, that/the"
+    },
+    {
+      "original": "chy",
+      "latin": "in",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, in/within plant"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "ctholdy",
+      "latin": "[ctholdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chotchol",
+      "latin": "[chotchol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "cthol",
+      "latin": "continet",
+      "confidence": 0.9,
+      "notes": "ct- + hol, holding/containing structure"
+    },
+    {
+      "original": "doiin",
+      "latin": "dat est",
+      "confidence": 0.9,
+      "notes": "systematic word family: do- prefix pattern"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "chokeor",
+      "latin": "[chokeor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dal",
+      "latin": "dat alam",
+      "confidence": 0.9,
+      "notes": "d- + al, giving wing/extension"
+    },
+    {
+      "original": "chtoithy",
+      "latin": "[chtoithy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chotchol",
+      "latin": "[chotchol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "cthol",
+      "latin": "continet",
+      "confidence": 0.9,
+      "notes": "ct- + hol, holding/containing structure"
+    },
+    {
+      "original": "doiin",
+      "latin": "dat est",
+      "confidence": 0.9,
+      "notes": "systematic word family: do- prefix pattern"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "chokeor",
+      "latin": "[chokeor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "chtocthy",
+      "latin": "[chtocthy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chotchol",
+      "latin": "[chotchol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "cthol",
+      "latin": "continet",
+      "confidence": 0.9,
+      "notes": "ct- + hol, holding/containing structure"
+    },
+    {
+      "original": "doiin",
+      "latin": "dat est",
+      "confidence": 0.9,
+      "notes": "systematic word family: do- prefix pattern"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "chokeor",
+      "latin": "[chokeor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dal",
+      "latin": "dat alam",
+      "confidence": 0.9,
+      "notes": "d- + al, giving wing/extension"
+    },
+    {
+      "original": "chtocthy",
+      "latin": "[chtocthy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otchey",
+      "latin": "[otchey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "chor",
+      "latin": "ramus",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, branch of plant"
+    },
+    {
+      "original": "checkhy",
+      "latin": "[checkhy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qotchod",
+      "latin": "[qotchod]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "otchey",
+      "latin": "[otchey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "chor",
+      "latin": "ramus",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, branch of plant"
+    },
+    {
+      "original": "checkhy",
+      "latin": "[checkhy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qotchod",
+      "latin": "[qotchod]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "otchey",
+      "latin": "[otchey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "chor",
+      "latin": "ramus",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, branch of plant"
+    },
+    {
+      "original": "checkhy",
+      "latin": "[checkhy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qotchod",
+      "latin": "[qotchod]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "dain",
+      "latin": "ad",
+      "confidence": 0.9,
+      "notes": "variant of daiin (to), directional"
+    },
+    {
+      "original": "shoty",
+      "latin": "versus",
+      "confidence": 0.9,
+      "notes": "contains oty (direction) root, directional term"
+    },
+    {
+      "original": "chkol",
+      "latin": "[chkol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ytor",
+      "latin": "[ytor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheoldy",
+      "latin": "[cheoldy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dain",
+      "latin": "ad",
+      "confidence": 0.9,
+      "notes": "variant of daiin (to), directional"
+    },
+    {
+      "original": "choty",
+      "latin": "parvus",
+      "confidence": 0.9,
+      "notes": "small"
+    },
+    {
+      "original": "chkol",
+      "latin": "[chkol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ytor",
+      "latin": "[ytor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheol",
+      "latin": "[cheol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dy",
+      "latin": "et",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, and (connector)"
+    },
+    {
+      "original": "dain",
+      "latin": "ad",
+      "confidence": 0.9,
+      "notes": "variant of daiin (to), directional"
+    },
+    {
+      "original": "shoty",
+      "latin": "versus",
+      "confidence": 0.9,
+      "notes": "contains oty (direction) root, directional term"
+    },
+    {
+      "original": "chkol",
+      "latin": "[chkol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ytor",
+      "latin": "[ytor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheofdy",
+      "latin": "[cheofdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokeeor",
+      "latin": "[qokeeor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chokol",
+      "latin": "[chokol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chokeody",
+      "latin": "[chokeody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dairy",
+      "latin": "[dairy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokeeor",
+      "latin": "[qokeeor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chokol",
+      "latin": "[chokol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chokeody",
+      "latin": "[chokeody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dair",
+      "latin": "gratia",
+      "confidence": 0.9,
+      "notes": "for benefit"
+    },
+    {
+      "original": "qokeeor",
+      "latin": "[qokeeor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chokol",
+      "latin": "[chokol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chokeody",
+      "latin": "[chokeody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dairy",
+      "latin": "[dairy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chokchy",
+      "latin": "facit",
+      "confidence": 0.9,
+      "notes": "cho (makes) + kchy, botanical action, appears in both sections"
+    },
+    {
+      "original": "sho",
+      "latin": "hic facit",
+      "confidence": 0.9,
+      "notes": "sh- + o, location action"
+    },
+    {
+      "original": "kcho",
+      "latin": "facit",
+      "confidence": 0.9,
+      "notes": "systematic word family: kc- prefix pattern"
+    },
+    {
+      "original": "tcho",
+      "latin": "tangit facit",
+      "confidence": 0.9,
+      "notes": "systematic word family: tc- prefix pattern"
+    },
+    {
+      "original": "ctho",
+      "latin": "[ctho]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sos",
+      "latin": "[sos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chakchy",
+      "latin": "[chakchy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shokchotcho",
+      "latin": "[shokchotcho]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ctho",
+      "latin": "[ctho]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sos",
+      "latin": "[sos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chokchy",
+      "latin": "facit",
+      "confidence": 0.9,
+      "notes": "cho (makes) + kchy, botanical action, appears in both sections"
+    },
+    {
+      "original": "sho",
+      "latin": "hic facit",
+      "confidence": 0.9,
+      "notes": "sh- + o, location action"
+    },
+    {
+      "original": "kcho",
+      "latin": "facit",
+      "confidence": 0.9,
+      "notes": "systematic word family: kc- prefix pattern"
+    },
+    {
+      "original": "tcho",
+      "latin": "tangit facit",
+      "confidence": 0.9,
+      "notes": "systematic word family: tc- prefix pattern"
+    },
+    {
+      "original": "ctho",
+      "latin": "[ctho]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sos",
+      "latin": "[sos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oyshy",
+      "latin": "[oyshy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheotol",
+      "latin": "[cheotol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cphoaiin",
+      "latin": "[cphoaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cphey",
+      "latin": "partem",
+      "confidence": 0.9,
+      "notes": "cp- + hey, compound botanical element"
+    },
+    {
+      "original": "oyshy",
+      "latin": "[oyshy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheotol",
+      "latin": "[cheotol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cphoaiin",
+      "latin": "[cphoaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cphey",
+      "latin": "partem",
+      "confidence": 0.9,
+      "notes": "cp- + hey, compound botanical element"
+    },
+    {
+      "original": "oyshy",
+      "latin": "[oyshy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheotol",
+      "latin": "[cheotol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cphoaiin",
+      "latin": "[cphoaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cphey",
+      "latin": "partem",
+      "confidence": 0.9,
+      "notes": "cp- + hey, compound botanical element"
+    },
+    {
+      "original": "qotchor",
+      "latin": "ramificat",
+      "confidence": 0.9,
+      "notes": "qo- prefix + tchor (twig), intensified branching"
+    },
+    {
+      "original": "chor",
+      "latin": "ramus",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, branch of plant"
+    },
+    {
+      "original": "sheey",
+      "latin": "hic elementum",
+      "confidence": 0.9,
+      "notes": "she + ey, location with element"
+    },
+    {
+      "original": "cheol",
+      "latin": "[cheol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sos",
+      "latin": "[sos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qotchor",
+      "latin": "ramificat",
+      "confidence": 0.9,
+      "notes": "qo- prefix + tchor (twig), intensified branching"
+    },
+    {
+      "original": "chor",
+      "latin": "ramus",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, branch of plant"
+    },
+    {
+      "original": "sheey",
+      "latin": "hic elementum",
+      "confidence": 0.9,
+      "notes": "she + ey, location with element"
+    },
+    {
+      "original": "cheor",
+      "latin": "variat",
+      "confidence": 0.9,
+      "notes": "ch- + eor, botanical change/variation"
+    },
+    {
+      "original": "sos",
+      "latin": "[sos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qotchor",
+      "latin": "ramificat",
+      "confidence": 0.9,
+      "notes": "qo- prefix + tchor (twig), intensified branching"
+    },
+    {
+      "original": "chor",
+      "latin": "ramus",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, branch of plant"
+    },
+    {
+      "original": "sheey",
+      "latin": "hic elementum",
+      "confidence": 0.9,
+      "notes": "she + ey, location with element"
+    },
+    {
+      "original": "cheol",
+      "latin": "[cheol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sos",
+      "latin": "[sos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sho",
+      "latin": "hic facit",
+      "confidence": 0.9,
+      "notes": "sh- + o, location action"
+    },
+    {
+      "original": "sheoldy",
+      "latin": "[sheoldy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otcheor",
+      "latin": "[otcheor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "sho",
+      "latin": "hic facit",
+      "confidence": 0.9,
+      "notes": "sh- + o, location action"
+    },
+    {
+      "original": "sheoldy",
+      "latin": "[sheoldy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otcheor",
+      "latin": "[otcheor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "sho",
+      "latin": "hic facit",
+      "confidence": 0.9,
+      "notes": "sh- + o, location action"
+    },
+    {
+      "original": "sheoldy",
+      "latin": "[sheoldy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otcheor",
+      "latin": "[otcheor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "sol",
+      "latin": "[sol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chokcheey",
+      "latin": "[chokcheey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "kchydy",
+      "latin": "[kchydy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shol",
+      "latin": "locus",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, place/location"
+    },
+    {
+      "original": "chokcheey",
+      "latin": "[chokcheey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "kchydy",
+      "latin": "[kchydy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sol",
+      "latin": "[sol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chokcheey",
+      "latin": "[chokcheey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "kchody",
+      "latin": "[kchody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    }
+  ],
+  "statistics": {
+    "total": 186,
+    "known": 90,
+    "unknown": 96,
+    "avg_confidence": 0.41559139784946236,
+    "coverage": 0.4838709677419355
+  },
+  "unknown_words": [
+    "chakchy",
+    "checkhy",
+    "cheofdy",
+    "cheol",
+    "cheoldy",
+    "cheotol",
+    "chepchy",
+    "chkol",
+    "chocthey",
+    "chokcheey",
+    "chokeody",
+    "chokeor",
+    "chokol",
+    "chotchol",
+    "chtocthy",
+    "chtoithy",
+    "cphoaiin",
+    "ctho",
+    "ctholdy",
+    "cthschain",
+    "cthscthain",
+    "dairy",
+    "kchody",
+    "kchydy",
+    "keeor",
+    "keorol",
+    "otcheor",
+    "otchey",
+    "oyshy",
+    "qokeeor",
+    "qotchod",
+    "she",
+    "sheaiin",
+    "shekchor",
+    "sheoldy",
+    "shokchotcho",
+    "shosaiin",
+    "sol",
+    "sos",
+    "tchod",
+    "ytor"
+  ],
+  "translated_at": "2025-11-27T21:41:29.962692"
+}

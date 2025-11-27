@@ -1,0 +1,920 @@
+{
+  "folio_id": "036r",
+  "section": "Pharmaceutical",
+  "context": "herbal",
+  "voynich_text": "pchafdan qorain chcfhal soiin cphor shaiin cthy dair chafdan qorain chcfhal soiin cphor shaiin cthy dair pchafdan qorain chcfhal soiin cphor shaiin cthy dair oral shor ytaiin qotaiin qooldy chty chol dy tor oral shor ytaiin qotaiin qooldy chty chl dy tor oral shor ytaiin qotaiin qooldy chty choldy tor qotchy tchy daiin gaiin dolsain qotchy tchy daiin gaiin dol sain qotchy tchy daiin daiin dolsain podaiir cphy qoypchol romcy podaiir cphy qoypchol somshy podaiir cphyqoypchol romchy daiin qor chol ctholy sorchy sy daiin qor chol ctholy schorchy sy daiin qorchol ctholy sorchy sy okaiin cthor ykaiiin sdain andan okaiin cthor ykaiin sdain andan okaiin cthor ykaiin sdain andan qotol cthol okol dy okchyytororysold qotol cthol okol dy okchyytororysold qotol cthol okoldy okchyytororysold ytchor cthol chaiin yd ytchor cthol chaiin yd ytchor cthol chaiin yd ytodaly daiin otaro ytodaly daiin otaro ytodaly daiin otaro",
+  "latin_text": "[pchafdan] [qorain] [chcfhal] [soiin] [cphor] videt terra gratia [chafdan] [qorain] [chcfhal] [soiin] [cphor] videt terra gratia [pchafdan] [qorain] [chcfhal] [soiin] [cphor] videt terra gratia [oral] saepe ad erat inclinatur [qooldy] [chty] caulis et tangit ordine [oral] saepe ad erat inclinatur [qooldy] [chty] [chl] et tangit ordine [oral] saepe ad erat inclinatur [qooldy] [chty] [choldy] tangit ordine crescit intus ad gratia [dolsain] crescit intus ad gratia de [sain] crescit intus valde ad [dolsain] [podaiir] piscina valde ad caulis [romcy] [podaiir] piscina valde ad caulis [somshy] [podaiir] [cphyqoypchol] [romchy] ad valde et caulis [ctholy] [sorchy] ipse ad valde et caulis [ctholy] [schorchy] ipse ad [qorchol] [ctholy] [sorchy] ipse ponit caelum [ykaiiin] [sdain] [andan] ponit caelum erat quidem [sdain] [andan] ponit caelum erat quidem [sdain] [andan] valde tangit locus continet cum et [okchyytororysold] valde tangit locus continet cum et [okchyytororysold] valde tangit locus continet [okoldy] [okchyytororysold] ad ramusculus continet erat [yd] ad ramusculus continet erat [yd] ad ramusculus continet erat [yd] [ytodaly] ad [otaro] [ytodaly] ad [otaro] [ytodaly] ad [otaro]",
+  "english_text": "[pchafdan] [qorain] [chcfhal] [soiin] [cphor] [videt] earth grace [chafdan] [qorain] [chcfhal] [soiin] [cphor] [videt] earth grace [pchafdan] [qorain] [chcfhal] [soiin] [cphor] [videt] earth grace [oral] often to was in [qooldy] [chty] stem and touches [ordine] [oral] often to was in [qooldy] [chty] [chl] and touches [ordine] [oral] often to was in [qooldy] [chty] [choldy] touches [ordine] grows in to grace [dolsain] grows in to grace from [sain] grows in very to [dolsain] [podaiir] [piscina] very to stem [romcy] [podaiir] [piscina] very to stem [somshy] [podaiir] [cphyqoypchol] [romchy] to very and stem [ctholy] [sorchy] [ipse] to very and stem [ctholy] [schorchy] [ipse] to [qorchol] [ctholy] [sorchy] [ipse] [ponit] [caelum] [ykaiiin] [sdain] [andan] [ponit] [caelum] was indeed [sdain] [andan] [ponit] [caelum] was indeed [sdain] [andan] very touches place contains with and [okchyytororysold] very touches place contains with and [okchyytororysold] very touches place contains [okoldy] [okchyytororysold] to small twig contains was [yd] to small twig contains was [yd] to small twig contains was [yd] [ytodaly] to [otaro] [ytodaly] to [otaro] [ytodaly] to [otaro].",
+  "word_translations": [
+    {
+      "original": "pchafdan",
+      "latin": "[pchafdan]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qorain",
+      "latin": "[qorain]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chcfhal",
+      "latin": "[chcfhal]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "soiin",
+      "latin": "[soiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cphor",
+      "latin": "[cphor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shaiin",
+      "latin": "videt",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, star context"
+    },
+    {
+      "original": "cthy",
+      "latin": "terra",
+      "confidence": 0.9,
+      "notes": "earth/soil in herbal context"
+    },
+    {
+      "original": "dair",
+      "latin": "gratia",
+      "confidence": 0.9,
+      "notes": "for benefit"
+    },
+    {
+      "original": "chafdan",
+      "latin": "[chafdan]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qorain",
+      "latin": "[qorain]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chcfhal",
+      "latin": "[chcfhal]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "soiin",
+      "latin": "[soiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cphor",
+      "latin": "[cphor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shaiin",
+      "latin": "videt",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, star context"
+    },
+    {
+      "original": "cthy",
+      "latin": "terra",
+      "confidence": 0.9,
+      "notes": "earth/soil in herbal context"
+    },
+    {
+      "original": "dair",
+      "latin": "gratia",
+      "confidence": 0.9,
+      "notes": "for benefit"
+    },
+    {
+      "original": "pchafdan",
+      "latin": "[pchafdan]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qorain",
+      "latin": "[qorain]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chcfhal",
+      "latin": "[chcfhal]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "soiin",
+      "latin": "[soiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cphor",
+      "latin": "[cphor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shaiin",
+      "latin": "videt",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, star context"
+    },
+    {
+      "original": "cthy",
+      "latin": "terra",
+      "confidence": 0.9,
+      "notes": "earth/soil in herbal context"
+    },
+    {
+      "original": "dair",
+      "latin": "gratia",
+      "confidence": 0.9,
+      "notes": "for benefit"
+    },
+    {
+      "original": "oral",
+      "latin": "[oral]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shor",
+      "latin": "saepe",
+      "confidence": 0.9,
+      "notes": "often"
+    },
+    {
+      "original": "ytaiin",
+      "latin": "ad erat",
+      "confidence": 0.9,
+      "notes": "y- + taiin, directional with state"
+    },
+    {
+      "original": "qotaiin",
+      "latin": "inclinatur",
+      "confidence": 0.9,
+      "notes": "tilting"
+    },
+    {
+      "original": "qooldy",
+      "latin": "[qooldy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chty",
+      "latin": "[chty]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chol",
+      "latin": "caulis",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, stem/stalk of plants"
+    },
+    {
+      "original": "dy",
+      "latin": "et",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, and (connector)"
+    },
+    {
+      "original": "tor",
+      "latin": "tangit ordine",
+      "confidence": 0.9,
+      "notes": "t- + or, touching order"
+    },
+    {
+      "original": "oral",
+      "latin": "[oral]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shor",
+      "latin": "saepe",
+      "confidence": 0.9,
+      "notes": "often"
+    },
+    {
+      "original": "ytaiin",
+      "latin": "ad erat",
+      "confidence": 0.9,
+      "notes": "y- + taiin, directional with state"
+    },
+    {
+      "original": "qotaiin",
+      "latin": "inclinatur",
+      "confidence": 0.9,
+      "notes": "tilting"
+    },
+    {
+      "original": "qooldy",
+      "latin": "[qooldy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chty",
+      "latin": "[chty]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chl",
+      "latin": "[chl]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dy",
+      "latin": "et",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, and (connector)"
+    },
+    {
+      "original": "tor",
+      "latin": "tangit ordine",
+      "confidence": 0.9,
+      "notes": "t- + or, touching order"
+    },
+    {
+      "original": "oral",
+      "latin": "[oral]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shor",
+      "latin": "saepe",
+      "confidence": 0.9,
+      "notes": "often"
+    },
+    {
+      "original": "ytaiin",
+      "latin": "ad erat",
+      "confidence": 0.9,
+      "notes": "y- + taiin, directional with state"
+    },
+    {
+      "original": "qotaiin",
+      "latin": "inclinatur",
+      "confidence": 0.9,
+      "notes": "tilting"
+    },
+    {
+      "original": "qooldy",
+      "latin": "[qooldy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chty",
+      "latin": "[chty]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "choldy",
+      "latin": "[choldy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "tor",
+      "latin": "tangit ordine",
+      "confidence": 0.9,
+      "notes": "t- + or, touching order"
+    },
+    {
+      "original": "qotchy",
+      "latin": "crescit",
+      "confidence": 0.9,
+      "notes": "high frequency herbal term with qo- prefix, near growth descriptions"
+    },
+    {
+      "original": "tchy",
+      "latin": "intus",
+      "confidence": 0.9,
+      "notes": "contains chy (in) root, positional term"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "gaiin",
+      "latin": "gratia",
+      "confidence": 0.9,
+      "notes": "healing"
+    },
+    {
+      "original": "dolsain",
+      "latin": "[dolsain]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qotchy",
+      "latin": "crescit",
+      "confidence": 0.9,
+      "notes": "high frequency herbal term with qo- prefix, near growth descriptions"
+    },
+    {
+      "original": "tchy",
+      "latin": "intus",
+      "confidence": 0.9,
+      "notes": "contains chy (in) root, positional term"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "gaiin",
+      "latin": "gratia",
+      "confidence": 0.9,
+      "notes": "healing"
+    },
+    {
+      "original": "dol",
+      "latin": "de",
+      "confidence": 0.9,
+      "notes": "short function word, preposition"
+    },
+    {
+      "original": "sain",
+      "latin": "[sain]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qotchy",
+      "latin": "crescit",
+      "confidence": 0.9,
+      "notes": "high frequency herbal term with qo- prefix, near growth descriptions"
+    },
+    {
+      "original": "tchy",
+      "latin": "intus",
+      "confidence": 0.9,
+      "notes": "contains chy (in) root, positional term"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "dolsain",
+      "latin": "[dolsain]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "podaiir",
+      "latin": "[podaiir]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cphy",
+      "latin": "piscina",
+      "confidence": 0.9,
+      "notes": "pools"
+    },
+    {
+      "original": "qoypchol",
+      "latin": "valde ad caulis",
+      "confidence": 0.81,
+      "notes": "qo-prefix:y (direction) + pchol (stem), toward stem"
+    },
+    {
+      "original": "romcy",
+      "latin": "[romcy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "podaiir",
+      "latin": "[podaiir]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cphy",
+      "latin": "piscina",
+      "confidence": 0.9,
+      "notes": "pools"
+    },
+    {
+      "original": "qoypchol",
+      "latin": "valde ad caulis",
+      "confidence": 0.81,
+      "notes": "qo-prefix:y (direction) + pchol (stem), toward stem"
+    },
+    {
+      "original": "somshy",
+      "latin": "[somshy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "podaiir",
+      "latin": "[podaiir]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cphyqoypchol",
+      "latin": "[cphyqoypchol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "romchy",
+      "latin": "[romchy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "qor",
+      "latin": "valde et",
+      "confidence": 0.81,
+      "notes": "qo-prefix:single letter, connector or possessive"
+    },
+    {
+      "original": "chol",
+      "latin": "caulis",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, stem/stalk of plants"
+    },
+    {
+      "original": "ctholy",
+      "latin": "[ctholy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sorchy",
+      "latin": "[sorchy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sy",
+      "latin": "ipse",
+      "confidence": 0.9,
+      "notes": "itself"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "qor",
+      "latin": "valde et",
+      "confidence": 0.81,
+      "notes": "qo-prefix:single letter, connector or possessive"
+    },
+    {
+      "original": "chol",
+      "latin": "caulis",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, stem/stalk of plants"
+    },
+    {
+      "original": "ctholy",
+      "latin": "[ctholy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "schorchy",
+      "latin": "[schorchy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sy",
+      "latin": "ipse",
+      "confidence": 0.9,
+      "notes": "itself"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "qorchol",
+      "latin": "[qorchol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ctholy",
+      "latin": "[ctholy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sorchy",
+      "latin": "[sorchy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sy",
+      "latin": "ipse",
+      "confidence": 0.9,
+      "notes": "itself"
+    },
+    {
+      "original": "okaiin",
+      "latin": "ponit",
+      "confidence": 0.9,
+      "notes": "placing"
+    },
+    {
+      "original": "cthor",
+      "latin": "caelum",
+      "confidence": 0.9,
+      "notes": "sky, heaven"
+    },
+    {
+      "original": "ykaiiin",
+      "latin": "[ykaiiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sdain",
+      "latin": "[sdain]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "andan",
+      "latin": "[andan]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okaiin",
+      "latin": "ponit",
+      "confidence": 0.9,
+      "notes": "placing"
+    },
+    {
+      "original": "cthor",
+      "latin": "caelum",
+      "confidence": 0.9,
+      "notes": "sky, heaven"
+    },
+    {
+      "original": "ykaiin",
+      "latin": "erat quidem",
+      "confidence": 0.9,
+      "notes": "y- + kaiin, associated with state/being"
+    },
+    {
+      "original": "sdain",
+      "latin": "[sdain]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "andan",
+      "latin": "[andan]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okaiin",
+      "latin": "ponit",
+      "confidence": 0.9,
+      "notes": "placing"
+    },
+    {
+      "original": "cthor",
+      "latin": "caelum",
+      "confidence": 0.9,
+      "notes": "sky, heaven"
+    },
+    {
+      "original": "ykaiin",
+      "latin": "erat quidem",
+      "confidence": 0.9,
+      "notes": "y- + kaiin, associated with state/being"
+    },
+    {
+      "original": "sdain",
+      "latin": "[sdain]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "andan",
+      "latin": "[andan]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qotol",
+      "latin": "valde tangit locus",
+      "confidence": 0.81,
+      "notes": "qo-prefix:systematic word family: to- prefix pattern"
+    },
+    {
+      "original": "cthol",
+      "latin": "continet",
+      "confidence": 0.9,
+      "notes": "ct- + hol, holding/containing structure"
+    },
+    {
+      "original": "okol",
+      "latin": "cum",
+      "confidence": 0.9,
+      "notes": "frequent in herbal folios, appears with plant descriptions"
+    },
+    {
+      "original": "dy",
+      "latin": "et",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, and (connector)"
+    },
+    {
+      "original": "okchyytororysold",
+      "latin": "[okchyytororysold]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qotol",
+      "latin": "valde tangit locus",
+      "confidence": 0.81,
+      "notes": "qo-prefix:systematic word family: to- prefix pattern"
+    },
+    {
+      "original": "cthol",
+      "latin": "continet",
+      "confidence": 0.9,
+      "notes": "ct- + hol, holding/containing structure"
+    },
+    {
+      "original": "okol",
+      "latin": "cum",
+      "confidence": 0.9,
+      "notes": "frequent in herbal folios, appears with plant descriptions"
+    },
+    {
+      "original": "dy",
+      "latin": "et",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, and (connector)"
+    },
+    {
+      "original": "okchyytororysold",
+      "latin": "[okchyytororysold]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qotol",
+      "latin": "valde tangit locus",
+      "confidence": 0.81,
+      "notes": "qo-prefix:systematic word family: to- prefix pattern"
+    },
+    {
+      "original": "cthol",
+      "latin": "continet",
+      "confidence": 0.9,
+      "notes": "ct- + hol, holding/containing structure"
+    },
+    {
+      "original": "okoldy",
+      "latin": "[okoldy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okchyytororysold",
+      "latin": "[okchyytororysold]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ytchor",
+      "latin": "ad ramusculus",
+      "confidence": 0.9,
+      "notes": "y (direction) + tchor (small branch), toward small branch, appears in both sections"
+    },
+    {
+      "original": "cthol",
+      "latin": "continet",
+      "confidence": 0.9,
+      "notes": "ct- + hol, holding/containing structure"
+    },
+    {
+      "original": "chaiin",
+      "latin": "erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: ch- prefix pattern"
+    },
+    {
+      "original": "yd",
+      "latin": "[yd]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ytchor",
+      "latin": "ad ramusculus",
+      "confidence": 0.9,
+      "notes": "y (direction) + tchor (small branch), toward small branch, appears in both sections"
+    },
+    {
+      "original": "cthol",
+      "latin": "continet",
+      "confidence": 0.9,
+      "notes": "ct- + hol, holding/containing structure"
+    },
+    {
+      "original": "chaiin",
+      "latin": "erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: ch- prefix pattern"
+    },
+    {
+      "original": "yd",
+      "latin": "[yd]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ytchor",
+      "latin": "ad ramusculus",
+      "confidence": 0.9,
+      "notes": "y (direction) + tchor (small branch), toward small branch, appears in both sections"
+    },
+    {
+      "original": "cthol",
+      "latin": "continet",
+      "confidence": 0.9,
+      "notes": "ct- + hol, holding/containing structure"
+    },
+    {
+      "original": "chaiin",
+      "latin": "erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: ch- prefix pattern"
+    },
+    {
+      "original": "yd",
+      "latin": "[yd]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ytodaly",
+      "latin": "[ytodaly]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "otaro",
+      "latin": "[otaro]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ytodaly",
+      "latin": "[ytodaly]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "otaro",
+      "latin": "[otaro]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ytodaly",
+      "latin": "[ytodaly]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "otaro",
+      "latin": "[otaro]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    }
+  ],
+  "statistics": {
+    "total": 144,
+    "known": 81,
+    "unknown": 63,
+    "avg_confidence": 0.48868055555555556,
+    "coverage": 0.5625
+  },
+  "unknown_words": [
+    "andan",
+    "chafdan",
+    "chcfhal",
+    "chl",
+    "choldy",
+    "chty",
+    "cphor",
+    "cphyqoypchol",
+    "ctholy",
+    "dolsain",
+    "okchyytororysold",
+    "okoldy",
+    "oldy",
+    "oral",
+    "otaro",
+    "pchafdan",
+    "podaiir",
+    "qooldy",
+    "qor",
+    "qorain",
+    "qorchol",
+    "qotol",
+    "qoypchol",
+    "rain",
+    "rchol",
+    "romchy",
+    "romcy",
+    "sain",
+    "schorchy",
+    "sdain",
+    "soiin",
+    "somshy",
+    "sorchy",
+    "yd",
+    "ykaiiin",
+    "ytodaly"
+  ],
+  "translated_at": "2025-11-27T21:41:36.886121"
+}

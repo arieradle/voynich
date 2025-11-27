@@ -1,0 +1,1126 @@
+{
+  "folio_id": "028r",
+  "section": "Astrological",
+  "context": "herbal",
+  "voynich_text": "pchodar shod chocphy opchol daiinotchol chyqo ldy pchodar shod chocphy opchor daiinotchol chy qol dy pchodar shod chocphy opchol daiinotchol chyqoldy otchor otchor cthol cty ctheol dydchar chakod dly otchor ochor cthol cthy ctheol dydchar chakod dly otchor otchor cthol cthy ctheol dydchar chakod dly qotchaiin shor cthol cthol shorchotchy tchodar qotchaiin shor cthol cthol shorchotchy tchodar qotchaiin shor cthol cthol shorchotchy tchodar choty chtol otol chotchy ctholotol choky qoty oty chtol ot chotchy ctholotol choky qoty choty chtol otol chotchy ctholotol choky qoty oksho otor chy kchoror chodaiinsho cthody okoy oksho otor chy kchoror chodaiinsho cthody okoy oksho otorchy kchor or chodaiinsho cthody okoy qokchol qodaiin otcholchy daiincho qokol okam qokchol qodaiin otcholchy daiincho qokol okam qokchol qodaiin otcholchy daiincho qokol okam sho otor shockhy shocthy otoldydshor dol dar sho otor shogy shocthy otor dydshor dol dar sho otor shockhy shocthy otoldydshor dol dar oschotshl daiin okchey kol daiinshol dsho otaiin oschotshl daiin okchey kol daiinshol dsho otaiin oschotshl daiin okchey kol daiinshol dsho otaiin ytchol deey yteol deaiin ytchol deey yteol deaiin ytchol deey yteol deaiin",
+  "latin_text": "[pchodar] hic est [chocphy] caulis [daiinotchol] [chyqo] [ldy] [pchodar] hic est [chocphy] resina [daiinotchol] in [qol] et [pchodar] hic est [chocphy] caulis [daiinotchol] [chyqoldy] valde ex ramo continet [cty] [ctheol] [dydchar] [chakod] [dly] ex ramo ordo continet terra [ctheol] [dydchar] [chakod] [dly] valde ex ramo continet terra [ctheol] [dydchar] [chakod] [dly] [qotchaiin] saepe valde continet [shorchotchy] [tchodar] [qotchaiin] saepe valde continet [shorchotchy] [tchodar] [qotchaiin] saepe valde continet [shorchotchy] [tchodar] parvus [chtol] ex loco [chotchy] [ctholotol] magnus valde ad ex [chtol] ex [chotchy] [ctholotol] magnus valde ad parvus [chtol] ex loco [chotchy] [ctholotol] magnus valde ad multum ex ordo in [kchoror] [chodaiinsho] [cthody] [okoy] multum ex ordo in [kchoror] [chodaiinsho] [cthody] [okoy] multum [otorchy] ramulus ordo [chodaiinsho] [cthody] [okoy] caulem producit cognoscit [otcholchy] [daiincho] valde cum [okam] caulem producit cognoscit [otcholchy] [daiincho] valde cum [okam] caulem producit cognoscit [otcholchy] [daiincho] valde cum [okam] hic facit ex ordo [shockhy] [shocthy] [otoldydshor] de donum hic facit ex ordo [shogy] [shocthy] ex ordo [dydshor] de donum hic facit ex ordo [shockhy] [shocthy] [otoldydshor] de donum [oschotshl] ad facit elementum cum [daiinshol] dat hic facit cursus [oschotshl] ad facit elementum cum [daiinshol] dat hic facit cursus [oschotshl] ad facit elementum cum [daiinshol] dat hic facit cursus [ytchol] dat parvum [yteol] [deaiin] [ytchol] dat parvum [yteol] [deaiin] [ytchol] dat parvum [yteol] [deaiin]",
+  "english_text": "[pchodar] here is [chocphy] stem [daiinotchol] [chyqo] [ldy] [pchodar] here is [chocphy] resin [daiinotchol] in [qol] and [pchodar] here is [chocphy] stem [daiinotchol] [chyqoldy] very from [ramo] contains [cty] [ctheol] [dydchar] [chakod] [dly] from [ramo] order contains earth [ctheol] [dydchar] [chakod] [dly] very from [ramo] contains earth [ctheol] [dydchar] [chakod] [dly] [qotchaiin] often very contains [shorchotchy] [tchodar] [qotchaiin] often very contains [shorchotchy] [tchodar] [qotchaiin] often very contains [shorchotchy] [tchodar] small [chtol] from [loco] [chotchy] [ctholotol] large very to from [chtol] from [chotchy] [ctholotol] large very to small [chtol] from [loco] [chotchy] [ctholotol] large very to much from order in [kchoror] [chodaiinsho] [cthody] [okoy] much from order in [kchoror] [chodaiinsho] [cthody] [okoy] much [otorchy] twig order [chodaiinsho] [cthody] [okoy] stem produces [cognoscit] [otcholchy] [daiincho] very with [okam] stem produces [cognoscit] [otcholchy] [daiincho] very with [okam] stem produces [cognoscit] [otcholchy] [daiincho] very with [okam] here makes from order [shockhy] [shocthy] [otoldydshor] from gift here makes from order [shogy] [shocthy] from order [dydshor] from gift here makes from order [shockhy] [shocthy] [otoldydshor] from gift [oschotshl] to makes element with [daiinshol] gives here makes [cursus] [oschotshl] to makes element with [daiinshol] gives here makes [cursus] [oschotshl] to makes element with [daiinshol] gives here makes [cursus] [ytchol] gives small [yteol] [deaiin] [ytchol] gives small [yteol] [deaiin] [ytchol] gives small [yteol] [deaiin].",
+  "word_translations": [
+    {
+      "original": "pchodar",
+      "latin": "[pchodar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shod",
+      "latin": "hic est",
+      "confidence": 0.9,
+      "notes": "systematic word family: sh- prefix pattern"
+    },
+    {
+      "original": "chocphy",
+      "latin": "[chocphy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "opchol",
+      "latin": "caulis",
+      "confidence": 0.9,
+      "notes": "stems"
+    },
+    {
+      "original": "daiinotchol",
+      "latin": "[daiinotchol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chyqo",
+      "latin": "[chyqo]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ldy",
+      "latin": "[ldy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "pchodar",
+      "latin": "[pchodar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shod",
+      "latin": "hic est",
+      "confidence": 0.9,
+      "notes": "systematic word family: sh- prefix pattern"
+    },
+    {
+      "original": "chocphy",
+      "latin": "[chocphy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "opchor",
+      "latin": "resina",
+      "confidence": 0.9,
+      "notes": "resin"
+    },
+    {
+      "original": "daiinotchol",
+      "latin": "[daiinotchol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chy",
+      "latin": "in",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, in/within plant"
+    },
+    {
+      "original": "qol",
+      "latin": "[qol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dy",
+      "latin": "et",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, and (connector)"
+    },
+    {
+      "original": "pchodar",
+      "latin": "[pchodar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shod",
+      "latin": "hic est",
+      "confidence": 0.9,
+      "notes": "systematic word family: sh- prefix pattern"
+    },
+    {
+      "original": "chocphy",
+      "latin": "[chocphy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "opchol",
+      "latin": "caulis",
+      "confidence": 0.9,
+      "notes": "stems"
+    },
+    {
+      "original": "daiinotchol",
+      "latin": "[daiinotchol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chyqoldy",
+      "latin": "[chyqoldy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otchor",
+      "latin": "ex ramo",
+      "confidence": 0.9,
+      "notes": "ot (from) + chor (branch), branching from source"
+    },
+    {
+      "original": "otchor",
+      "latin": "ex ramo",
+      "confidence": 0.9,
+      "notes": "ot (from) + chor (branch), branching from source"
+    },
+    {
+      "original": "cthol",
+      "latin": "continet",
+      "confidence": 0.9,
+      "notes": "ct- + hol, holding/containing structure"
+    },
+    {
+      "original": "cty",
+      "latin": "[cty]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ctheol",
+      "latin": "[ctheol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dydchar",
+      "latin": "[dydchar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chakod",
+      "latin": "[chakod]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dly",
+      "latin": "[dly]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otchor",
+      "latin": "ex ramo",
+      "confidence": 0.9,
+      "notes": "ot (from) + chor (branch), branching from source"
+    },
+    {
+      "original": "ochor",
+      "latin": "ordo",
+      "confidence": 0.9,
+      "notes": "systematic word family: oc- prefix pattern"
+    },
+    {
+      "original": "cthol",
+      "latin": "continet",
+      "confidence": 0.9,
+      "notes": "ct- + hol, holding/containing structure"
+    },
+    {
+      "original": "cthy",
+      "latin": "terra",
+      "confidence": 0.9,
+      "notes": "earth/soil in herbal context"
+    },
+    {
+      "original": "ctheol",
+      "latin": "[ctheol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dydchar",
+      "latin": "[dydchar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chakod",
+      "latin": "[chakod]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dly",
+      "latin": "[dly]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otchor",
+      "latin": "ex ramo",
+      "confidence": 0.9,
+      "notes": "ot (from) + chor (branch), branching from source"
+    },
+    {
+      "original": "otchor",
+      "latin": "ex ramo",
+      "confidence": 0.9,
+      "notes": "ot (from) + chor (branch), branching from source"
+    },
+    {
+      "original": "cthol",
+      "latin": "continet",
+      "confidence": 0.9,
+      "notes": "ct- + hol, holding/containing structure"
+    },
+    {
+      "original": "cthy",
+      "latin": "terra",
+      "confidence": 0.9,
+      "notes": "earth/soil in herbal context"
+    },
+    {
+      "original": "ctheol",
+      "latin": "[ctheol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dydchar",
+      "latin": "[dydchar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chakod",
+      "latin": "[chakod]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dly",
+      "latin": "[dly]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qotchaiin",
+      "latin": "[qotchaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shor",
+      "latin": "saepe",
+      "confidence": 0.9,
+      "notes": "often"
+    },
+    {
+      "original": "cthol",
+      "latin": "continet",
+      "confidence": 0.9,
+      "notes": "ct- + hol, holding/containing structure"
+    },
+    {
+      "original": "cthol",
+      "latin": "continet",
+      "confidence": 0.9,
+      "notes": "ct- + hol, holding/containing structure"
+    },
+    {
+      "original": "shorchotchy",
+      "latin": "[shorchotchy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "tchodar",
+      "latin": "[tchodar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qotchaiin",
+      "latin": "[qotchaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shor",
+      "latin": "saepe",
+      "confidence": 0.9,
+      "notes": "often"
+    },
+    {
+      "original": "cthol",
+      "latin": "continet",
+      "confidence": 0.9,
+      "notes": "ct- + hol, holding/containing structure"
+    },
+    {
+      "original": "cthol",
+      "latin": "continet",
+      "confidence": 0.9,
+      "notes": "ct- + hol, holding/containing structure"
+    },
+    {
+      "original": "shorchotchy",
+      "latin": "[shorchotchy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "tchodar",
+      "latin": "[tchodar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qotchaiin",
+      "latin": "[qotchaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shor",
+      "latin": "saepe",
+      "confidence": 0.9,
+      "notes": "often"
+    },
+    {
+      "original": "cthol",
+      "latin": "continet",
+      "confidence": 0.9,
+      "notes": "ct- + hol, holding/containing structure"
+    },
+    {
+      "original": "cthol",
+      "latin": "continet",
+      "confidence": 0.9,
+      "notes": "ct- + hol, holding/containing structure"
+    },
+    {
+      "original": "shorchotchy",
+      "latin": "[shorchotchy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "tchodar",
+      "latin": "[tchodar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "choty",
+      "latin": "parvus",
+      "confidence": 0.9,
+      "notes": "small"
+    },
+    {
+      "original": "chtol",
+      "latin": "[chtol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otol",
+      "latin": "ex loco",
+      "confidence": 0.9,
+      "notes": "ot (from) + ol (place), from place"
+    },
+    {
+      "original": "chotchy",
+      "latin": "[chotchy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ctholotol",
+      "latin": "[ctholotol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "choky",
+      "latin": "magnus",
+      "confidence": 0.9,
+      "notes": "large, great"
+    },
+    {
+      "original": "qoty",
+      "latin": "valde ad",
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + ty (to/toward); very much to/toward"
+    },
+    {
+      "original": "oty",
+      "latin": "ex",
+      "confidence": 0.9,
+      "notes": "source, appears in multiple folios"
+    },
+    {
+      "original": "chtol",
+      "latin": "[chtol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ot",
+      "latin": "ex",
+      "confidence": 0.9,
+      "notes": "short, frequent, suits preposition; source"
+    },
+    {
+      "original": "chotchy",
+      "latin": "[chotchy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ctholotol",
+      "latin": "[ctholotol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "choky",
+      "latin": "magnus",
+      "confidence": 0.9,
+      "notes": "large, great"
+    },
+    {
+      "original": "qoty",
+      "latin": "valde ad",
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + ty (to/toward); very much to/toward"
+    },
+    {
+      "original": "choty",
+      "latin": "parvus",
+      "confidence": 0.9,
+      "notes": "small"
+    },
+    {
+      "original": "chtol",
+      "latin": "[chtol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otol",
+      "latin": "ex loco",
+      "confidence": 0.9,
+      "notes": "ot (from) + ol (place), from place"
+    },
+    {
+      "original": "chotchy",
+      "latin": "[chotchy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ctholotol",
+      "latin": "[ctholotol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "choky",
+      "latin": "magnus",
+      "confidence": 0.9,
+      "notes": "large, great"
+    },
+    {
+      "original": "qoty",
+      "latin": "valde ad",
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + ty (to/toward); very much to/toward"
+    },
+    {
+      "original": "oksho",
+      "latin": "multum",
+      "confidence": 0.9,
+      "notes": "much, many"
+    },
+    {
+      "original": "otor",
+      "latin": "ex ordo",
+      "confidence": 0.9,
+      "notes": "systematic word family: ot- prefix pattern"
+    },
+    {
+      "original": "chy",
+      "latin": "in",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, in/within plant"
+    },
+    {
+      "original": "kchoror",
+      "latin": "[kchoror]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chodaiinsho",
+      "latin": "[chodaiinsho]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cthody",
+      "latin": "[cthody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okoy",
+      "latin": "[okoy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oksho",
+      "latin": "multum",
+      "confidence": 0.9,
+      "notes": "much, many"
+    },
+    {
+      "original": "otor",
+      "latin": "ex ordo",
+      "confidence": 0.9,
+      "notes": "systematic word family: ot- prefix pattern"
+    },
+    {
+      "original": "chy",
+      "latin": "in",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, in/within plant"
+    },
+    {
+      "original": "kchoror",
+      "latin": "[kchoror]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chodaiinsho",
+      "latin": "[chodaiinsho]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cthody",
+      "latin": "[cthody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okoy",
+      "latin": "[okoy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oksho",
+      "latin": "multum",
+      "confidence": 0.9,
+      "notes": "much, many"
+    },
+    {
+      "original": "otorchy",
+      "latin": "[otorchy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "kchor",
+      "latin": "ramulus",
+      "confidence": 0.9,
+      "notes": "compound with chor root, botanical term"
+    },
+    {
+      "original": "or",
+      "latin": "ordo",
+      "confidence": 0.9,
+      "notes": "short connector, order/arrangement"
+    },
+    {
+      "original": "chodaiinsho",
+      "latin": "[chodaiinsho]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cthody",
+      "latin": "[cthody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okoy",
+      "latin": "[okoy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokchol",
+      "latin": "caulem producit",
+      "confidence": 0.9,
+      "notes": "qo- prefix + chol (stem), intensified growth action"
+    },
+    {
+      "original": "qodaiin",
+      "latin": "cognoscit",
+      "confidence": 0.9,
+      "notes": "knows, broad use"
+    },
+    {
+      "original": "otcholchy",
+      "latin": "[otcholchy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiincho",
+      "latin": "[daiincho]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokol",
+      "latin": "valde cum",
+      "confidence": 0.9,
+      "notes": "qo- prefix + kol (with), intensified connection"
+    },
+    {
+      "original": "okam",
+      "latin": "[okam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokchol",
+      "latin": "caulem producit",
+      "confidence": 0.9,
+      "notes": "qo- prefix + chol (stem), intensified growth action"
+    },
+    {
+      "original": "qodaiin",
+      "latin": "cognoscit",
+      "confidence": 0.9,
+      "notes": "knows, broad use"
+    },
+    {
+      "original": "otcholchy",
+      "latin": "[otcholchy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiincho",
+      "latin": "[daiincho]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokol",
+      "latin": "valde cum",
+      "confidence": 0.9,
+      "notes": "qo- prefix + kol (with), intensified connection"
+    },
+    {
+      "original": "okam",
+      "latin": "[okam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokchol",
+      "latin": "caulem producit",
+      "confidence": 0.9,
+      "notes": "qo- prefix + chol (stem), intensified growth action"
+    },
+    {
+      "original": "qodaiin",
+      "latin": "cognoscit",
+      "confidence": 0.9,
+      "notes": "knows, broad use"
+    },
+    {
+      "original": "otcholchy",
+      "latin": "[otcholchy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiincho",
+      "latin": "[daiincho]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokol",
+      "latin": "valde cum",
+      "confidence": 0.9,
+      "notes": "qo- prefix + kol (with), intensified connection"
+    },
+    {
+      "original": "okam",
+      "latin": "[okam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sho",
+      "latin": "hic facit",
+      "confidence": 0.9,
+      "notes": "sh- + o, location action"
+    },
+    {
+      "original": "otor",
+      "latin": "ex ordo",
+      "confidence": 0.9,
+      "notes": "systematic word family: ot- prefix pattern"
+    },
+    {
+      "original": "shockhy",
+      "latin": "[shockhy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shocthy",
+      "latin": "[shocthy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otoldydshor",
+      "latin": "[otoldydshor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dol",
+      "latin": "de",
+      "confidence": 0.9,
+      "notes": "short function word, preposition"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "sho",
+      "latin": "hic facit",
+      "confidence": 0.9,
+      "notes": "sh- + o, location action"
+    },
+    {
+      "original": "otor",
+      "latin": "ex ordo",
+      "confidence": 0.9,
+      "notes": "systematic word family: ot- prefix pattern"
+    },
+    {
+      "original": "shogy",
+      "latin": "[shogy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shocthy",
+      "latin": "[shocthy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otor",
+      "latin": "ex ordo",
+      "confidence": 0.9,
+      "notes": "systematic word family: ot- prefix pattern"
+    },
+    {
+      "original": "dydshor",
+      "latin": "[dydshor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dol",
+      "latin": "de",
+      "confidence": 0.9,
+      "notes": "short function word, preposition"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "sho",
+      "latin": "hic facit",
+      "confidence": 0.9,
+      "notes": "sh- + o, location action"
+    },
+    {
+      "original": "otor",
+      "latin": "ex ordo",
+      "confidence": 0.9,
+      "notes": "systematic word family: ot- prefix pattern"
+    },
+    {
+      "original": "shockhy",
+      "latin": "[shockhy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shocthy",
+      "latin": "[shocthy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otoldydshor",
+      "latin": "[otoldydshor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dol",
+      "latin": "de",
+      "confidence": 0.9,
+      "notes": "short function word, preposition"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "oschotshl",
+      "latin": "[oschotshl]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "okchey",
+      "latin": "facit elementum",
+      "confidence": 0.9,
+      "notes": "k (makes) + chey (element); makes element/component"
+    },
+    {
+      "original": "kol",
+      "latin": "cum",
+      "confidence": 0.9,
+      "notes": "frequent in herbal folios, appears with plant descriptions"
+    },
+    {
+      "original": "daiinshol",
+      "latin": "[daiinshol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dsho",
+      "latin": "dat hic facit",
+      "confidence": 0.9,
+      "notes": "systematic word family: ds- prefix pattern"
+    },
+    {
+      "original": "otaiin",
+      "latin": "cursus",
+      "confidence": 0.9,
+      "notes": "star paths"
+    },
+    {
+      "original": "oschotshl",
+      "latin": "[oschotshl]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "okchey",
+      "latin": "facit elementum",
+      "confidence": 0.9,
+      "notes": "k (makes) + chey (element); makes element/component"
+    },
+    {
+      "original": "kol",
+      "latin": "cum",
+      "confidence": 0.9,
+      "notes": "frequent in herbal folios, appears with plant descriptions"
+    },
+    {
+      "original": "daiinshol",
+      "latin": "[daiinshol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dsho",
+      "latin": "dat hic facit",
+      "confidence": 0.9,
+      "notes": "systematic word family: ds- prefix pattern"
+    },
+    {
+      "original": "otaiin",
+      "latin": "cursus",
+      "confidence": 0.9,
+      "notes": "star paths"
+    },
+    {
+      "original": "oschotshl",
+      "latin": "[oschotshl]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "okchey",
+      "latin": "facit elementum",
+      "confidence": 0.9,
+      "notes": "k (makes) + chey (element); makes element/component"
+    },
+    {
+      "original": "kol",
+      "latin": "cum",
+      "confidence": 0.9,
+      "notes": "frequent in herbal folios, appears with plant descriptions"
+    },
+    {
+      "original": "daiinshol",
+      "latin": "[daiinshol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dsho",
+      "latin": "dat hic facit",
+      "confidence": 0.9,
+      "notes": "systematic word family: ds- prefix pattern"
+    },
+    {
+      "original": "otaiin",
+      "latin": "cursus",
+      "confidence": 0.9,
+      "notes": "star paths"
+    },
+    {
+      "original": "ytchol",
+      "latin": "[ytchol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "deey",
+      "latin": "dat parvum",
+      "confidence": 0.9,
+      "notes": "systematic word family: de- prefix pattern"
+    },
+    {
+      "original": "yteol",
+      "latin": "[yteol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "deaiin",
+      "latin": "[deaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ytchol",
+      "latin": "[ytchol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "deey",
+      "latin": "dat parvum",
+      "confidence": 0.9,
+      "notes": "systematic word family: de- prefix pattern"
+    },
+    {
+      "original": "yteol",
+      "latin": "[yteol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "deaiin",
+      "latin": "[deaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ytchol",
+      "latin": "[ytchol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "deey",
+      "latin": "dat parvum",
+      "confidence": 0.9,
+      "notes": "systematic word family: de- prefix pattern"
+    },
+    {
+      "original": "yteol",
+      "latin": "[yteol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "deaiin",
+      "latin": "[deaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    }
+  ],
+  "statistics": {
+    "total": 178,
+    "known": 89,
+    "unknown": 89,
+    "avg_confidence": 0.4460674157303371,
+    "coverage": 0.5
+  },
+  "unknown_words": [
+    "chakod",
+    "chocphy",
+    "chodaiinsho",
+    "chotchy",
+    "chtol",
+    "chyqo",
+    "chyqoldy",
+    "ctheol",
+    "cthody",
+    "ctholotol",
+    "cty",
+    "daiincho",
+    "daiinotchol",
+    "daiinshol",
+    "deaiin",
+    "dly",
+    "dydchar",
+    "dydshor",
+    "kchoror",
+    "l",
+    "ldy",
+    "okam",
+    "okoy",
+    "oschotshl",
+    "otcholchy",
+    "otoldydshor",
+    "otorchy",
+    "pchodar",
+    "qol",
+    "qotchaiin",
+    "shockhy",
+    "shocthy",
+    "shogy",
+    "shorchotchy",
+    "tchaiin",
+    "tchodar",
+    "ytchol",
+    "yteol"
+  ],
+  "translated_at": "2025-11-27T21:41:29.942983"
+}

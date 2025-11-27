@@ -1,0 +1,594 @@
+{
+  "folio_id": "031v",
+  "section": "Astrological",
+  "context": "herbal",
+  "voynich_text": "ytchos octhey okeeos cheody okeey kchody daiin cheody keedy ytchos ockhey okeeos cheody okeey keeody daiin cheody keedy ytchos acthey okeeos cheody okeey kchody daiin cheody kchdy dair cthedy qokedy okeody chedar oked al ockhedy okeedy otas dair cthedy qokedy okeody chedar okedal ockhedy okeedy otaj dair cthedy qokedy okeody chedar oked al ockhedy okeedy otam ykeos cheeoy ar aiin ykeos cheeoy oraiin yteos cheeoy ar aiin saiin ar ckheos chedy okeey qoear oraiin cheom saiin ar ckheos chedy okeey qoear oraiin cheam saiin ar ckheos chedy okeey qoair oraiin cheam",
+  "latin_text": "[ytchos] circa elementum [okeeos] [cheody] quando [kchody] ad [cheody] [keedy] [ytchos] herba parva [okeeos] [cheody] quando [keeody] ad [cheody] [keedy] [ytchos] [acthey] [okeeos] [cheody] quando [kchody] ad [cheody] [kchdy] gratia [cthedy] crescit [okeody] [chedar] [oked] ala [ockhedy] dum [otas] gratia [cthedy] crescit [okeody] [chedar] [okedal] [ockhedy] dum [otaj] gratia [cthedy] crescit [okeody] [chedar] [oked] ala [ockhedy] dum [otam] [ykeos] [cheeoy] et est [ykeos] [cheeoy] [oraiin] [yteos] [cheeoy] et est sine et [ckheos] in quando [qoear] [oraiin] [cheom] sine et [ckheos] in quando [qoear] [oraiin] [cheam] sine et [ckheos] in quando [qoair] [oraiin] [cheam]",
+  "english_text": "[ytchos] [circa] element [okeeos] [cheody] [quando] [kchody] to [cheody] [keedy] [ytchos] herb small [okeeos] [cheody] [quando] [keeody] to [cheody] [keedy] [ytchos] [acthey] [okeeos] [cheody] [quando] [kchody] to [cheody] [kchdy] grace [cthedy] grows [okeody] [chedar] [oked] wing [ockhedy] [dum] [otas] grace [cthedy] grows [okeody] [chedar] [okedal] [ockhedy] [dum] [otaj] grace [cthedy] grows [okeody] [chedar] [oked] wing [ockhedy] [dum] [otam] [ykeos] [cheeoy] and is [ykeos] [cheeoy] [oraiin] [yteos] [cheeoy] and is [sine] and [ckheos] in [quando] [qoear] [oraiin] [cheom] [sine] and [ckheos] in [quando] [qoear] [oraiin] [cheam] [sine] and [ckheos] in [quando] [qoair] [oraiin] [cheam].",
+  "word_translations": [
+    {
+      "original": "ytchos",
+      "latin": "[ytchos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "octhey",
+      "latin": "circa elementum",
+      "confidence": 0.9,
+      "notes": "cth- + ey, botanical element small"
+    },
+    {
+      "original": "okeeos",
+      "latin": "[okeeos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheody",
+      "latin": "[cheody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okeey",
+      "latin": "quando",
+      "confidence": 0.9,
+      "notes": "when"
+    },
+    {
+      "original": "kchody",
+      "latin": "[kchody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "cheody",
+      "latin": "[cheody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "keedy",
+      "latin": "[keedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ytchos",
+      "latin": "[ytchos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ockhey",
+      "latin": "herba parva",
+      "confidence": 0.9,
+      "notes": "ck- + hey, botanical element variation"
+    },
+    {
+      "original": "okeeos",
+      "latin": "[okeeos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheody",
+      "latin": "[cheody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okeey",
+      "latin": "quando",
+      "confidence": 0.9,
+      "notes": "when"
+    },
+    {
+      "original": "keeody",
+      "latin": "[keeody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "cheody",
+      "latin": "[cheody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "keedy",
+      "latin": "[keedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ytchos",
+      "latin": "[ytchos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "acthey",
+      "latin": "[acthey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okeeos",
+      "latin": "[okeeos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheody",
+      "latin": "[cheody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okeey",
+      "latin": "quando",
+      "confidence": 0.9,
+      "notes": "when"
+    },
+    {
+      "original": "kchody",
+      "latin": "[kchody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "cheody",
+      "latin": "[cheody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "kchdy",
+      "latin": "[kchdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dair",
+      "latin": "gratia",
+      "confidence": 0.9,
+      "notes": "for benefit"
+    },
+    {
+      "original": "cthedy",
+      "latin": "[cthedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokedy",
+      "latin": "crescit",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, near plants"
+    },
+    {
+      "original": "okeody",
+      "latin": "[okeody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chedar",
+      "latin": "[chedar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oked",
+      "latin": "[oked]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "al",
+      "latin": "ala",
+      "confidence": 0.9,
+      "notes": "wing/extension suffix"
+    },
+    {
+      "original": "ockhedy",
+      "latin": "[ockhedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okeedy",
+      "latin": "dum",
+      "confidence": 0.9,
+      "notes": "while"
+    },
+    {
+      "original": "otas",
+      "latin": "[otas]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dair",
+      "latin": "gratia",
+      "confidence": 0.9,
+      "notes": "for benefit"
+    },
+    {
+      "original": "cthedy",
+      "latin": "[cthedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokedy",
+      "latin": "crescit",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, near plants"
+    },
+    {
+      "original": "okeody",
+      "latin": "[okeody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chedar",
+      "latin": "[chedar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okedal",
+      "latin": "[okedal]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ockhedy",
+      "latin": "[ockhedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okeedy",
+      "latin": "dum",
+      "confidence": 0.9,
+      "notes": "while"
+    },
+    {
+      "original": "otaj",
+      "latin": "[otaj]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dair",
+      "latin": "gratia",
+      "confidence": 0.9,
+      "notes": "for benefit"
+    },
+    {
+      "original": "cthedy",
+      "latin": "[cthedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokedy",
+      "latin": "crescit",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, near plants"
+    },
+    {
+      "original": "okeody",
+      "latin": "[okeody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chedar",
+      "latin": "[chedar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oked",
+      "latin": "[oked]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "al",
+      "latin": "ala",
+      "confidence": 0.9,
+      "notes": "wing/extension suffix"
+    },
+    {
+      "original": "ockhedy",
+      "latin": "[ockhedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okeedy",
+      "latin": "dum",
+      "confidence": 0.9,
+      "notes": "while"
+    },
+    {
+      "original": "otam",
+      "latin": "[otam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ykeos",
+      "latin": "[ykeos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheeoy",
+      "latin": "[cheeoy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ar",
+      "latin": "et",
+      "confidence": 0.9,
+      "notes": "frequent, suits conjunction; links nouns"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "ykeos",
+      "latin": "[ykeos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheeoy",
+      "latin": "[cheeoy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oraiin",
+      "latin": "[oraiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "yteos",
+      "latin": "[yteos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheeoy",
+      "latin": "[cheeoy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ar",
+      "latin": "et",
+      "confidence": 0.9,
+      "notes": "frequent, suits conjunction; links nouns"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "saiin",
+      "latin": "sine",
+      "confidence": 0.9,
+      "notes": "without"
+    },
+    {
+      "original": "ar",
+      "latin": "et",
+      "confidence": 0.9,
+      "notes": "frequent, suits conjunction; links nouns"
+    },
+    {
+      "original": "ckheos",
+      "latin": "[ckheos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chedy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "frequent, fits preposition; containment"
+    },
+    {
+      "original": "okeey",
+      "latin": "quando",
+      "confidence": 0.9,
+      "notes": "when"
+    },
+    {
+      "original": "qoear",
+      "latin": "[qoear]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oraiin",
+      "latin": "[oraiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheom",
+      "latin": "[cheom]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "saiin",
+      "latin": "sine",
+      "confidence": 0.9,
+      "notes": "without"
+    },
+    {
+      "original": "ar",
+      "latin": "et",
+      "confidence": 0.9,
+      "notes": "frequent, suits conjunction; links nouns"
+    },
+    {
+      "original": "ckheos",
+      "latin": "[ckheos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chedy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "frequent, fits preposition; containment"
+    },
+    {
+      "original": "okeey",
+      "latin": "quando",
+      "confidence": 0.9,
+      "notes": "when"
+    },
+    {
+      "original": "qoear",
+      "latin": "[qoear]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oraiin",
+      "latin": "[oraiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheam",
+      "latin": "[cheam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "saiin",
+      "latin": "sine",
+      "confidence": 0.9,
+      "notes": "without"
+    },
+    {
+      "original": "ar",
+      "latin": "et",
+      "confidence": 0.9,
+      "notes": "frequent, suits conjunction; links nouns"
+    },
+    {
+      "original": "ckheos",
+      "latin": "[ckheos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chedy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "frequent, fits preposition; containment"
+    },
+    {
+      "original": "okeey",
+      "latin": "quando",
+      "confidence": 0.9,
+      "notes": "when"
+    },
+    {
+      "original": "qoair",
+      "latin": "[qoair]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oraiin",
+      "latin": "[oraiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheam",
+      "latin": "[cheam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    }
+  ],
+  "statistics": {
+    "total": 91,
+    "known": 35,
+    "unknown": 56,
+    "avg_confidence": 0.33736263736263733,
+    "coverage": 0.38461538461538464
+  },
+  "unknown_words": [
+    "acthey",
+    "air",
+    "cheam",
+    "chedar",
+    "cheeoy",
+    "cheody",
+    "cheom",
+    "ckheos",
+    "cthedy",
+    "ear",
+    "kchdy",
+    "kchody",
+    "keedy",
+    "keeody",
+    "ockhedy",
+    "oked",
+    "okedal",
+    "okeeos",
+    "okeody",
+    "oraiin",
+    "otaj",
+    "otam",
+    "otas",
+    "qoair",
+    "qoear",
+    "ykeos",
+    "ytchos",
+    "yteos"
+  ],
+  "translated_at": "2025-11-27T21:41:29.970266"
+}

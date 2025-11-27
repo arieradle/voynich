@@ -1,0 +1,388 @@
+{
+  "folio_id": "026v",
+  "section": "Astrological",
+  "context": "herbal",
+  "voynich_text": "pchedy dar cheoet chy sair chees odaiiin chkeeey ykey sheey pchedy dar cheoetchy sair chees odaiiin chkeeey ykey sheey pchedy dar cheoet chy sair chees odaiiin chkeeey ykey sheey pchedy dar cheoet chy sair chees odaiiin chkeeey ykey sheey ysheey okeshy shodypshey todydy ysheey okeshe shody peshy tody dy ysheey okeshy shody pshey todydy ysheey okeshy shody pshey todydy",
+  "latin_text": "planta donum [cheoet] in [sair] [chees] [odaiiin] [chkeeey] [ykey] hic elementum planta donum [cheoetchy] [sair] [chees] [odaiiin] [chkeeey] [ykey] hic elementum planta donum [cheoet] in [sair] [chees] [odaiiin] [chkeeey] [ykey] hic elementum planta donum [cheoet] in [sair] [chees] [odaiiin] [chkeeey] [ykey] hic elementum [ysheey] [okeshy] [shodypshey] [todydy] [ysheey] [okeshe] hic movet [peshy] tangit movet et [ysheey] [okeshy] hic movet [pshey] [todydy] [ysheey] [okeshy] hic movet [pshey] [todydy]",
+  "english_text": "Plant gift [cheoet] in [sair] [chees] [odaiiin] [chkeeey] [ykey] here element plant gift [cheoetchy] [sair] [chees] [odaiiin] [chkeeey] [ykey] here element plant gift [cheoet] in [sair] [chees] [odaiiin] [chkeeey] [ykey] here element plant gift [cheoet] in [sair] [chees] [odaiiin] [chkeeey] [ykey] here element [ysheey] [okeshy] [shodypshey] [todydy] [ysheey] [okeshe] here moves [peshy] touches moves and [ysheey] [okeshy] here moves [pshey] [todydy] [ysheey] [okeshy] here moves [pshey] [todydy].",
+  "word_translations": [
+    {
+      "original": "pchedy",
+      "latin": "planta",
+      "confidence": 0.9,
+      "notes": "near plants"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "cheoet",
+      "latin": "[cheoet]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chy",
+      "latin": "in",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, in/within plant"
+    },
+    {
+      "original": "sair",
+      "latin": "[sair]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chees",
+      "latin": "[chees]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "odaiiin",
+      "latin": "[odaiiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chkeeey",
+      "latin": "[chkeeey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ykey",
+      "latin": "[ykey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sheey",
+      "latin": "hic elementum",
+      "confidence": 0.9,
+      "notes": "she + ey, location with element"
+    },
+    {
+      "original": "pchedy",
+      "latin": "planta",
+      "confidence": 0.9,
+      "notes": "near plants"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "cheoetchy",
+      "latin": "[cheoetchy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sair",
+      "latin": "[sair]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chees",
+      "latin": "[chees]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "odaiiin",
+      "latin": "[odaiiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chkeeey",
+      "latin": "[chkeeey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ykey",
+      "latin": "[ykey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sheey",
+      "latin": "hic elementum",
+      "confidence": 0.9,
+      "notes": "she + ey, location with element"
+    },
+    {
+      "original": "pchedy",
+      "latin": "planta",
+      "confidence": 0.9,
+      "notes": "near plants"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "cheoet",
+      "latin": "[cheoet]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chy",
+      "latin": "in",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, in/within plant"
+    },
+    {
+      "original": "sair",
+      "latin": "[sair]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chees",
+      "latin": "[chees]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "odaiiin",
+      "latin": "[odaiiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chkeeey",
+      "latin": "[chkeeey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ykey",
+      "latin": "[ykey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sheey",
+      "latin": "hic elementum",
+      "confidence": 0.9,
+      "notes": "she + ey, location with element"
+    },
+    {
+      "original": "pchedy",
+      "latin": "planta",
+      "confidence": 0.9,
+      "notes": "near plants"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "cheoet",
+      "latin": "[cheoet]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chy",
+      "latin": "in",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, in/within plant"
+    },
+    {
+      "original": "sair",
+      "latin": "[sair]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chees",
+      "latin": "[chees]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "odaiiin",
+      "latin": "[odaiiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chkeeey",
+      "latin": "[chkeeey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ykey",
+      "latin": "[ykey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sheey",
+      "latin": "hic elementum",
+      "confidence": 0.9,
+      "notes": "she + ey, location with element"
+    },
+    {
+      "original": "ysheey",
+      "latin": "[ysheey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okeshy",
+      "latin": "[okeshy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shodypshey",
+      "latin": "[shodypshey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "todydy",
+      "latin": "[todydy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ysheey",
+      "latin": "[ysheey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okeshe",
+      "latin": "[okeshe]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shody",
+      "latin": "hic movet",
+      "confidence": 0.9,
+      "notes": "sh (here) + ody (movement), location movement, appears 18x"
+    },
+    {
+      "original": "peshy",
+      "latin": "[peshy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "tody",
+      "latin": "tangit movet",
+      "confidence": 0.9,
+      "notes": "systematic word family: to- prefix pattern"
+    },
+    {
+      "original": "dy",
+      "latin": "et",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, and (connector)"
+    },
+    {
+      "original": "ysheey",
+      "latin": "[ysheey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okeshy",
+      "latin": "[okeshy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shody",
+      "latin": "hic movet",
+      "confidence": 0.9,
+      "notes": "sh (here) + ody (movement), location movement, appears 18x"
+    },
+    {
+      "original": "pshey",
+      "latin": "[pshey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "todydy",
+      "latin": "[todydy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ysheey",
+      "latin": "[ysheey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okeshy",
+      "latin": "[okeshy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shody",
+      "latin": "hic movet",
+      "confidence": 0.9,
+      "notes": "sh (here) + ody (movement), location movement, appears 18x"
+    },
+    {
+      "original": "pshey",
+      "latin": "[pshey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "todydy",
+      "latin": "[todydy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    }
+  ],
+  "statistics": {
+    "total": 59,
+    "known": 20,
+    "unknown": 39,
+    "avg_confidence": 0.2983050847457627,
+    "coverage": 0.3389830508474576
+  },
+  "unknown_words": [
+    "chees",
+    "cheoet",
+    "cheoetchy",
+    "chkeeey",
+    "odaiiin",
+    "okeshe",
+    "okeshy",
+    "peshy",
+    "pshey",
+    "sair",
+    "shodypshey",
+    "todydy",
+    "ykey",
+    "ysheey"
+  ],
+  "translated_at": "2025-11-27T21:41:29.932156"
+}

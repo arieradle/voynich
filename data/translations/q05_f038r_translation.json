@@ -1,0 +1,647 @@
+{
+  "folio_id": "038r",
+  "section": "Pharmaceutical",
+  "context": "herbal",
+  "voynich_text": "tolor chockhyoky choiin okshol oly oky tolor chockhyoky choiin okshol oly oky tolor chockhyoky choiin okshol oly oky okseey chodysytoiin otaiin otaiin cthar okshey chody sytoiin otaiin otaiin cthar okshey chodysytoiin otaiin otaiin cthar qokor okaiinotaiin qokchol chokokor qokor okaiinotaiin qokchol chokokor qokor okaiinotaiin qokchol chokokor ychok chey chckhchy chka odaiin daiin sy ychokchey chckhchy chkor odaiin daiin sy ychokchey chckhchy chka rodaiin daiin sy okor chey kainchor ctho dain ckholdy okor chey kainchor ctho dain ckholdy okor chey kainchor ctho dain ckholdy ysho sho kosdaiin okoy chochor daiin ysho sho kosdaiin okoy chochor daiin ysho sho kosdaiin okoy chochor daiin",
+  "latin_text": "[tolor] [chockhyoky] facit [okshol] [oly] facit ad [tolor] [chockhyoky] facit [okshol] [oly] facit ad [tolor] [chockhyoky] facit [okshol] [oly] facit ad [okseey] [chodysytoiin] valde cursus caelum [okshey] movetur [sytoiin] valde cursus caelum [okshey] [chodysytoiin] valde cursus caelum dividit [okaiinotaiin] caulem producit [chokokor] dividit [okaiinotaiin] caulem producit [chokokor] dividit [okaiinotaiin] caulem producit [chokokor] [ychok] elementum [chckhchy] [chka] dat est ad ipse [ychokchey] [chckhchy] ordo dat est ad ipse [ychokchey] [chckhchy] [chka] [rodaiin] ad ipse robur ordo elementum [kainchor] [ctho] ad [ckholdy] robur ordo elementum [kainchor] [ctho] ad [ckholdy] robur ordo elementum [kainchor] [ctho] ad [ckholdy] ad hic facit hic facit [kosdaiin] [okoy] [chochor] ad ad hic facit hic facit [kosdaiin] [okoy] [chochor] ad ad hic facit hic facit [kosdaiin] [okoy] [chochor] ad",
+  "english_text": "[tolor] [chockhyoky] makes [okshol] [oly] makes to [tolor] [chockhyoky] makes [okshol] [oly] makes to [tolor] [chockhyoky] makes [okshol] [oly] makes to [okseey] [chodysytoiin] very [cursus] [caelum] [okshey] moves [sytoiin] very [cursus] [caelum] [okshey] [chodysytoiin] very [cursus] [caelum] [dividit] [okaiinotaiin] stem produces [chokokor] [dividit] [okaiinotaiin] stem produces [chokokor] [dividit] [okaiinotaiin] stem produces [chokokor] [ychok] element [chckhchy] [chka] gives is to [ipse] [ychokchey] [chckhchy] order gives is to [ipse] [ychokchey] [chckhchy] [chka] [rodaiin] to [ipse] strong order element [kainchor] [ctho] to [ckholdy] strong order element [kainchor] [ctho] to [ckholdy] strong order element [kainchor] [ctho] to [ckholdy] to here makes here makes [kosdaiin] [okoy] [chochor] to to here makes here makes [kosdaiin] [okoy] [chochor] to to here makes here makes [kosdaiin] [okoy] [chochor] to.",
+  "word_translations": [
+    {
+      "original": "tolor",
+      "latin": "[tolor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chockhyoky",
+      "latin": "[chockhyoky]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "choiin",
+      "latin": "facit",
+      "confidence": 0.9,
+      "notes": "systematic word family: ch- prefix pattern"
+    },
+    {
+      "original": "okshol",
+      "latin": "[okshol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oly",
+      "latin": "[oly]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oky",
+      "latin": "facit ad",
+      "confidence": 0.9,
+      "notes": "ok (action) + y (direction), directed action"
+    },
+    {
+      "original": "tolor",
+      "latin": "[tolor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chockhyoky",
+      "latin": "[chockhyoky]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "choiin",
+      "latin": "facit",
+      "confidence": 0.9,
+      "notes": "systematic word family: ch- prefix pattern"
+    },
+    {
+      "original": "okshol",
+      "latin": "[okshol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oly",
+      "latin": "[oly]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oky",
+      "latin": "facit ad",
+      "confidence": 0.9,
+      "notes": "ok (action) + y (direction), directed action"
+    },
+    {
+      "original": "tolor",
+      "latin": "[tolor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chockhyoky",
+      "latin": "[chockhyoky]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "choiin",
+      "latin": "facit",
+      "confidence": 0.9,
+      "notes": "systematic word family: ch- prefix pattern"
+    },
+    {
+      "original": "okshol",
+      "latin": "[okshol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oly",
+      "latin": "[oly]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oky",
+      "latin": "facit ad",
+      "confidence": 0.9,
+      "notes": "ok (action) + y (direction), directed action"
+    },
+    {
+      "original": "okseey",
+      "latin": "[okseey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chodysytoiin",
+      "latin": "[chodysytoiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otaiin",
+      "latin": "cursus",
+      "confidence": 0.9,
+      "notes": "star paths"
+    },
+    {
+      "original": "otaiin",
+      "latin": "cursus",
+      "confidence": 0.9,
+      "notes": "star paths"
+    },
+    {
+      "original": "cthar",
+      "latin": "caelum",
+      "confidence": 0.9,
+      "notes": "near stars"
+    },
+    {
+      "original": "okshey",
+      "latin": "[okshey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chody",
+      "latin": "movetur",
+      "confidence": 0.9,
+      "notes": "ch- + ody, movement/motion"
+    },
+    {
+      "original": "sytoiin",
+      "latin": "[sytoiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otaiin",
+      "latin": "cursus",
+      "confidence": 0.9,
+      "notes": "star paths"
+    },
+    {
+      "original": "otaiin",
+      "latin": "cursus",
+      "confidence": 0.9,
+      "notes": "star paths"
+    },
+    {
+      "original": "cthar",
+      "latin": "caelum",
+      "confidence": 0.9,
+      "notes": "near stars"
+    },
+    {
+      "original": "okshey",
+      "latin": "[okshey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chodysytoiin",
+      "latin": "[chodysytoiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otaiin",
+      "latin": "cursus",
+      "confidence": 0.9,
+      "notes": "star paths"
+    },
+    {
+      "original": "otaiin",
+      "latin": "cursus",
+      "confidence": 0.9,
+      "notes": "star paths"
+    },
+    {
+      "original": "cthar",
+      "latin": "caelum",
+      "confidence": 0.9,
+      "notes": "near stars"
+    },
+    {
+      "original": "qokor",
+      "latin": "dividit",
+      "confidence": 0.9,
+      "notes": "dividing"
+    },
+    {
+      "original": "okaiinotaiin",
+      "latin": "[okaiinotaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokchol",
+      "latin": "caulem producit",
+      "confidence": 0.9,
+      "notes": "qo- prefix + chol (stem), intensified growth action"
+    },
+    {
+      "original": "chokokor",
+      "latin": "[chokokor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokor",
+      "latin": "dividit",
+      "confidence": 0.9,
+      "notes": "dividing"
+    },
+    {
+      "original": "okaiinotaiin",
+      "latin": "[okaiinotaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokchol",
+      "latin": "caulem producit",
+      "confidence": 0.9,
+      "notes": "qo- prefix + chol (stem), intensified growth action"
+    },
+    {
+      "original": "chokokor",
+      "latin": "[chokokor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokor",
+      "latin": "dividit",
+      "confidence": 0.9,
+      "notes": "dividing"
+    },
+    {
+      "original": "okaiinotaiin",
+      "latin": "[okaiinotaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokchol",
+      "latin": "caulem producit",
+      "confidence": 0.9,
+      "notes": "qo- prefix + chol (stem), intensified growth action"
+    },
+    {
+      "original": "chokokor",
+      "latin": "[chokokor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ychok",
+      "latin": "[ychok]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chey",
+      "latin": "elementum",
+      "confidence": 0.9,
+      "notes": "ch- + ey, botanical element"
+    },
+    {
+      "original": "chckhchy",
+      "latin": "[chckhchy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chka",
+      "latin": "[chka]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "odaiin",
+      "latin": "dat est",
+      "confidence": 0.9,
+      "notes": "od (gives) + aiin (is/state); gives being/exists"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "sy",
+      "latin": "ipse",
+      "confidence": 0.9,
+      "notes": "itself"
+    },
+    {
+      "original": "ychokchey",
+      "latin": "[ychokchey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chckhchy",
+      "latin": "[chckhchy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chkor",
+      "latin": "ordo",
+      "confidence": 0.9,
+      "notes": "systematic word family: ch- prefix pattern"
+    },
+    {
+      "original": "odaiin",
+      "latin": "dat est",
+      "confidence": 0.9,
+      "notes": "od (gives) + aiin (is/state); gives being/exists"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "sy",
+      "latin": "ipse",
+      "confidence": 0.9,
+      "notes": "itself"
+    },
+    {
+      "original": "ychokchey",
+      "latin": "[ychokchey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chckhchy",
+      "latin": "[chckhchy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chka",
+      "latin": "[chka]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "rodaiin",
+      "latin": "[rodaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "sy",
+      "latin": "ipse",
+      "confidence": 0.9,
+      "notes": "itself"
+    },
+    {
+      "original": "okor",
+      "latin": "robur ordo",
+      "confidence": 0.9,
+      "notes": "k- + or, strength order"
+    },
+    {
+      "original": "chey",
+      "latin": "elementum",
+      "confidence": 0.9,
+      "notes": "ch- + ey, botanical element"
+    },
+    {
+      "original": "kainchor",
+      "latin": "[kainchor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ctho",
+      "latin": "[ctho]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dain",
+      "latin": "ad",
+      "confidence": 0.9,
+      "notes": "variant of daiin (to), directional"
+    },
+    {
+      "original": "ckholdy",
+      "latin": "[ckholdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okor",
+      "latin": "robur ordo",
+      "confidence": 0.9,
+      "notes": "k- + or, strength order"
+    },
+    {
+      "original": "chey",
+      "latin": "elementum",
+      "confidence": 0.9,
+      "notes": "ch- + ey, botanical element"
+    },
+    {
+      "original": "kainchor",
+      "latin": "[kainchor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ctho",
+      "latin": "[ctho]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dain",
+      "latin": "ad",
+      "confidence": 0.9,
+      "notes": "variant of daiin (to), directional"
+    },
+    {
+      "original": "ckholdy",
+      "latin": "[ckholdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okor",
+      "latin": "robur ordo",
+      "confidence": 0.9,
+      "notes": "k- + or, strength order"
+    },
+    {
+      "original": "chey",
+      "latin": "elementum",
+      "confidence": 0.9,
+      "notes": "ch- + ey, botanical element"
+    },
+    {
+      "original": "kainchor",
+      "latin": "[kainchor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ctho",
+      "latin": "[ctho]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dain",
+      "latin": "ad",
+      "confidence": 0.9,
+      "notes": "variant of daiin (to), directional"
+    },
+    {
+      "original": "ckholdy",
+      "latin": "[ckholdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ysho",
+      "latin": "ad hic facit",
+      "confidence": 0.9,
+      "notes": "systematic word family: ys- prefix pattern"
+    },
+    {
+      "original": "sho",
+      "latin": "hic facit",
+      "confidence": 0.9,
+      "notes": "sh- + o, location action"
+    },
+    {
+      "original": "kosdaiin",
+      "latin": "[kosdaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okoy",
+      "latin": "[okoy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chochor",
+      "latin": "[chochor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "ysho",
+      "latin": "ad hic facit",
+      "confidence": 0.9,
+      "notes": "systematic word family: ys- prefix pattern"
+    },
+    {
+      "original": "sho",
+      "latin": "hic facit",
+      "confidence": 0.9,
+      "notes": "sh- + o, location action"
+    },
+    {
+      "original": "kosdaiin",
+      "latin": "[kosdaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okoy",
+      "latin": "[okoy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chochor",
+      "latin": "[chochor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "ysho",
+      "latin": "ad hic facit",
+      "confidence": 0.9,
+      "notes": "systematic word family: ys- prefix pattern"
+    },
+    {
+      "original": "sho",
+      "latin": "hic facit",
+      "confidence": 0.9,
+      "notes": "sh- + o, location action"
+    },
+    {
+      "original": "kosdaiin",
+      "latin": "[kosdaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okoy",
+      "latin": "[okoy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chochor",
+      "latin": "[chochor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    }
+  ],
+  "statistics": {
+    "total": 101,
+    "known": 50,
+    "unknown": 51,
+    "avg_confidence": 0.4396039603960396,
+    "coverage": 0.49504950495049505
+  },
+  "unknown_words": [
+    "chckhchy",
+    "chka",
+    "chochor",
+    "chockhyoky",
+    "chodysytoiin",
+    "chokokor",
+    "ckholdy",
+    "ctho",
+    "kainchor",
+    "kosdaiin",
+    "okaiinotaiin",
+    "okoy",
+    "okseey",
+    "okshey",
+    "okshol",
+    "oly",
+    "rodaiin",
+    "sytoiin",
+    "tolor",
+    "ychok",
+    "ychokchey"
+  ],
+  "translated_at": "2025-11-27T21:41:36.901172"
+}

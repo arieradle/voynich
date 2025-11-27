@@ -1,0 +1,933 @@
+{
+  "folio_id": "023r",
+  "section": "Biological",
+  "context": "herbal",
+  "voynich_text": "dchar ykor ykaiin daiin ctho dchar ykor kaiin daiin ctho dchar ykor ykaiin daiin cthom ychor qokchol ytom chol dair chol ar ol ol dol dain ychor qokchol ytym chol dain chol ar ol ol dol dain ychor qokchol ytam chol dain chol ar of ol dol dain okar olchar shaiin qokchol dar qokchol dairo ol daiin alg okar olchar chaiin qokchol dar qokchol dairo ol daiin alm okar olchar shaiin qokchol dar qokchol dairo ol daiin alm qokshy char daiir qokaiin olol qoaiin ykchy qokshy char daiir qokaiin olol qoaiin ykchy qokshy char daiir qokaiin olol qoaiin ykchy okol ok shy qokol dydal dshe qokeees oly okol ok shy qokoldydal dsho qokeees oly okol okshy qokol dydal dshe qokeeesy oly qok okaiin chkchy syteair odal chal dy qk okaiin chkchy syteain odal chaldy qyk okaiin chkchy syteain odal chal dy ykyka dalory ykyko dalory ykyka dalory",
+  "latin_text": "dat et ad ordo erat quidem ad [ctho] dat et ad ordo erat ad [ctho] dat et ad ordo erat quidem ad [cthom] siccum caulem producit [ytom] caulis gratia caulis et valde ille de ad siccum caulem producit [ytym] caulis ad caulis et valde ille de ad siccum caulem producit [ytam] caulis ad caulis et [of] ille de ad orbis [olchar] videt caulem producit donum caulem producit [dairo] ille ad [alg] orbis [olchar] erat caulem producit donum caulem producit [dairo] ille ad [alm] orbis [olchar] videt caulem producit donum caulem producit [dairo] ille ad [alm] valde parvum planta et [daiir] terra [olol] valde erat ad in valde parvum planta et [daiir] terra [olol] valde erat ad in valde parvum planta et [daiir] terra [olol] valde erat ad in cum facit hic valde cum [dydal] [dshe] [qokeees] [oly] cum facit hic [qokoldydal] dat hic facit [qokeees] [oly] cum parvum valde cum [dydal] [dshe] [qokeeesy] [oly] potest ponit in [syteair] [odal] folii ala et [qk] ponit in [syteain] [odal] [chaldy] [qyk] ponit in [syteain] [odal] folii ala et [ykyka] [dalory] [ykyko] [dalory] [ykyka] [dalory]",
+  "english_text": "Gives and to order was indeed to [ctho] gives and to order was to [ctho] gives and to order was indeed to [cthom] [siccum] stem produces [ytom] stem grace stem and very that from to [siccum] stem produces [ytym] stem to stem and very that from to [siccum] stem produces [ytam] stem to stem and [of] that from to [orbis] [olchar] [videt] stem produces gift stem produces [dairo] that to [alg] [orbis] [olchar] was stem produces gift stem produces [dairo] that to [alm] [orbis] [olchar] [videt] stem produces gift stem produces [dairo] that to [alm] very small plant and [daiir] earth [olol] very was to in very small plant and [daiir] earth [olol] very was to in very small plant and [daiir] earth [olol] very was to in with makes here very with [dydal] [dshe] [qokeees] [oly] with makes here [qokoldydal] gives here makes [qokeees] [oly] with small very with [dydal] [dshe] [qokeeesy] [oly] [potest] [ponit] in [syteair] [odal] [folii] wing and [qk] [ponit] in [syteain] [odal] [chaldy] [qyk] [ponit] in [syteain] [odal] [folii] wing and [ykyka] [dalory] [ykyko] [dalory] [ykyka] [dalory].",
+  "word_translations": [
+    {
+      "original": "dchar",
+      "latin": "dat et",
+      "confidence": 0.9,
+      "notes": "systematic word family: dc- prefix pattern"
+    },
+    {
+      "original": "ykor",
+      "latin": "ad ordo",
+      "confidence": 0.9,
+      "notes": "systematic word family: yk- prefix pattern"
+    },
+    {
+      "original": "ykaiin",
+      "latin": "erat quidem",
+      "confidence": 0.9,
+      "notes": "y- + kaiin, associated with state/being"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "ctho",
+      "latin": "[ctho]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dchar",
+      "latin": "dat et",
+      "confidence": 0.9,
+      "notes": "systematic word family: dc- prefix pattern"
+    },
+    {
+      "original": "ykor",
+      "latin": "ad ordo",
+      "confidence": 0.9,
+      "notes": "systematic word family: yk- prefix pattern"
+    },
+    {
+      "original": "kaiin",
+      "latin": "erat",
+      "confidence": 0.9,
+      "notes": "has -aiin suffix marker, appears in botanical contexts"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "ctho",
+      "latin": "[ctho]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dchar",
+      "latin": "dat et",
+      "confidence": 0.9,
+      "notes": "systematic word family: dc- prefix pattern"
+    },
+    {
+      "original": "ykor",
+      "latin": "ad ordo",
+      "confidence": 0.9,
+      "notes": "systematic word family: yk- prefix pattern"
+    },
+    {
+      "original": "ykaiin",
+      "latin": "erat quidem",
+      "confidence": 0.9,
+      "notes": "y- + kaiin, associated with state/being"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "cthom",
+      "latin": "[cthom]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ychor",
+      "latin": "siccum",
+      "confidence": 0.9,
+      "notes": "dry, plant context"
+    },
+    {
+      "original": "qokchol",
+      "latin": "caulem producit",
+      "confidence": 0.9,
+      "notes": "qo- prefix + chol (stem), intensified growth action"
+    },
+    {
+      "original": "ytom",
+      "latin": "[ytom]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chol",
+      "latin": "caulis",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, stem/stalk of plants"
+    },
+    {
+      "original": "dair",
+      "latin": "gratia",
+      "confidence": 0.9,
+      "notes": "for benefit"
+    },
+    {
+      "original": "chol",
+      "latin": "caulis",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, stem/stalk of plants"
+    },
+    {
+      "original": "ar",
+      "latin": "et",
+      "confidence": 0.9,
+      "notes": "frequent, suits conjunction; links nouns"
+    },
+    {
+      "original": "ol",
+      "latin": "ille",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, that/the"
+    },
+    {
+      "original": "ol",
+      "latin": "ille",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, that/the"
+    },
+    {
+      "original": "dol",
+      "latin": "de",
+      "confidence": 0.9,
+      "notes": "short function word, preposition"
+    },
+    {
+      "original": "dain",
+      "latin": "ad",
+      "confidence": 0.9,
+      "notes": "variant of daiin (to), directional"
+    },
+    {
+      "original": "ychor",
+      "latin": "siccum",
+      "confidence": 0.9,
+      "notes": "dry, plant context"
+    },
+    {
+      "original": "qokchol",
+      "latin": "caulem producit",
+      "confidence": 0.9,
+      "notes": "qo- prefix + chol (stem), intensified growth action"
+    },
+    {
+      "original": "ytym",
+      "latin": "[ytym]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chol",
+      "latin": "caulis",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, stem/stalk of plants"
+    },
+    {
+      "original": "dain",
+      "latin": "ad",
+      "confidence": 0.9,
+      "notes": "variant of daiin (to), directional"
+    },
+    {
+      "original": "chol",
+      "latin": "caulis",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, stem/stalk of plants"
+    },
+    {
+      "original": "ar",
+      "latin": "et",
+      "confidence": 0.9,
+      "notes": "frequent, suits conjunction; links nouns"
+    },
+    {
+      "original": "ol",
+      "latin": "ille",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, that/the"
+    },
+    {
+      "original": "ol",
+      "latin": "ille",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, that/the"
+    },
+    {
+      "original": "dol",
+      "latin": "de",
+      "confidence": 0.9,
+      "notes": "short function word, preposition"
+    },
+    {
+      "original": "dain",
+      "latin": "ad",
+      "confidence": 0.9,
+      "notes": "variant of daiin (to), directional"
+    },
+    {
+      "original": "ychor",
+      "latin": "siccum",
+      "confidence": 0.9,
+      "notes": "dry, plant context"
+    },
+    {
+      "original": "qokchol",
+      "latin": "caulem producit",
+      "confidence": 0.9,
+      "notes": "qo- prefix + chol (stem), intensified growth action"
+    },
+    {
+      "original": "ytam",
+      "latin": "[ytam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chol",
+      "latin": "caulis",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, stem/stalk of plants"
+    },
+    {
+      "original": "dain",
+      "latin": "ad",
+      "confidence": 0.9,
+      "notes": "variant of daiin (to), directional"
+    },
+    {
+      "original": "chol",
+      "latin": "caulis",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, stem/stalk of plants"
+    },
+    {
+      "original": "ar",
+      "latin": "et",
+      "confidence": 0.9,
+      "notes": "frequent, suits conjunction; links nouns"
+    },
+    {
+      "original": "of",
+      "latin": "[of]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ol",
+      "latin": "ille",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, that/the"
+    },
+    {
+      "original": "dol",
+      "latin": "de",
+      "confidence": 0.9,
+      "notes": "short function word, preposition"
+    },
+    {
+      "original": "dain",
+      "latin": "ad",
+      "confidence": 0.9,
+      "notes": "variant of daiin (to), directional"
+    },
+    {
+      "original": "okar",
+      "latin": "orbis",
+      "confidence": 0.9,
+      "notes": "orbital paths"
+    },
+    {
+      "original": "olchar",
+      "latin": "[olchar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shaiin",
+      "latin": "videt",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, star context"
+    },
+    {
+      "original": "qokchol",
+      "latin": "caulem producit",
+      "confidence": 0.9,
+      "notes": "qo- prefix + chol (stem), intensified growth action"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "qokchol",
+      "latin": "caulem producit",
+      "confidence": 0.9,
+      "notes": "qo- prefix + chol (stem), intensified growth action"
+    },
+    {
+      "original": "dairo",
+      "latin": "[dairo]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ol",
+      "latin": "ille",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, that/the"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "alg",
+      "latin": "[alg]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okar",
+      "latin": "orbis",
+      "confidence": 0.9,
+      "notes": "orbital paths"
+    },
+    {
+      "original": "olchar",
+      "latin": "[olchar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chaiin",
+      "latin": "erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: ch- prefix pattern"
+    },
+    {
+      "original": "qokchol",
+      "latin": "caulem producit",
+      "confidence": 0.9,
+      "notes": "qo- prefix + chol (stem), intensified growth action"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "qokchol",
+      "latin": "caulem producit",
+      "confidence": 0.9,
+      "notes": "qo- prefix + chol (stem), intensified growth action"
+    },
+    {
+      "original": "dairo",
+      "latin": "[dairo]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ol",
+      "latin": "ille",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, that/the"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "alm",
+      "latin": "[alm]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okar",
+      "latin": "orbis",
+      "confidence": 0.9,
+      "notes": "orbital paths"
+    },
+    {
+      "original": "olchar",
+      "latin": "[olchar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shaiin",
+      "latin": "videt",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, star context"
+    },
+    {
+      "original": "qokchol",
+      "latin": "caulem producit",
+      "confidence": 0.9,
+      "notes": "qo- prefix + chol (stem), intensified growth action"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "qokchol",
+      "latin": "caulem producit",
+      "confidence": 0.9,
+      "notes": "qo- prefix + chol (stem), intensified growth action"
+    },
+    {
+      "original": "dairo",
+      "latin": "[dairo]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ol",
+      "latin": "ille",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, that/the"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "alm",
+      "latin": "[alm]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokshy",
+      "latin": "valde parvum",
+      "confidence": 0.81,
+      "notes": "qo-prefix:systematic word family: ks- prefix pattern"
+    },
+    {
+      "original": "char",
+      "latin": "planta et",
+      "confidence": 0.9,
+      "notes": "ch- + ar, botanical and"
+    },
+    {
+      "original": "daiir",
+      "latin": "[daiir]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokaiin",
+      "latin": "terra",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, near plants"
+    },
+    {
+      "original": "olol",
+      "latin": "[olol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qoaiin",
+      "latin": "valde erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: qo- prefix pattern"
+    },
+    {
+      "original": "ykchy",
+      "latin": "ad in",
+      "confidence": 0.9,
+      "notes": "systematic word family: yk- prefix pattern"
+    },
+    {
+      "original": "qokshy",
+      "latin": "valde parvum",
+      "confidence": 0.81,
+      "notes": "qo-prefix:systematic word family: ks- prefix pattern"
+    },
+    {
+      "original": "char",
+      "latin": "planta et",
+      "confidence": 0.9,
+      "notes": "ch- + ar, botanical and"
+    },
+    {
+      "original": "daiir",
+      "latin": "[daiir]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokaiin",
+      "latin": "terra",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, near plants"
+    },
+    {
+      "original": "olol",
+      "latin": "[olol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qoaiin",
+      "latin": "valde erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: qo- prefix pattern"
+    },
+    {
+      "original": "ykchy",
+      "latin": "ad in",
+      "confidence": 0.9,
+      "notes": "systematic word family: yk- prefix pattern"
+    },
+    {
+      "original": "qokshy",
+      "latin": "valde parvum",
+      "confidence": 0.81,
+      "notes": "qo-prefix:systematic word family: ks- prefix pattern"
+    },
+    {
+      "original": "char",
+      "latin": "planta et",
+      "confidence": 0.9,
+      "notes": "ch- + ar, botanical and"
+    },
+    {
+      "original": "daiir",
+      "latin": "[daiir]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokaiin",
+      "latin": "terra",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, near plants"
+    },
+    {
+      "original": "olol",
+      "latin": "[olol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qoaiin",
+      "latin": "valde erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: qo- prefix pattern"
+    },
+    {
+      "original": "ykchy",
+      "latin": "ad in",
+      "confidence": 0.9,
+      "notes": "systematic word family: yk- prefix pattern"
+    },
+    {
+      "original": "okol",
+      "latin": "cum",
+      "confidence": 0.9,
+      "notes": "frequent in herbal folios, appears with plant descriptions"
+    },
+    {
+      "original": "ok",
+      "latin": "facit",
+      "confidence": 0.9,
+      "notes": "action/extension base"
+    },
+    {
+      "original": "shy",
+      "latin": "hic",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, here/this place"
+    },
+    {
+      "original": "qokol",
+      "latin": "valde cum",
+      "confidence": 0.9,
+      "notes": "qo- prefix + kol (with), intensified connection"
+    },
+    {
+      "original": "dydal",
+      "latin": "[dydal]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dshe",
+      "latin": "[dshe]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokeees",
+      "latin": "[qokeees]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oly",
+      "latin": "[oly]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okol",
+      "latin": "cum",
+      "confidence": 0.9,
+      "notes": "frequent in herbal folios, appears with plant descriptions"
+    },
+    {
+      "original": "ok",
+      "latin": "facit",
+      "confidence": 0.9,
+      "notes": "action/extension base"
+    },
+    {
+      "original": "shy",
+      "latin": "hic",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, here/this place"
+    },
+    {
+      "original": "qokoldydal",
+      "latin": "[qokoldydal]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dsho",
+      "latin": "dat hic facit",
+      "confidence": 0.9,
+      "notes": "systematic word family: ds- prefix pattern"
+    },
+    {
+      "original": "qokeees",
+      "latin": "[qokeees]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oly",
+      "latin": "[oly]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okol",
+      "latin": "cum",
+      "confidence": 0.9,
+      "notes": "frequent in herbal folios, appears with plant descriptions"
+    },
+    {
+      "original": "okshy",
+      "latin": "parvum",
+      "confidence": 0.9,
+      "notes": "systematic word family: ks- prefix pattern"
+    },
+    {
+      "original": "qokol",
+      "latin": "valde cum",
+      "confidence": 0.9,
+      "notes": "qo- prefix + kol (with), intensified connection"
+    },
+    {
+      "original": "dydal",
+      "latin": "[dydal]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dshe",
+      "latin": "[dshe]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokeeesy",
+      "latin": "[qokeeesy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oly",
+      "latin": "[oly]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qok",
+      "latin": "potest",
+      "confidence": 0.9,
+      "notes": "can, action context"
+    },
+    {
+      "original": "okaiin",
+      "latin": "ponit",
+      "confidence": 0.9,
+      "notes": "placing"
+    },
+    {
+      "original": "chkchy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "systematic word family: ch- prefix pattern"
+    },
+    {
+      "original": "syteair",
+      "latin": "[syteair]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "odal",
+      "latin": "[odal]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chal",
+      "latin": "folii ala",
+      "confidence": 0.9,
+      "notes": "ch- + al, botanical wing/extension"
+    },
+    {
+      "original": "dy",
+      "latin": "et",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, and (connector)"
+    },
+    {
+      "original": "qk",
+      "latin": "[qk]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okaiin",
+      "latin": "ponit",
+      "confidence": 0.9,
+      "notes": "placing"
+    },
+    {
+      "original": "chkchy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "systematic word family: ch- prefix pattern"
+    },
+    {
+      "original": "syteain",
+      "latin": "[syteain]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "odal",
+      "latin": "[odal]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chaldy",
+      "latin": "[chaldy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qyk",
+      "latin": "[qyk]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okaiin",
+      "latin": "ponit",
+      "confidence": 0.9,
+      "notes": "placing"
+    },
+    {
+      "original": "chkchy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "systematic word family: ch- prefix pattern"
+    },
+    {
+      "original": "syteain",
+      "latin": "[syteain]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "odal",
+      "latin": "[odal]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chal",
+      "latin": "folii ala",
+      "confidence": 0.9,
+      "notes": "ch- + al, botanical wing/extension"
+    },
+    {
+      "original": "dy",
+      "latin": "et",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, and (connector)"
+    },
+    {
+      "original": "ykyka",
+      "latin": "[ykyka]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dalory",
+      "latin": "[dalory]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ykyko",
+      "latin": "[ykyko]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dalory",
+      "latin": "[dalory]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ykyka",
+      "latin": "[ykyka]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dalory",
+      "latin": "[dalory]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    }
+  ],
+  "statistics": {
+    "total": 147,
+    "known": 99,
+    "unknown": 48,
+    "avg_confidence": 0.5859183673469388,
+    "coverage": 0.673469387755102
+  },
+  "unknown_words": [
+    "alg",
+    "alm",
+    "chaldy",
+    "ctho",
+    "cthom",
+    "daiir",
+    "dairo",
+    "dalory",
+    "dshe",
+    "dydal",
+    "keees",
+    "keeesy",
+    "koldydal",
+    "odal",
+    "of",
+    "olchar",
+    "olol",
+    "oly",
+    "qk",
+    "qokeees",
+    "qokeeesy",
+    "qokoldydal",
+    "qokshy",
+    "qyk",
+    "syteain",
+    "syteair",
+    "ykyka",
+    "ykyko",
+    "ytam",
+    "ytom",
+    "ytym"
+  ],
+  "translated_at": "2025-11-27T21:41:23.118424"
+}

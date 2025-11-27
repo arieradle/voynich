@@ -1,0 +1,1007 @@
+{
+  "folio_id": "026r",
+  "section": "Astrological",
+  "context": "herbal",
+  "voynich_text": "psheoky odaiir qoyofseod chypchey ypchedy ain psheoky odaiir qoyofshod chypchey ypchedyain psheoky odaiir qoyofseod chypchey ypchedy ain dchey aiin adeeodyykecthhy chedy ytedy dy dchey saiin ajeeodyykecthey chedy ytedy dy dchey daiin adeeodyykecthey chedy ytedy dy oaiin shcthy eteeda oloyykeedy olchedy gal oaiin shcthy cthedy oloyykshdy olchedy dyl oaiin shcthy cthedy oloyykeedy olchedy dal qokedy cheos ytedy qokedyytedy chekedy qokedy cheos ytedy qokedyytedy chekedy qokedy cheos ytedy qokedyytedy chekedy haiin shedy eedy eedy schydaiin cthedy saiin shedy eedy eedy schydaiin cthedy saiin shedy eedy eedy schydaiin cthedy rchedy qokedy rchedy qokedy rchedy qokedy pcho qokedy dar sheo ypchseds saiin peeo qokedy dar sheo ypchseds saiin pcho qokedy dar sheo ypchseds saiin daiin shedy qokeedy qoteedar sokol daiin shedy qokeedy qoteedar sokol daiin shedy qokeedy qoteedar sokol tcheo shy geedy okedy chckhy sdydy tcheoshy dshdy okedy chckhy sdydy tcheo shy deedy okedy chckhy sdydy shese aiin sheos cheody otal shese aiin sheos cheody otal shese aiin sheos cheody otal",
+  "latin_text": "[psheoky] [odaiir] [qoyofseod] [chypchey] [ypchedy] erat [psheoky] [odaiir] [qoyofshod] [chypchey] [ypchedyain] [psheoky] [odaiir] [qoyofseod] [chypchey] [ypchedy] erat dat herbam parvam est [adeeodyykecthhy] in [ytedy] et dat herbam parvam sine [ajeeodyykecthey] in [ytedy] et dat herbam parvam ad [adeeodyykecthey] in [ytedy] et [oaiin] [shcthy] [eteeda] [oloyykeedy] [olchedy] [gal] [oaiin] [shcthy] [cthedy] [oloyykshdy] [olchedy] [dyl] [oaiin] [shcthy] [cthedy] [oloyykeedy] [olchedy] dat alam crescit [cheos] [ytedy] [qokedyytedy] [chekedy] crescit [cheos] [ytedy] [qokedyytedy] [chekedy] crescit [cheos] [ytedy] [qokedyytedy] [chekedy] [haiin] descendit valde [eedy] [schydaiin] [cthedy] sine descendit valde [eedy] [schydaiin] [cthedy] sine descendit valde [eedy] [schydaiin] [cthedy] [rchedy] crescit [rchedy] crescit [rchedy] crescit plantat crescit donum [sheo] [ypchseds] sine [peeo] crescit donum [sheo] [ypchseds] sine plantat crescit donum [sheo] [ypchseds] sine ad descendit durat [qoteedar] [sokol] ad descendit durat [qoteedar] [sokol] ad descendit durat [qoteedar] [sokol] [tcheo] hic [geedy] extendit inspicit [sdydy] [tcheoshy] [dshdy] extendit inspicit [sdydy] [tcheo] hic [deedy] extendit inspicit [sdydy] [shese] est [sheos] [cheody] ex ala [shese] est [sheos] [cheody] ex ala [shese] est [sheos] [cheody] ex ala",
+  "english_text": "[psheoky] [odaiir] [qoyofseod] [chypchey] [ypchedy] was [psheoky] [odaiir] [qoyofshod] [chypchey] [ypchedyain] [psheoky] [odaiir] [qoyofseod] [chypchey] [ypchedy] was gives herb small is [adeeodyykecthhy] in [ytedy] and gives herb small [sine] [ajeeodyykecthey] in [ytedy] and gives herb small to [adeeodyykecthey] in [ytedy] and [oaiin] [shcthy] [eteeda] [oloyykeedy] [olchedy] [gal] [oaiin] [shcthy] [cthedy] [oloyykshdy] [olchedy] [dyl] [oaiin] [shcthy] [cthedy] [oloyykeedy] [olchedy] gives wing grows [cheos] [ytedy] [qokedyytedy] [chekedy] grows [cheos] [ytedy] [qokedyytedy] [chekedy] grows [cheos] [ytedy] [qokedyytedy] [chekedy] [haiin] from very [eedy] [schydaiin] [cthedy] [sine] from very [eedy] [schydaiin] [cthedy] [sine] from very [eedy] [schydaiin] [cthedy] [rchedy] grows [rchedy] grows [rchedy] grows plant grows gift [sheo] [ypchseds] [sine] [peeo] grows gift [sheo] [ypchseds] [sine] plant grows gift [sheo] [ypchseds] [sine] to from [durat] [qoteedar] [sokol] to from [durat] [qoteedar] [sokol] to from [durat] [qoteedar] [sokol] [tcheo] here [geedy] extends examines [sdydy] [tcheoshy] [dshdy] extends examines [sdydy] [tcheo] here [deedy] extends examines [sdydy] [shese] is [sheos] [cheody] from wing [shese] is [sheos] [cheody] from wing [shese] is [sheos] [cheody] from wing.",
+  "word_translations": [
+    {
+      "original": "psheoky",
+      "latin": "[psheoky]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "odaiir",
+      "latin": "[odaiir]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qoyofseod",
+      "latin": "[qoyofseod]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chypchey",
+      "latin": "[chypchey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ypchedy",
+      "latin": "[ypchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ain",
+      "latin": "erat",
+      "confidence": 0.9,
+      "notes": "suffix marker for state/being/past"
+    },
+    {
+      "original": "psheoky",
+      "latin": "[psheoky]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "odaiir",
+      "latin": "[odaiir]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qoyofshod",
+      "latin": "[qoyofshod]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chypchey",
+      "latin": "[chypchey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ypchedyain",
+      "latin": "[ypchedyain]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "psheoky",
+      "latin": "[psheoky]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "odaiir",
+      "latin": "[odaiir]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qoyofseod",
+      "latin": "[qoyofseod]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chypchey",
+      "latin": "[chypchey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ypchedy",
+      "latin": "[ypchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ain",
+      "latin": "erat",
+      "confidence": 0.9,
+      "notes": "suffix marker for state/being/past"
+    },
+    {
+      "original": "dchey",
+      "latin": "dat herbam parvam",
+      "confidence": 0.9,
+      "notes": "d- + chey, giving small botanical element"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "adeeodyykecthhy",
+      "latin": "[adeeodyykecthhy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chedy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "frequent, fits preposition; containment"
+    },
+    {
+      "original": "ytedy",
+      "latin": "[ytedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dy",
+      "latin": "et",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, and (connector)"
+    },
+    {
+      "original": "dchey",
+      "latin": "dat herbam parvam",
+      "confidence": 0.9,
+      "notes": "d- + chey, giving small botanical element"
+    },
+    {
+      "original": "saiin",
+      "latin": "sine",
+      "confidence": 0.9,
+      "notes": "without"
+    },
+    {
+      "original": "ajeeodyykecthey",
+      "latin": "[ajeeodyykecthey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chedy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "frequent, fits preposition; containment"
+    },
+    {
+      "original": "ytedy",
+      "latin": "[ytedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dy",
+      "latin": "et",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, and (connector)"
+    },
+    {
+      "original": "dchey",
+      "latin": "dat herbam parvam",
+      "confidence": 0.9,
+      "notes": "d- + chey, giving small botanical element"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "adeeodyykecthey",
+      "latin": "[adeeodyykecthey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chedy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "frequent, fits preposition; containment"
+    },
+    {
+      "original": "ytedy",
+      "latin": "[ytedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dy",
+      "latin": "et",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, and (connector)"
+    },
+    {
+      "original": "oaiin",
+      "latin": "[oaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shcthy",
+      "latin": "[shcthy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "eteeda",
+      "latin": "[eteeda]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oloyykeedy",
+      "latin": "[oloyykeedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "olchedy",
+      "latin": "[olchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "gal",
+      "latin": "[gal]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oaiin",
+      "latin": "[oaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shcthy",
+      "latin": "[shcthy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cthedy",
+      "latin": "[cthedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oloyykshdy",
+      "latin": "[oloyykshdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "olchedy",
+      "latin": "[olchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dyl",
+      "latin": "[dyl]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oaiin",
+      "latin": "[oaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shcthy",
+      "latin": "[shcthy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cthedy",
+      "latin": "[cthedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oloyykeedy",
+      "latin": "[oloyykeedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "olchedy",
+      "latin": "[olchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dal",
+      "latin": "dat alam",
+      "confidence": 0.9,
+      "notes": "d- + al, giving wing/extension"
+    },
+    {
+      "original": "qokedy",
+      "latin": "crescit",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, near plants"
+    },
+    {
+      "original": "cheos",
+      "latin": "[cheos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ytedy",
+      "latin": "[ytedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokedyytedy",
+      "latin": "[qokedyytedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chekedy",
+      "latin": "[chekedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokedy",
+      "latin": "crescit",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, near plants"
+    },
+    {
+      "original": "cheos",
+      "latin": "[cheos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ytedy",
+      "latin": "[ytedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokedyytedy",
+      "latin": "[qokedyytedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chekedy",
+      "latin": "[chekedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokedy",
+      "latin": "crescit",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, near plants"
+    },
+    {
+      "original": "cheos",
+      "latin": "[cheos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ytedy",
+      "latin": "[ytedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokedyytedy",
+      "latin": "[qokedyytedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chekedy",
+      "latin": "[chekedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "haiin",
+      "latin": "[haiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shedy",
+      "latin": "descendit",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, broad use"
+    },
+    {
+      "original": "eedy",
+      "latin": "[eedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "eedy",
+      "latin": "[eedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "schydaiin",
+      "latin": "[schydaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cthedy",
+      "latin": "[cthedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "saiin",
+      "latin": "sine",
+      "confidence": 0.9,
+      "notes": "without"
+    },
+    {
+      "original": "shedy",
+      "latin": "descendit",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, broad use"
+    },
+    {
+      "original": "eedy",
+      "latin": "[eedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "eedy",
+      "latin": "[eedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "schydaiin",
+      "latin": "[schydaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cthedy",
+      "latin": "[cthedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "saiin",
+      "latin": "sine",
+      "confidence": 0.9,
+      "notes": "without"
+    },
+    {
+      "original": "shedy",
+      "latin": "descendit",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, broad use"
+    },
+    {
+      "original": "eedy",
+      "latin": "[eedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "eedy",
+      "latin": "[eedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "schydaiin",
+      "latin": "[schydaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cthedy",
+      "latin": "[cthedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "rchedy",
+      "latin": "[rchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokedy",
+      "latin": "crescit",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, near plants"
+    },
+    {
+      "original": "rchedy",
+      "latin": "[rchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokedy",
+      "latin": "crescit",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, near plants"
+    },
+    {
+      "original": "rchedy",
+      "latin": "[rchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokedy",
+      "latin": "crescit",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, near plants"
+    },
+    {
+      "original": "pcho",
+      "latin": "plantat",
+      "confidence": 0.9,
+      "notes": "p- prefix + cho, plant-related action"
+    },
+    {
+      "original": "qokedy",
+      "latin": "crescit",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, near plants"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "sheo",
+      "latin": "[sheo]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ypchseds",
+      "latin": "[ypchseds]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "saiin",
+      "latin": "sine",
+      "confidence": 0.9,
+      "notes": "without"
+    },
+    {
+      "original": "peeo",
+      "latin": "[peeo]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokedy",
+      "latin": "crescit",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, near plants"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "sheo",
+      "latin": "[sheo]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ypchseds",
+      "latin": "[ypchseds]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "saiin",
+      "latin": "sine",
+      "confidence": 0.9,
+      "notes": "without"
+    },
+    {
+      "original": "pcho",
+      "latin": "plantat",
+      "confidence": 0.9,
+      "notes": "p- prefix + cho, plant-related action"
+    },
+    {
+      "original": "qokedy",
+      "latin": "crescit",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, near plants"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "sheo",
+      "latin": "[sheo]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ypchseds",
+      "latin": "[ypchseds]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "saiin",
+      "latin": "sine",
+      "confidence": 0.9,
+      "notes": "without"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "shedy",
+      "latin": "descendit",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, broad use"
+    },
+    {
+      "original": "qokeedy",
+      "latin": "durat",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, broad use"
+    },
+    {
+      "original": "qoteedar",
+      "latin": "[qoteedar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sokol",
+      "latin": "[sokol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "shedy",
+      "latin": "descendit",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, broad use"
+    },
+    {
+      "original": "qokeedy",
+      "latin": "durat",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, broad use"
+    },
+    {
+      "original": "qoteedar",
+      "latin": "[qoteedar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sokol",
+      "latin": "[sokol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "shedy",
+      "latin": "descendit",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, broad use"
+    },
+    {
+      "original": "qokeedy",
+      "latin": "durat",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, broad use"
+    },
+    {
+      "original": "qoteedar",
+      "latin": "[qoteedar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sokol",
+      "latin": "[sokol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "tcheo",
+      "latin": "[tcheo]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shy",
+      "latin": "hic",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, here/this place"
+    },
+    {
+      "original": "geedy",
+      "latin": "[geedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okedy",
+      "latin": "extendit",
+      "confidence": 0.9,
+      "notes": "action, broad use for extends"
+    },
+    {
+      "original": "chckhy",
+      "latin": "inspicit",
+      "confidence": 0.9,
+      "notes": "ch- + ckhy compound, checking/examining"
+    },
+    {
+      "original": "sdydy",
+      "latin": "[sdydy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "tcheoshy",
+      "latin": "[tcheoshy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dshdy",
+      "latin": "[dshdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okedy",
+      "latin": "extendit",
+      "confidence": 0.9,
+      "notes": "action, broad use for extends"
+    },
+    {
+      "original": "chckhy",
+      "latin": "inspicit",
+      "confidence": 0.9,
+      "notes": "ch- + ckhy compound, checking/examining"
+    },
+    {
+      "original": "sdydy",
+      "latin": "[sdydy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "tcheo",
+      "latin": "[tcheo]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shy",
+      "latin": "hic",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, here/this place"
+    },
+    {
+      "original": "deedy",
+      "latin": "[deedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okedy",
+      "latin": "extendit",
+      "confidence": 0.9,
+      "notes": "action, broad use for extends"
+    },
+    {
+      "original": "chckhy",
+      "latin": "inspicit",
+      "confidence": 0.9,
+      "notes": "ch- + ckhy compound, checking/examining"
+    },
+    {
+      "original": "sdydy",
+      "latin": "[sdydy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shese",
+      "latin": "[shese]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "sheos",
+      "latin": "[sheos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheody",
+      "latin": "[cheody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otal",
+      "latin": "ex ala",
+      "confidence": 0.9,
+      "notes": "ot (from) + al (wing), from extension"
+    },
+    {
+      "original": "shese",
+      "latin": "[shese]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "sheos",
+      "latin": "[sheos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheody",
+      "latin": "[cheody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otal",
+      "latin": "ex ala",
+      "confidence": 0.9,
+      "notes": "ot (from) + al (wing), from extension"
+    },
+    {
+      "original": "shese",
+      "latin": "[shese]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "sheos",
+      "latin": "[sheos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheody",
+      "latin": "[cheody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otal",
+      "latin": "ex ala",
+      "confidence": 0.9,
+      "notes": "ot (from) + al (wing), from extension"
+    }
+  ],
+  "statistics": {
+    "total": 157,
+    "known": 63,
+    "unknown": 94,
+    "avg_confidence": 0.34140127388535035,
+    "coverage": 0.4012738853503185
+  },
+  "unknown_words": [
+    "adeeodyykecthey",
+    "adeeodyykecthhy",
+    "ajeeodyykecthey",
+    "chekedy",
+    "cheody",
+    "cheos",
+    "chypchey",
+    "cthedy",
+    "deedy",
+    "dshdy",
+    "dyl",
+    "eedy",
+    "eteeda",
+    "gal",
+    "geedy",
+    "haiin",
+    "kedyytedy",
+    "oaiin",
+    "odaiir",
+    "olchedy",
+    "oloyykeedy",
+    "oloyykshdy",
+    "peeo",
+    "psheoky",
+    "qokedyytedy",
+    "qoteedar",
+    "qoyofseod",
+    "qoyofshod",
+    "rchedy",
+    "schydaiin",
+    "sdydy",
+    "shcthy",
+    "sheo",
+    "sheos",
+    "shese",
+    "sokol",
+    "tcheo",
+    "tcheoshy",
+    "teedar",
+    "yofseod",
+    "yofshod",
+    "ypchedy",
+    "ypchedyain",
+    "ypchseds",
+    "ytedy"
+  ],
+  "translated_at": "2025-11-27T21:41:29.929573"
+}
