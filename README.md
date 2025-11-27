@@ -21,17 +21,18 @@ This project provides a complete **hybrid AI agent framework** for systematicall
 
 ## 📊 Current Performance
 
-**As of November 27, 2025:**
+**As of November 27, 2025 (After Iteration 5):**
 
 | Metric | Achievement | Status |
 |--------|-------------|--------|
 | **Best Folio** | **73.1%** (q02_f014r) | ⭐⭐⭐⭐⭐ EXEMPLARY |
-| **Herbal B Average** | **67.0%** | ✅ Target: 65%+ EXCEEDED |
-| **Herbal A Average** | **52.8%** | ✅ Target: 50%+ EXCEEDED |
-| **Overall Average** | **56.6%** | 🎯 Target: 62-65% (92% there) |
-| **Dictionary Size** | **708 words** | ✅ Target: 650+ EXCEEDED |
+| **Herbal B Average** | **70.5%** | ✅ Target: 65%+ EXCEEDED (+5.5%) |
+| **Herbal A Average** | **55.5%** | ✅ Target: 50%+ EXCEEDED (+5.5%) |
+| **Overall Average** | **59.6%** | 🎯 Target: 62-65% (96% there!) |
+| **Dictionary Size** | **743 words** | ✅ Target: 650+ EXCEEDED |
 | **System Coherency** | **7.0/10 (GOOD)** | ✅ Production-ready |
 | **Folios Translated** | **22 folios** | ✅ All available |
+| **Data Quality** | **Excellent** | ✅ 3 critical bugs fixed (Iter 5) |
 
 **Key Milestones:**
 - ✅ First folio above 70% coverage
@@ -39,6 +40,7 @@ This project provides a complete **hybrid AI agent framework** for systematicall
 - ✅ English translation capability
 - ✅ Comprehensive coherency testing
 - ✅ AI agent system operational
+- ✅ Data quality issues fixed (Iteration 5)
 
 ---
 

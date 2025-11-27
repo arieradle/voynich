@@ -75,13 +75,20 @@ class VoynichTranslator:
         if not word:
             return word
         
-        # Remove 'o' as null in prefixes (qo-, ko-, po-, to-, co-)
-        if word.startswith("o") and len(word) > 1 and word[1] in "kptc":
-            word = word[1:]
-        
         # Handle standalone 'o' as exclamation
         if word == "o":
             return "!"
+        
+        # Remove 'o' as null in prefixes (qo-, ko-, po-, co-) ONLY if word is not already in dictionary
+        # Note: 'ot-' is a legitimate prefix (ex/from), so don't remove it blindly
+        if word.startswith("o") and len(word) > 1 and word[1] in "kpc":
+            # Check if full word exists in dictionary first
+            if word not in self.vocab and word not in self.polysemy:
+                # Try removing 'o' prefix
+                stripped = word[1:]
+                # Only use stripped version if it exists in dictionary
+                if stripped in self.vocab or stripped in self.polysemy:
+                    word = stripped
         
         return word
     

@@ -119,8 +119,8 @@ class FolioDownloader:
                         # Remove trailing markers (!, =, -, *)
                         cleaned = re.sub(r'[!*=\-]+$', '', cleaned)
                         # Remove internal markers but keep letters
-                        # Replace ! and * in middle with nothing (uncertain chars)
-                        cleaned = re.sub(r'[!*]', '', cleaned)
+                        # Replace ! * , in middle with nothing (uncertain chars and transcriber disagreement markers)
+                        cleaned = re.sub(r'[!*,]', '', cleaned)
                         # Remove internal hyphens
                         cleaned = re.sub(r'-', '', cleaned)
                         # Remove parentheses

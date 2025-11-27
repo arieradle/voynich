@@ -23,6 +23,9 @@ class FolioTranslator:
     
     def translate_folio_file(self, folio_path: Path, context: str = None, section: str = None) -> Dict:
         """Translate a folio from its cached file"""
+        # Reset unknown words tracking for this folio
+        self.translator.unknown_words = set()
+        
         with open(folio_path, 'r') as f:
             text = f.read()
         
