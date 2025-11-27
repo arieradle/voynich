@@ -1,0 +1,192 @@
+#!/usr/bin/env python3
+"""
+Translate Voynich manuscript folios using deterministic translation
+"""
+
+import argparse
+import json
+from pathlib import Path
+from datetime import datetime
+from typing import Dict, List
+from download_folios import FolioDownloader
+from translator import VoynichTranslator, TranslationResult
+
+
+class FolioTranslator:
+    """High-level folio translation coordinator"""
+    
+    def __init__(self, output_dir: str = "data/translations"):
+        self.downloader = FolioDownloader()
+        self.translator = VoynichTranslator()
+        self.output_dir = Path(output_dir)
+        self.output_dir.mkdir(parents=True, exist_ok=True)
+    
+    def translate_folio_file(self, folio_path: Path, context: str = None, section: str = None) -> Dict:
+        """Translate a folio from its cached file"""
+        with open(folio_path, 'r') as f:
+            text = f.read()
+        
+        # Parse folio
+        folio_data = self.downloader.parse_folio_text(text, str(folio_path))
+        
+        # Override section if provided (fix for cached files)
+        if section:
+            from download_folios import SECTION_MAP
+            folio_data["section"] = SECTION_MAP.get(section, section)
+        
+        # Auto-detect context if not provided
+        if context is None:
+            context = self.translator.infer_context_from_section(folio_data["section"])
+        
+        # Translate each word
+        all_results = []
+        for word in folio_data["voynich_words"]:
+            result = self.translator.translate_word(word, context)
+            all_results.append({
+                "original": result.original,
+                "latin": result.latin,
+                "confidence": result.confidence,
+                "notes": result.notes
+            })
+        
+        # Full text translation
+        full_voynich = " ".join(folio_data["voynich_words"])
+        full_latin = self.translator.translate_to_latin(full_voynich, context)
+        full_english = self.translator.translate_latin_to_english(full_latin, context)
+        
+        # Get statistics
+        result_objects = self.translator.translate_phrase(full_voynich, context)
+        stats = self.translator.get_translation_stats(result_objects)
+        
+        return {
+            "folio_id": folio_data["folio_id"],
+            "section": folio_data["section"],
+            "context": context,
+            "voynich_text": full_voynich,
+            "latin_text": full_latin,
+            "english_text": full_english,
+            "word_translations": all_results,
+            "statistics": stats,
+            "unknown_words": self.translator.get_unknown_words(),
+            "translated_at": datetime.now().isoformat()
+        }
+    
+    def translate_and_save(self, section: str, folio_id: str, context: str = None, force: bool = False) -> Dict:
+        """Translate a folio and save results"""
+        # Get folio path
+        folio_path = self.downloader.get_folio_path(section, folio_id)
+        
+        if not folio_path or not folio_path.exists():
+            raise FileNotFoundError(f"Folio not found: {section}/f{folio_id}. Download it first.")
+        
+        print(f"\n🔤 Translating: {section}/f{folio_id}")
+        
+        # Translate with section info
+        result = self.translate_folio_file(folio_path, context, section)
+        
+        # Save translation
+        output_file = self.output_dir / f"{section}_f{folio_id}_translation.json"
+        with open(output_file, 'w') as f:
+            json.dump(result, f, indent=2)
+        
+        print(f"✓ Translation saved: {output_file}")
+        
+        # Print summary
+        stats = result["statistics"]
+        print(f"\n📊 Statistics:")
+        print(f"   • Section: {result['section']}")
+        print(f"   • Context: {result['context']}")
+        print(f"   • Total words: {stats['total']}")
+        print(f"   • Known: {stats['known']} ({stats['coverage']:.1%})")
+        print(f"   • Unknown: {stats['unknown']}")
+        print(f"   • Avg confidence: {stats['avg_confidence']:.2f}")
+        
+        if result["unknown_words"]:
+            print(f"\n❓ Unknown words ({len(result['unknown_words'])}):")
+            for word in result["unknown_words"][:10]:  # Show first 10
+                print(f"   • {word}")
+            if len(result["unknown_words"]) > 10:
+                print(f"   ... and {len(result['unknown_words']) - 10} more")
+        
+        return result
+    
+    def batch_translate(self, section: str, start: int, end: int, context: str = None, force: bool = False):
+        """Translate multiple folios"""
+        print(f"\n📚 Batch translating {section} folios {start}-{end}")
+        
+        results = []
+        for i in range(start, end + 1):
+            for side in ['r', 'v']:
+                folio_id = f"{i:03d}{side}"
+                try:
+                    result = self.translate_and_save(section, folio_id, context, force)
+                    results.append(result)
+                except FileNotFoundError as e:
+                    print(f"⚠️  Skipping {folio_id}: {e}")
+                except Exception as e:
+                    print(f"❌ Error translating {folio_id}: {e}")
+        
+        # Summary statistics
+        if results:
+            avg_coverage = sum(r["statistics"]["coverage"] for r in results) / len(results)
+            all_unknown = set()
+            for r in results:
+                all_unknown.update(r["unknown_words"])
+            
+            print(f"\n✅ Batch complete:")
+            print(f"   • Translated: {len(results)} folios")
+            print(f"   • Average coverage: {avg_coverage:.1%}")
+            print(f"   • Total unique unknown words: {len(all_unknown)}")
+        
+        return results
+    
+    def show_translation(self, section: str, folio_id: str):
+        """Display a saved translation"""
+        output_file = self.output_dir / f"{section}_f{folio_id}_translation.json"
+        
+        if not output_file.exists():
+            print(f"❌ Translation not found: {output_file}")
+            print("   Run translation first.")
+            return
+        
+        with open(output_file, 'r') as f:
+            result = json.load(f)
+        
+        print(f"\n📖 Folio: {result['folio_id']} ({result['section']})")
+        print(f"Context: {result['context']}")
+        print(f"\n🔤 Voynichese:")
+        print(f"   {result['voynich_text'][:200]}...")
+        print(f"\n🏛️  Latin:")
+        print(f"   {result['latin_text'][:200]}...")
+        
+        stats = result["statistics"]
+        print(f"\n📊 Coverage: {stats['coverage']:.1%} ({stats['known']}/{stats['total']} words)")
+
+
+def main():
+    parser = argparse.ArgumentParser(description="Translate Voynich manuscript folios")
+    parser.add_argument("--section", default="q02", help="Section code (q01, q02, etc.)")
+    parser.add_argument("--folio", help="Single folio ID (e.g., '014v')")
+    parser.add_argument("--start", type=int, help="Start folio number for batch")
+    parser.add_argument("--end", type=int, help="End folio number for batch")
+    parser.add_argument("--context", help="Translation context (herbal, astronomical, etc.)")
+    parser.add_argument("--show", help="Show existing translation for folio ID")
+    parser.add_argument("--force", action="store_true", help="Force re-translation")
+    
+    args = parser.parse_args()
+    
+    translator = FolioTranslator()
+    
+    if args.show:
+        translator.show_translation(args.section, args.show)
+    elif args.folio:
+        translator.translate_and_save(args.section, args.folio, args.context, args.force)
+    elif args.start and args.end:
+        translator.batch_translate(args.section, args.start, args.end, args.context, args.force)
+    else:
+        parser.print_help()
+
+
+if __name__ == "__main__":
+    main()
+

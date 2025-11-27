@@ -1,0 +1,1737 @@
+{
+  "folio_id": "005v",
+  "section": "Herbal A",
+  "context": "herbal",
+  "voynich_text": "k!o!cheor chor ytchey pshod chols chodaiin ytoiiin daiin k!o!cheor chor ytchey pshod chols chodaiin ytoiiin daiin k o cheor chor ytchey pshod chols chodaiin ytoiiin daiin k!o!cheor char ytchey pshod chols chodaiin ytoiiin daiin dchol sy chol otaiin dain cthor chots ychopor!dg dchol *!!!!* chol otaiin dain cthor chot* ychopor!dg dchol sh!!!y chol otaiin dain cthor chots ychopor!dm dchol sy chol otaiin dain cthor chot* ychopor dm qotcho ytor daiin daiin otchor daiir qo darchor do qotcho ytor daiin daiin otchor daiin qo* darchor dd qotcho ytor daiin daiin otchor daiin qo darchor do qotcho ytor daiin daiin otchor daiin qo darchor do qotor shees otol ykoiin shol daiin cthor okchy taiin qotor shees otol ykoiin shol daiin cthor okchy!kaiin qotor shees otof ykoiin shol daiin cthor okchy taiin qotor shees otol ykoiin shol daiin cthor okchy taiin shokeeol chor cheotol otchol daiin dal chol chotaiin shokeeol chor cheotol otchol daiin dal chol chotaiin shokeeol chor cheotol otchol daiin dal chol chotaiin shokeeol chor cheotol otchol daiin dal chol chotaiin otol chol dairodg otol chol dairodg otof chol dairodd otol chol dairodm",
+  "latin_text": "[k!o!cheor] ramus [ytchey] [pshod] [chols] praebet ad [ytoiiin] ad [k!o!cheor] ramus [ytchey] [pshod] [chols] praebet ad [ytoiiin] ad [k] [o] variat ramus [ytchey] [pshod] [chols] praebet ad [ytoiiin] ad [k!o!cheor] planta et [ytchey] [pshod] [chols] praebet ad [ytoiiin] ad caulem dat ipse caulis tangit erat ad caelum [chots] [ychopor!dg] caulem dat [*!!!!*] caulis tangit erat ad caelum [chot*] [ychopor!dg] caulem dat [sh!!!y] caulis tangit erat ad caelum [chots] [ychopor!dm] caulem dat ipse caulis tangit erat ad caelum [chot*] [ychopor] [dm] valde tangit facit [ytor] valde ad ramusculus [daiir] [qo] [darchor] [do] valde tangit facit [ytor] valde ad ramusculus ad [qo*] [darchor] [dd] valde tangit facit [ytor] valde ad ramusculus ad [qo] [darchor] [do] valde tangit facit [ytor] valde ad ramusculus ad [qo] [darchor] [do] valde ordo [shees] tangit locus [ykoiin] locus ad caelum facit tangit erat valde ordo [shees] tangit locus [ykoiin] locus ad caelum [okchy!kaiin] valde ordo [shees] [otof] [ykoiin] locus ad caelum facit tangit erat valde ordo [shees] tangit locus [ykoiin] locus ad caelum facit tangit erat [shokeeol] ramus [cheotol] tangit caulem ad dat alam caulis [chotaiin] [shokeeol] ramus [cheotol] tangit caulem ad dat alam caulis [chotaiin] [shokeeol] ramus [cheotol] tangit caulem ad dat alam caulis [chotaiin] [shokeeol] ramus [cheotol] tangit caulem ad dat alam caulis [chotaiin] tangit locus caulis [dairodg] tangit locus caulis [dairodg] [otof] caulis [dairodd] tangit locus caulis [dairodm]",
+  "english_text": "[k!o!cheor] branch [ytchey] [pshod] [chols] presents to [ytoiiin] to [k!o!cheor] branch [ytchey] [pshod] [chols] presents to [ytoiiin] to [k] [o] varies branch [ytchey] [pshod] [chols] presents to [ytoiiin] to [k!o!cheor] plant and [ytchey] [pshod] [chols] presents to [ytoiiin] to stem gives [ipse] stem touches was to [caelum] [chots] [ychopor!dg] stem gives [*!!!!*] stem touches was to [caelum] [chot*] [ychopor!dg] stem gives [sh!!!y] stem touches was to [caelum] [chots] [ychopor!dm] stem gives [ipse] stem touches was to [caelum] [chot*] [ychopor] [dm] very touches makes [ytor] very to small twig [daiir] [qo] [darchor] [do] very touches makes [ytor] very to small twig to [qo*] [darchor] [dd] very touches makes [ytor] very to small twig to [qo] [darchor] [do] very touches makes [ytor] very to small twig to [qo] [darchor] [do] very order [shees] touches place [ykoiin] place to [caelum] makes touches was very order [shees] touches place [ykoiin] place to [caelum] [okchy!kaiin] very order [shees] [otof] [ykoiin] place to [caelum] makes touches was very order [shees] touches place [ykoiin] place to [caelum] makes touches was [shokeeol] branch [cheotol] touches stem to gives wing stem [chotaiin] [shokeeol] branch [cheotol] touches stem to gives wing stem [chotaiin] [shokeeol] branch [cheotol] touches stem to gives wing stem [chotaiin] [shokeeol] branch [cheotol] touches stem to gives wing stem [chotaiin] touches place stem [dairodg] touches place stem [dairodg] [otof] stem [dairodd] touches place stem [dairodm].",
+  "word_translations": [
+    {
+      "original": "k!o!cheor",
+      "latin": "[k!o!cheor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chor",
+      "latin": "ramus",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, branch of plant"
+    },
+    {
+      "original": "ytchey",
+      "latin": "[ytchey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "pshod",
+      "latin": "[pshod]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chols",
+      "latin": "[chols]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chodaiin",
+      "latin": "praebet ad",
+      "confidence": 0.9,
+      "notes": "chod (presents) + aiin direction"
+    },
+    {
+      "original": "ytoiiin",
+      "latin": "[ytoiiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "k!o!cheor",
+      "latin": "[k!o!cheor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chor",
+      "latin": "ramus",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, branch of plant"
+    },
+    {
+      "original": "ytchey",
+      "latin": "[ytchey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "pshod",
+      "latin": "[pshod]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chols",
+      "latin": "[chols]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chodaiin",
+      "latin": "praebet ad",
+      "confidence": 0.9,
+      "notes": "chod (presents) + aiin direction"
+    },
+    {
+      "original": "ytoiiin",
+      "latin": "[ytoiiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "k",
+      "latin": "[k]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "o",
+      "latin": "[o]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheor",
+      "latin": "variat",
+      "confidence": 0.9,
+      "notes": "ch- + eor, botanical change/variation"
+    },
+    {
+      "original": "chor",
+      "latin": "ramus",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, branch of plant"
+    },
+    {
+      "original": "ytchey",
+      "latin": "[ytchey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "pshod",
+      "latin": "[pshod]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chols",
+      "latin": "[chols]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chodaiin",
+      "latin": "praebet ad",
+      "confidence": 0.9,
+      "notes": "chod (presents) + aiin direction"
+    },
+    {
+      "original": "ytoiiin",
+      "latin": "[ytoiiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "k!o!cheor",
+      "latin": "[k!o!cheor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "char",
+      "latin": "planta et",
+      "confidence": 0.9,
+      "notes": "ch- + ar, botanical and"
+    },
+    {
+      "original": "ytchey",
+      "latin": "[ytchey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "pshod",
+      "latin": "[pshod]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chols",
+      "latin": "[chols]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chodaiin",
+      "latin": "praebet ad",
+      "confidence": 0.9,
+      "notes": "chod (presents) + aiin direction"
+    },
+    {
+      "original": "ytoiiin",
+      "latin": "[ytoiiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "dchol",
+      "latin": "caulem dat",
+      "confidence": 0.9,
+      "notes": "d- + chol (stem), stem giving/producing"
+    },
+    {
+      "original": "sy",
+      "latin": "ipse",
+      "confidence": 0.9,
+      "notes": "itself"
+    },
+    {
+      "original": "chol",
+      "latin": "caulis",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, stem/stalk of plants"
+    },
+    {
+      "original": "otaiin",
+      "latin": "tangit erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: ta- prefix pattern"
+    },
+    {
+      "original": "dain",
+      "latin": "ad",
+      "confidence": 0.9,
+      "notes": "variant of daiin (to), directional"
+    },
+    {
+      "original": "cthor",
+      "latin": "caelum",
+      "confidence": 0.9,
+      "notes": "sky, heaven"
+    },
+    {
+      "original": "chots",
+      "latin": "[chots]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ychopor!dg",
+      "latin": "[ychopor!dg]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dchol",
+      "latin": "caulem dat",
+      "confidence": 0.9,
+      "notes": "d- + chol (stem), stem giving/producing"
+    },
+    {
+      "original": "*!!!!*",
+      "latin": "[*!!!!*]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chol",
+      "latin": "caulis",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, stem/stalk of plants"
+    },
+    {
+      "original": "otaiin",
+      "latin": "tangit erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: ta- prefix pattern"
+    },
+    {
+      "original": "dain",
+      "latin": "ad",
+      "confidence": 0.9,
+      "notes": "variant of daiin (to), directional"
+    },
+    {
+      "original": "cthor",
+      "latin": "caelum",
+      "confidence": 0.9,
+      "notes": "sky, heaven"
+    },
+    {
+      "original": "chot*",
+      "latin": "[chot*]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ychopor!dg",
+      "latin": "[ychopor!dg]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dchol",
+      "latin": "caulem dat",
+      "confidence": 0.9,
+      "notes": "d- + chol (stem), stem giving/producing"
+    },
+    {
+      "original": "sh!!!y",
+      "latin": "[sh!!!y]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chol",
+      "latin": "caulis",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, stem/stalk of plants"
+    },
+    {
+      "original": "otaiin",
+      "latin": "tangit erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: ta- prefix pattern"
+    },
+    {
+      "original": "dain",
+      "latin": "ad",
+      "confidence": 0.9,
+      "notes": "variant of daiin (to), directional"
+    },
+    {
+      "original": "cthor",
+      "latin": "caelum",
+      "confidence": 0.9,
+      "notes": "sky, heaven"
+    },
+    {
+      "original": "chots",
+      "latin": "[chots]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ychopor!dm",
+      "latin": "[ychopor!dm]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dchol",
+      "latin": "caulem dat",
+      "confidence": 0.9,
+      "notes": "d- + chol (stem), stem giving/producing"
+    },
+    {
+      "original": "sy",
+      "latin": "ipse",
+      "confidence": 0.9,
+      "notes": "itself"
+    },
+    {
+      "original": "chol",
+      "latin": "caulis",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, stem/stalk of plants"
+    },
+    {
+      "original": "otaiin",
+      "latin": "tangit erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: ta- prefix pattern"
+    },
+    {
+      "original": "dain",
+      "latin": "ad",
+      "confidence": 0.9,
+      "notes": "variant of daiin (to), directional"
+    },
+    {
+      "original": "cthor",
+      "latin": "caelum",
+      "confidence": 0.9,
+      "notes": "sky, heaven"
+    },
+    {
+      "original": "chot*",
+      "latin": "[chot*]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ychopor",
+      "latin": "[ychopor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dm",
+      "latin": "[dm]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qotcho",
+      "latin": "valde tangit facit",
+      "confidence": 0.81,
+      "notes": "qo-prefix:systematic word family: tc- prefix pattern"
+    },
+    {
+      "original": "ytor",
+      "latin": "[ytor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "otchor",
+      "latin": "ramusculus",
+      "confidence": 0.9,
+      "notes": "compound with chor root, plant part"
+    },
+    {
+      "original": "daiir",
+      "latin": "[daiir]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qo",
+      "latin": "[qo]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "darchor",
+      "latin": "[darchor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "do",
+      "latin": "[do]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qotcho",
+      "latin": "valde tangit facit",
+      "confidence": 0.81,
+      "notes": "qo-prefix:systematic word family: tc- prefix pattern"
+    },
+    {
+      "original": "ytor",
+      "latin": "[ytor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "otchor",
+      "latin": "ramusculus",
+      "confidence": 0.9,
+      "notes": "compound with chor root, plant part"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "qo*",
+      "latin": "[qo*]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "darchor",
+      "latin": "[darchor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dd",
+      "latin": "[dd]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qotcho",
+      "latin": "valde tangit facit",
+      "confidence": 0.81,
+      "notes": "qo-prefix:systematic word family: tc- prefix pattern"
+    },
+    {
+      "original": "ytor",
+      "latin": "[ytor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "otchor",
+      "latin": "ramusculus",
+      "confidence": 0.9,
+      "notes": "compound with chor root, plant part"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "qo",
+      "latin": "[qo]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "darchor",
+      "latin": "[darchor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "do",
+      "latin": "[do]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qotcho",
+      "latin": "valde tangit facit",
+      "confidence": 0.81,
+      "notes": "qo-prefix:systematic word family: tc- prefix pattern"
+    },
+    {
+      "original": "ytor",
+      "latin": "[ytor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "otchor",
+      "latin": "ramusculus",
+      "confidence": 0.9,
+      "notes": "compound with chor root, plant part"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "qo",
+      "latin": "[qo]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "darchor",
+      "latin": "[darchor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "do",
+      "latin": "[do]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qotor",
+      "latin": "valde ordo",
+      "confidence": 0.9,
+      "notes": "systematic word family: qo- prefix pattern"
+    },
+    {
+      "original": "shees",
+      "latin": "[shees]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otol",
+      "latin": "tangit locus",
+      "confidence": 0.9,
+      "notes": "systematic word family: to- prefix pattern"
+    },
+    {
+      "original": "ykoiin",
+      "latin": "[ykoiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shol",
+      "latin": "locus",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, place/location"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "cthor",
+      "latin": "caelum",
+      "confidence": 0.9,
+      "notes": "sky, heaven"
+    },
+    {
+      "original": "okchy",
+      "latin": "facit",
+      "confidence": 0.9,
+      "notes": "makes, does"
+    },
+    {
+      "original": "taiin",
+      "latin": "tangit erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: ta- prefix pattern"
+    },
+    {
+      "original": "qotor",
+      "latin": "valde ordo",
+      "confidence": 0.9,
+      "notes": "systematic word family: qo- prefix pattern"
+    },
+    {
+      "original": "shees",
+      "latin": "[shees]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otol",
+      "latin": "tangit locus",
+      "confidence": 0.9,
+      "notes": "systematic word family: to- prefix pattern"
+    },
+    {
+      "original": "ykoiin",
+      "latin": "[ykoiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shol",
+      "latin": "locus",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, place/location"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "cthor",
+      "latin": "caelum",
+      "confidence": 0.9,
+      "notes": "sky, heaven"
+    },
+    {
+      "original": "okchy!kaiin",
+      "latin": "[okchy!kaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qotor",
+      "latin": "valde ordo",
+      "confidence": 0.9,
+      "notes": "systematic word family: qo- prefix pattern"
+    },
+    {
+      "original": "shees",
+      "latin": "[shees]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otof",
+      "latin": "[otof]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ykoiin",
+      "latin": "[ykoiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shol",
+      "latin": "locus",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, place/location"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "cthor",
+      "latin": "caelum",
+      "confidence": 0.9,
+      "notes": "sky, heaven"
+    },
+    {
+      "original": "okchy",
+      "latin": "facit",
+      "confidence": 0.9,
+      "notes": "makes, does"
+    },
+    {
+      "original": "taiin",
+      "latin": "tangit erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: ta- prefix pattern"
+    },
+    {
+      "original": "qotor",
+      "latin": "valde ordo",
+      "confidence": 0.9,
+      "notes": "systematic word family: qo- prefix pattern"
+    },
+    {
+      "original": "shees",
+      "latin": "[shees]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otol",
+      "latin": "tangit locus",
+      "confidence": 0.9,
+      "notes": "systematic word family: to- prefix pattern"
+    },
+    {
+      "original": "ykoiin",
+      "latin": "[ykoiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shol",
+      "latin": "locus",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, place/location"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "cthor",
+      "latin": "caelum",
+      "confidence": 0.9,
+      "notes": "sky, heaven"
+    },
+    {
+      "original": "okchy",
+      "latin": "facit",
+      "confidence": 0.9,
+      "notes": "makes, does"
+    },
+    {
+      "original": "taiin",
+      "latin": "tangit erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: ta- prefix pattern"
+    },
+    {
+      "original": "shokeeol",
+      "latin": "[shokeeol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chor",
+      "latin": "ramus",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, branch of plant"
+    },
+    {
+      "original": "cheotol",
+      "latin": "[cheotol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otchol",
+      "latin": "tangit caulem",
+      "confidence": 0.9,
+      "notes": "t- + chol (stem), touching/affecting stem"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "dal",
+      "latin": "dat alam",
+      "confidence": 0.9,
+      "notes": "d- + al, giving wing/extension"
+    },
+    {
+      "original": "chol",
+      "latin": "caulis",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, stem/stalk of plants"
+    },
+    {
+      "original": "chotaiin",
+      "latin": "[chotaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shokeeol",
+      "latin": "[shokeeol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chor",
+      "latin": "ramus",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, branch of plant"
+    },
+    {
+      "original": "cheotol",
+      "latin": "[cheotol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otchol",
+      "latin": "tangit caulem",
+      "confidence": 0.9,
+      "notes": "t- + chol (stem), touching/affecting stem"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "dal",
+      "latin": "dat alam",
+      "confidence": 0.9,
+      "notes": "d- + al, giving wing/extension"
+    },
+    {
+      "original": "chol",
+      "latin": "caulis",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, stem/stalk of plants"
+    },
+    {
+      "original": "chotaiin",
+      "latin": "[chotaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shokeeol",
+      "latin": "[shokeeol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chor",
+      "latin": "ramus",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, branch of plant"
+    },
+    {
+      "original": "cheotol",
+      "latin": "[cheotol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otchol",
+      "latin": "tangit caulem",
+      "confidence": 0.9,
+      "notes": "t- + chol (stem), touching/affecting stem"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "dal",
+      "latin": "dat alam",
+      "confidence": 0.9,
+      "notes": "d- + al, giving wing/extension"
+    },
+    {
+      "original": "chol",
+      "latin": "caulis",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, stem/stalk of plants"
+    },
+    {
+      "original": "chotaiin",
+      "latin": "[chotaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shokeeol",
+      "latin": "[shokeeol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chor",
+      "latin": "ramus",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, branch of plant"
+    },
+    {
+      "original": "cheotol",
+      "latin": "[cheotol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otchol",
+      "latin": "tangit caulem",
+      "confidence": 0.9,
+      "notes": "t- + chol (stem), touching/affecting stem"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "dal",
+      "latin": "dat alam",
+      "confidence": 0.9,
+      "notes": "d- + al, giving wing/extension"
+    },
+    {
+      "original": "chol",
+      "latin": "caulis",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, stem/stalk of plants"
+    },
+    {
+      "original": "chotaiin",
+      "latin": "[chotaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otol",
+      "latin": "tangit locus",
+      "confidence": 0.9,
+      "notes": "systematic word family: to- prefix pattern"
+    },
+    {
+      "original": "chol",
+      "latin": "caulis",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, stem/stalk of plants"
+    },
+    {
+      "original": "dairodg",
+      "latin": "[dairodg]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otol",
+      "latin": "tangit locus",
+      "confidence": 0.9,
+      "notes": "systematic word family: to- prefix pattern"
+    },
+    {
+      "original": "chol",
+      "latin": "caulis",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, stem/stalk of plants"
+    },
+    {
+      "original": "dairodg",
+      "latin": "[dairodg]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otof",
+      "latin": "[otof]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chol",
+      "latin": "caulis",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, stem/stalk of plants"
+    },
+    {
+      "original": "dairodd",
+      "latin": "[dairodd]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otol",
+      "latin": "tangit locus",
+      "confidence": 0.9,
+      "notes": "systematic word family: to- prefix pattern"
+    },
+    {
+      "original": "chol",
+      "latin": "caulis",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, stem/stalk of plants"
+    },
+    {
+      "original": "dairodm",
+      "latin": "[dairodm]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    }
+  ],
+  "statistics": {
+    "total": 182,
+    "known": 106,
+    "unknown": 76,
+    "avg_confidence": 0.49912087912087916,
+    "coverage": 0.5824175824175825
+  },
+  "unknown_words": [
+    "!!!!!!!!odar",
+    "!!!!!!!!ydain",
+    "!!!!!dal",
+    "!!!!y",
+    "!!*o*",
+    "!*!tady",
+    "!*!tydy",
+    "!*aiidychtod",
+    "!*eo",
+    "!cho",
+    "!cho*!o",
+    "!dan",
+    "!okaiin",
+    "!p!y!dy",
+    "!potol",
+    "!s",
+    "*",
+    "*!!!!!oiin",
+    "*!!!!!y",
+    "*!!!!*",
+    "*!chol",
+    "**",
+    "***",
+    "***!r*s",
+    "**chol",
+    "**oin",
+    "*=",
+    "*chy",
+    "*chy,!!!tol",
+    "*doin",
+    "*k*!res",
+    "*o",
+    "*o!teody",
+    "*o,kaiin",
+    "*okaiin",
+    "*or",
+    "*p*tol",
+    "*s",
+    "*sh!y",
+    "aj",
+    "akol!shol",
+    "alshodaiinchol",
+    "am",
+    "am=",
+    "an",
+    "aor",
+    "ar*",
+    "cfham",
+    "cfhar",
+    "ch",
+    "ch!o",
+    "cha",
+    "cha!ro!d*",
+    "chadaiin",
+    "chaiin!s",
+    "chaiin*s",
+    "chaindychtod",
+    "chaj",
+    "cham",
+    "cham=",
+    "chan",
+    "chansaiin",
+    "chapchy",
+    "chck!oms!shey",
+    "chckh!ys!shey",
+    "chckhol",
+    "chckhoys",
+    "chckhoys!shey",
+    "cheaiin",
+    "chear!eeb",
+    "chear!een",
+    "cheeor",
+    "cheeykam",
+    "chekeol",
+    "cheo",
+    "cheo!kchy",
+    "cheo!pchor",
+    "cheody",
+    "cheol",
+    "cheom",
+    "cheorycholdy",
+    "cheotol",
+    "chety",
+    "chiol",
+    "chkchor",
+    "chkoy",
+    "cho!cthy",
+    "chodainchcthy",
+    "chodair",
+    "chodaly",
+    "chodar",
+    "chodo",
+    "chodyschody",
+    "choeee",
+    "choies",
+    "chokchy",
+    "chokeo",
+    "chokeody",
+    "chokeoschees",
+    "chokioschees",
+    "chokody",
+    "chokoishe",
+    "chokolshe",
+    "chol!cthom",
+    "chol!ky",
+    "cholaiin",
+    "cholo",
+    "cholols",
+    "chololy",
+    "chols",
+    "chom",
+    "chom=",
+    "chopchy",
+    "chordair",
+    "chot*",
+    "chotaiin",
+    "chotchey",
+    "choteody",
+    "choteol",
+    "chots",
+    "chpady",
+    "chr",
+    "chs",
+    "chtody",
+    "chtydaiin",
+    "chy!key",
+    "chy!tey",
+    "chyky",
+    "ck!!!!eor",
+    "ck!!!!hor",
+    "ckh!!",
+    "ckha!",
+    "ckho",
+    "ckhochy",
+    "ckhol",
+    "ckholsy",
+    "ckhor",
+    "ckhy!",
+    "ckhy*",
+    "ckhyd*",
+    "ckhyds",
+    "cph",
+    "cph!ody=",
+    "cph*daiils",
+    "cphaiin",
+    "cpham",
+    "cphealy",
+    "cphesaiin",
+    "cphoaldar",
+    "cphoda**ls",
+    "cphodaiils",
+    "cphodal!es",
+    "cphodal,es",
+    "cpholdy",
+    "cphor",
+    "cphy!dy",
+    "ct!!!!o",
+    "cth",
+    "cth!!!*",
+    "cth!ar",
+    "cth!res",
+    "cth*ar",
+    "cth*ar,daiin",
+    "cth*r",
+    "cthar,dan",
+    "cthey=",
+    "ctheychoaiin",
+    "ctho",
+    "cthodoaly",
+    "cthol!shol",
+    "ctholdar",
+    "cthols",
+    "cthom",
+    "cthory",
+    "cthorys",
+    "cthy=",
+    "cto",
+    "d!o",
+    "d*",
+    "d*eeo",
+    "d*n",
+    "d*oct!!!!*",
+    "d*r",
+    "da!cthy",
+    "dadet!!!!o",
+    "dago",
+    "daicthy",
+    "daiida",
+    "daiidy",
+    "daiiin",
+    "daiildy",
+    "daiim",
+    "daiino",
+    "daiino!ar!am",
+    "daiinsoleeg",
+    "daiinsoleem",
+    "daiinychol",
+    "daiir",
+    "daiirdl",
+    "daiirol",
+    "daimg",
+    "daimm",
+    "daindd",
+    "daindd!kol",
+    "dairodd",
+    "dairodg",
+    "dairodm",
+    "dal!schokaiin",
+    "dalor",
+    "damo",
+    "damsochey",
+    "dan",
+    "dan*",
+    "dan=",
+    "dana",
+    "danolsaiin",
+    "dao",
+    "daoet!!!!a",
+    "dar!ain",
+    "daraiin",
+    "darchor",
+    "darshol",
+    "das!ain",
+    "das,ain",
+    "dchaiin",
+    "dcheo",
+    "dd",
+    "de!*o",
+    "dkshy",
+    "dloct!!!!a",
+    "dlocta",
+    "dlssho",
+    "dm",
+    "do",
+    "do!r",
+    "dodyd",
+    "doldsdlod",
+    "dolody=",
+    "dorchorychkar",
+    "dy!*cheey",
+    "dy!tch!ay",
+    "dycphy",
+    "dydyd",
+    "e*eo",
+    "echo**",
+    "eear",
+    "eeey",
+    "een",
+    "eeor",
+    "ees",
+    "eey",
+    "ekshy",
+    "es",
+    "fchoy",
+    "fodanyksh",
+    "fodanytsh",
+    "fya!ys",
+    "g",
+    "iiin!cheom",
+    "k",
+    "k!o!cheor",
+    "k!okaiin",
+    "k**chy",
+    "ka*ch*",
+    "kadchy",
+    "kair",
+    "kaoiin",
+    "kch*",
+    "kcha",
+    "kcha!kchy",
+    "kcham",
+    "kcheol",
+    "kcheor",
+    "kcho!kchy",
+    "kchody",
+    "kchom",
+    "kchoy",
+    "kchry",
+    "kchsy",
+    "kechy",
+    "keeam",
+    "keeo",
+    "keeo!dal",
+    "keey,dal",
+    "keol",
+    "keom",
+    "key",
+    "koaiin",
+    "kochey",
+    "kod*",
+    "kodaiin",
+    "kodalchy",
+    "kodshey",
+    "koeam",
+    "kol!kecha",
+    "kol!kechy",
+    "kooiin",
+    "koraiin",
+    "kos",
+    "koshey",
+    "kotchody",
+    "koy",
+    "kshea",
+    "ksheo",
+    "kshey",
+    "kshody",
+    "kshol",
+    "kshoy",
+    "kydain",
+    "kydainy",
+    "lkody",
+    "loeees",
+    "lol",
+    "lshy",
+    "o",
+    "o!!!dsoiin",
+    "o!ai*",
+    "o!dain",
+    "o!r",
+    "o!r!y",
+    "o!r,y",
+    "oaiin",
+    "oar",
+    "ochas",
+    "ochodo",
+    "ochydcho",
+    "odaiin",
+    "odal",
+    "odan",
+    "odar",
+    "ody",
+    "ody=",
+    "ofchsy",
+    "ok",
+    "ok!chey",
+    "ok*!*",
+    "ok**or",
+    "ok,chey",
+    "oka",
+    "oka!y",
+    "oka*or",
+    "oka*os",
+    "okadaiin",
+    "okai!",
+    "okai*",
+    "okaiir",
+    "okaldolchey",
+    "okan",
+    "okary",
+    "okchey",
+    "okcho!y",
+    "okchy!kaiin",
+    "okeeor",
+    "okeody",
+    "okeol",
+    "okeom",
+    "okey",
+    "oko",
+    "oko!iiin",
+    "okodar",
+    "okoin",
+    "okol!or",
+    "okol!shol",
+    "okom",
+    "ol!cheor",
+    "ol!chey",
+    "ol!choees",
+    "ol!choies",
+    "ol!s",
+    "ol,s",
+    "olaen",
+    "olain",
+    "olchsy",
+    "oldain",
+    "oldain,d",
+    "ole!n",
+    "ololtchey",
+    "olsheey",
+    "olsy",
+    "oly",
+    "olytol",
+    "ooiin",
+    "or!ochydcho",
+    "os",
+    "os!chy",
+    "os,chy",
+    "osh",
+    "otaiiin",
+    "otairin",
+    "otan",
+    "otchalypchaiin",
+    "otcham",
+    "otchody",
+    "otchomoporar",
+    "otear",
+    "oteee*",
+    "oteeen",
+    "oteody",
+    "oteol",
+    "oteos",
+    "oteos,roloty",
+    "otoaiin",
+    "otochor",
+    "otof",
+    "otol!dam",
+    "oydar",
+    "pchaoiin",
+    "pcheol",
+    "pcheoldom",
+    "pchooiin",
+    "pchoy",
+    "potoy",
+    "pshod",
+    "pshol",
+    "pydaiin",
+    "pydeey",
+    "qacheor",
+    "qo",
+    "qo*",
+    "qocheor",
+    "qocthy",
+    "qodaiino",
+    "qodaiino!ar!am",
+    "qodair",
+    "qoeeey",
+    "qokcha",
+    "qokchor",
+    "qokeeo",
+    "qokeeo!dal",
+    "qokeom",
+    "qokey",
+    "qokody",
+    "qokoy",
+    "qokshey",
+    "qokshol",
+    "qokshy",
+    "qooko",
+    "qooko!iiin",
+    "qopchor",
+    "qopol",
+    "qosaiinchor",
+    "qoschodam",
+    "qot",
+    "qot!shey",
+    "qotaiincthey",
+    "qotaiindaiin",
+    "qotchag",
+    "qotcham",
+    "qotcheo",
+    "qotchey",
+    "qotcho",
+    "qotcho!dy",
+    "qotchoiin",
+    "qotchoiinchodain",
+    "qotchol",
+    "qoteeey",
+    "qoteeiy",
+    "qoteeol",
+    "qoteol",
+    "qoteydoiin",
+    "qotoa",
+    "qotoeey",
+    "qotoiin",
+    "qotol",
+    "qotoy",
+    "qotsho",
+    "qoty",
+    "qotychor",
+    "qotyotolom",
+    "qoy",
+    "qoykeeey",
+    "rchy",
+    "ro",
+    "ro!d",
+    "ro,d*",
+    "roloty",
+    "s!",
+    "s!!!!hy",
+    "s!aiin",
+    "sa",
+    "saiinchor",
+    "sair",
+    "sair!y",
+    "sair,y",
+    "sam",
+    "sches",
+    "schey",
+    "schodam",
+    "schokaiin",
+    "schy",
+    "sckh!y",
+    "sckhey",
+    "seees",
+    "sh!!!y",
+    "sh!odan",
+    "sh*",
+    "sh**",
+    "sh*aiin",
+    "sha",
+    "shaiidychtod!dycphy",
+    "shan",
+    "shan!!!!**saiin",
+    "shckhey",
+    "shcky",
+    "shcthaiin",
+    "she",
+    "sheam",
+    "shear",
+    "sheeor",
+    "shees",
+    "sheky",
+    "sheo",
+    "sheo!pshol",
+    "sheo,pshol",
+    "sheody",
+    "sheol",
+    "sheoldaj",
+    "sheoldam",
+    "sheyr",
+    "shkaiin",
+    "shkchor",
+    "sho!kcheor",
+    "shoaiin",
+    "shockho",
+    "shodaiin",
+    "shodain",
+    "shodainchcthy",
+    "shodary",
+    "shodasy",
+    "shokcheey",
+    "shokchy",
+    "shokeeol",
+    "shoky",
+    "sholdo*",
+    "sholdy",
+    "shom",
+    "shooy",
+    "shos",
+    "shoshy",
+    "shotshy",
+    "shoy",
+    "shtaiin",
+    "shtchy",
+    "shty",
+    "shy!tchy",
+    "shydksheey",
+    "shyshol",
+    "sochol",
+    "soeom",
+    "soiin",
+    "soloty",
+    "sols",
+    "sory",
+    "sorytoldy",
+    "sshor",
+    "syaiir",
+    "t",
+    "t!shey",
+    "taiincthey",
+    "taiindaiin",
+    "taor",
+    "tchag",
+    "tcham",
+    "tcheay",
+    "tcheey",
+    "tcheo",
+    "tcheol",
+    "tcho!dy",
+    "tchoiin",
+    "tchoiinchodain",
+    "teeey",
+    "teeiy",
+    "teeol",
+    "teody",
+    "teol",
+    "teydoiin",
+    "toa",
+    "toeey",
+    "torchy",
+    "torshy",
+    "toy",
+    "tsheoarom",
+    "tsheos",
+    "tshodeesy",
+    "tychor",
+    "tyotolom",
+    "y!kor",
+    "y,kor",
+    "ychear",
+    "ycheey",
+    "ycheor",
+    "ychopor",
+    "ychopor!dg",
+    "ychopor!dm",
+    "ychtaiin",
+    "ydar",
+    "ydar!aish!!!o",
+    "ydar!aish!!!y",
+    "ydas",
+    "ydoin",
+    "ydychaiin",
+    "yeeear",
+    "ykeam",
+    "ykeeey",
+    "ykoaiin",
+    "ykody",
+    "ykoiin",
+    "ypchol",
+    "ysheor",
+    "yshey",
+    "ytain",
+    "ytcheear",
+    "ytchey",
+    "ytchoy",
+    "ytchy",
+    "yteam",
+    "yteeaiir",
+    "yteeay",
+    "yteody",
+    "yto",
+    "ytoain",
+    "ytoiiin",
+    "ytor",
+    "ytoy",
+    "yty"
+  ],
+  "translated_at": "2025-11-27T18:07:51.515628"
+}

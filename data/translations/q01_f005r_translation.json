@@ -1,0 +1,1601 @@
+{
+  "folio_id": "005r",
+  "section": "Herbal A",
+  "context": "herbal",
+  "voynich_text": "kshody fchoy chkoy oaiin oar olsy chody dkshy dy kchody fchoy chkoy oaiin oar olsy chody dkchy dy kshody pchoy chkoy oaiin oar olsy chody dkshy dy ochey okey qokaiin sho ckhoy cthey chey oka*or otol ochey okey qokaiin sho ckhoy cthey chey oka*os otol ochey okey qokaiin sho ckhoy cthey chey ok**or otol qoaiin otan chy daiin oteeen cho cthy otchy qotcho dy qoaiin otan chy daiin oteee* cho!cthy otchy qotcho!dy qoaiin otan chy daiin oteeen cho cthy otchy qotcho!dy otain sheody chan s cheor chocthy otain cheody chan s cheor chocthy otain sheody chan s cheor chocthy tshy shody qoaiin cholols sho qotcheo daiin shodaiin teey shody qoaiin cholols sho qotcheo daiin shodaiin tshy shody qoaiin cholols sho qotcheo daiin shodaiin sho cheor chey qoeeey qoykeeey qoeor cthy shotshy dy sho cheor chey qoeeey qoykeeey qoeor cthy shotshy dy sho cheor chey qoeeey qoykeeey qoeor cthy shotshy dy qotoeey keey cheo kchy shody qotoeey keey cheo!kchy shody qotoeey keey cheo kchy shody",
+  "latin_text": "[kshody] [fchoy] [chkoy] [oaiin] [oar] [olsy] movetur [dkshy] et [kchody] [fchoy] [chkoy] [oaiin] [oar] [olsy] movetur dat herbam et [kshody] [pchoy] [chkoy] [oaiin] [oar] [olsy] movetur [dkshy] et elementum [okey] terra hic facit herba circa elementum elementum [oka*or] tangit locus elementum [okey] terra hic facit herba circa elementum elementum [oka*os] tangit locus elementum [okey] terra hic facit herba circa elementum elementum [ok**or] tangit locus valde erat [otan] in ad [oteeen] facit terra intus valde tangit facit et valde erat [otan] in ad [oteee*] [cho!cthy] intus [qotcho!dy] valde erat [otan] in ad [oteeen] facit terra intus [qotcho!dy] tangit erat [sheody] [chan] et variat in terra facit tangit erat [cheody] [chan] et variat in terra facit tangit erat [sheody] [chan] et variat in terra facit tangit parvum hic movet valde erat [cholols] hic facit [qotcheo] ad [shodaiin] tangit parvum hic movet valde erat [cholols] hic facit [qotcheo] ad [shodaiin] tangit parvum hic movet valde erat [cholols] hic facit [qotcheo] ad [shodaiin] hic facit variat elementum [qoeeey] [qoykeeey] valde ordo terra [shotshy] et hic facit variat elementum [qoeeey] [qoykeeey] valde ordo terra [shotshy] et hic facit variat elementum [qoeeey] [qoykeeey] valde ordo terra [shotshy] et [qotoeey] parvum [cheo] facit hic movet [qotoeey] parvum [cheo!kchy] hic movet [qotoeey] parvum [cheo] facit hic movet",
+  "english_text": "[kshody] [fchoy] [chkoy] [oaiin] [oar] [olsy] moves [dkshy] and [kchody] [fchoy] [chkoy] [oaiin] [oar] [olsy] moves gives herb and [kshody] [pchoy] [chkoy] [oaiin] [oar] [olsy] moves [dkshy] and element [okey] earth here makes herb [circa] element element [oka*or] touches place element [okey] earth here makes herb [circa] element element [oka*os] touches place element [okey] earth here makes herb [circa] element element [ok**or] touches place very was [otan] in to [oteeen] makes earth in very touches makes and very was [otan] in to [oteee*] [cho!cthy] in [qotcho!dy] very was [otan] in to [oteeen] makes earth in [qotcho!dy] touches was [sheody] [chan] and varies in earth makes touches was [cheody] [chan] and varies in earth makes touches was [sheody] [chan] and varies in earth makes touches small here moves very was [cholols] here makes [qotcheo] to [shodaiin] touches small here moves very was [cholols] here makes [qotcheo] to [shodaiin] touches small here moves very was [cholols] here makes [qotcheo] to [shodaiin] here makes varies element [qoeeey] [qoykeeey] very order earth [shotshy] and here makes varies element [qoeeey] [qoykeeey] very order earth [shotshy] and here makes varies element [qoeeey] [qoykeeey] very order earth [shotshy] and [qotoeey] small [cheo] makes here moves [qotoeey] small [cheo!kchy] here moves [qotoeey] small [cheo] makes here moves.",
+  "word_translations": [
+    {
+      "original": "kshody",
+      "latin": "[kshody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "fchoy",
+      "latin": "[fchoy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chkoy",
+      "latin": "[chkoy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oaiin",
+      "latin": "[oaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oar",
+      "latin": "[oar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "olsy",
+      "latin": "[olsy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chody",
+      "latin": "movetur",
+      "confidence": 0.9,
+      "notes": "ch- + ody, movement/motion"
+    },
+    {
+      "original": "dkshy",
+      "latin": "[dkshy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dy",
+      "latin": "et",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, and (connector)"
+    },
+    {
+      "original": "kchody",
+      "latin": "[kchody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "fchoy",
+      "latin": "[fchoy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chkoy",
+      "latin": "[chkoy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oaiin",
+      "latin": "[oaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oar",
+      "latin": "[oar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "olsy",
+      "latin": "[olsy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chody",
+      "latin": "movetur",
+      "confidence": 0.9,
+      "notes": "ch- + ody, movement/motion"
+    },
+    {
+      "original": "dkchy",
+      "latin": "dat herbam",
+      "confidence": 0.9,
+      "notes": "d- + kchy, giving botanical action"
+    },
+    {
+      "original": "dy",
+      "latin": "et",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, and (connector)"
+    },
+    {
+      "original": "kshody",
+      "latin": "[kshody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "pchoy",
+      "latin": "[pchoy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chkoy",
+      "latin": "[chkoy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oaiin",
+      "latin": "[oaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oar",
+      "latin": "[oar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "olsy",
+      "latin": "[olsy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chody",
+      "latin": "movetur",
+      "confidence": 0.9,
+      "notes": "ch- + ody, movement/motion"
+    },
+    {
+      "original": "dkshy",
+      "latin": "[dkshy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dy",
+      "latin": "et",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, and (connector)"
+    },
+    {
+      "original": "ochey",
+      "latin": "elementum",
+      "confidence": 0.9,
+      "notes": "ch- + ey, botanical element"
+    },
+    {
+      "original": "okey",
+      "latin": "[okey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokaiin",
+      "latin": "terra",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, near plants"
+    },
+    {
+      "original": "sho",
+      "latin": "hic facit",
+      "confidence": 0.9,
+      "notes": "sh- + o, location action"
+    },
+    {
+      "original": "ckhoy",
+      "latin": "herba",
+      "confidence": 0.9,
+      "notes": "ck- + hoy, botanical variation"
+    },
+    {
+      "original": "cthey",
+      "latin": "circa elementum",
+      "confidence": 0.9,
+      "notes": "cth- + ey, botanical element small"
+    },
+    {
+      "original": "chey",
+      "latin": "elementum",
+      "confidence": 0.9,
+      "notes": "ch- + ey, botanical element"
+    },
+    {
+      "original": "oka*or",
+      "latin": "[oka*or]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otol",
+      "latin": "tangit locus",
+      "confidence": 0.9,
+      "notes": "systematic word family: to- prefix pattern"
+    },
+    {
+      "original": "ochey",
+      "latin": "elementum",
+      "confidence": 0.9,
+      "notes": "ch- + ey, botanical element"
+    },
+    {
+      "original": "okey",
+      "latin": "[okey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokaiin",
+      "latin": "terra",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, near plants"
+    },
+    {
+      "original": "sho",
+      "latin": "hic facit",
+      "confidence": 0.9,
+      "notes": "sh- + o, location action"
+    },
+    {
+      "original": "ckhoy",
+      "latin": "herba",
+      "confidence": 0.9,
+      "notes": "ck- + hoy, botanical variation"
+    },
+    {
+      "original": "cthey",
+      "latin": "circa elementum",
+      "confidence": 0.9,
+      "notes": "cth- + ey, botanical element small"
+    },
+    {
+      "original": "chey",
+      "latin": "elementum",
+      "confidence": 0.9,
+      "notes": "ch- + ey, botanical element"
+    },
+    {
+      "original": "oka*os",
+      "latin": "[oka*os]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otol",
+      "latin": "tangit locus",
+      "confidence": 0.9,
+      "notes": "systematic word family: to- prefix pattern"
+    },
+    {
+      "original": "ochey",
+      "latin": "elementum",
+      "confidence": 0.9,
+      "notes": "ch- + ey, botanical element"
+    },
+    {
+      "original": "okey",
+      "latin": "[okey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokaiin",
+      "latin": "terra",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, near plants"
+    },
+    {
+      "original": "sho",
+      "latin": "hic facit",
+      "confidence": 0.9,
+      "notes": "sh- + o, location action"
+    },
+    {
+      "original": "ckhoy",
+      "latin": "herba",
+      "confidence": 0.9,
+      "notes": "ck- + hoy, botanical variation"
+    },
+    {
+      "original": "cthey",
+      "latin": "circa elementum",
+      "confidence": 0.9,
+      "notes": "cth- + ey, botanical element small"
+    },
+    {
+      "original": "chey",
+      "latin": "elementum",
+      "confidence": 0.9,
+      "notes": "ch- + ey, botanical element"
+    },
+    {
+      "original": "ok**or",
+      "latin": "[ok**or]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otol",
+      "latin": "tangit locus",
+      "confidence": 0.9,
+      "notes": "systematic word family: to- prefix pattern"
+    },
+    {
+      "original": "qoaiin",
+      "latin": "valde erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: qo- prefix pattern"
+    },
+    {
+      "original": "otan",
+      "latin": "[otan]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chy",
+      "latin": "in",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, in/within plant"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "oteeen",
+      "latin": "[oteeen]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cho",
+      "latin": "facit",
+      "confidence": 0.9,
+      "notes": "action marker base, making/doing"
+    },
+    {
+      "original": "cthy",
+      "latin": "terra",
+      "confidence": 0.9,
+      "notes": "earth/soil in herbal context"
+    },
+    {
+      "original": "otchy",
+      "latin": "intus",
+      "confidence": 0.9,
+      "notes": "contains chy (in) root, positional term"
+    },
+    {
+      "original": "qotcho",
+      "latin": "valde tangit facit",
+      "confidence": 0.81,
+      "notes": "qo-prefix:systematic word family: tc- prefix pattern"
+    },
+    {
+      "original": "dy",
+      "latin": "et",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, and (connector)"
+    },
+    {
+      "original": "qoaiin",
+      "latin": "valde erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: qo- prefix pattern"
+    },
+    {
+      "original": "otan",
+      "latin": "[otan]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chy",
+      "latin": "in",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, in/within plant"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "oteee*",
+      "latin": "[oteee*]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cho!cthy",
+      "latin": "[cho!cthy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otchy",
+      "latin": "intus",
+      "confidence": 0.9,
+      "notes": "contains chy (in) root, positional term"
+    },
+    {
+      "original": "qotcho!dy",
+      "latin": "[qotcho!dy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qoaiin",
+      "latin": "valde erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: qo- prefix pattern"
+    },
+    {
+      "original": "otan",
+      "latin": "[otan]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chy",
+      "latin": "in",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, in/within plant"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "oteeen",
+      "latin": "[oteeen]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cho",
+      "latin": "facit",
+      "confidence": 0.9,
+      "notes": "action marker base, making/doing"
+    },
+    {
+      "original": "cthy",
+      "latin": "terra",
+      "confidence": 0.9,
+      "notes": "earth/soil in herbal context"
+    },
+    {
+      "original": "otchy",
+      "latin": "intus",
+      "confidence": 0.9,
+      "notes": "contains chy (in) root, positional term"
+    },
+    {
+      "original": "qotcho!dy",
+      "latin": "[qotcho!dy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otain",
+      "latin": "tangit erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: ta- prefix pattern"
+    },
+    {
+      "original": "sheody",
+      "latin": "[sheody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chan",
+      "latin": "[chan]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "s",
+      "latin": "et",
+      "confidence": 0.9,
+      "notes": "short connector, possessive or plural marker"
+    },
+    {
+      "original": "cheor",
+      "latin": "variat",
+      "confidence": 0.9,
+      "notes": "ch- + eor, botanical change/variation"
+    },
+    {
+      "original": "chocthy",
+      "latin": "in terra facit",
+      "confidence": 0.9,
+      "notes": "cho + cthy (earth), earth-related action"
+    },
+    {
+      "original": "otain",
+      "latin": "tangit erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: ta- prefix pattern"
+    },
+    {
+      "original": "cheody",
+      "latin": "[cheody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chan",
+      "latin": "[chan]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "s",
+      "latin": "et",
+      "confidence": 0.9,
+      "notes": "short connector, possessive or plural marker"
+    },
+    {
+      "original": "cheor",
+      "latin": "variat",
+      "confidence": 0.9,
+      "notes": "ch- + eor, botanical change/variation"
+    },
+    {
+      "original": "chocthy",
+      "latin": "in terra facit",
+      "confidence": 0.9,
+      "notes": "cho + cthy (earth), earth-related action"
+    },
+    {
+      "original": "otain",
+      "latin": "tangit erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: ta- prefix pattern"
+    },
+    {
+      "original": "sheody",
+      "latin": "[sheody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chan",
+      "latin": "[chan]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "s",
+      "latin": "et",
+      "confidence": 0.9,
+      "notes": "short connector, possessive or plural marker"
+    },
+    {
+      "original": "cheor",
+      "latin": "variat",
+      "confidence": 0.9,
+      "notes": "ch- + eor, botanical change/variation"
+    },
+    {
+      "original": "chocthy",
+      "latin": "in terra facit",
+      "confidence": 0.9,
+      "notes": "cho + cthy (earth), earth-related action"
+    },
+    {
+      "original": "tshy",
+      "latin": "tangit parvum",
+      "confidence": 0.9,
+      "notes": "systematic word family: ts- prefix pattern"
+    },
+    {
+      "original": "shody",
+      "latin": "hic movet",
+      "confidence": 0.9,
+      "notes": "sh (here) + ody (movement), location movement, appears 18x"
+    },
+    {
+      "original": "qoaiin",
+      "latin": "valde erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: qo- prefix pattern"
+    },
+    {
+      "original": "cholols",
+      "latin": "[cholols]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sho",
+      "latin": "hic facit",
+      "confidence": 0.9,
+      "notes": "sh- + o, location action"
+    },
+    {
+      "original": "qotcheo",
+      "latin": "[qotcheo]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "shodaiin",
+      "latin": "[shodaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "teey",
+      "latin": "tangit parvum",
+      "confidence": 0.9,
+      "notes": "systematic word family: te- prefix pattern"
+    },
+    {
+      "original": "shody",
+      "latin": "hic movet",
+      "confidence": 0.9,
+      "notes": "sh (here) + ody (movement), location movement, appears 18x"
+    },
+    {
+      "original": "qoaiin",
+      "latin": "valde erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: qo- prefix pattern"
+    },
+    {
+      "original": "cholols",
+      "latin": "[cholols]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sho",
+      "latin": "hic facit",
+      "confidence": 0.9,
+      "notes": "sh- + o, location action"
+    },
+    {
+      "original": "qotcheo",
+      "latin": "[qotcheo]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "shodaiin",
+      "latin": "[shodaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "tshy",
+      "latin": "tangit parvum",
+      "confidence": 0.9,
+      "notes": "systematic word family: ts- prefix pattern"
+    },
+    {
+      "original": "shody",
+      "latin": "hic movet",
+      "confidence": 0.9,
+      "notes": "sh (here) + ody (movement), location movement, appears 18x"
+    },
+    {
+      "original": "qoaiin",
+      "latin": "valde erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: qo- prefix pattern"
+    },
+    {
+      "original": "cholols",
+      "latin": "[cholols]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sho",
+      "latin": "hic facit",
+      "confidence": 0.9,
+      "notes": "sh- + o, location action"
+    },
+    {
+      "original": "qotcheo",
+      "latin": "[qotcheo]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, directional to plant parts"
+    },
+    {
+      "original": "shodaiin",
+      "latin": "[shodaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sho",
+      "latin": "hic facit",
+      "confidence": 0.9,
+      "notes": "sh- + o, location action"
+    },
+    {
+      "original": "cheor",
+      "latin": "variat",
+      "confidence": 0.9,
+      "notes": "ch- + eor, botanical change/variation"
+    },
+    {
+      "original": "chey",
+      "latin": "elementum",
+      "confidence": 0.9,
+      "notes": "ch- + ey, botanical element"
+    },
+    {
+      "original": "qoeeey",
+      "latin": "[qoeeey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qoykeeey",
+      "latin": "[qoykeeey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qoeor",
+      "latin": "valde ordo",
+      "confidence": 0.9,
+      "notes": "systematic word family: qo- prefix pattern"
+    },
+    {
+      "original": "cthy",
+      "latin": "terra",
+      "confidence": 0.9,
+      "notes": "earth/soil in herbal context"
+    },
+    {
+      "original": "shotshy",
+      "latin": "[shotshy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dy",
+      "latin": "et",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, and (connector)"
+    },
+    {
+      "original": "sho",
+      "latin": "hic facit",
+      "confidence": 0.9,
+      "notes": "sh- + o, location action"
+    },
+    {
+      "original": "cheor",
+      "latin": "variat",
+      "confidence": 0.9,
+      "notes": "ch- + eor, botanical change/variation"
+    },
+    {
+      "original": "chey",
+      "latin": "elementum",
+      "confidence": 0.9,
+      "notes": "ch- + ey, botanical element"
+    },
+    {
+      "original": "qoeeey",
+      "latin": "[qoeeey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qoykeeey",
+      "latin": "[qoykeeey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qoeor",
+      "latin": "valde ordo",
+      "confidence": 0.9,
+      "notes": "systematic word family: qo- prefix pattern"
+    },
+    {
+      "original": "cthy",
+      "latin": "terra",
+      "confidence": 0.9,
+      "notes": "earth/soil in herbal context"
+    },
+    {
+      "original": "shotshy",
+      "latin": "[shotshy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dy",
+      "latin": "et",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, and (connector)"
+    },
+    {
+      "original": "sho",
+      "latin": "hic facit",
+      "confidence": 0.9,
+      "notes": "sh- + o, location action"
+    },
+    {
+      "original": "cheor",
+      "latin": "variat",
+      "confidence": 0.9,
+      "notes": "ch- + eor, botanical change/variation"
+    },
+    {
+      "original": "chey",
+      "latin": "elementum",
+      "confidence": 0.9,
+      "notes": "ch- + ey, botanical element"
+    },
+    {
+      "original": "qoeeey",
+      "latin": "[qoeeey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qoykeeey",
+      "latin": "[qoykeeey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qoeor",
+      "latin": "valde ordo",
+      "confidence": 0.9,
+      "notes": "systematic word family: qo- prefix pattern"
+    },
+    {
+      "original": "cthy",
+      "latin": "terra",
+      "confidence": 0.9,
+      "notes": "earth/soil in herbal context"
+    },
+    {
+      "original": "shotshy",
+      "latin": "[shotshy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dy",
+      "latin": "et",
+      "confidence": 0.8,
+      "notes": "polysemy:herbal section, and (connector)"
+    },
+    {
+      "original": "qotoeey",
+      "latin": "[qotoeey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "keey",
+      "latin": "parvum",
+      "confidence": 0.9,
+      "notes": "systematic word family: ke- prefix pattern"
+    },
+    {
+      "original": "cheo",
+      "latin": "[cheo]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "kchy",
+      "latin": "facit",
+      "confidence": 0.9,
+      "notes": "makes, does"
+    },
+    {
+      "original": "shody",
+      "latin": "hic movet",
+      "confidence": 0.9,
+      "notes": "sh (here) + ody (movement), location movement, appears 18x"
+    },
+    {
+      "original": "qotoeey",
+      "latin": "[qotoeey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "keey",
+      "latin": "parvum",
+      "confidence": 0.9,
+      "notes": "systematic word family: ke- prefix pattern"
+    },
+    {
+      "original": "cheo!kchy",
+      "latin": "[cheo!kchy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shody",
+      "latin": "hic movet",
+      "confidence": 0.9,
+      "notes": "sh (here) + ody (movement), location movement, appears 18x"
+    },
+    {
+      "original": "qotoeey",
+      "latin": "[qotoeey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "keey",
+      "latin": "parvum",
+      "confidence": 0.9,
+      "notes": "systematic word family: ke- prefix pattern"
+    },
+    {
+      "original": "cheo",
+      "latin": "[cheo]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "kchy",
+      "latin": "facit",
+      "confidence": 0.9,
+      "notes": "makes, does"
+    },
+    {
+      "original": "shody",
+      "latin": "hic movet",
+      "confidence": 0.9,
+      "notes": "sh (here) + ody (movement), location movement, appears 18x"
+    }
+  ],
+  "statistics": {
+    "total": 164,
+    "known": 99,
+    "unknown": 65,
+    "avg_confidence": 0.5311585365853658,
+    "coverage": 0.6036585365853658
+  },
+  "unknown_words": [
+    "!!!!!!!!odar",
+    "!!!!!!!!ydain",
+    "!!!!!dal",
+    "!!!!y",
+    "!!*o*",
+    "!*!tady",
+    "!*!tydy",
+    "!*aiidychtod",
+    "!*eo",
+    "!cho",
+    "!cho*!o",
+    "!dan",
+    "!okaiin",
+    "!p!y!dy",
+    "!potol",
+    "!s",
+    "*",
+    "*!!!!!oiin",
+    "*!!!!!y",
+    "*!chol",
+    "**",
+    "***",
+    "***!r*s",
+    "**chol",
+    "**oin",
+    "*=",
+    "*chy",
+    "*chy,!!!tol",
+    "*doin",
+    "*k*!res",
+    "*o",
+    "*o!teody",
+    "*o,kaiin",
+    "*okaiin",
+    "*or",
+    "*p*tol",
+    "*s",
+    "*sh!y",
+    "aj",
+    "akol!shol",
+    "alshodaiinchol",
+    "am",
+    "am=",
+    "an",
+    "aor",
+    "ar*",
+    "cfham",
+    "cfhar",
+    "ch",
+    "ch!o",
+    "cha",
+    "cha!ro!d*",
+    "chadaiin",
+    "chaiin!s",
+    "chaiin*s",
+    "chaindychtod",
+    "chaj",
+    "cham",
+    "cham=",
+    "chan",
+    "chansaiin",
+    "chapchy",
+    "chck!oms!shey",
+    "chckh!ys!shey",
+    "chckhol",
+    "chckhoys",
+    "chckhoys!shey",
+    "cheaiin",
+    "chear!eeb",
+    "chear!een",
+    "cheeor",
+    "cheeykam",
+    "chekeol",
+    "cheo",
+    "cheo!kchy",
+    "cheo!pchor",
+    "cheody",
+    "cheol",
+    "cheom",
+    "cheorycholdy",
+    "chety",
+    "chiol",
+    "chkchor",
+    "chkoy",
+    "cho!cthy",
+    "chodainchcthy",
+    "chodair",
+    "chodaly",
+    "chodar",
+    "chodo",
+    "chodyschody",
+    "choeee",
+    "choies",
+    "chokchy",
+    "chokeo",
+    "chokeody",
+    "chokeoschees",
+    "chokioschees",
+    "chokody",
+    "chokoishe",
+    "chokolshe",
+    "chol!cthom",
+    "chol!ky",
+    "cholaiin",
+    "cholo",
+    "cholols",
+    "chololy",
+    "chom",
+    "chom=",
+    "chopchy",
+    "chordair",
+    "chotchey",
+    "choteody",
+    "choteol",
+    "chpady",
+    "chr",
+    "chs",
+    "chtody",
+    "chtydaiin",
+    "chy!key",
+    "chy!tey",
+    "chyky",
+    "ck!!!!eor",
+    "ck!!!!hor",
+    "ckh!!",
+    "ckha!",
+    "ckho",
+    "ckhochy",
+    "ckhol",
+    "ckholsy",
+    "ckhor",
+    "ckhy!",
+    "ckhy*",
+    "ckhyd*",
+    "ckhyds",
+    "cph",
+    "cph!ody=",
+    "cph*daiils",
+    "cphaiin",
+    "cpham",
+    "cphealy",
+    "cphesaiin",
+    "cphoaldar",
+    "cphoda**ls",
+    "cphodaiils",
+    "cphodal!es",
+    "cphodal,es",
+    "cpholdy",
+    "cphor",
+    "cphy!dy",
+    "ct!!!!o",
+    "cth",
+    "cth!!!*",
+    "cth!ar",
+    "cth!res",
+    "cth*ar",
+    "cth*ar,daiin",
+    "cth*r",
+    "cthar,dan",
+    "cthey=",
+    "ctheychoaiin",
+    "ctho",
+    "cthodoaly",
+    "cthol!shol",
+    "ctholdar",
+    "cthols",
+    "cthom",
+    "cthory",
+    "cthorys",
+    "cthy=",
+    "cto",
+    "d!o",
+    "d*",
+    "d*eeo",
+    "d*n",
+    "d*oct!!!!*",
+    "d*r",
+    "da!cthy",
+    "dadet!!!!o",
+    "dago",
+    "daicthy",
+    "daiida",
+    "daiidy",
+    "daiiin",
+    "daiildy",
+    "daiim",
+    "daiino",
+    "daiino!ar!am",
+    "daiinsoleeg",
+    "daiinsoleem",
+    "daiinychol",
+    "daiirdl",
+    "daiirol",
+    "daimg",
+    "daimm",
+    "daindd",
+    "daindd!kol",
+    "dal!schokaiin",
+    "dalor",
+    "damo",
+    "damsochey",
+    "dan",
+    "dan*",
+    "dan=",
+    "dana",
+    "danolsaiin",
+    "dao",
+    "daoet!!!!a",
+    "dar!ain",
+    "daraiin",
+    "darshol",
+    "das!ain",
+    "das,ain",
+    "dchaiin",
+    "dcheo",
+    "de!*o",
+    "dkshy",
+    "dloct!!!!a",
+    "dlocta",
+    "dlssho",
+    "do",
+    "do!r",
+    "dodyd",
+    "doldsdlod",
+    "dolody=",
+    "dorchorychkar",
+    "dy!*cheey",
+    "dy!tch!ay",
+    "dycphy",
+    "dydyd",
+    "e*eo",
+    "echo**",
+    "eear",
+    "eeey",
+    "een",
+    "eeor",
+    "ees",
+    "eey",
+    "ekshy",
+    "es",
+    "fchoy",
+    "fodanyksh",
+    "fodanytsh",
+    "fya!ys",
+    "g",
+    "iiin!cheom",
+    "k",
+    "k!okaiin",
+    "k**chy",
+    "ka*ch*",
+    "kadchy",
+    "kair",
+    "kaoiin",
+    "kch*",
+    "kcha",
+    "kcha!kchy",
+    "kcham",
+    "kcheol",
+    "kcheor",
+    "kcho!kchy",
+    "kchody",
+    "kchom",
+    "kchoy",
+    "kchry",
+    "kchsy",
+    "kechy",
+    "keeam",
+    "keeo",
+    "keeo!dal",
+    "keey,dal",
+    "keol",
+    "keom",
+    "key",
+    "koaiin",
+    "kochey",
+    "kod*",
+    "kodaiin",
+    "kodalchy",
+    "kodshey",
+    "koeam",
+    "kol!kecha",
+    "kol!kechy",
+    "kooiin",
+    "koraiin",
+    "kos",
+    "koshey",
+    "kotchody",
+    "koy",
+    "kshea",
+    "ksheo",
+    "kshey",
+    "kshody",
+    "kshol",
+    "kshoy",
+    "kydain",
+    "kydainy",
+    "lkody",
+    "loeees",
+    "lol",
+    "lshy",
+    "o",
+    "o!!!dsoiin",
+    "o!ai*",
+    "o!dain",
+    "o!r",
+    "o!r!y",
+    "o!r,y",
+    "oaiin",
+    "oar",
+    "ochas",
+    "ochodo",
+    "ochydcho",
+    "odaiin",
+    "odal",
+    "odan",
+    "odar",
+    "ody",
+    "ody=",
+    "ofchsy",
+    "ok",
+    "ok!chey",
+    "ok*!*",
+    "ok**or",
+    "ok,chey",
+    "oka",
+    "oka!y",
+    "oka*or",
+    "oka*os",
+    "okadaiin",
+    "okai!",
+    "okai*",
+    "okaiir",
+    "okaldolchey",
+    "okan",
+    "okary",
+    "okchey",
+    "okcho!y",
+    "okeeor",
+    "okeody",
+    "okeol",
+    "okeom",
+    "okey",
+    "oko",
+    "oko!iiin",
+    "okodar",
+    "okoin",
+    "okol!or",
+    "okol!shol",
+    "okom",
+    "ol!cheor",
+    "ol!chey",
+    "ol!choees",
+    "ol!choies",
+    "ol!s",
+    "ol,s",
+    "olaen",
+    "olain",
+    "olchsy",
+    "oldain",
+    "oldain,d",
+    "ole!n",
+    "ololtchey",
+    "olsheey",
+    "olsy",
+    "oly",
+    "olytol",
+    "ooiin",
+    "or!ochydcho",
+    "os",
+    "os!chy",
+    "os,chy",
+    "osh",
+    "otaiiin",
+    "otairin",
+    "otan",
+    "otchalypchaiin",
+    "otcham",
+    "otchody",
+    "otchomoporar",
+    "otear",
+    "oteee*",
+    "oteeen",
+    "oteody",
+    "oteol",
+    "oteos",
+    "oteos,roloty",
+    "otoaiin",
+    "otochor",
+    "otol!dam",
+    "oydar",
+    "pchaoiin",
+    "pcheol",
+    "pcheoldom",
+    "pchooiin",
+    "pchoy",
+    "potoy",
+    "pshol",
+    "pydaiin",
+    "pydeey",
+    "qacheor",
+    "qo",
+    "qocheor",
+    "qocthy",
+    "qodaiino",
+    "qodaiino!ar!am",
+    "qodair",
+    "qoeeey",
+    "qokcha",
+    "qokchor",
+    "qokeeo",
+    "qokeeo!dal",
+    "qokeom",
+    "qokey",
+    "qokody",
+    "qokoy",
+    "qokshey",
+    "qokshol",
+    "qokshy",
+    "qooko",
+    "qooko!iiin",
+    "qopchor",
+    "qopol",
+    "qosaiinchor",
+    "qoschodam",
+    "qot",
+    "qot!shey",
+    "qotaiincthey",
+    "qotaiindaiin",
+    "qotchag",
+    "qotcham",
+    "qotcheo",
+    "qotchey",
+    "qotcho",
+    "qotcho!dy",
+    "qotchoiin",
+    "qotchoiinchodain",
+    "qotchol",
+    "qoteeey",
+    "qoteeiy",
+    "qoteeol",
+    "qoteol",
+    "qoteydoiin",
+    "qotoa",
+    "qotoeey",
+    "qotoiin",
+    "qotol",
+    "qotoy",
+    "qotsho",
+    "qoty",
+    "qotychor",
+    "qotyotolom",
+    "qoy",
+    "qoykeeey",
+    "rchy",
+    "ro",
+    "ro!d",
+    "ro,d*",
+    "roloty",
+    "s!",
+    "s!!!!hy",
+    "s!aiin",
+    "sa",
+    "saiinchor",
+    "sair",
+    "sair!y",
+    "sair,y",
+    "sam",
+    "sches",
+    "schey",
+    "schodam",
+    "schokaiin",
+    "schy",
+    "sckh!y",
+    "sckhey",
+    "seees",
+    "sh!odan",
+    "sh*",
+    "sh**",
+    "sh*aiin",
+    "sha",
+    "shaiidychtod!dycphy",
+    "shan",
+    "shan!!!!**saiin",
+    "shckhey",
+    "shcky",
+    "shcthaiin",
+    "she",
+    "sheam",
+    "shear",
+    "sheeor",
+    "sheky",
+    "sheo",
+    "sheo!pshol",
+    "sheo,pshol",
+    "sheody",
+    "sheol",
+    "sheoldaj",
+    "sheoldam",
+    "sheyr",
+    "shkaiin",
+    "shkchor",
+    "sho!kcheor",
+    "shoaiin",
+    "shockho",
+    "shodaiin",
+    "shodain",
+    "shodainchcthy",
+    "shodary",
+    "shodasy",
+    "shokcheey",
+    "shokchy",
+    "shoky",
+    "sholdo*",
+    "sholdy",
+    "shom",
+    "shooy",
+    "shos",
+    "shoshy",
+    "shotshy",
+    "shoy",
+    "shtaiin",
+    "shtchy",
+    "shty",
+    "shy!tchy",
+    "shydksheey",
+    "shyshol",
+    "sochol",
+    "soeom",
+    "soiin",
+    "soloty",
+    "sols",
+    "sory",
+    "sorytoldy",
+    "sshor",
+    "syaiir",
+    "t",
+    "t!shey",
+    "taiincthey",
+    "taiindaiin",
+    "taor",
+    "tchag",
+    "tcham",
+    "tcheay",
+    "tcheey",
+    "tcheo",
+    "tcheol",
+    "tcho!dy",
+    "tchoiin",
+    "tchoiinchodain",
+    "teeey",
+    "teeiy",
+    "teeol",
+    "teody",
+    "teol",
+    "teydoiin",
+    "toa",
+    "toeey",
+    "torchy",
+    "torshy",
+    "toy",
+    "tsheoarom",
+    "tsheos",
+    "tshodeesy",
+    "tychor",
+    "tyotolom",
+    "y!kor",
+    "y,kor",
+    "ychear",
+    "ycheey",
+    "ycheor",
+    "ychtaiin",
+    "ydar",
+    "ydar!aish!!!o",
+    "ydar!aish!!!y",
+    "ydas",
+    "ydoin",
+    "ydychaiin",
+    "yeeear",
+    "ykeam",
+    "ykeeey",
+    "ykoaiin",
+    "ykody",
+    "ypchol",
+    "ysheor",
+    "yshey",
+    "ytain",
+    "ytcheear",
+    "ytchoy",
+    "ytchy",
+    "yteam",
+    "yteeaiir",
+    "yteeay",
+    "yteody",
+    "yto",
+    "ytoain",
+    "ytoy",
+    "yty"
+  ],
+  "translated_at": "2025-11-27T18:07:51.512309"
+}

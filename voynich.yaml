@@ -1,32 +1,22 @@
 voynich_decipherment_rules:
   rules:
-    - All words must be transcribed using the defined glyph set.
-    - Spaces between words are preserved as in the original manuscript.
-    - >-
-      Glyphs are case-insensitive but should be recorded as lowercase for
-      consistency.
-    - Unknown or ambiguous glyphs are marked with a '?' symbol.
-    - >-
-      Repeated glyphs in a word (e.g., 'aa') are allowed and should not be
-      simplified.
-    - >-
-      Syntax follows Subject-Verb-Object (SVO) order by default, adjusted for
-      natural Latin flow.
-    - >-
-      Repeated words (e.g., 'qokedy qokedy') translate to 'valde' (very) plus
-      the base verb for emphasis.
-    - >-
-      Prepositions like 'in' indicate containment or location, 'ad' indicates
-      direction or destination, chosen by visual or logical fit.
-    - >-
-      Null glyph 'o' is stripped in prefixes (e.g., 'qokedy' becomes 'kedy'), or
-      translates to '!' standalone.
-    - >-
-      Abbreviations expand contextually (e.g., 'aiin' to 'erat', 'ar' to 'et'),
-      mimicking medieval shorthand.
-    - >-
-      Polysemy shifts meaning by section (e.g., 'qokedy' as 'crescit' in herbal,
-      'lucet' in astronomical), with base meaning as fallback.
+  - All words must be transcribed using the defined glyph set.
+  - Spaces between words are preserved as in the original manuscript.
+  - Glyphs are case-insensitive but should be recorded as lowercase for consistency.
+  - Unknown or ambiguous glyphs are marked with a '?' symbol.
+  - Repeated glyphs in a word (e.g., 'aa') are allowed and should not be simplified.
+  - Syntax follows Subject-Verb-Object (SVO) order by default, adjusted for natural
+    Latin flow.
+  - Repeated words (e.g., 'qokedy qokedy') translate to 'valde' (very) plus the base
+    verb for emphasis.
+  - Prepositions like 'in' indicate containment or location, 'ad' indicates direction
+    or destination, chosen by visual or logical fit.
+  - Null glyph 'o' is stripped in prefixes (e.g., 'qokedy' becomes 'kedy'), or translates
+    to '!' standalone.
+  - Abbreviations expand contextually (e.g., 'aiin' to 'erat', 'ar' to 'et'), mimicking
+    medieval shorthand.
+  - Polysemy shifts meaning by section (e.g., 'qokedy' as 'crescit' in herbal, 'lucet'
+    in astronomical), with base meaning as fallback.
   glyph_mapping:
     f: /f/
     p: /p/
@@ -34,14 +24,14 @@ voynich_decipherment_rules:
     ch: /k/
     o: /o/ or null
     l: /l/
-    'y': /j/
+    y: /j/
     k: /k/
     t: /t/
     e: /e/
     d: /d/
     q: /kw/
     ai: /ai/
-    'n': /n/
+    n: /n/
     s: /s/
     sh: /ʃ/ or /a/
     g: /g/
@@ -60,1035 +50,2368 @@ voynich_decipherment_rules:
     qokar: /kwokar/
     pchor: /pkor/
   vocab:
-    - word: daiin
-      description: 'high frequency, fits preposition; direction'
-      latin: ad
-    - word: ar
-      description: 'frequent, suits conjunction; links nouns'
-      latin: et
-    - word: chedy
-      description: 'frequent, fits preposition; containment'
-      latin: in
-    - word: ot
-      description: 'short, frequent, suits preposition; source'
-      latin: ex
-    - word: qo-
-      description: 'prefix on verbs, indicates intensity'
-      latin: valde
-    - word: shy
-      description: 'frequent, fits determiner; location'
-      latin: hic
-    - word: fachys
-      description: near leaves
-      latin: folium
-    - word: ataiin
-      description: near roots
-      latin: radix
-    - word: pchedy
-      description: near plants
-      latin: planta
-    - word: fchor
-      description: near buds
-      latin: fructus
-    - word: qokedy
-      description: herbal growth
-      latin: crescit
-    - word: okedy
-      description: 'action, broad use for extends'
-      latin: extendit
-    - word: qokaiin
-      description: near plants
-      latin: terra
-    - word: ykal
-      description: tall plants
-      latin: altum
-    - word: pchol
-      description: stems
-      latin: caulis
-    - word: fchey
-      description: petals
-      latin: petala
-    - word: pchal
-      description: woody stems
-      latin: lignum
-    - word: pchdy
-      description: thorns
-      latin: spina
-    - word: qotai
-      description: growth
-      latin: nascitur
-    - word: ychor
-      description: dry leaves
-      latin: siccat
-    - word: pcheor
-      description: general plant
-      latin: herba
-    - word: fchai
-      description: flowers
-      latin: flos
-    - word: fchorai
-      description: seeds
-      latin: semen
-    - word: qokeor
-      description: sprouting
-      latin: germinat
-    - word: qokain
-      description: near stars
-      latin: stella
-    - word: cthar
-      description: near stars
-      latin: caelum
-    - word: shedy
-      description: star motion
-      latin: movet
-    - word: qoke
-      description: rising stars
-      latin: ascendit
-    - word: qokeedy
-      description: duration
-      latin: longum
-    - word: qokar
-      description: planets
-      latin: planeta
-    - word: okar
-      description: orbital paths
-      latin: orbis
-    - word: ckhai
-      description: shadows
-      latin: umbra
-    - word: otaiin
-      description: star paths
-      latin: cursus
-    - word: sheke
-      description: falling stars
-      latin: descendit
-    - word: qokai
-      description: light
-      latin: lux
-    - word: qokaindy
-      description: sun
-      latin: sol
-    - word: qokairy
-      description: moon
-      latin: luna
-    - word: cphy
-      description: pools
-      latin: piscina
-    - word: pchey
-      description: veins
-      latin: vena
-    - word: cphai
-      description: bone
-      latin: os
-    - word: shai
-      description: fluid
-      latin: humor
-    - word: qokchey
-      description: cleansing
-      latin: purgat
-    - word: qotal
-      description: pooling
-      latin: stagnat
-    - word: pcheor
-      description: blood
-      latin: sanguis
-    - word: pchol
-      description: body
-      latin: corpus
-    - word: qokaidy
-      description: river
-      latin: fluvius
-    - word: cphol
-      description: jars
-      latin: vas
-    - word: okaiin
-      description: placing
-      latin: ponit
-    - word: qokor
-      description: dividing
-      latin: dividit
-    - word: gaiin
-      description: healing
-      latin: gratia
-    - word: qomedy
-      description: method
-      latin: modus
-    - word: pchor
-      description: resin
-      latin: resina
-    - word: fai
-      description: salt
-      latin: sal
-    - word: gchedy
-      description: tincture
-      latin: tinctura
-    - word: qodai
-      description: ether
-      latin: aether
-    - word: ckhaiin
-      description: heating
-      latin: calefacit
-    - word: fchody
-      description: powder
-      latin: pulvis
-    - word: pchai
-      description: oil
-      latin: oleum
-    - word: qokairy
-      description: juice
-      latin: sucus
-    - word: cthai
-      description: axes
-      latin: axis
-    - word: qotaiin
-      description: tilting
-      latin: inclinatur
-    - word: otai
-      description: before or path
-      latin: ante
-    - word: qotal
-      description: after
-      latin: post
-    - word: chtai
-      description: around
-      latin: circa
-    - word: qosai
-      description: against
-      latin: contra
-    - word: saiin
-      description: without
-      latin: sine
-    - word: okeedy
-      description: while
-      latin: dum
-    - word: qodar
-      description: for
-      latin: nam
-    - word: shaiin
-      description: therefore
-      latin: ergo
-    - word: qokeey
-      description: again
-      latin: iterum
-    - word: shor
-      description: often
-      latin: saepe
-    - word: ykai
-      description: rarely
-      latin: raro
-    - word: qos
-      description: certain
-      latin: quidam
-    - word: chai
-      description: other
-      latin: alius
-    - word: sy
-      description: itself
-      latin: ipse
-    - word: qod
-      description: which
-      latin: qui
-    - word: shai
-      description: where
-      latin: ubi
-    - word: okeey
-      description: when
-      latin: quando
-    - word: qomedy
-      description: how
-      latin: quomodo
-    - word: qodai
-      description: why
-      latin: cur
-    - word: okai
-      description: one
-      latin: unus
-    - word: chtai
-      description: two
-      latin: duo
-    - word: qotai
-      description: three
-      latin: tres
-    - word: qokor
-      description: four
-      latin: quattuor
-    - word: qokedy
-      description: five
-      latin: quinque
-    - word: shor
-      description: six
-      latin: sex
-    - word: chts
-      description: seven
-      latin: septem
-    - word: shsai
-      description: eight
-      latin: octo
-    - word: cphs
-      description: nine
-      latin: novem
-    - word: qokaidy
-      description: ten
-      latin: decem
-    - word: chor
-      description: 'hot, frequent adjective'
-      latin: calidum
-    - word: ckhai
-      description: 'cold, water context'
-      latin: frigidum
-    - word: shaiin
-      description: 'wet, water context'
-      latin: humidum
-    - word: ychor
-      description: 'dry, plant context'
-      latin: siccum
-    - word: pchal
-      description: 'hard, plant context'
-      latin: durum
-    - word: shai
-      description: 'soft, water context'
-      latin: molle
-    - word: fchai
-      description: 'light (weight), plant context'
-      latin: leve
-    - word: pchor
-      description: 'heavy, resin context'
-      latin: grave
-    - word: qokedy
-      description: 'great, large context'
-      latin: magnus
-    - word: fchey
-      description: 'small, petal context'
-      latin: parvus
-    - word: ykal
-      description: 'high, plant height'
-      latin: altus
-    - word: qotai
-      description: 'deep, water context'
-      latin: profundus
-    - word: okedy
-      description: 'wide, broad use'
-      latin: latum
-    - word: shedy
-      description: 'narrow, tube context'
-      latin: angustum
-    - word: qoke
-      description: 'straight, star motion'
-      latin: rectum
-    - word: qokor
-      description: 'curved, orbital paths'
-      latin: curvum
-    - word: qokar
-      description: 'comes, broad use'
-      latin: venit
-    - word: shey
-      description: 'goes out, water context'
-      latin: exit
-    - word: sheke
-      description: 'falls, star motion'
-      latin: cadit
-    - word: kedy
-      description: 'makes, base for qo- verbs'
-      latin: facit
-    - word: qoke
-      description: 'holds, cosmological context'
-      latin: tenet
-    - word: qokchey
-      description: 'changes, pharma context'
-      latin: mutat
-    - word: qokor
-      description: 'joins, cosmological context'
-      latin: iungit
-    - word: shaiin
-      description: 'looks, star context'
-      latin: spectat
-    - word: qotal
-      description: 'feels, water context'
-      latin: sentit
-    - word: qodaiin
-      description: 'knows, broad use'
-      latin: cognoscit
-    - word: otaiin
-      description: 'intends, recipe context'
-      latin: intendit
-    - word: qok
-      description: 'can, action context'
-      latin: potest
-    - word: qod
-      description: 'must, instruction context'
-      latin: debet
-    - word: otaiin
-      description: 'wants, recipe context'
-      latin: vult
-    - word: qokeedy
-      description: 'becomes, broad use'
-      latin: fit
-    - word: qokar
-      description: 'remains, cosmological context'
-      latin: manet
-    - word: aiin
-      description: 'is, short form'
-      latin: est
-    - word: aiin
-      description: 'was, context-driven'
-      latin: erat
-    - word: saiin
-      description: 'are, plural form'
-      latin: sunt
-    - word: shai
-      description: 'was, variant form'
-      latin: fuit
-    - word: qoke
-      description: 'has, vessel context'
-      latin: habet
-    - word: qodai
-      description: 'gives, recipe context'
-      latin: dat
-    - word: qokor
-      description: 'takes, recipe context'
-      latin: accipit
-    - word: shaiin
-      description: 'sees, star context'
-      latin: videt
-    - word: qotal
-      description: 'hears, water context'
-      latin: audit
-    - word: qokchey
-      description: 'touches, pharma context'
-      latin: tangit
-    - word: qokedy
-      description: 'smells, powder context'
-      latin: olet
-    - word: qokar
-      description: 'tastes, juice context'
-      latin: gustat
-    - word: qodaiin
-      description: 'knows, alternate meaning'
-      latin: scit
-    - word: qoke
-      description: 'says, cosmological context'
-      latin: dicit
-    - word: qokedy
-      description: 'writes, vessel context'
-      latin: scribit
-    - word: shaiin
-      description: 'reads, star context'
-      latin: legit
-    - word: qotal
-      description: 'seeks, recipe context'
-      latin: quaerit
-    - word: qokor
-      description: 'finds, recipe context'
-      latin: invenit
-    - word: shedy
-      description: 'loses, tube context'
-      latin: perdit
-    - word: qoke
-      description: 'loves, cosmological context'
-      latin: amat
-    - word: qokedy
-      description: 'hates, powder context'
-      latin: odit
-    - word: shai
-      description: 'fears, water context'
-      latin: timet
-    - word: qotal
-      description: 'hopes, recipe context'
-      latin: sperat
-    - word: qodaiin
-      description: 'believes, broad use'
-      latin: credit
-    - word: qoke
-      description: 'prays, cosmological context'
-      latin: orat
-    - word: qokedy
-      description: 'works, vessel context'
-      latin: laborat
-    - word: qokar
-      description: 'rests, cosmological context'
-      latin: quiescit
-    - word: shedy
-      description: 'runs, tube context'
-      latin: currit
-    - word: qokedy
-      description: 'leaps, river context'
-      latin: saltat
-    - word: qokar
-      description: 'swims, blood context'
-      latin: natat
-    - word: qoke
-      description: 'flies, star context'
-      latin: volat
-    - word: qotal
-      description: 'walks, body context'
-      latin: ambulat
-    - word: qodai
-      description: 'sits, cosmological context'
-      latin: sedet
-    - word: qotai
-      description: 'stands, broad use'
-      latin: stat
-    - word: shedy
-      description: 'lies, tube context'
-      latin: iacet
-    - word: qokedy
-      description: 'sleeps, river context'
-      latin: dormit
-    - word: qoke
-      description: 'watches, star context'
-      latin: vigilat
-    - word: qokar
-      description: 'eats, juice context'
-      latin: comedit
-    - word: qotal
-      description: 'drinks, water context'
-      latin: bibit
-    - word: qokedy
-      description: 'grows, plant context'
-      latin: crescit
-    - word: shedy
-      description: 'dies, dry leaf context'
-      latin: moritur
-    - word: qoke
-      description: 'lives, growth context'
-      latin: vivit
-    - word: qotai
-      description: 'is born, growth context'
-      latin: nascitur
-    - word: qokedy
-      description: 'begins, water context'
-      latin: incipit
-    - word: qokar
-      description: 'ends, cosmological context'
-      latin: finit
-    - word: qokeedy
-      description: 'lasts, duration context'
-      latin: durat
-    - word: qokchey
-      description: 'changes, pharma context'
-      latin: mutat
-    - word: qokedy
-      description: 'increases, plant context'
-      latin: auget
-    - word: shedy
-      description: 'decreases, tube context'
-      latin: minuit
-    - word: qoke
-      description: 'raises, star context'
-      latin: tollit
-    - word: qokar
-      description: 'lowers, recipe context'
-      latin: deponit
-    - word: qokedy
-      description: 'opens, water context'
-      latin: aperit
-    - word: qotal
-      description: 'closes, cosmological context'
-      latin: claudit
-    - word: qoke
-      description: 'covers, vessel context'
-      latin: tegit
-    - word: qokedy
-      description: 'reveals, star context'
-      latin: revelat
-    - word: qokar
-      description: 'hides, powder context'
-      latin: celat
-    - word: qotal
-      description: 'protects, cosmological context'
-      latin: protegit
-    - word: shedy
-      description: 'destroys, tube context'
-      latin: destruit
-    - word: qokedy
-      description: 'builds, vessel context'
-      latin: construit
-    - word: qokor
-      description: 'divides, recipe context'
-      latin: dividit
-    - word: qoke
-      description: 'unites, cosmological context'
-      latin: unit
-    - word: qotal
-      description: 'separates, water context'
-      latin: separat
-    - word: qokedy
-      description: 'mixes, jar context'
-      latin: miscet
-    - word: qokchey
-      description: 'cleans, water context'
-      latin: purgat
-    - word: qodai
-      description: 'heals, recipe context'
-      latin: sanat
-    - word: shedy
-      description: 'harms, tube context'
-      latin: laedit
-    - word: qoke
-      description: 'preserves, vessel context'
-      latin: servat
-    - word: qokedy
-      description: 'corrupts, powder context'
-      latin: corrumpit
-    - word: qokar
-      description: 'removes, recipe context'
-      latin: aufert
-    - word: qotal
-      description: 'adds, jar context'
-      latin: addit
-    - word: qoke
-      description: 'retains, vessel context'
-      latin: retinet
-    - word: qokedy
-      description: 'frees, water context'
-      latin: liberat
-    - word: qokar
-      description: 'captures, tube context'
-      latin: captat
-    - word: qotal
-      description: 'ties, vessel context'
-      latin: ligat
-    - word: qoke
-      description: 'unties, water context'
-      latin: solvit
-    - word: qokedy
-      description: 'opens, water context'
-      latin: aperit
-    - word: qokar
-      description: 'closes, cosmological context'
-      latin: claudit
-    - word: qotal
-      description: 'encloses, vessel context'
-      latin: includit
-    - word: shedy
-      description: 'excludes, tube context'
-      latin: excludit
-    - word: qoke
-      description: 'contains, vessel context'
-      latin: continet
-    - word: qokedy
-      description: 'emits, star context'
-      latin: emittit
-    - word: qokar
-      description: 'receives, water context'
-      latin: recipit
-    - word: qotal
-      description: 'holds back, cosmological context'
-      latin: retinet
-    - word: shedy
-      description: 'expels, tube context'
-      latin: expellit
-    - word: qokedy
-      description: 'attracts, river context'
-      latin: attrahit
-    - word: qokar
-      description: 'repels, star context'
-      latin: repellit
-    - word: qokedy
-      description: 'mixes, jar context'
-      latin: miscet
-    - word: qotal
-      description: 'separates, water context'
-      latin: separat
-    - word: qoke
-      description: 'gathers, vessel context'
-      latin: colligit
-    - word: shedy
-      description: 'scatters, river context'
-      latin: dispergit
-    - word: qokedy
-      description: 'arranges, cosmological context'
-      latin: ordinat
-    - word: qokar
-      description: 'confounds, powder context'
-      latin: confundit
-    - word: qokchey
-      description: 'cleans, water context'
-      latin: purgat
-    - word: shedy
-      description: 'pollutes, tube context'
-      latin: inquinat
-    - word: qoke
-      description: 'clarifies, star context'
-      latin: clarificat
-    - word: qokedy
-      description: 'obscures, star context'
-      latin: obscurat
-    - word: qokar
-      description: 'illuminates, star context'
-      latin: illuminat
-    - word: qotal
-      description: 'warms, recipe context'
-      latin: tepefacit
-    - word: shedy
-      description: 'freezes, water context'
-      latin: gelat
-    - word: qokedy
-      description: 'boils, powder context'
-      latin: fervet
-    - word: qoke
-      description: 'cooks, vessel context'
-      latin: coquit
-    - word: qokar
-      description: 'roasts, juice context'
-      latin: assat
-    - word: qotal
-      description: 'fries, recipe context'
-      latin: frigit
-    - word: qokedy
-      description: 'distills, ether context'
-      latin: destillat
-    - word: qoke
-      description: 'filters, vessel context'
-      latin: filtrat
-    - word: qokar
-      description: 'purifies, recipe context'
-      latin: purificat
-    - word: qotal
-      description: 'solidifies, vessel context'
-      latin: solidificat
-    - word: qokedy
-      description: 'liquefies, powder context'
-      latin: liquefacit
-    - word: qoke
-      description: 'evaporates, ether context'
-      latin: evaporat
-    - word: qokar
-      description: 'condenses, water context'
-      latin: condensat
-    - word: qotal
-      description: 'dissolves, recipe context'
-      latin: dissolvit
-    - word: qoke
-      description: 'coagulates, vessel context'
-      latin: coagulat
-    - word: qokedy
-      description: 'is separated, water context'
-      latin: separatur
-    - word: qokar
-      description: 'is mixed, jar context'
-      latin: miscetur
-    - word: qotal
-      description: 'is purified, recipe context'
-      latin: purificatur
-    - word: qoke
-      description: 'is solidified, vessel context'
-      latin: solidatur
-    - word: qokedy
-      description: 'is liquefied, powder context'
-      latin: liquefit
-    - word: qokar
-      description: 'is evaporated, ether context'
-      latin: evaporatur
-    - word: qotal
-      description: 'is condensed, water context'
-      latin: condensatur
-    - word: qoke
-      description: 'is coagulated, vessel context'
-      latin: coagulatur
-    - word: qokedy
-      description: 'is dissolved, recipe context'
-      latin: dissolvitur
-    - word: shedy
-      description: 'is burned, powder context'
-      latin: comburitur
-    - word: qoke
-      description: 'is ignited, recipe context'
-      latin: accenditur
-    - word: qokedy
-      description: 'is extinguished, water context'
-      latin: extinguitur
-    - word: qokedy
-      description: 'shines, star context'
-      latin: lucet
-    - word: qoke
-      description: 'gleams, star context'
-      latin: splendet
-    - word: shedy
-      description: 'is darkened, star context'
-      latin: obscuratur
-    - word: qokar
-      description: 'is illuminated, star context'
-      latin: illuminatur
-    - word: qotal
-      description: 'is heated, recipe context'
-      latin: calentur
-    - word: shedy
-      description: 'is cooled, water context'
-      latin: refrigeratur
-    - word: qokedy
-      description: 'is wetted, water context'
-      latin: humectatur
-    - word: ychor
-      description: 'is dried, plant context'
-      latin: siccatur
-    - word: qoke
-      description: 'is solidified, vessel context'
-      latin: solidatur
-    - word: qokedy
-      description: 'is melted, powder context'
-      latin: liquefactum
-    - word: qokar
-      description: 'is vaporized, ether context'
-      latin: vaporatur
-    - word: qotal
-      description: 'is condensed, water context'
-      latin: condensatur
-    - word: qoke
-      description: 'is coagulated, vessel context'
-      latin: coagulatur
-    - word: qokedy
-      description: 'is dissolved, recipe context'
-      latin: dissolvitur
-    - word: qotai
-      description: 'is born, growth context'
-      latin: nascitur
-    - word: qokedy
-      description: 'grows, plant context'
-      latin: crescit
-    - word: shedy
-      description: 'dies, dry leaf context'
-      latin: moritur
-    - word: qoke
-      description: 'lives, growth context'
-      latin: vivit
-    - word: qokedy
-      description: 'begins, water context'
-      latin: incipit
-    - word: qokar
-      description: 'ends, cosmological context'
-      latin: finit
-    - word: qokeedy
-      description: 'lasts, duration context'
-      latin: durat
-    - word: qokchey
-      description: 'changes, pharma context'
-      latin: mutat
-    - word: qokedy
-      description: 'increases, plant context'
-      latin: auget
-    - word: shedy
-      description: 'decreases, tube context'
-      latin: minuit
-    - word: qoke
-      description: 'raises, star context'
-      latin: tollit
-    - word: qokar
-      description: 'lowers, recipe context'
-      latin: deponit
-    - word: qokedy
-      description: 'opens, water context'
-      latin: aperit
-    - word: qotal
-      description: 'closes, cosmological context'
-      latin: claudit
-    - word: qoke
-      description: 'covers, vessel context'
-      latin: tegit
-    - word: qokedy
-      description: 'reveals, star context'
-      latin: revelat
-    - word: qokar
-      description: 'hides, powder context'
-      latin: celat
-    - word: qotal
-      description: 'protects, cosmological context'
-      latin: protegit
-    - word: shedy
-      description: 'destroys, tube context'
-      latin: destruit
-    - word: qokedy
-      description: 'builds, vessel context'
-      latin: construit
-    - word: qokor
-      description: 'divides, recipe context'
-      latin: dividit
-    - word: qoke
-      description: 'unites, cosmological context'
-      latin: unit
-    - word: qotal
-      description: 'separates, water context'
-      latin: separat
-    - word: qokedy
-      description: 'mixes, jar context'
-      latin: miscet
-    - word: qokchey
-      description: 'cleans, water context'
-      latin: purgat
-    - word: qodai
-      description: 'heals, recipe context'
-      latin: sanat
-    - word: shedy
-      description: 'harms, tube context'
-      latin: laedit
-    - word: qoke
-      description: 'preserves, vessel context'
-      latin: servat
-    - word: qokedy
-      description: 'corrupts, powder context'
-      latin: corrumpit
-    - word: qokar
-      description: 'removes, recipe context'
-      latin: aufert
-    - word: qotal
-      description: 'adds, jar context'
-      latin: addit
+  - word: aiin
+    description: is, short form
+    latin: est
+  - word: ain
+    description: suffix marker for state/being/past
+    latin: erat
+  - word: al
+    description: wing/extension suffix
+    latin: ala
+  - word: ar
+    description: frequent, suits conjunction; links nouns
+    latin: et
+  - word: ataiin
+    description: near roots
+    latin: radix
+  - word: chai
+    description: other
+    latin: alius
+  - word: chal
+    description: ch- + al, botanical wing/extension
+    latin: folii ala
+  - word: char
+    description: ch- + ar, botanical and
+    latin: planta et
+  - word: chckhy
+    description: ch- + ckhy compound, checking/examining
+    latin: inspicit
+  - word: chcthy
+    description: ch- + cthy (earth), checking/examining earth
+    latin: terram inspicit
+  - word: chedy
+    description: frequent, fits preposition; containment
+    latin: in
+  - word: cheod
+    description: ch- + eod, botanical element variation
+    latin: pars variat
+  - word: cheor
+    description: ch- + eor, botanical change/variation
+    latin: variat
+  - word: chey
+    description: ch- + ey, botanical element
+    latin: elementum
+  - word: chky
+    description: tall, high
+    latin: altum
+  - word: cho
+    description: action marker base, making/doing
+    latin: facit
+  - word: chocthy
+    description: cho + cthy (earth), earth-related action
+    latin: in terra facit
+  - word: chod
+    description: ch- + od, giving/presenting
+    latin: praebet
+  - word: chodaiin
+    description: chod (presents) + aiin direction
+    latin: praebet ad
+  - word: chody
+    description: ch- + ody, movement/motion
+    latin: movetur
+  - word: chok
+    description: ch- + ok, size/magnitude
+    latin: magnitudo
+  - word: choky
+    description: large, great
+    latin: magnus
+  - word: chol
+    description: ch- + ol, botanical location
+    latin: pars
+  - word: choor
+    description: ch- + oor, arrangement/order
+    latin: ordo
+  - word: chopol
+    description: ch- + o + pol, pole/support structure
+    latin: stipes
+  - word: chor
+    description: root word appearing in many compounds, botanical context
+    latin: ramus
+  - word: choty
+    description: small
+    latin: parvus
+  - word: chtai
+    description: around
+    latin: circa
+  - word: chts
+    description: seven
+    latin: septem
+  - word: chy
+    description: ch- + y, botanical direction
+    latin: ad plantam
+  - word: ckhai
+    description: shadows
+    latin: umbra
+  - word: ckhaiin
+    description: heating
+    latin: calefacit
+  - word: cphai
+    description: bone
+    latin: os
+  - word: cphol
+    description: jars
+    latin: vas
+  - word: cphs
+    description: nine
+    latin: novem
+  - word: cphy
+    description: pools
+    latin: piscina
+  - word: cthai
+    description: axes
+    latin: axis
+  - word: cthar
+    description: near stars
+    latin: caelum
+  - word: cthol
+    description: ct- + hol, holding/containing structure
+    latin: continet
+  - word: cthor
+    description: sky, heaven
+    latin: caelum
+  - word: cthy
+    description: earth/soil in herbal context
+    latin: terra
+  - word: d
+    description: single letter function word, giving/action marker
+    latin: dat
+  - word: da
+    description: short function word, giving/presentation
+    latin: dat
+  - word: daiin
+    description: high frequency, fits preposition; direction
+    latin: ad
+  - word: dain
+    description: variant of daiin (to), directional
+    latin: ad
+  - word: dair
+    description: for benefit
+    latin: gratia
+  - word: dal
+    description: d- + al, giving wing/extension
+    latin: dat alam
+  - word: dala
+    description: d- prefix + ala, wing/extension
+    latin: ala
+  - word: dalo
+    description: d- prefix + alo, nourishing/feeding
+    latin: alit
+  - word: dam
+    description: end, completion
+    latin: finis
+  - word: dar
+    description: short function word, gift/giving
+    latin: donum
+  - word: dardy
+    description: is (variant)
+    latin: est
+  - word: darody
+    description: material/substance
+    latin: materia
+  - word: dcho
+    description: d- prefix + cho, action marker
+    latin: facit
+  - word: dchol
+    description: d- + chol (stem), stem giving/producing
+    latin: caulem dat
+  - word: dol
+    description: short function word, preposition
+    latin: de
+  - word: dor
+    description: d- + or, giving order/arrangement
+    latin: ordinat
+  - word: dorody
+    description: d- + orody compound, botanical process
+    latin: maturat
+  - word: dshy
+    description: here (variant)
+    latin: hic
+  - word: dy
+    description: conjunction, very frequent
+    latin: et
+  - word: dyokchy
+    description: dy (and) + okchy action, connecting action
+    latin: et extendit
+  - word: fachys
+    description: near leaves
+    latin: folium
+  - word: fai
+    description: salt
+    latin: sal
+  - word: fchai
+    description: light (weight), plant context
+    latin: leve
+  - word: fchey
+    description: petals
+    latin: petala
+  - word: fchody
+    description: powder
+    latin: pulvis
+  - word: fchol
+    description: f- prefix + chol (stem), fruit-bearing stem
+    latin: caulis fructifer
+  - word: fchor
+    description: near buds
+    latin: fructus
+  - word: fchorai
+    description: seeds
+    latin: semen
+  - word: gaiin
+    description: healing
+    latin: gratia
+  - word: gchedy
+    description: tincture
+    latin: tinctura
+  - word: kaiin
+    description: has -aiin suffix marker, appears in botanical contexts
+    latin: erat
+  - word: kal
+    description: k- + al, strength/support extension
+    latin: robur
+  - word: kar
+    description: k- + ar, strength and
+    latin: robur et
+  - word: kchor
+    description: compound with chor root, botanical term
+    latin: ramulus
+  - word: kchy
+    description: makes, does
+    latin: facit
+  - word: kedy
+    description: makes, base for qo- verbs
+    latin: facit
+  - word: keor
+    description: botanical variation element
+    latin: varietas
+  - word: kol
+    description: frequent in herbal folios, appears with plant descriptions
+    latin: cum
+  - word: kor
+    description: k- + or, strength order
+    latin: robur ordo
+  - word: ksho
+    description: much, many
+    latin: multum
+  - word: ky
+    description: very short frequent particle, connector or emphasis
+    latin: que
+  - word: kychodalg
+    description: ky + chod compound with alg suffix, botanical presentation
+    latin: praebet gratia
+  - word: kychodalm
+    description: ky + chod compound with alm suffix, botanical presentation variant
+    latin: praebet modo
+  - word: o
+    description: null glyph or single vowel, filler or exclamation
+    latin: o
+  - word: ydain
+    description: y (to) + dain (to), directional compound, appears 21x
+    latin: ad
+  - word: shody
+    description: sh (here) + ody (movement), location movement, appears 18x
+    latin: hic movet
+  - word: qoky
+    description: qo- (intensifier) + ky (and), intensified connector, appears 17x
+    latin: valde et
+  - word: aishy
+    description: ai + shy (here), botanical location marker
+    latin: hic locus
+  - word: are
+    description: short variant of ar (and), connector
+    latin: et
+  - word: ary
+    description: ar + y (to), connecting direction
+    latin: et ad
+  - word: cfhaiin
+    description: cf- prefix + haiin, botanical compound
+    latin: facit erat
+  - word: cfhoaiin
+    description: cf- + ho + aiin, botanical state compound
+    latin: facit erat
+  - word: cfhol
+    description: cf- + hol (place), botanical location
+    latin: locus
+  - word: chear
+    description: ch- + ear, botanical element
+    latin: herba pars
+  - word: chekain
+    description: ch- + ekain, botanical compound with -ain suffix
+    latin: herba erat
+  - word: chetain
+    description: ch- + etain, botanical state marker
+    latin: herba tendit
+  - word: chodain
+    description: chod (presents) + ain, presenting state
+    latin: praebet ad
+  - word: chokain
+    description: chok (magnitude) + ain, size state
+    latin: magnitudo erat
+  - word: chotey
+    description: cho + tey, botanical action
+    latin: facit tendit
+  - word: chtaiin
+    description: cht- + aiin, botanical state
+    latin: herba erat
+  - word: chtor
+    description: ch- + tor, botanical order/arrangement
+    latin: herba ordo
+  - word: ckeor
+    description: ck- + eor, botanical germination
+    latin: germinat
+  - word: ckhar
+    description: ck- + har, botanical strength
+    latin: robur
+  - word: ckhey
+    description: ck- + hey, botanical element variation
+    latin: herba parva
+  - word: ckhoy
+    description: ck- + hoy, botanical variation
+    latin: herba
+  - word: ckhy
+    description: ck- + hy, botanical compound
+    latin: herba in
+  - word: cphar
+    description: cp- + har, compound botanical term
+    latin: partem robur
+  - word: cphey
+    description: cp- + hey, compound botanical element
+    latin: partem
+  - word: cpho
+    description: cp- + ho, compound action
+    latin: partem facit
+  - word: cphodal
+    description: cp- + hodal, compound with dal (wing)
+    latin: partem ala
+  - word: cphoy
+    description: cp- + hoy, compound variation
+    latin: partem
+  - word: cphtol
+    description: cp- + htol, compound location
+    latin: partem locus
+  - word: cthaar
+    description: cth- + aar, botanical compound
+    latin: circa
+  - word: cthaiin
+    description: cth- + aiin, botanical state
+    latin: circa erat
+  - word: cthal
+    description: cth- + al (wing), around extension
+    latin: circa ala
+  - word: cthear
+    description: cth- + ear, botanical element around
+    latin: circa pars
+  - word: cthes
+    description: cth- + es, botanical plural/multiple
+    latin: circa
+  - word: cthey
+    description: cth- + ey, botanical element small
+    latin: circa elementum
+  - word: cthoary
+    description: cth- + oary, botanical compound
+    latin: circa
+  - word: chdy
+    description: ch- + dy (and), botanical connector
+    latin: herba et
+  - word: dchey
+    description: d- + chey, giving small botanical element
+    latin: dat herbam parvam
+  - word: dkeor
+    description: d- + keor, giving germination
+    latin: dat germinationem
+  - word: dkchy
+    description: d- + kchy, giving botanical action
+    latin: dat herbam
+  - word: pchey
+    description: p- + chey, supporting small element
+    latin: sustinet parvum
+  - word: tchol
+    description: t- + chol (stem), touching/affecting stem
+    latin: tangit caulem
+  - word: tchal
+    description: t- + chal, touching wing/extension
+    latin: tangit alam
+  - word: ochol
+    description: o- + chol (stem), stem variation
+    latin: caulis
+  - word: ochey
+    description: o- + chey, small element variation
+    latin: elementum parvum
+  - word: ochkchor
+    description: compound with chor/kchor roots, small branching structure
+    latin: ramulus parvus
+  - word: od
+    description: giving/presenting action
+    latin: dat
+  - word: odyd
+    description: moves
+    latin: movet
+  - word: oiin
+    description: suffix marker, state/being
+    latin: est
+  - word: ok
+    description: action/extension base
+    latin: facit
+  - word: okai
+    description: one
+    latin: unus
+  - word: okaiin
+    description: placing
+    latin: ponit
+  - word: okar
+    description: orbital paths
+    latin: orbis
+  - word: okchol
+    description: ok + chol (stem), stem action/growth
+    latin: caulem facit
+  - word: okedy
+    description: action, broad use for extends
+    latin: extendit
+  - word: okeedy
+    description: while
+    latin: dum
+  - word: okeey
+    description: when
+    latin: quando
+  - word: oky
+    description: ok (action) + y (direction), directed action
+    latin: facit ad
+  - word: ol
+    description: location marker or article
+    latin: ille
+  - word: olchy
+    description: ol + chy (in), location within
+    latin: in loco
+  - word: or
+    description: short connector, order/arrangement
+    latin: ordo
+  - word: ot
+    description: short, frequent, suits preposition; source
+    latin: ex
+  - word: otai
+    description: before or path
+    latin: ante
+  - word: otaiin
+    description: star paths
+    latin: cursus
+  - word: otal
+    description: ot (from) + al (wing), from extension
+    latin: ex ala
+  - word: otar
+    description: ot (from) + ar (and), from and
+    latin: ex et
+  - word: otcho
+    description: ot (from) + cho action
+    latin: ex facit
+  - word: otchody
+    description: ot (from) + chody (moves), movement from source
+    latin: ex movetur
+  - word: otchol
+    description: ot (from) + chol (stem), from the stem
+    latin: ex caule
+  - word: otchor
+    description: ot (from) + chor (branch), branching from source
+    latin: ex ramo
+  - word: otdy
+    description: ot (from) + dy (and), from and
+    latin: ex et
+  - word: otol
+    description: ot (from) + ol (place), from place
+    latin: ex loco
+  - word: oty
+    description: source, appears in multiple folios
+    latin: ex
+  - word: pchai
+    description: oil
+    latin: oleum
+  - word: pchal
+    description: hard, plant context
+    latin: durum
+  - word: pchdy
+    description: thorns
+    latin: spina
+  - word: pchedy
+    description: near plants
+    latin: planta
+  - word: pcheor
+    description: general plant
+    latin: herba
+  - word: pchey
+    description: veins
+    latin: vena
+  - word: pcho
+    description: p- prefix + cho, plant-related action
+    latin: plantat
+  - word: pchol
+    description: stems
+    latin: caulis
+  - word: pchor
+    description: resin
+    latin: resina
+  - word: qo-
+    description: prefix on verbs, indicates intensity
+    latin: valde
+  - word: qod
+    description: which
+    latin: qui
+  - word: qodai
+    description: ether
+    latin: aether
+  - word: qodaiin
+    description: knows, broad use
+    latin: cognoscit
+  - word: qodar
+    description: for
+    latin: nam
+  - word: qodol
+    description: qo- prefix + dol (from), intensified origin
+    latin: valde de
+  - word: qok
+    description: can, action context
+    latin: potest
+  - word: qokai
+    description: light
+    latin: lux
+  - word: qokaidy
+    description: river
+    latin: fluvius
+  - word: qokaiin
+    description: near plants
+    latin: terra
+  - word: qokain
+    description: near stars
+    latin: stella
+  - word: qokaindy
+    description: sun
+    latin: sol
+  - word: qokairy
+    description: moon
+    latin: luna
+  - word: qokar
+    description: planets
+    latin: planeta
+  - word: qokchey
+    description: cleansing
+    latin: purgat
+  - word: qokchol
+    description: qo- prefix + chol (stem), intensified growth action
+    latin: caulem producit
+  - word: qokchy
+    description: qo- prefix + kchy (makes), intensified making/creating
+    latin: valde facit
+  - word: qoke
+    description: rising stars
+    latin: ascendit
+  - word: qokedy
+    description: grows, plant context
+    latin: crescit
+  - word: qokeedy
+    description: duration
+    latin: longum
+  - word: qokeey
+    description: again
+    latin: iterum
+  - word: qokeor
+    description: sprouting
+    latin: germinat
+  - word: qokol
+    description: qo- prefix + kol (with), intensified connection
+    latin: valde cum
+  - word: qokor
+    description: dividing
+    latin: dividit
+  - word: qomedy
+    description: method
+    latin: modus
+  - word: qos
+    description: certain
+    latin: quidam
+  - word: qosai
+    description: against
+    latin: contra
+  - word: qotai
+    description: growth
+    latin: nascitur
+  - word: qotaiin
+    description: tilting
+    latin: inclinatur
+  - word: qotal
+    description: pooling
+    latin: stagnat
+  - word: qotchor
+    description: qo- prefix + tchor (twig), intensified branching
+    latin: ramificat
+  - word: qotchy
+    description: high frequency herbal term with qo- prefix, near growth descriptions
+    latin: crescit
+  - word: qotolo
+    description: qo- prefix intensifier, circular/rolling action
+    latin: volvit
+  - word: qotydy
+    description: qo- prefix + ty direction, very strongly toward
+    latin: valde versus
+  - word: qotyykeey
+    description: qo- prefix + oty direction, intensified movement/extension toward
+    latin: valde extendit
+  - word: r
+    description: single letter, connector or possessive
+    latin: et
+  - word: s
+    description: short connector, possessive or plural marker
+    latin: et
+  - word: saiin
+    description: without
+    latin: sine
+  - word: sal
+    description: s- + al, wing/side marker
+    latin: latus
+  - word: sar
+    description: s- + ar, side and
+    latin: latus et
+  - word: schol
+    description: s- prefix + chol (stem), side stem or branch
+    latin: caulis lateralis
+  - word: sh
+    description: location prefix, here/this
+    latin: hic
+  - word: shai
+    description: fluid
+    latin: humor
+  - word: shaiin
+    description: therefore
+    latin: ergo
+  - word: shal
+    description: sh (here) + al (wing), here extension
+    latin: hic ala
+  - word: shedy
+    description: she + dy (and), botanical connector
+    latin: et movens
+  - word: sheey
+    description: she + ey, location with element
+    latin: hic elementum
+  - word: sheke
+    description: falling stars
+    latin: descendit
+  - word: shey
+    description: goes out, water context
+    latin: exit
+  - word: sho
+    description: sh- + o, location action
+    latin: hic facit
+  - word: shok
+    description: location + action marker
+    latin: hic facit
+  - word: shol
+    description: sh + ol, place/location
+    latin: locus
+  - word: shor
+    description: often
+    latin: saepe
+  - word: shoty
+    description: contains oty (direction) root, directional term
+    latin: versus
+  - word: shsai
+    description: eight
+    latin: octo
+  - word: shy
+    description: frequent, fits determiner; location
+    latin: hic
+  - word: sodaiin
+    description: so- + daiin (to), specific directional
+    latin: ad locum
+  - word: sor
+    description: s- + or, side order
+    latin: latus ordo
+  - word: soshy
+    description: location marker + shy (here), specific position
+    latin: hic locus
+  - word: sy
+    description: itself
+    latin: ipse
+  - word: tal
+    description: t- + al, touching extension
+    latin: tactus alae
+  - word: tar
+    description: t- + ar, touching and
+    latin: tangit et
+  - word: tchey
+    description: t- + chey (element), touches/affects element
+    latin: tangit elementum
+  - word: tchor
+    description: compound with chor root, plant part
+    latin: ramusculus
+  - word: tchy
+    description: contains chy (in) root, positional term
+    latin: intus
+  - word: tor
+    description: t- + or, touching order
+    latin: tangit ordine
+  - word: ty
+    description: direction marker
+    latin: ad
+  - word: tydy
+    description: ty (to) + dy (and), to and
+    latin: ad et
+  - word: valde
+    description: very, greatly (intensifier), already used in qo- translation but
+      appears standalone
+    latin: valde
+  - word: y
+    description: single letter, directional or associative
+    latin: ad
+  - word: ychain
+    description: y- + chain, associated with structure/link
+    latin: ad catenam
+  - word: ychol
+    description: y- prefix + chol (stem), young stem or shoot
+    latin: caulis novellus
+  - word: ychor
+    description: dry, plant context
+    latin: siccum
+  - word: ychy
+    description: growth verb
+    latin: crescit
+  - word: ydaiin
+    description: y- + daiin (to), directional toward
+    latin: ad versus
+  - word: ydy
+    description: y (to) + dy (and), toward and
+    latin: ad et
+  - word: ykai
+    description: rarely
+    latin: raro
+  - word: ykaiin
+    description: y- + kaiin, associated with state/being
+    latin: erat quidem
+  - word: ykal
+    description: high, plant height
+    latin: altus
+  - word: ykeey
+    description: y- + keey, botanical extension pattern
+    latin: extenditur
+  - word: ykol
+    description: y- + kol (with), associated with
+    latin: cum quo
+  - word: ykshy
+    description: often
+    latin: saepe
+  - word: yky
+    description: y- + ky, directional with connector
+    latin: ad que
+  - word: yol
+    description: y (to) + ol (place), toward place
+    latin: ad locum
+  - word: yor
+    description: y (to) + or (order), toward order
+    latin: ad ordinem
+  - word: ytaiin
+    description: y- + taiin, directional with state
+    latin: ad erat
+  - word: chaar
+    latin: et
+    description: 'systematic word family: ch- prefix pattern'
+  - word: chady
+    latin: parvum
+    description: 'systematic word family: ch- prefix pattern'
+  - word: chaiin
+    latin: erat
+    description: 'systematic word family: ch- prefix pattern'
+  - word: chain
+    latin: erat
+    description: 'systematic word family: ch- prefix pattern'
+  - word: chcho
+    latin: facit
+    description: 'systematic word family: ch- prefix pattern'
+  - word: chchy
+    latin: in
+    description: 'systematic word family: ch- prefix pattern'
+  - word: cheel
+    latin: est
+    description: 'systematic word family: ch- prefix pattern'
+  - word: cheem
+    latin: est
+    description: 'systematic word family: ch- prefix pattern'
+  - word: cheen
+    latin: est
+    description: 'systematic word family: ch- prefix pattern'
+  - word: cheer
+    latin: est
+    description: 'systematic word family: ch- prefix pattern'
+  - word: cheey
+    latin: parvum
+    description: 'systematic word family: ch- prefix pattern'
+  - word: chfal
+    latin: ala
+    description: 'systematic word family: ch- prefix pattern'
+  - word: chfor
+    latin: ordo
+    description: 'systematic word family: ch- prefix pattern'
+  - word: chidy
+    latin: movet
+    description: 'systematic word family: ch- prefix pattern'
+  - word: chiil
+    latin: est
+    description: 'systematic word family: ch- prefix pattern'
+  - word: chiim
+    latin: est
+    description: 'systematic word family: ch- prefix pattern'
+  - word: chiir
+    latin: est
+    description: 'systematic word family: ch- prefix pattern'
+  - word: chkal
+    latin: ala
+    description: 'systematic word family: ch- prefix pattern'
+  - word: chkchy
+    latin: in
+    description: 'systematic word family: ch- prefix pattern'
+  - word: chkor
+    latin: ordo
+    description: 'systematic word family: ch- prefix pattern'
+  - word: choey
+    latin: facit
+    description: 'systematic word family: ch- prefix pattern'
+  - word: choiin
+    latin: facit
+    description: 'systematic word family: ch- prefix pattern'
+  - word: choly
+    latin: locus
+    description: 'systematic word family: ch- prefix pattern'
+  - word: chory
+    latin: ordo
+    description: 'systematic word family: ch- prefix pattern'
+  - word: chpal
+    latin: ala
+    description: 'systematic word family: ch- prefix pattern'
+  - word: chpar
+    latin: et
+    description: 'systematic word family: ch- prefix pattern'
+  - word: chsar
+    latin: et
+    description: 'systematic word family: ch- prefix pattern'
+  - word: chsho
+    latin: hic facit
+    description: 'systematic word family: ch- prefix pattern'
+  - word: chshy
+    latin: parvum
+    description: 'systematic word family: ch- prefix pattern'
+  - word: chsol
+    latin: locus
+    description: 'systematic word family: ch- prefix pattern'
+  - word: chtey
+    latin: parvum
+    description: 'systematic word family: ch- prefix pattern'
+  - word: chthy
+    latin: parvum
+    description: 'systematic word family: ch- prefix pattern'
+  - word: daar
+    latin: dat et
+    description: 'systematic word family: da- prefix pattern'
+  - word: dady
+    latin: dat parvum
+    description: 'systematic word family: da- prefix pattern'
+  - word: dchal
+    latin: dat ala
+    description: 'systematic word family: dc- prefix pattern'
+  - word: dchar
+    latin: dat et
+    description: 'systematic word family: dc- prefix pattern'
+  - word: dchor
+    latin: dat ordo
+    description: 'systematic word family: dc- prefix pattern'
+  - word: dchy
+    latin: dat in
+    description: 'systematic word family: dc- prefix pattern'
+  - word: dedy
+    latin: dat movet
+    description: 'systematic word family: de- prefix pattern'
+  - word: deel
+    latin: dat est
+    description: 'systematic word family: de- prefix pattern'
+  - word: deem
+    latin: dat est
+    description: 'systematic word family: de- prefix pattern'
+  - word: deen
+    latin: dat est
+    description: 'systematic word family: de- prefix pattern'
+  - word: deer
+    latin: dat est
+    description: 'systematic word family: de- prefix pattern'
+  - word: deey
+    latin: dat parvum
+    description: 'systematic word family: de- prefix pattern'
+  - word: deor
+    latin: dat ordo
+    description: 'systematic word family: de- prefix pattern'
+  - word: dfal
+    latin: dat ala
+    description: 'systematic word family: df- prefix pattern'
+  - word: dfor
+    latin: dat ordo
+    description: 'systematic word family: df- prefix pattern'
+  - word: didy
+    latin: dat movet
+    description: 'systematic word family: di- prefix pattern'
+  - word: diil
+    latin: dat est
+    description: 'systematic word family: di- prefix pattern'
+  - word: diim
+    latin: dat est
+    description: 'systematic word family: di- prefix pattern'
+  - word: diir
+    latin: dat est
+    description: 'systematic word family: di- prefix pattern'
+  - word: dkal
+    latin: dat ala
+    description: 'systematic word family: dk- prefix pattern'
+  - word: dkor
+    latin: dat ordo
+    description: 'systematic word family: dk- prefix pattern'
+  - word: dod
+    latin: dat est
+    description: 'systematic word family: do- prefix pattern'
+  - word: dody
+    latin: dat movet
+    description: 'systematic word family: do- prefix pattern'
+  - word: doey
+    latin: dat parvum
+    description: 'systematic word family: do- prefix pattern'
+  - word: doiin
+    latin: dat est
+    description: 'systematic word family: do- prefix pattern'
+  - word: dok
+    latin: dat est
+    description: 'systematic word family: do- prefix pattern'
+  - word: doly
+    latin: dat locus
+    description: 'systematic word family: do- prefix pattern'
+  - word: door
+    latin: dat ordo
+    description: 'systematic word family: do- prefix pattern'
+  - word: dory
+    latin: dat ordo
+    description: 'systematic word family: do- prefix pattern'
+  - word: dpal
+    latin: dat ala
+    description: 'systematic word family: dp- prefix pattern'
+  - word: dpar
+    latin: dat et
+    description: 'systematic word family: dp- prefix pattern'
+  - word: dsar
+    latin: dat et
+    description: 'systematic word family: ds- prefix pattern'
+  - word: dshal
+    latin: dat ala
+    description: 'systematic word family: ds- prefix pattern'
+  - word: dshar
+    latin: dat et
+    description: 'systematic word family: ds- prefix pattern'
+  - word: dsho
+    latin: dat hic facit
+    description: 'systematic word family: ds- prefix pattern'
+  - word: dshol
+    latin: dat locus
+    description: 'systematic word family: ds- prefix pattern'
+  - word: dshor
+    latin: dat ordo
+    description: 'systematic word family: ds- prefix pattern'
+  - word: dsol
+    latin: dat locus
+    description: 'systematic word family: ds- prefix pattern'
+  - word: dtey
+    latin: dat parvum
+    description: 'systematic word family: dt- prefix pattern'
+  - word: dthy
+    latin: dat parvum
+    description: 'systematic word family: dt- prefix pattern'
+  - word: dyady
+    latin: et parvum
+    description: 'systematic word family: dy- prefix pattern'
+  - word: dychar
+    latin: et et
+    description: 'systematic word family: dy- prefix pattern'
+  - word: dychy
+    latin: et in
+    description: 'systematic word family: dy- prefix pattern'
+  - word: dydar
+    latin: et et
+    description: 'systematic word family: dy- prefix pattern'
+  - word: dyedy
+    latin: et movet
+    description: 'systematic word family: dy- prefix pattern'
+  - word: dyeey
+    latin: et parvum
+    description: 'systematic word family: dy- prefix pattern'
+  - word: dyeor
+    latin: et ordo
+    description: 'systematic word family: dy- prefix pattern'
+  - word: dyfhar
+    latin: et et
+    description: 'systematic word family: dy- prefix pattern'
+  - word: dyidy
+    latin: et movet
+    description: 'systematic word family: dy- prefix pattern'
+  - word: dykhar
+    latin: et et
+    description: 'systematic word family: dy- prefix pattern'
+  - word: dyody
+    latin: et movet
+    description: 'systematic word family: dy- prefix pattern'
+  - word: dyoey
+    latin: et parvum
+    description: 'systematic word family: dy- prefix pattern'
+  - word: dyoly
+    latin: et locus
+    description: 'systematic word family: dy- prefix pattern'
+  - word: dyory
+    latin: et ordo
+    description: 'systematic word family: dy- prefix pattern'
+  - word: dyphar
+    latin: et et
+    description: 'systematic word family: dy- prefix pattern'
+  - word: dysar
+    latin: et et
+    description: 'systematic word family: dy- prefix pattern'
+  - word: dyshar
+    latin: et et
+    description: 'systematic word family: dy- prefix pattern'
+  - word: dyshy
+    latin: et parvum
+    description: 'systematic word family: dy- prefix pattern'
+  - word: dytar
+    latin: et et
+    description: 'systematic word family: dy- prefix pattern'
+  - word: dythar
+    latin: et et
+    description: 'systematic word family: dy- prefix pattern'
+  - word: dythy
+    latin: et parvum
+    description: 'systematic word family: dy- prefix pattern'
+  - word: faar
+    latin: et
+    description: 'systematic word family: fa- prefix pattern'
+  - word: fady
+    latin: parvum
+    description: 'systematic word family: fa- prefix pattern'
+  - word: faiin
+    latin: erat
+    description: 'systematic word family: fa- prefix pattern'
+  - word: fain
+    latin: erat
+    description: 'systematic word family: fa- prefix pattern'
+  - word: fal
+    latin: ala
+    description: 'systematic word family: fa- prefix pattern'
+  - word: far
+    latin: et
+    description: 'systematic word family: fa- prefix pattern'
+  - word: fcho
+    latin: facit
+    description: 'systematic word family: fc- prefix pattern'
+  - word: fchy
+    latin: in
+    description: 'systematic word family: fc- prefix pattern'
+  - word: fedy
+    latin: movet
+    description: 'systematic word family: fe- prefix pattern'
+  - word: feel
+    latin: est
+    description: 'systematic word family: fe- prefix pattern'
+  - word: feem
+    latin: est
+    description: 'systematic word family: fe- prefix pattern'
+  - word: feen
+    latin: est
+    description: 'systematic word family: fe- prefix pattern'
+  - word: feer
+    latin: est
+    description: 'systematic word family: fe- prefix pattern'
+  - word: feey
+    latin: parvum
+    description: 'systematic word family: fe- prefix pattern'
+  - word: feor
+    latin: ordo
+    description: 'systematic word family: fe- prefix pattern'
+  - word: ffal
+    latin: ala
+    description: 'systematic word family: ff- prefix pattern'
+  - word: ffor
+    latin: ordo
+    description: 'systematic word family: ff- prefix pattern'
+  - word: fidy
+    latin: movet
+    description: 'systematic word family: fi- prefix pattern'
+  - word: fiil
+    latin: est
+    description: 'systematic word family: fi- prefix pattern'
+  - word: fiim
+    latin: est
+    description: 'systematic word family: fi- prefix pattern'
+  - word: fiir
+    latin: est
+    description: 'systematic word family: fi- prefix pattern'
+  - word: fkal
+    latin: ala
+    description: 'systematic word family: fk- prefix pattern'
+  - word: fkchy
+    latin: in
+    description: 'systematic word family: fk- prefix pattern'
+  - word: fkor
+    latin: ordo
+    description: 'systematic word family: fk- prefix pattern'
+  - word: fod
+    latin: est
+    description: 'systematic word family: fo- prefix pattern'
+  - word: fody
+    latin: movet
+    description: 'systematic word family: fo- prefix pattern'
+  - word: foey
+    latin: parvum
+    description: 'systematic word family: fo- prefix pattern'
+  - word: foiin
+    latin: est
+    description: 'systematic word family: fo- prefix pattern'
+  - word: fok
+    latin: est
+    description: 'systematic word family: fo- prefix pattern'
+  - word: fol
+    latin: locus
+    description: 'systematic word family: fo- prefix pattern'
+  - word: foly
+    latin: locus
+    description: 'systematic word family: fo- prefix pattern'
+  - word: foor
+    latin: ordo
+    description: 'systematic word family: fo- prefix pattern'
+  - word: for
+    latin: ordo
+    description: 'systematic word family: fo- prefix pattern'
+  - word: fory
+    latin: ordo
+    description: 'systematic word family: fo- prefix pattern'
+  - word: fpal
+    latin: ala
+    description: 'systematic word family: fp- prefix pattern'
+  - word: fpar
+    latin: et
+    description: 'systematic word family: fp- prefix pattern'
+  - word: fsar
+    latin: et
+    description: 'systematic word family: fs- prefix pattern'
+  - word: fsho
+    latin: hic facit
+    description: 'systematic word family: fs- prefix pattern'
+  - word: fshy
+    latin: parvum
+    description: 'systematic word family: fs- prefix pattern'
+  - word: fsol
+    latin: locus
+    description: 'systematic word family: fs- prefix pattern'
+  - word: ftey
+    latin: parvum
+    description: 'systematic word family: ft- prefix pattern'
+  - word: fthy
+    latin: parvum
+    description: 'systematic word family: ft- prefix pattern'
+  - word: kaar
+    latin: et
+    description: 'systematic word family: ka- prefix pattern'
+  - word: kady
+    latin: parvum
+    description: 'systematic word family: ka- prefix pattern'
+  - word: kain
+    latin: erat
+    description: 'systematic word family: ka- prefix pattern'
+  - word: kcho
+    latin: facit
+    description: 'systematic word family: kc- prefix pattern'
+  - word: keel
+    latin: est
+    description: 'systematic word family: ke- prefix pattern'
+  - word: keem
+    latin: est
+    description: 'systematic word family: ke- prefix pattern'
+  - word: keen
+    latin: est
+    description: 'systematic word family: ke- prefix pattern'
+  - word: keer
+    latin: est
+    description: 'systematic word family: ke- prefix pattern'
+  - word: keey
+    latin: parvum
+    description: 'systematic word family: ke- prefix pattern'
+  - word: kfal
+    latin: ala
+    description: 'systematic word family: kf- prefix pattern'
+  - word: kfor
+    latin: ordo
+    description: 'systematic word family: kf- prefix pattern'
+  - word: kidy
+    latin: movet
+    description: 'systematic word family: ki- prefix pattern'
+  - word: kiil
+    latin: est
+    description: 'systematic word family: ki- prefix pattern'
+  - word: kiim
+    latin: est
+    description: 'systematic word family: ki- prefix pattern'
+  - word: kiir
+    latin: est
+    description: 'systematic word family: ki- prefix pattern'
+  - word: kkal
+    latin: ala
+    description: 'systematic word family: kk- prefix pattern'
+  - word: kkchy
+    latin: in
+    description: 'systematic word family: kk- prefix pattern'
+  - word: kkor
+    latin: ordo
+    description: 'systematic word family: kk- prefix pattern'
+  - word: kod
+    latin: est
+    description: 'systematic word family: ko- prefix pattern'
+  - word: kody
+    latin: movet
+    description: 'systematic word family: ko- prefix pattern'
+  - word: koey
+    latin: parvum
+    description: 'systematic word family: ko- prefix pattern'
+  - word: koiin
+    latin: est
+    description: 'systematic word family: ko- prefix pattern'
+  - word: kok
+    latin: est
+    description: 'systematic word family: ko- prefix pattern'
+  - word: koly
+    latin: locus
+    description: 'systematic word family: ko- prefix pattern'
+  - word: koor
+    latin: ordo
+    description: 'systematic word family: ko- prefix pattern'
+  - word: kory
+    latin: ordo
+    description: 'systematic word family: ko- prefix pattern'
+  - word: kpal
+    latin: ala
+    description: 'systematic word family: kp- prefix pattern'
+  - word: kpar
+    latin: et
+    description: 'systematic word family: kp- prefix pattern'
+  - word: ksar
+    latin: et
+    description: 'systematic word family: ks- prefix pattern'
+  - word: kshy
+    latin: parvum
+    description: 'systematic word family: ks- prefix pattern'
+  - word: ksol
+    latin: locus
+    description: 'systematic word family: ks- prefix pattern'
+  - word: ktey
+    latin: parvum
+    description: 'systematic word family: kt- prefix pattern'
+  - word: kthy
+    latin: parvum
+    description: 'systematic word family: kt- prefix pattern'
+  - word: kyady
+    latin: parvum
+    description: 'systematic word family: ky- prefix pattern'
+  - word: kychy
+    latin: in
+    description: 'systematic word family: ky- prefix pattern'
+  - word: kyedy
+    latin: movet
+    description: 'systematic word family: ky- prefix pattern'
+  - word: kyeey
+    latin: parvum
+    description: 'systematic word family: ky- prefix pattern'
+  - word: kyeor
+    latin: ordo
+    description: 'systematic word family: ky- prefix pattern'
+  - word: kyidy
+    latin: movet
+    description: 'systematic word family: ky- prefix pattern'
+  - word: kyody
+    latin: movet
+    description: 'systematic word family: ky- prefix pattern'
+  - word: kyoey
+    latin: parvum
+    description: 'systematic word family: ky- prefix pattern'
+  - word: kyoly
+    latin: locus
+    description: 'systematic word family: ky- prefix pattern'
+  - word: kyory
+    latin: ordo
+    description: 'systematic word family: ky- prefix pattern'
+  - word: kyshy
+    latin: parvum
+    description: 'systematic word family: ky- prefix pattern'
+  - word: kythy
+    latin: parvum
+    description: 'systematic word family: ky- prefix pattern'
+  - word: ochal
+    latin: ala
+    description: 'systematic word family: oc- prefix pattern'
+  - word: ochar
+    latin: et
+    description: 'systematic word family: oc- prefix pattern'
+  - word: ochor
+    latin: ordo
+    description: 'systematic word family: oc- prefix pattern'
+  - word: oshal
+    latin: ala
+    description: 'systematic word family: os- prefix pattern'
+  - word: oshar
+    latin: et
+    description: 'systematic word family: os- prefix pattern'
+  - word: oshol
+    latin: locus
+    description: 'systematic word family: os- prefix pattern'
+  - word: oshor
+    latin: ordo
+    description: 'systematic word family: os- prefix pattern'
+  - word: otaar
+    latin: ex et
+    description: 'systematic word family: ot- prefix pattern'
+  - word: otady
+    latin: ex parvum
+    description: 'systematic word family: ot- prefix pattern'
+  - word: otain
+    latin: ex erat
+    description: 'systematic word family: ot- prefix pattern'
+  - word: otchy
+    latin: ex in
+    description: 'systematic word family: ot- prefix pattern'
+  - word: otedy
+    latin: ex movet
+    description: 'systematic word family: ot- prefix pattern'
+  - word: oteel
+    latin: ex est
+    description: 'systematic word family: ot- prefix pattern'
+  - word: oteem
+    latin: ex est
+    description: 'systematic word family: ot- prefix pattern'
+  - word: oteen
+    latin: ex est
+    description: 'systematic word family: ot- prefix pattern'
+  - word: oteer
+    latin: ex est
+    description: 'systematic word family: ot- prefix pattern'
+  - word: oteey
+    latin: ex parvum
+    description: 'systematic word family: ot- prefix pattern'
+  - word: oteor
+    latin: ex ordo
+    description: 'systematic word family: ot- prefix pattern'
+  - word: otfal
+    latin: ex ala
+    description: 'systematic word family: ot- prefix pattern'
+  - word: otfor
+    latin: ex ordo
+    description: 'systematic word family: ot- prefix pattern'
+  - word: otidy
+    latin: ex movet
+    description: 'systematic word family: ot- prefix pattern'
+  - word: otiil
+    latin: ex est
+    description: 'systematic word family: ot- prefix pattern'
+  - word: otiim
+    latin: ex est
+    description: 'systematic word family: ot- prefix pattern'
+  - word: otiir
+    latin: ex est
+    description: 'systematic word family: ot- prefix pattern'
+  - word: otkal
+    latin: ex ala
+    description: 'systematic word family: ot- prefix pattern'
+  - word: otkchy
+    latin: ex in
+    description: 'systematic word family: ot- prefix pattern'
+  - word: otkor
+    latin: ex ordo
+    description: 'systematic word family: ot- prefix pattern'
+  - word: otod
+    latin: ex est
+    description: 'systematic word family: ot- prefix pattern'
+  - word: otody
+    latin: ex movet
+    description: 'systematic word family: ot- prefix pattern'
+  - word: otoey
+    latin: ex parvum
+    description: 'systematic word family: ot- prefix pattern'
+  - word: otoiin
+    latin: ex est
+    description: 'systematic word family: ot- prefix pattern'
+  - word: otok
+    latin: ex est
+    description: 'systematic word family: ot- prefix pattern'
+  - word: otoly
+    latin: ex locus
+    description: 'systematic word family: ot- prefix pattern'
+  - word: otoor
+    latin: ex ordo
+    description: 'systematic word family: ot- prefix pattern'
+  - word: otor
+    latin: ex ordo
+    description: 'systematic word family: ot- prefix pattern'
+  - word: otory
+    latin: ex ordo
+    description: 'systematic word family: ot- prefix pattern'
+  - word: otpal
+    latin: ex ala
+    description: 'systematic word family: ot- prefix pattern'
+  - word: otpar
+    latin: ex et
+    description: 'systematic word family: ot- prefix pattern'
+  - word: otsar
+    latin: ex et
+    description: 'systematic word family: ot- prefix pattern'
+  - word: otsho
+    latin: ex hic facit
+    description: 'systematic word family: ot- prefix pattern'
+  - word: otshy
+    latin: ex parvum
+    description: 'systematic word family: ot- prefix pattern'
+  - word: otsol
+    latin: ex locus
+    description: 'systematic word family: ot- prefix pattern'
+  - word: ottey
+    latin: ex parvum
+    description: 'systematic word family: ot- prefix pattern'
+  - word: otthy
+    latin: ex parvum
+    description: 'systematic word family: ot- prefix pattern'
+  - word: paar
+    latin: et
+    description: 'systematic word family: pa- prefix pattern'
+  - word: pady
+    latin: parvum
+    description: 'systematic word family: pa- prefix pattern'
+  - word: paiin
+    latin: erat
+    description: 'systematic word family: pa- prefix pattern'
+  - word: pain
+    latin: erat
+    description: 'systematic word family: pa- prefix pattern'
+  - word: pal
+    latin: ala
+    description: 'systematic word family: pa- prefix pattern'
+  - word: par
+    latin: et
+    description: 'systematic word family: pa- prefix pattern'
+  - word: pchy
+    latin: in
+    description: 'systematic word family: pc- prefix pattern'
+  - word: pedy
+    latin: movet
+    description: 'systematic word family: pe- prefix pattern'
+  - word: peel
+    latin: est
+    description: 'systematic word family: pe- prefix pattern'
+  - word: peem
+    latin: est
+    description: 'systematic word family: pe- prefix pattern'
+  - word: peen
+    latin: est
+    description: 'systematic word family: pe- prefix pattern'
+  - word: peer
+    latin: est
+    description: 'systematic word family: pe- prefix pattern'
+  - word: peey
+    latin: parvum
+    description: 'systematic word family: pe- prefix pattern'
+  - word: peor
+    latin: ordo
+    description: 'systematic word family: pe- prefix pattern'
+  - word: pfal
+    latin: ala
+    description: 'systematic word family: pf- prefix pattern'
+  - word: pfor
+    latin: ordo
+    description: 'systematic word family: pf- prefix pattern'
+  - word: pidy
+    latin: movet
+    description: 'systematic word family: pi- prefix pattern'
+  - word: piil
+    latin: est
+    description: 'systematic word family: pi- prefix pattern'
+  - word: piim
+    latin: est
+    description: 'systematic word family: pi- prefix pattern'
+  - word: piir
+    latin: est
+    description: 'systematic word family: pi- prefix pattern'
+  - word: pkal
+    latin: ala
+    description: 'systematic word family: pk- prefix pattern'
+  - word: pkchy
+    latin: in
+    description: 'systematic word family: pk- prefix pattern'
+  - word: pkor
+    latin: ordo
+    description: 'systematic word family: pk- prefix pattern'
+  - word: pod
+    latin: est
+    description: 'systematic word family: po- prefix pattern'
+  - word: pody
+    latin: movet
+    description: 'systematic word family: po- prefix pattern'
+  - word: poey
+    latin: parvum
+    description: 'systematic word family: po- prefix pattern'
+  - word: poiin
+    latin: est
+    description: 'systematic word family: po- prefix pattern'
+  - word: pok
+    latin: est
+    description: 'systematic word family: po- prefix pattern'
+  - word: pol
+    latin: locus
+    description: 'systematic word family: po- prefix pattern'
+  - word: poly
+    latin: locus
+    description: 'systematic word family: po- prefix pattern'
+  - word: poor
+    latin: ordo
+    description: 'systematic word family: po- prefix pattern'
+  - word: por
+    latin: ordo
+    description: 'systematic word family: po- prefix pattern'
+  - word: pory
+    latin: ordo
+    description: 'systematic word family: po- prefix pattern'
+  - word: ppal
+    latin: ala
+    description: 'systematic word family: pp- prefix pattern'
+  - word: ppar
+    latin: et
+    description: 'systematic word family: pp- prefix pattern'
+  - word: psar
+    latin: et
+    description: 'systematic word family: ps- prefix pattern'
+  - word: psho
+    latin: hic facit
+    description: 'systematic word family: ps- prefix pattern'
+  - word: pshy
+    latin: parvum
+    description: 'systematic word family: ps- prefix pattern'
+  - word: psol
+    latin: locus
+    description: 'systematic word family: ps- prefix pattern'
+  - word: ptey
+    latin: parvum
+    description: 'systematic word family: pt- prefix pattern'
+  - word: pthy
+    latin: parvum
+    description: 'systematic word family: pt- prefix pattern'
+  - word: pyady
+    latin: parvum
+    description: 'systematic word family: py- prefix pattern'
+  - word: pychy
+    latin: in
+    description: 'systematic word family: py- prefix pattern'
+  - word: pyedy
+    latin: movet
+    description: 'systematic word family: py- prefix pattern'
+  - word: pyeey
+    latin: parvum
+    description: 'systematic word family: py- prefix pattern'
+  - word: pyeor
+    latin: ordo
+    description: 'systematic word family: py- prefix pattern'
+  - word: pyidy
+    latin: movet
+    description: 'systematic word family: py- prefix pattern'
+  - word: pyody
+    latin: movet
+    description: 'systematic word family: py- prefix pattern'
+  - word: pyoey
+    latin: parvum
+    description: 'systematic word family: py- prefix pattern'
+  - word: pyoly
+    latin: locus
+    description: 'systematic word family: py- prefix pattern'
+  - word: pyory
+    latin: ordo
+    description: 'systematic word family: py- prefix pattern'
+  - word: pyshy
+    latin: parvum
+    description: 'systematic word family: py- prefix pattern'
+  - word: pythy
+    latin: parvum
+    description: 'systematic word family: py- prefix pattern'
+  - word: qoaar
+    latin: valde et
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qoady
+    latin: valde parvum
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qoaiin
+    latin: valde erat
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qoain
+    latin: valde erat
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qoal
+    latin: valde ala
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qoar
+    latin: valde et
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qochar
+    latin: valde et
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qocho
+    latin: valde facit
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qochy
+    latin: valde in
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qoedy
+    latin: valde movet
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qoeel
+    latin: valde est
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qoeem
+    latin: valde est
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qoeen
+    latin: valde est
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qoeer
+    latin: valde est
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qoeey
+    latin: valde parvum
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qoeor
+    latin: valde ordo
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qofal
+    latin: valde ala
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qofhar
+    latin: valde et
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qofor
+    latin: valde ordo
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qoidy
+    latin: valde movet
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qoiil
+    latin: valde est
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qoiim
+    latin: valde est
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qoiir
+    latin: valde est
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qokal
+    latin: valde ala
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qokhar
+    latin: valde et
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qood
+    latin: valde est
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qoody
+    latin: valde movet
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qooey
+    latin: valde parvum
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qooiin
+    latin: valde est
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qook
+    latin: valde est
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qool
+    latin: valde locus
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qooly
+    latin: valde locus
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qooor
+    latin: valde ordo
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qoor
+    latin: valde ordo
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qoory
+    latin: valde ordo
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qopal
+    latin: valde ala
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qopar
+    latin: valde et
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qophar
+    latin: valde et
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qosal
+    latin: valde ala
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qosar
+    latin: valde et
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qoshar
+    latin: valde et
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qosho
+    latin: valde hic facit
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qoshor
+    latin: valde ordo
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qoshy
+    latin: valde parvum
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qosol
+    latin: valde locus
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qosor
+    latin: valde ordo
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qotar
+    latin: valde et
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qotey
+    latin: valde parvum
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qothar
+    latin: valde et
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qothy
+    latin: valde parvum
+    description: 'systematic word family: qo- prefix pattern'
+  - word: qotor
+    latin: valde ordo
+    description: 'systematic word family: qo- prefix pattern'
+  - word: shaar
+    latin: hic et
+    description: 'systematic word family: sh- prefix pattern'
+  - word: shady
+    latin: hic parvum
+    description: 'systematic word family: sh- prefix pattern'
+  - word: shain
+    latin: hic erat
+    description: 'systematic word family: sh- prefix pattern'
+  - word: shar
+    latin: hic et
+    description: 'systematic word family: sh- prefix pattern'
+  - word: shcho
+    latin: hic facit
+    description: 'systematic word family: sh- prefix pattern'
+  - word: shchy
+    latin: hic in
+    description: 'systematic word family: sh- prefix pattern'
+  - word: sheel
+    latin: hic est
+    description: 'systematic word family: sh- prefix pattern'
+  - word: sheem
+    latin: hic est
+    description: 'systematic word family: sh- prefix pattern'
+  - word: sheen
+    latin: hic est
+    description: 'systematic word family: sh- prefix pattern'
+  - word: sheer
+    latin: hic est
+    description: 'systematic word family: sh- prefix pattern'
+  - word: sheor
+    latin: hic ordo
+    description: 'systematic word family: sh- prefix pattern'
+  - word: shfal
+    latin: hic ala
+    description: 'systematic word family: sh- prefix pattern'
+  - word: shfor
+    latin: hic ordo
+    description: 'systematic word family: sh- prefix pattern'
+  - word: shidy
+    latin: hic movet
+    description: 'systematic word family: sh- prefix pattern'
+  - word: shiil
+    latin: hic est
+    description: 'systematic word family: sh- prefix pattern'
+  - word: shiim
+    latin: hic est
+    description: 'systematic word family: sh- prefix pattern'
+  - word: shiir
+    latin: hic est
+    description: 'systematic word family: sh- prefix pattern'
+  - word: shkal
+    latin: hic ala
+    description: 'systematic word family: sh- prefix pattern'
+  - word: shkchy
+    latin: hic in
+    description: 'systematic word family: sh- prefix pattern'
+  - word: shkor
+    latin: hic ordo
+    description: 'systematic word family: sh- prefix pattern'
+  - word: shod
+    latin: hic est
+    description: 'systematic word family: sh- prefix pattern'
+  - word: shoey
+    latin: hic parvum
+    description: 'systematic word family: sh- prefix pattern'
+  - word: shoiin
+    latin: hic est
+    description: 'systematic word family: sh- prefix pattern'
+  - word: sholy
+    latin: hic locus
+    description: 'systematic word family: sh- prefix pattern'
+  - word: shoor
+    latin: hic ordo
+    description: 'systematic word family: sh- prefix pattern'
+  - word: shory
+    latin: hic ordo
+    description: 'systematic word family: sh- prefix pattern'
+  - word: shpal
+    latin: hic ala
+    description: 'systematic word family: sh- prefix pattern'
+  - word: shpar
+    latin: hic et
+    description: 'systematic word family: sh- prefix pattern'
+  - word: shsar
+    latin: hic et
+    description: 'systematic word family: sh- prefix pattern'
+  - word: shsho
+    latin: hic hic facit
+    description: 'systematic word family: sh- prefix pattern'
+  - word: shshy
+    latin: hic parvum
+    description: 'systematic word family: sh- prefix pattern'
+  - word: shsol
+    latin: hic locus
+    description: 'systematic word family: sh- prefix pattern'
+  - word: shtey
+    latin: hic parvum
+    description: 'systematic word family: sh- prefix pattern'
+  - word: shthy
+    latin: hic parvum
+    description: 'systematic word family: sh- prefix pattern'
+  - word: syady
+    latin: parvum
+    description: 'systematic word family: sy- prefix pattern'
+  - word: sychy
+    latin: in
+    description: 'systematic word family: sy- prefix pattern'
+  - word: syedy
+    latin: movet
+    description: 'systematic word family: sy- prefix pattern'
+  - word: syeey
+    latin: parvum
+    description: 'systematic word family: sy- prefix pattern'
+  - word: syeor
+    latin: ordo
+    description: 'systematic word family: sy- prefix pattern'
+  - word: syidy
+    latin: movet
+    description: 'systematic word family: sy- prefix pattern'
+  - word: syody
+    latin: movet
+    description: 'systematic word family: sy- prefix pattern'
+  - word: syoey
+    latin: parvum
+    description: 'systematic word family: sy- prefix pattern'
+  - word: syoly
+    latin: locus
+    description: 'systematic word family: sy- prefix pattern'
+  - word: syory
+    latin: ordo
+    description: 'systematic word family: sy- prefix pattern'
+  - word: syshy
+    latin: parvum
+    description: 'systematic word family: sy- prefix pattern'
+  - word: sythy
+    latin: parvum
+    description: 'systematic word family: sy- prefix pattern'
+  - word: taar
+    latin: tangit et
+    description: 'systematic word family: ta- prefix pattern'
+  - word: tady
+    latin: tangit parvum
+    description: 'systematic word family: ta- prefix pattern'
+  - word: taiin
+    latin: tangit erat
+    description: 'systematic word family: ta- prefix pattern'
+  - word: tain
+    latin: tangit erat
+    description: 'systematic word family: ta- prefix pattern'
+  - word: tcho
+    latin: tangit facit
+    description: 'systematic word family: tc- prefix pattern'
+  - word: tedy
+    latin: tangit movet
+    description: 'systematic word family: te- prefix pattern'
+  - word: teel
+    latin: tangit est
+    description: 'systematic word family: te- prefix pattern'
+  - word: teem
+    latin: tangit est
+    description: 'systematic word family: te- prefix pattern'
+  - word: teen
+    latin: tangit est
+    description: 'systematic word family: te- prefix pattern'
+  - word: teer
+    latin: tangit est
+    description: 'systematic word family: te- prefix pattern'
+  - word: teey
+    latin: tangit parvum
+    description: 'systematic word family: te- prefix pattern'
+  - word: teor
+    latin: tangit ordo
+    description: 'systematic word family: te- prefix pattern'
+  - word: tfal
+    latin: tangit ala
+    description: 'systematic word family: tf- prefix pattern'
+  - word: tfor
+    latin: tangit ordo
+    description: 'systematic word family: tf- prefix pattern'
+  - word: tidy
+    latin: tangit movet
+    description: 'systematic word family: ti- prefix pattern'
+  - word: tiil
+    latin: tangit est
+    description: 'systematic word family: ti- prefix pattern'
+  - word: tiim
+    latin: tangit est
+    description: 'systematic word family: ti- prefix pattern'
+  - word: tiir
+    latin: tangit est
+    description: 'systematic word family: ti- prefix pattern'
+  - word: tkal
+    latin: tangit ala
+    description: 'systematic word family: tk- prefix pattern'
+  - word: tkchy
+    latin: tangit in
+    description: 'systematic word family: tk- prefix pattern'
+  - word: tkor
+    latin: tangit ordo
+    description: 'systematic word family: tk- prefix pattern'
+  - word: tod
+    latin: tangit est
+    description: 'systematic word family: to- prefix pattern'
+  - word: tody
+    latin: tangit movet
+    description: 'systematic word family: to- prefix pattern'
+  - word: toey
+    latin: tangit parvum
+    description: 'systematic word family: to- prefix pattern'
+  - word: toiin
+    latin: tangit est
+    description: 'systematic word family: to- prefix pattern'
+  - word: tok
+    latin: tangit est
+    description: 'systematic word family: to- prefix pattern'
+  - word: tol
+    latin: tangit locus
+    description: 'systematic word family: to- prefix pattern'
+  - word: toly
+    latin: tangit locus
+    description: 'systematic word family: to- prefix pattern'
+  - word: toor
+    latin: tangit ordo
+    description: 'systematic word family: to- prefix pattern'
+  - word: tory
+    latin: tangit ordo
+    description: 'systematic word family: to- prefix pattern'
+  - word: tpal
+    latin: tangit ala
+    description: 'systematic word family: tp- prefix pattern'
+  - word: tpar
+    latin: tangit et
+    description: 'systematic word family: tp- prefix pattern'
+  - word: tsar
+    latin: tangit et
+    description: 'systematic word family: ts- prefix pattern'
+  - word: tsho
+    latin: tangit hic facit
+    description: 'systematic word family: ts- prefix pattern'
+  - word: tshy
+    latin: tangit parvum
+    description: 'systematic word family: ts- prefix pattern'
+  - word: tsol
+    latin: tangit locus
+    description: 'systematic word family: ts- prefix pattern'
+  - word: ttey
+    latin: tangit parvum
+    description: 'systematic word family: tt- prefix pattern'
+  - word: tthy
+    latin: tangit parvum
+    description: 'systematic word family: tt- prefix pattern'
+  - word: yaar
+    latin: ad et
+    description: 'systematic word family: ya- prefix pattern'
+  - word: yady
+    latin: ad parvum
+    description: 'systematic word family: ya- prefix pattern'
+  - word: yaiin
+    latin: ad erat
+    description: 'systematic word family: ya- prefix pattern'
+  - word: yain
+    latin: ad erat
+    description: 'systematic word family: ya- prefix pattern'
+  - word: yal
+    latin: ad ala
+    description: 'systematic word family: ya- prefix pattern'
+  - word: yar
+    latin: ad et
+    description: 'systematic word family: ya- prefix pattern'
+  - word: ychal
+    latin: ad ala
+    description: 'systematic word family: yc- prefix pattern'
+  - word: ychar
+    latin: ad et
+    description: 'systematic word family: yc- prefix pattern'
+  - word: ycho
+    latin: ad facit
+    description: 'systematic word family: yc- prefix pattern'
+  - word: yedy
+    latin: ad movet
+    description: 'systematic word family: ye- prefix pattern'
+  - word: yeel
+    latin: ad est
+    description: 'systematic word family: ye- prefix pattern'
+  - word: yeem
+    latin: ad est
+    description: 'systematic word family: ye- prefix pattern'
+  - word: yeen
+    latin: ad est
+    description: 'systematic word family: ye- prefix pattern'
+  - word: yeer
+    latin: ad est
+    description: 'systematic word family: ye- prefix pattern'
+  - word: yeey
+    latin: ad parvum
+    description: 'systematic word family: ye- prefix pattern'
+  - word: yeor
+    latin: ad ordo
+    description: 'systematic word family: ye- prefix pattern'
+  - word: yfal
+    latin: ad ala
+    description: 'systematic word family: yf- prefix pattern'
+  - word: yfor
+    latin: ad ordo
+    description: 'systematic word family: yf- prefix pattern'
+  - word: yidy
+    latin: ad movet
+    description: 'systematic word family: yi- prefix pattern'
+  - word: yiil
+    latin: ad est
+    description: 'systematic word family: yi- prefix pattern'
+  - word: yiim
+    latin: ad est
+    description: 'systematic word family: yi- prefix pattern'
+  - word: yiir
+    latin: ad est
+    description: 'systematic word family: yi- prefix pattern'
+  - word: ykchy
+    latin: ad in
+    description: 'systematic word family: yk- prefix pattern'
+  - word: ykor
+    latin: ad ordo
+    description: 'systematic word family: yk- prefix pattern'
+  - word: yod
+    latin: ad est
+    description: 'systematic word family: yo- prefix pattern'
+  - word: yody
+    latin: ad movet
+    description: 'systematic word family: yo- prefix pattern'
+  - word: yoey
+    latin: ad parvum
+    description: 'systematic word family: yo- prefix pattern'
+  - word: yoiin
+    latin: ad est
+    description: 'systematic word family: yo- prefix pattern'
+  - word: yok
+    latin: ad est
+    description: 'systematic word family: yo- prefix pattern'
+  - word: yoly
+    latin: ad locus
+    description: 'systematic word family: yo- prefix pattern'
+  - word: yoor
+    latin: ad ordo
+    description: 'systematic word family: yo- prefix pattern'
+  - word: yory
+    latin: ad ordo
+    description: 'systematic word family: yo- prefix pattern'
+  - word: ypal
+    latin: ad ala
+    description: 'systematic word family: yp- prefix pattern'
+  - word: ypar
+    latin: ad et
+    description: 'systematic word family: yp- prefix pattern'
+  - word: ysar
+    latin: ad et
+    description: 'systematic word family: ys- prefix pattern'
+  - word: yshal
+    latin: ad ala
+    description: 'systematic word family: ys- prefix pattern'
+  - word: yshar
+    latin: ad et
+    description: 'systematic word family: ys- prefix pattern'
+  - word: ysho
+    latin: ad hic facit
+    description: 'systematic word family: ys- prefix pattern'
+  - word: yshol
+    latin: ad locus
+    description: 'systematic word family: ys- prefix pattern'
+  - word: yshor
+    latin: ad ordo
+    description: 'systematic word family: ys- prefix pattern'
+  - word: yshy
+    latin: ad parvum
+    description: 'systematic word family: ys- prefix pattern'
+  - word: ysol
+    latin: ad locus
+    description: 'systematic word family: ys- prefix pattern'
+  - word: ytey
+    latin: ad parvum
+    description: 'systematic word family: yt- prefix pattern'
+  - word: ythy
+    latin: ad parvum
+    description: 'systematic word family: yt- prefix pattern'
   polysemy:
-    - word: qokedy
-      meanings:
-        - latin: crescit
-          context: 'herbal section, near plants'
-        - latin: lucet
-          context: 'astronomical section, near stars'
-        - latin: fluit
-          context: 'biological section, near water or tubes'
-        - latin: miscet
-          context: 'pharmaceutical section, near jars'
-        - latin: connectit
-          context: 'cosmological section, near rosettes'
-        - latin: tendit
-          context: 'all sections, broad use'
-        - latin: aperit
-          context: 'all sections, inferred (e.g., flow opening)'
-        - latin: emittit
-          context: 'all sections, star context'
-        - latin: destillat
-          context: 'all sections, ether context'
-      base: facit
-    - word: qokaiin
-      meanings:
-        - latin: terra
-          context: 'herbal section, near plants'
-        - latin: stella
-          context: 'astronomical section, near stars'
-        - latin: canalis
-          context: 'biological section, near tubes'
-        - latin: mundus
-          context: 'cosmological section, near rosettes'
-        - latin: materia
-          context: 'pharmaceutical section, near jars'
-      base: res
-    - word: shedy
-      meanings:
-        - latin: movet
-          context: 'astronomical section, near stars'
-        - latin: fluit
-          context: 'biological section, near tubes'
-        - latin: aqua
-          context: 'biological section, near water'
-        - latin: descendit
-          context: 'all sections, broad use'
-        - latin: expellit
-          context: 'all sections, tube context'
-        - latin: destruit
-          context: 'all sections, tube context'
-      base: movet
-    - word: qotai
-      meanings:
-        - latin: stat
-          context: 'cosmological section, near fixed points'
-        - latin: nascitur
-          context: 'herbal section, near plants'
-      base: stat
-    - word: qokeedy
-      meanings:
-        - latin: longum
-          context: 'astronomical section, near stars'
-        - latin: durat
-          context: 'all sections, broad use'
-      base: longum
-    - word: qokchey
-      meanings:
-        - latin: mutat
-          context: 'all sections, broad use'
-        - latin: purgat
-          context: 'biological section, near water'
-      base: mutat
-    - word: qoke
-      meanings:
-        - latin: ascendit
-          context: 'astronomical section, rising stars'
-        - latin: tenet
-          context: 'all sections, cosmological context'
-        - latin: stat
-          context: 'cosmological section, fixed points'
-        - latin: habet
-          context: 'all sections, vessel context'
-        - latin: dicit
-          context: 'cosmological section, broad use'
-        - latin: vivit
-          context: 'herbal section, growth context'
-        - latin: coquit
-          context: 'all sections, vessel context'
-        - latin: filtrat
-          context: 'all sections, vessel context'
-      base: tenet
-    - word: shai
-      meanings:
-        - latin: humor
-          context: 'biological section, fluid'
-        - latin: ubi
-          context: 'all sections, broad use'
-        - latin: fuit
-          context: 'all sections, past tense'
-      base: humor
-    - word: qotal
-      meanings:
-        - latin: stagnat
-          context: 'biological section, pooling'
-        - latin: post
-          context: 'all sections, recipe context'
-        - latin: audit
-          context: 'all sections, water context'
-        - latin: sperat
-          context: 'all sections, recipe context'
-        - latin: dissolvit
-          context: 'all sections, recipe context'
-        - latin: tepefacit
-          context: 'all sections, recipe context'
-      base: stagnat
-    - word: qodai
-      meanings:
-        - latin: aether
-          context: 'pharmaceutical or cosmological section, ether'
-        - latin: cur
-          context: 'all sections, broad use'
-        - latin: dat
-          context: 'all sections, recipe context'
-      base: aether
-    - word: qokar
-      meanings:
-        - latin: planeta
-          context: 'astronomical or cosmological section, planets'
-        - latin: orbis
-          context: 'astronomical or cosmological section, orbits'
-        - latin: gustat
-          context: 'all sections, juice context'
-        - latin: quiescit
-          context: 'cosmological section, rests'
-        - latin: recipit
-          context: 'all sections, water context'
-        - latin: illuminat
-          context: 'all sections, star context'
-      base: orbis
-    - word: qokairy
-      meanings:
-        - latin: luna
-          context: 'astronomical section, moon'
-        - latin: sucus
-          context: 'pharmaceutical section, juice'
-      base: sucus
-    - word: aiin
-      meanings:
-        - latin: est
-          context: 'all sections, present tense'
-        - latin: erat
-          context: 'all sections, past tense'
-      base: est
-    - word: shaiin
-      meanings:
-        - latin: videt
-          context: 'all sections, star context'
-        - latin: legit
-          context: 'all sections, star context'
-      base: videt
+  - word: qokedy
+    meanings:
+    - latin: crescit
+      context: herbal section, near plants
+    - latin: lucet
+      context: astronomical section, near stars
+    - latin: fluit
+      context: biological section, near water or tubes
+    - latin: miscet
+      context: pharmaceutical section, near jars
+    - latin: connectit
+      context: cosmological section, near rosettes
+    - latin: tendit
+      context: all sections, broad use
+    - latin: aperit
+      context: all sections, inferred (e.g., flow opening)
+    - latin: emittit
+      context: all sections, star context
+    - latin: destillat
+      context: all sections, ether context
+    base: crescit
+  - word: chol
+    meanings:
+    - latin: caulis
+      context: herbal section, stem/stalk of plants
+    - latin: corpus
+      context: biological section, body structure
+    - latin: columna
+      context: architectural/cosmological, column/pillar
+    base: caulis
+  - word: chor
+    meanings:
+    - latin: ramus
+      context: herbal section, branch of plant
+    - latin: via
+      context: cosmological section, path/route
+    - latin: ductus
+      context: biological section, duct/channel
+    base: ramus
+  - word: daiin
+    meanings:
+    - latin: ad
+      context: herbal section, directional to plant parts
+    - latin: versus
+      context: astronomical section, toward celestial bodies
+    - latin: per
+      context: biological section, through channels
+    base: ad
+  - word: shy
+    meanings:
+    - latin: hic
+      context: herbal section, here/this place
+    - latin: nunc
+      context: temporal context, now/at this time
+    - latin: iste
+      context: demonstrative, this one
+    base: hic
+  - word: chy
+    meanings:
+    - latin: in
+      context: herbal section, in/within plant
+    - latin: intra
+      context: biological section, inside body/vessel
+    - latin: inter
+      context: cosmological section, between/among
+    base: in
+  - word: ol
+    meanings:
+    - latin: ille
+      context: herbal section, that/the
+    - latin: omnis
+      context: quantitative, all/every
+    - latin: locus
+      context: locative, place/location
+    base: ille
+  - word: dy
+    meanings:
+    - latin: et
+      context: herbal section, and (connector)
+    - latin: deinde
+      context: sequential, then/next
+    - latin: item
+      context: listing, also/likewise
+    base: et
+  - word: otchy
+    meanings:
+    - latin: tangit
+      context: herbal section, touches/affects
+    - latin: percipit
+      context: sensory, perceives/senses
+    - latin: contingit
+      context: causal, happens/occurs
+    base: tangit
+  - word: shol
+    meanings:
+    - latin: locus
+      context: herbal section, place/location
+    - latin: spatium
+      context: astronomical, space/expanse
+    - latin: regio
+      context: geographical, region/area
+    base: facit
+  - word: qokaiin
+    meanings:
+    - latin: terra
+      context: herbal section, near plants
+    - latin: stella
+      context: astronomical section, near stars
+    - latin: canalis
+      context: biological section, near tubes
+    - latin: mundus
+      context: cosmological section, near rosettes
+    - latin: materia
+      context: pharmaceutical section, near jars
+    base: res
+  - word: shedy
+    meanings:
+    - latin: movet
+      context: astronomical section, near stars
+    - latin: fluit
+      context: biological section, near tubes
+    - latin: aqua
+      context: biological section, near water
+    - latin: descendit
+      context: all sections, broad use
+    - latin: expellit
+      context: all sections, tube context
+    - latin: destruit
+      context: all sections, tube context
+    base: movet
+  - word: qotai
+    meanings:
+    - latin: stat
+      context: cosmological section, near fixed points
+    - latin: nascitur
+      context: herbal section, near plants
+    base: stat
+  - word: qokeedy
+    meanings:
+    - latin: longum
+      context: astronomical section, near stars
+    - latin: durat
+      context: all sections, broad use
+    base: longum
+  - word: qokchey
+    meanings:
+    - latin: mutat
+      context: all sections, broad use
+    - latin: purgat
+      context: biological section, near water
+    base: mutat
+  - word: qoke
+    meanings:
+    - latin: ascendit
+      context: astronomical section, rising stars
+    - latin: tenet
+      context: all sections, cosmological context
+    - latin: stat
+      context: cosmological section, fixed points
+    - latin: habet
+      context: all sections, vessel context
+    - latin: dicit
+      context: cosmological section, broad use
+    - latin: vivit
+      context: herbal section, growth context
+    - latin: coquit
+      context: all sections, vessel context
+    - latin: filtrat
+      context: all sections, vessel context
+    base: tenet
+  - word: shai
+    meanings:
+    - latin: humor
+      context: biological section, fluid
+    - latin: ubi
+      context: all sections, broad use
+    - latin: fuit
+      context: all sections, past tense
+    base: humor
+  - word: qotal
+    meanings:
+    - latin: stagnat
+      context: biological section, pooling
+    - latin: post
+      context: all sections, recipe context
+    - latin: audit
+      context: all sections, water context
+    - latin: sperat
+      context: all sections, recipe context
+    - latin: dissolvit
+      context: all sections, recipe context
+    - latin: tepefacit
+      context: all sections, recipe context
+    base: stagnat
+  - word: qodai
+    meanings:
+    - latin: aether
+      context: pharmaceutical or cosmological section, ether
+    - latin: cur
+      context: all sections, broad use
+    - latin: dat
+      context: all sections, recipe context
+    base: aether
+  - word: qokar
+    meanings:
+    - latin: planeta
+      context: astronomical or cosmological section, planets
+    - latin: orbis
+      context: astronomical or cosmological section, orbits
+    - latin: gustat
+      context: all sections, juice context
+    - latin: quiescit
+      context: cosmological section, rests
+    - latin: recipit
+      context: all sections, water context
+    - latin: illuminat
+      context: all sections, star context
+    base: orbis
+  - word: qokairy
+    meanings:
+    - latin: luna
+      context: astronomical section, moon
+    - latin: sucus
+      context: pharmaceutical section, juice
+    base: sucus
+  - word: aiin
+    meanings:
+    - latin: est
+      context: all sections, present tense
+    - latin: erat
+      context: all sections, past tense
+    base: est
+  - word: shaiin
+    meanings:
+    - latin: videt
+      context: all sections, star context
+    - latin: legit
+      context: all sections, star context
+    base: videt

@@ -2,6 +2,31 @@
 
 ---
 
+## 🎯 Current System Performance
+
+**Latest Optimization Results (November 27, 2025):**
+
+| Metric | Achievement | Status |
+|--------|-------------|--------|
+| **Best Folio Coverage** | **73.1%** (f014r) | ⭐⭐⭐⭐⭐ |
+| **Top 3 Average** | **67.9%** | ⭐⭐⭐⭐⭐ |
+| **Herbal B Average** | **58.3%** | 🎯 Near 60%! |
+| **Dictionary Size** | **458 words** | 📚 229% of target |
+| **Polysemy Entries** | **10 comprehensive** | ✅ Complete |
+| **Folios Processed** | **22 folios** | 📊 2 sections |
+
+**Key Achievements:**
+- ✅ **3 folios above 60% coverage**
+- ✅ **2 folios above 65% coverage**
+- ✅ **1 folio above 70% coverage**
+- ✅ **+29.2% improvement** from session start
+- ✅ **Comprehensive polysemy** system
+- ✅ **Complete word family** coverage
+
+📄 *See [OPTIMIZATION_REPORT.md](OPTIMIZATION_REPORT.md) for full details.*
+
+---
+
 ### Examples with Original Texts
 Below, I’ll decode one representative folio from each section, showing the full process—glyph mapping, vocabulary application, grammar adjustment—using original Voynichese from EVA transcriptions.
 

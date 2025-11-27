@@ -1,0 +1,1598 @@
+voynich_decipherment_rules:
+  rules:
+  - All words must be transcribed using the defined glyph set.
+  - Spaces between words are preserved as in the original manuscript.
+  - Glyphs are case-insensitive but should be recorded as lowercase for consistency.
+  - Unknown or ambiguous glyphs are marked with a '?' symbol.
+  - Repeated glyphs in a word (e.g., 'aa') are allowed and should not be simplified.
+  - Syntax follows Subject-Verb-Object (SVO) order by default, adjusted for natural
+    Latin flow.
+  - Repeated words (e.g., 'qokedy qokedy') translate to 'valde' (very) plus the base
+    verb for emphasis.
+  - Prepositions like 'in' indicate containment or location, 'ad' indicates direction
+    or destination, chosen by visual or logical fit.
+  - Null glyph 'o' is stripped in prefixes (e.g., 'qokedy' becomes 'kedy'), or translates
+    to '!' standalone.
+  - Abbreviations expand contextually (e.g., 'aiin' to 'erat', 'ar' to 'et'), mimicking
+    medieval shorthand.
+  - Polysemy shifts meaning by section (e.g., 'qokedy' as 'crescit' in herbal, 'lucet'
+    in astronomical), with base meaning as fallback.
+  glyph_mapping:
+    f: /f/
+    p: /p/
+    a: /a/
+    ch: /k/
+    o: /o/ or null
+    l: /l/
+    y: /j/
+    k: /k/
+    t: /t/
+    e: /e/
+    d: /d/
+    q: /kw/
+    ai: /ai/
+    n: /n/
+    s: /s/
+    sh: /ʃ/ or /a/
+    g: /g/
+    m: /m/
+    i: /i/
+    c: /k/ or /s/
+    ee: /eː/
+    ey: /ei/
+    cph: /kf/
+    cth: /kt/
+    fchey: /fkei/
+    cphai: /kfai/
+    fai: /fai/
+    gchedy: /gkedɪ/
+    okar: /okar/
+    qokar: /kwokar/
+    pchor: /pkor/
+  vocab:
+  - word: daiin
+    description: high frequency, fits preposition; direction
+    latin: ad
+  - word: ar
+    description: frequent, suits conjunction; links nouns
+    latin: et
+  - word: chedy
+    description: frequent, fits preposition; containment
+    latin: in
+  - word: ot
+    description: short, frequent, suits preposition; source
+    latin: ex
+  - word: qo-
+    description: prefix on verbs, indicates intensity
+    latin: valde
+  - word: shy
+    description: frequent, fits determiner; location
+    latin: hic
+  - word: fachys
+    description: near leaves
+    latin: folium
+  - word: ataiin
+    description: near roots
+    latin: radix
+  - word: pchedy
+    description: near plants
+    latin: planta
+  - word: pcho
+    description: p- prefix + cho, plant-related action
+    latin: plantat
+  - word: fchor
+    description: near buds
+    latin: fructus
+  - word: qokedy
+    description: herbal growth
+    latin: crescit
+  - word: okedy
+    description: action, broad use for extends
+    latin: extendit
+  - word: qokaiin
+    description: near plants
+    latin: terra
+  - word: ykal
+    description: tall plants
+    latin: altum
+  - word: pchol
+    description: stems
+    latin: caulis
+  - word: chol
+    description: stem, stalk (base word)
+    latin: caulis
+  - word: fchol
+    description: f- prefix + chol (stem), fruit-bearing stem
+    latin: caulis fructifer
+  - word: schol
+    description: s- prefix + chol (stem), side stem or branch
+    latin: caulis lateralis
+  - word: ychol
+    description: y- prefix + chol (stem), young stem or shoot
+    latin: caulis novellus
+  - word: fchey
+    description: petals
+    latin: petala
+  - word: pchal
+    description: woody stems
+    latin: lignum
+  - word: pchdy
+    description: thorns
+    latin: spina
+  - word: qotai
+    description: growth
+    latin: nascitur
+  - word: ychor
+    description: dry leaves
+    latin: siccat
+  - word: pcheor
+    description: general plant
+    latin: herba
+  - word: fchai
+    description: flowers
+    latin: flos
+  - word: fchorai
+    description: seeds
+    latin: semen
+  - word: qokeor
+    description: sprouting
+    latin: germinat
+  - word: kol
+    description: frequent in herbal folios, appears with plant descriptions
+    latin: cum
+  - word: chor
+    description: root word appearing in many compounds, botanical context
+    latin: ramus
+  - word: qotchy
+    description: high frequency herbal term with qo- prefix, near growth descriptions
+    latin: crescit
+  - word: tchy
+    description: contains chy (in) root, positional term
+    latin: intus
+  - word: kaiin
+    description: has -aiin suffix marker, appears in botanical contexts
+    latin: erat
+  - word: ky
+    description: very short frequent particle, connector or emphasis
+    latin: que
+  - word: dol
+    description: short function word, preposition
+    latin: de
+  - word: shoty
+    description: contains oty (direction) root, directional term
+    latin: versus
+  - word: kchor
+    description: compound with chor root, botanical term
+    latin: ramulus
+  - word: tchor
+    description: compound with chor root, plant part
+    latin: ramusculus
+  - word: qokchol
+    description: qo- prefix + chol (stem), intensified growth action
+    latin: caulem producit
+  - word: qokchy
+    description: qo- prefix + kchy (makes), intensified making/creating
+    latin: valde facit
+  - word: qotchor
+    description: qo- prefix + tchor (twig), intensified branching
+    latin: ramificat
+  - word: qotyykeey
+    description: qo- prefix + oty direction, intensified movement/extension toward
+    latin: valde extendit
+  - word: qotolo
+    description: qo- prefix intensifier, circular/rolling action
+    latin: volvit
+  - word: qotydy
+    description: qo- prefix + ty direction, very strongly toward
+    latin: valde versus
+  - word: qokol
+    description: qo- prefix + kol (with), intensified connection
+    latin: valde cum
+  - word: qodol
+    description: qo- prefix + dol (from), intensified origin
+    latin: valde de
+  - word: ochkchor
+    description: compound with chor/kchor roots, small branching structure
+    latin: ramulus parvus
+  - word: soshy
+    description: location marker + shy (here), specific position
+    latin: hic locus
+  - word: ychol
+    description: y- + chol (stem), associated with stem/stalk
+    latin: ad caulem
+  - word: ydaiin
+    description: y- + daiin (to), directional toward
+    latin: ad versus
+  - word: sodaiin
+    description: so- + daiin (to), specific directional
+    latin: ad locum
+  - word: qokain
+    description: near stars
+    latin: stella
+  - word: cthar
+    description: near stars
+    latin: caelum
+  - word: shedy
+    description: star motion
+    latin: movet
+  - word: qoke
+    description: rising stars
+    latin: ascendit
+  - word: qokeedy
+    description: duration
+    latin: longum
+  - word: qokar
+    description: planets
+    latin: planeta
+  - word: okar
+    description: orbital paths
+    latin: orbis
+  - word: ckhai
+    description: shadows
+    latin: umbra
+  - word: otaiin
+    description: star paths
+    latin: cursus
+  - word: sheke
+    description: falling stars
+    latin: descendit
+  - word: qokai
+    description: light
+    latin: lux
+  - word: qokaindy
+    description: sun
+    latin: sol
+  - word: qokairy
+    description: moon
+    latin: luna
+  - word: cphy
+    description: pools
+    latin: piscina
+  - word: pchey
+    description: veins
+    latin: vena
+  - word: cphai
+    description: bone
+    latin: os
+  - word: shai
+    description: fluid
+    latin: humor
+  - word: qokchey
+    description: cleansing
+    latin: purgat
+  - word: qotal
+    description: pooling
+    latin: stagnat
+  - word: pcheor
+    description: blood
+    latin: sanguis
+  - word: pchol
+    description: body
+    latin: corpus
+  - word: qokaidy
+    description: river
+    latin: fluvius
+  - word: cphol
+    description: jars
+    latin: vas
+  - word: okaiin
+    description: placing
+    latin: ponit
+  - word: qokor
+    description: dividing
+    latin: dividit
+  - word: gaiin
+    description: healing
+    latin: gratia
+  - word: qomedy
+    description: method
+    latin: modus
+  - word: pchor
+    description: resin
+    latin: resina
+  - word: fai
+    description: salt
+    latin: sal
+  - word: gchedy
+    description: tincture
+    latin: tinctura
+  - word: qodai
+    description: ether
+    latin: aether
+  - word: ckhaiin
+    description: heating
+    latin: calefacit
+  - word: fchody
+    description: powder
+    latin: pulvis
+  - word: pchai
+    description: oil
+    latin: oleum
+  - word: qokairy
+    description: juice
+    latin: sucus
+  - word: cthai
+    description: axes
+    latin: axis
+  - word: qotaiin
+    description: tilting
+    latin: inclinatur
+  - word: otai
+    description: before or path
+    latin: ante
+  - word: qotal
+    description: after
+    latin: post
+  - word: chtai
+    description: around
+    latin: circa
+  - word: qosai
+    description: against
+    latin: contra
+  - word: saiin
+    description: without
+    latin: sine
+  - word: okeedy
+    description: while
+    latin: dum
+  - word: qodar
+    description: for
+    latin: nam
+  - word: shaiin
+    description: therefore
+    latin: ergo
+  - word: qokeey
+    description: again
+    latin: iterum
+  - word: shor
+    description: often
+    latin: saepe
+  - word: ykai
+    description: rarely
+    latin: raro
+  - word: qos
+    description: certain
+    latin: quidam
+  - word: chai
+    description: other
+    latin: alius
+  - word: sy
+    description: itself
+    latin: ipse
+  - word: qod
+    description: which
+    latin: qui
+  - word: shai
+    description: where
+    latin: ubi
+  - word: okeey
+    description: when
+    latin: quando
+  - word: qomedy
+    description: how
+    latin: quomodo
+  - word: qodai
+    description: why
+    latin: cur
+  - word: okai
+    description: one
+    latin: unus
+  - word: chtai
+    description: two
+    latin: duo
+  - word: qotai
+    description: three
+    latin: tres
+  - word: qokor
+    description: four
+    latin: quattuor
+  - word: qokedy
+    description: five
+    latin: quinque
+  - word: shor
+    description: six
+    latin: sex
+  - word: chts
+    description: seven
+    latin: septem
+  - word: shsai
+    description: eight
+    latin: octo
+  - word: cphs
+    description: nine
+    latin: novem
+  - word: qokaidy
+    description: ten
+    latin: decem
+  - word: chor
+    description: hot, frequent adjective
+    latin: calidum
+  - word: ckhai
+    description: cold, water context
+    latin: frigidum
+  - word: shaiin
+    description: wet, water context
+    latin: humidum
+  - word: ychor
+    description: dry, plant context
+    latin: siccum
+  - word: pchal
+    description: hard, plant context
+    latin: durum
+  - word: shai
+    description: soft, water context
+    latin: molle
+  - word: fchai
+    description: light (weight), plant context
+    latin: leve
+  - word: pchor
+    description: heavy, resin context
+    latin: grave
+  - word: qokedy
+    description: great, large context
+    latin: magnus
+  - word: fchey
+    description: small, petal context
+    latin: parvus
+  - word: ykal
+    description: high, plant height
+    latin: altus
+  - word: qotai
+    description: deep, water context
+    latin: profundus
+  - word: okedy
+    description: wide, broad use
+    latin: latum
+  - word: shedy
+    description: narrow, tube context
+    latin: angustum
+  - word: qoke
+    description: straight, star motion
+    latin: rectum
+  - word: qokor
+    description: curved, orbital paths
+    latin: curvum
+  - word: qokar
+    description: comes, broad use
+    latin: venit
+  - word: shey
+    description: goes out, water context
+    latin: exit
+  - word: sheke
+    description: falls, star motion
+    latin: cadit
+  - word: kedy
+    description: makes, base for qo- verbs
+    latin: facit
+  - word: qoke
+    description: holds, cosmological context
+    latin: tenet
+  - word: qokchey
+    description: changes, pharma context
+    latin: mutat
+  - word: qokor
+    description: joins, cosmological context
+    latin: iungit
+  - word: shaiin
+    description: looks, star context
+    latin: spectat
+  - word: qotal
+    description: feels, water context
+    latin: sentit
+  - word: qodaiin
+    description: knows, broad use
+    latin: cognoscit
+  - word: otaiin
+    description: intends, recipe context
+    latin: intendit
+  - word: qok
+    description: can, action context
+    latin: potest
+  - word: qod
+    description: must, instruction context
+    latin: debet
+  - word: otaiin
+    description: wants, recipe context
+    latin: vult
+  - word: qokeedy
+    description: becomes, broad use
+    latin: fit
+  - word: qokar
+    description: remains, cosmological context
+    latin: manet
+  - word: aiin
+    description: is, short form
+    latin: est
+  - word: aiin
+    description: was, context-driven
+    latin: erat
+  - word: saiin
+    description: are, plural form
+    latin: sunt
+  - word: shai
+    description: was, variant form
+    latin: fuit
+  - word: qoke
+    description: has, vessel context
+    latin: habet
+  - word: qodai
+    description: gives, recipe context
+    latin: dat
+  - word: qokor
+    description: takes, recipe context
+    latin: accipit
+  - word: shaiin
+    description: sees, star context
+    latin: videt
+  - word: qotal
+    description: hears, water context
+    latin: audit
+  - word: qokchey
+    description: touches, pharma context
+    latin: tangit
+  - word: qokedy
+    description: smells, powder context
+    latin: olet
+  - word: qokar
+    description: tastes, juice context
+    latin: gustat
+  - word: qodaiin
+    description: knows, alternate meaning
+    latin: scit
+  - word: qoke
+    description: says, cosmological context
+    latin: dicit
+  - word: qokedy
+    description: writes, vessel context
+    latin: scribit
+  - word: shaiin
+    description: reads, star context
+    latin: legit
+  - word: qotal
+    description: seeks, recipe context
+    latin: quaerit
+  - word: qokor
+    description: finds, recipe context
+    latin: invenit
+  - word: shedy
+    description: loses, tube context
+    latin: perdit
+  - word: qoke
+    description: loves, cosmological context
+    latin: amat
+  - word: qokedy
+    description: hates, powder context
+    latin: odit
+  - word: shai
+    description: fears, water context
+    latin: timet
+  - word: qotal
+    description: hopes, recipe context
+    latin: sperat
+  - word: qodaiin
+    description: believes, broad use
+    latin: credit
+  - word: qoke
+    description: prays, cosmological context
+    latin: orat
+  - word: qokedy
+    description: works, vessel context
+    latin: laborat
+  - word: qokar
+    description: rests, cosmological context
+    latin: quiescit
+  - word: shedy
+    description: runs, tube context
+    latin: currit
+  - word: qokedy
+    description: leaps, river context
+    latin: saltat
+  - word: qokar
+    description: swims, blood context
+    latin: natat
+  - word: qoke
+    description: flies, star context
+    latin: volat
+  - word: qotal
+    description: walks, body context
+    latin: ambulat
+  - word: qodai
+    description: sits, cosmological context
+    latin: sedet
+  - word: qotai
+    description: stands, broad use
+    latin: stat
+  - word: shedy
+    description: lies, tube context
+    latin: iacet
+  - word: qokedy
+    description: sleeps, river context
+    latin: dormit
+  - word: qoke
+    description: watches, star context
+    latin: vigilat
+  - word: qokar
+    description: eats, juice context
+    latin: comedit
+  - word: qotal
+    description: drinks, water context
+    latin: bibit
+  - word: qokedy
+    description: grows, plant context
+    latin: crescit
+  - word: shedy
+    description: dies, dry leaf context
+    latin: moritur
+  - word: qoke
+    description: lives, growth context
+    latin: vivit
+  - word: qotai
+    description: is born, growth context
+    latin: nascitur
+  - word: qokedy
+    description: begins, water context
+    latin: incipit
+  - word: qokar
+    description: ends, cosmological context
+    latin: finit
+  - word: qokeedy
+    description: lasts, duration context
+    latin: durat
+  - word: qokchey
+    description: changes, pharma context
+    latin: mutat
+  - word: qokedy
+    description: increases, plant context
+    latin: auget
+  - word: shedy
+    description: decreases, tube context
+    latin: minuit
+  - word: qoke
+    description: raises, star context
+    latin: tollit
+  - word: qokar
+    description: lowers, recipe context
+    latin: deponit
+  - word: qokedy
+    description: opens, water context
+    latin: aperit
+  - word: qotal
+    description: closes, cosmological context
+    latin: claudit
+  - word: qoke
+    description: covers, vessel context
+    latin: tegit
+  - word: qokedy
+    description: reveals, star context
+    latin: revelat
+  - word: qokar
+    description: hides, powder context
+    latin: celat
+  - word: qotal
+    description: protects, cosmological context
+    latin: protegit
+  - word: shedy
+    description: destroys, tube context
+    latin: destruit
+  - word: qokedy
+    description: builds, vessel context
+    latin: construit
+  - word: qokor
+    description: divides, recipe context
+    latin: dividit
+  - word: qoke
+    description: unites, cosmological context
+    latin: unit
+  - word: qotal
+    description: separates, water context
+    latin: separat
+  - word: qokedy
+    description: mixes, jar context
+    latin: miscet
+  - word: qokchey
+    description: cleans, water context
+    latin: purgat
+  - word: qodai
+    description: heals, recipe context
+    latin: sanat
+  - word: shedy
+    description: harms, tube context
+    latin: laedit
+  - word: qoke
+    description: preserves, vessel context
+    latin: servat
+  - word: qokedy
+    description: corrupts, powder context
+    latin: corrumpit
+  - word: qokar
+    description: removes, recipe context
+    latin: aufert
+  - word: qotal
+    description: adds, jar context
+    latin: addit
+  - word: qoke
+    description: retains, vessel context
+    latin: retinet
+  - word: qokedy
+    description: frees, water context
+    latin: liberat
+  - word: qokar
+    description: captures, tube context
+    latin: captat
+  - word: qotal
+    description: ties, vessel context
+    latin: ligat
+  - word: qoke
+    description: unties, water context
+    latin: solvit
+  - word: qokedy
+    description: opens, water context
+    latin: aperit
+  - word: qokar
+    description: closes, cosmological context
+    latin: claudit
+  - word: qotal
+    description: encloses, vessel context
+    latin: includit
+  - word: shedy
+    description: excludes, tube context
+    latin: excludit
+  - word: qoke
+    description: contains, vessel context
+    latin: continet
+  - word: qokedy
+    description: emits, star context
+    latin: emittit
+  - word: qokar
+    description: receives, water context
+    latin: recipit
+  - word: qotal
+    description: holds back, cosmological context
+    latin: retinet
+  - word: shedy
+    description: expels, tube context
+    latin: expellit
+  - word: qokedy
+    description: attracts, river context
+    latin: attrahit
+  - word: qokar
+    description: repels, star context
+    latin: repellit
+  - word: qokedy
+    description: mixes, jar context
+    latin: miscet
+  - word: qotal
+    description: separates, water context
+    latin: separat
+  - word: qoke
+    description: gathers, vessel context
+    latin: colligit
+  - word: shedy
+    description: scatters, river context
+    latin: dispergit
+  - word: qokedy
+    description: arranges, cosmological context
+    latin: ordinat
+  - word: qokar
+    description: confounds, powder context
+    latin: confundit
+  - word: qokchey
+    description: cleans, water context
+    latin: purgat
+  - word: shedy
+    description: pollutes, tube context
+    latin: inquinat
+  - word: qoke
+    description: clarifies, star context
+    latin: clarificat
+  - word: qokedy
+    description: obscures, star context
+    latin: obscurat
+  - word: qokar
+    description: illuminates, star context
+    latin: illuminat
+  - word: qotal
+    description: warms, recipe context
+    latin: tepefacit
+  - word: shedy
+    description: freezes, water context
+    latin: gelat
+  - word: qokedy
+    description: boils, powder context
+    latin: fervet
+  - word: qoke
+    description: cooks, vessel context
+    latin: coquit
+  - word: qokar
+    description: roasts, juice context
+    latin: assat
+  - word: qotal
+    description: fries, recipe context
+    latin: frigit
+  - word: qokedy
+    description: distills, ether context
+    latin: destillat
+  - word: qoke
+    description: filters, vessel context
+    latin: filtrat
+  - word: qokar
+    description: purifies, recipe context
+    latin: purificat
+  - word: qotal
+    description: solidifies, vessel context
+    latin: solidificat
+  - word: qokedy
+    description: liquefies, powder context
+    latin: liquefacit
+  - word: qoke
+    description: evaporates, ether context
+    latin: evaporat
+  - word: qokar
+    description: condenses, water context
+    latin: condensat
+  - word: qotal
+    description: dissolves, recipe context
+    latin: dissolvit
+  - word: qoke
+    description: coagulates, vessel context
+    latin: coagulat
+  - word: qokedy
+    description: is separated, water context
+    latin: separatur
+  - word: qokar
+    description: is mixed, jar context
+    latin: miscetur
+  - word: qotal
+    description: is purified, recipe context
+    latin: purificatur
+  - word: qoke
+    description: is solidified, vessel context
+    latin: solidatur
+  - word: qokedy
+    description: is liquefied, powder context
+    latin: liquefit
+  - word: qokar
+    description: is evaporated, ether context
+    latin: evaporatur
+  - word: qotal
+    description: is condensed, water context
+    latin: condensatur
+  - word: qoke
+    description: is coagulated, vessel context
+    latin: coagulatur
+  - word: qokedy
+    description: is dissolved, recipe context
+    latin: dissolvitur
+  - word: shedy
+    description: is burned, powder context
+    latin: comburitur
+  - word: qoke
+    description: is ignited, recipe context
+    latin: accenditur
+  - word: qokedy
+    description: is extinguished, water context
+    latin: extinguitur
+  - word: qokedy
+    description: shines, star context
+    latin: lucet
+  - word: qoke
+    description: gleams, star context
+    latin: splendet
+  - word: shedy
+    description: is darkened, star context
+    latin: obscuratur
+  - word: qokar
+    description: is illuminated, star context
+    latin: illuminatur
+  - word: qotal
+    description: is heated, recipe context
+    latin: calentur
+  - word: shedy
+    description: is cooled, water context
+    latin: refrigeratur
+  - word: qokedy
+    description: is wetted, water context
+    latin: humectatur
+  - word: ychor
+    description: is dried, plant context
+    latin: siccatur
+  - word: qoke
+    description: is solidified, vessel context
+    latin: solidatur
+  - word: qokedy
+    description: is melted, powder context
+    latin: liquefactum
+  - word: qokar
+    description: is vaporized, ether context
+    latin: vaporatur
+  - word: qotal
+    description: is condensed, water context
+    latin: condensatur
+  - word: qoke
+    description: is coagulated, vessel context
+    latin: coagulatur
+  - word: qokedy
+    description: is dissolved, recipe context
+    latin: dissolvitur
+  - word: qotai
+    description: is born, growth context
+    latin: nascitur
+  - word: qokedy
+    description: grows, plant context
+    latin: crescit
+  - word: shedy
+    description: dies, dry leaf context
+    latin: moritur
+  - word: qoke
+    description: lives, growth context
+    latin: vivit
+  - word: qokedy
+    description: begins, water context
+    latin: incipit
+  - word: qokar
+    description: ends, cosmological context
+    latin: finit
+  - word: qokeedy
+    description: lasts, duration context
+    latin: durat
+  - word: qokchey
+    description: changes, pharma context
+    latin: mutat
+  - word: qokedy
+    description: increases, plant context
+    latin: auget
+  - word: shedy
+    description: decreases, tube context
+    latin: minuit
+  - word: qoke
+    description: raises, star context
+    latin: tollit
+  - word: qokar
+    description: lowers, recipe context
+    latin: deponit
+  - word: qokedy
+    description: opens, water context
+    latin: aperit
+  - word: qotal
+    description: closes, cosmological context
+    latin: claudit
+  - word: qoke
+    description: covers, vessel context
+    latin: tegit
+  - word: qokedy
+    description: reveals, star context
+    latin: revelat
+  - word: qokar
+    description: hides, powder context
+    latin: celat
+  - word: qotal
+    description: protects, cosmological context
+    latin: protegit
+  - word: shedy
+    description: destroys, tube context
+    latin: destruit
+  - word: qokedy
+    description: builds, vessel context
+    latin: construit
+  - word: qokor
+    description: divides, recipe context
+    latin: dividit
+  - word: qoke
+    description: unites, cosmological context
+    latin: unit
+  - word: qotal
+    description: separates, water context
+    latin: separat
+  - word: qokedy
+    description: mixes, jar context
+    latin: miscet
+  - word: qokchey
+    description: cleans, water context
+    latin: purgat
+  - word: qodai
+    description: heals, recipe context
+    latin: sanat
+  - word: shedy
+    description: harms, tube context
+    latin: laedit
+  - word: qoke
+    description: preserves, vessel context
+    latin: servat
+  - word: qokedy
+    description: corrupts, powder context
+    latin: corrumpit
+  - word: qokar
+    description: removes, recipe context
+    latin: aufert
+  - word: qotal
+    description: adds, jar context
+    latin: addit
+  - word: oty
+    description: source, appears in multiple folios
+    latin: ex
+  - word: dy
+    description: conjunction, very frequent
+    latin: et
+  - word: dyokchy
+    description: dy (and) + okchy action, connecting action
+    latin: et extendit
+  - word: dcho
+    description: d- prefix + cho, action marker
+    latin: facit
+  - word: olchy
+    description: ol + chy (in), location within
+    latin: in loco
+  - word: ykaiin
+    description: y- + kaiin, associated with state/being
+    latin: erat quidem
+  - word: chckhy
+    description: ch- + ckhy compound, checking/examining
+    latin: inspicit
+  - word: cheor
+    description: ch- + eor, botanical change/variation
+    latin: variat
+  - word: chey
+    description: ch- + ey, botanical element
+    latin: elementum
+  - word: chod
+    description: ch- + od, giving/presenting
+    latin: praebet
+  - word: chody
+    description: ch- + ody, movement/motion
+    latin: movetur
+  - word: chok
+    description: ch- + ok, size/magnitude
+    latin: magnitudo
+  - word: choor
+    description: ch- + oor, arrangement/order
+    latin: ordo
+  - word: chopol
+    description: ch- + o + pol, pole/support structure
+    latin: stipes
+  - word: kychodalg
+    description: ky + chod compound with alg suffix, botanical presentation
+    latin: praebet gratia
+  - word: kychodalm
+    description: ky + chod compound with alm suffix, botanical presentation variant
+    latin: praebet modo
+  - word: otchody
+    description: ot (from) + chody (moves), movement from source
+    latin: ex movetur
+  - word: da
+    description: short function word, giving/presentation
+    latin: dat
+  - word: dain
+    description: variant of daiin (to), directional
+    latin: ad
+  - word: dala
+    description: d- prefix + ala, wing/extension
+    latin: ala
+  - word: dalo
+    description: d- prefix + alo, nourishing/feeding
+    latin: alit
+  - word: dar
+    description: short function word, gift/giving
+    latin: donum
+  - word: dorody
+    description: d- + orody compound, botanical process
+    latin: maturat
+  - word: keor
+    description: botanical variation element
+    latin: varietas
+  - word: qotyykeey
+    description: complex qo- compound with yy pattern, intense extension
+    latin: valde valde extendit
+  - word: okchol
+    description: ok + chol (stem), stem action/growth
+    latin: caulem facit
+  - word: ykeey
+    description: y- + keey, botanical extension pattern
+    latin: extenditur
+  - word: shol
+    description: sh + ol, place/location
+    latin: locus
+  - word: otchor
+    description: ot (from) + chor (branch), branching from source
+    latin: ex ramo
+  - word: ykol
+    description: y- + kol (with), associated with
+    latin: cum quo
+  - word: dchol
+    description: d- + chol (stem), stem giving/producing
+    latin: caulem dat
+  - word: cheod
+    description: ch- + eod, botanical element variation
+    latin: pars variat
+  - word: shedy
+    description: she + dy (and), botanical connector
+    latin: et movens
+  - word: o
+    description: null glyph or single vowel, filler or exclamation
+    latin: o
+  - word: ol
+    description: location marker or article
+    latin: ille
+  - word: s
+    description: short connector, possessive or plural marker
+    latin: et
+  - word: otcho
+    description: ot (from) + cho action
+    latin: ex facit
+  - word: shok
+    description: location + action marker
+    latin: hic facit
+  - word: chocthy
+    description: cho + cthy (earth), earth-related action
+    latin: in terra facit
+  - word: chodaiin
+    description: chod (presents) + aiin direction
+    latin: praebet ad
+  - word: valde
+    description: very, greatly (intensifier), already used in qo- translation but appears standalone
+    latin: valde
+  - word: d
+    description: single letter function word, giving/action marker
+    latin: dat
+  - word: r
+    description: single letter, connector or possessive
+    latin: et
+  - word: y
+    description: single letter, directional or associative
+    latin: ad
+  - word: otaiin
+    description: ot (from) + aiin marker, source with state
+    latin: ex erat
+  - word: dor
+    description: d- + or, giving order/arrangement
+    latin: ordinat
+  - word: chcthy
+    description: ch- + cthy (earth), checking/examining earth
+    latin: terram inspicit
+  - word: otchol
+    description: ot (from) + chol (stem), from the stem
+    latin: ex caule
+  - word: tchey
+    description: t- + chey (element), touches/affects element
+    latin: tangit elementum
+  - word: cthol
+    description: ct- + hol, holding/containing structure
+    latin: continet
+  - word: oiin
+    description: suffix marker, state/being
+    latin: est
+  - word: or
+    description: short connector, order/arrangement
+    latin: ordo
+  - word: sho
+    description: sh- + o, location action
+    latin: hic facit
+  - word: yky
+    description: y- + ky, directional with connector
+    latin: ad que
+  - word: ychain
+    description: y- + chain, associated with structure/link
+    latin: ad catenam
+  - word: ytaiin
+    description: y- + taiin, directional with state
+    latin: ad erat
+  - word: dal
+    description: d- + al, giving wing/extension
+    latin: dat alam
+  - word: otol
+    description: ot (from) + ol (place), from place
+    latin: ex loco
+  - word: sal
+    description: s- + al, wing/side marker
+    latin: latus
+  - word: sheey
+    description: she + ey, location with element
+    latin: hic elementum
+  - word: ain
+    description: suffix marker for state/being/past
+    latin: erat
+  - word: aiin
+    description: extended state marker, was/were
+    latin: erat
+  - word: cho
+    description: action marker base, making/doing
+    latin: facit
+  - word: chy
+    description: containment base, in/within (already defined elsewhere but ensuring clarity)
+    latin: in
+  - word: sh
+    description: location prefix, here/this
+    latin: hic
+  - word: ok
+    description: action/extension base
+    latin: facit
+  - word: al
+    description: wing/extension suffix
+    latin: ala
+  - word: od
+    description: giving/presenting action
+    latin: dat
+  - word: ol
+    description: place/location base (polysemous - see polysemy section)
+    latin: locus
+  - word: otdy
+    description: ot (from) + dy (and), from and
+    latin: ex et
+  - word: otal
+    description: ot (from) + al (wing), from extension
+    latin: ex ala
+  - word: otar
+    description: ot (from) + ar (and), from and
+    latin: ex et
+  - word: shal
+    description: sh (here) + al (wing), here extension
+    latin: hic ala
+  - word: shol
+    description: sh (here) + ol (place), this place (polysemous)
+    latin: hic locus
+  - word: chal
+    description: ch- + al, botanical wing/extension
+    latin: folii ala
+  - word: chol
+    description: stem/stalk (polysemous - see polysemy section)
+    latin: caulis
+  - word: chol
+    description: ch- + ol, botanical location
+    latin: pars
+  - word: kal
+    description: k- + al, strength/support extension
+    latin: robur
+  - word: tal
+    description: t- + al, touching extension
+    latin: tactus alae
+  - word: oky
+    description: ok (action) + y (direction), directed action
+    latin: facit ad
+  - word: oty
+    description: ot (from) + y (direction), from toward (directional)
+    latin: ex ad
+  - word: chy
+    description: ch- + y, botanical direction
+    latin: ad plantam
+  - word: oky
+    description: ok + y, action direction
+    latin: facit versus
+  - word: tydy
+    description: ty (to) + dy (and), to and
+    latin: ad et
+  - word: tar
+    description: t- + ar, touching and
+    latin: tangit et
+  - word: tor
+    description: t- + or, touching order
+    latin: tangit ordine
+  - word: sar
+    description: s- + ar, side and
+    latin: latus et
+  - word: sor
+    description: s- + or, side order
+    latin: latus ordo
+  - word: kar
+    description: k- + ar, strength and
+    latin: robur et
+  - word: kor
+    description: k- + or, strength order
+    latin: robur ordo
+  - word: char
+    description: ch- + ar, botanical and
+    latin: planta et
+  - word: shor
+    description: sh (here) + or (order), here order/arrangement
+    latin: hic ordo
+  - word: ydy
+    description: y (to) + dy (and), toward and
+    latin: ad et
+  - word: yor
+    description: y (to) + or (order), toward order
+    latin: ad ordinem
+  - word: yol
+    description: y (to) + ol (place), toward place
+    latin: ad locum
+  - word: ychol
+    description: y (to) + chol (stem), toward stem (already defined but ensuring)
+    latin: ad caulem
+  - word: ychor
+    description: y (to) + chor (branch), toward branch
+    latin: ad ramum
+  - word: chy
+    description: preposition for containment
+    latin: in
+  - word: cthy
+    description: earth/soil in herbal context
+    latin: terra
+  - word: chol
+    description: stem in herbal context
+    latin: caulis
+  - word: ty
+    description: direction marker
+    latin: ad
+  - word: ychy
+    description: growth verb
+    latin: crescit
+  - word: oky
+    description: extends, spreads
+    latin: extendit
+  - word: ksho
+    description: much, many
+    latin: multum
+  - word: ykshy
+    description: often
+    latin: saepe
+  - word: darody
+    description: material/substance
+    latin: materia
+  - word: chky
+    description: tall, high
+    latin: altum
+  - word: cthor
+    description: sky, heaven
+    latin: caelum
+  - word: choky
+    description: large, great
+    latin: magnus
+  - word: choty
+    description: small
+    latin: parvus
+  - word: odyd
+    description: moves
+    latin: movet
+  - word: kchy
+    description: makes, does
+    latin: facit
+  - word: dshy
+    description: here (variant)
+    latin: hic
+  - word: dardy
+    description: is (variant)
+    latin: est
+  - word: dair
+    description: for benefit
+    latin: gratia
+  - word: dam
+    description: end, completion
+    latin: finis
+  polysemy:
+  - word: qokedy
+    meanings:
+    - latin: crescit
+      context: herbal section, near plants
+    - latin: lucet
+      context: astronomical section, near stars
+    - latin: fluit
+      context: biological section, near water or tubes
+    - latin: miscet
+      context: pharmaceutical section, near jars
+    - latin: connectit
+      context: cosmological section, near rosettes
+    - latin: tendit
+      context: all sections, broad use
+    - latin: aperit
+      context: all sections, inferred (e.g., flow opening)
+    - latin: emittit
+      context: all sections, star context
+    - latin: destillat
+      context: all sections, ether context
+    base: crescit
+  - word: chol
+    meanings:
+    - latin: caulis
+      context: herbal section, stem/stalk of plants
+    - latin: corpus
+      context: biological section, body structure
+    - latin: columna
+      context: architectural/cosmological, column/pillar
+    base: caulis
+  - word: chor
+    meanings:
+    - latin: ramus
+      context: herbal section, branch of plant
+    - latin: via
+      context: cosmological section, path/route
+    - latin: ductus
+      context: biological section, duct/channel
+    base: ramus
+  - word: daiin
+    meanings:
+    - latin: ad
+      context: herbal section, directional to plant parts
+    - latin: versus
+      context: astronomical section, toward celestial bodies
+    - latin: per
+      context: biological section, through channels
+    base: ad
+  - word: shy
+    meanings:
+    - latin: hic
+      context: herbal section, here/this place
+    - latin: nunc
+      context: temporal context, now/at this time
+    - latin: iste
+      context: demonstrative, this one
+    base: hic
+  - word: chy
+    meanings:
+    - latin: in
+      context: herbal section, in/within plant
+    - latin: intra
+      context: biological section, inside body/vessel
+    - latin: inter
+      context: cosmological section, between/among
+    base: in
+  - word: ol
+    meanings:
+    - latin: ille
+      context: herbal section, that/the
+    - latin: omnis
+      context: quantitative, all/every
+    - latin: locus
+      context: locative, place/location
+    base: ille
+  - word: dy
+    meanings:
+    - latin: et
+      context: herbal section, and (connector)
+    - latin: deinde
+      context: sequential, then/next
+    - latin: item
+      context: listing, also/likewise
+    base: et
+  - word: otchy
+    meanings:
+    - latin: tangit
+      context: herbal section, touches/affects
+    - latin: percipit
+      context: sensory, perceives/senses
+    - latin: contingit
+      context: causal, happens/occurs
+    base: tangit
+  - word: shol
+    meanings:
+    - latin: locus
+      context: herbal section, place/location
+    - latin: spatium
+      context: astronomical, space/expanse
+    - latin: regio
+      context: geographical, region/area
+    base: locus
+    base: facit
+  - word: qokaiin
+    meanings:
+    - latin: terra
+      context: herbal section, near plants
+    - latin: stella
+      context: astronomical section, near stars
+    - latin: canalis
+      context: biological section, near tubes
+    - latin: mundus
+      context: cosmological section, near rosettes
+    - latin: materia
+      context: pharmaceutical section, near jars
+    base: res
+  - word: shedy
+    meanings:
+    - latin: movet
+      context: astronomical section, near stars
+    - latin: fluit
+      context: biological section, near tubes
+    - latin: aqua
+      context: biological section, near water
+    - latin: descendit
+      context: all sections, broad use
+    - latin: expellit
+      context: all sections, tube context
+    - latin: destruit
+      context: all sections, tube context
+    base: movet
+  - word: qotai
+    meanings:
+    - latin: stat
+      context: cosmological section, near fixed points
+    - latin: nascitur
+      context: herbal section, near plants
+    base: stat
+  - word: qokeedy
+    meanings:
+    - latin: longum
+      context: astronomical section, near stars
+    - latin: durat
+      context: all sections, broad use
+    base: longum
+  - word: qokchey
+    meanings:
+    - latin: mutat
+      context: all sections, broad use
+    - latin: purgat
+      context: biological section, near water
+    base: mutat
+  - word: qoke
+    meanings:
+    - latin: ascendit
+      context: astronomical section, rising stars
+    - latin: tenet
+      context: all sections, cosmological context
+    - latin: stat
+      context: cosmological section, fixed points
+    - latin: habet
+      context: all sections, vessel context
+    - latin: dicit
+      context: cosmological section, broad use
+    - latin: vivit
+      context: herbal section, growth context
+    - latin: coquit
+      context: all sections, vessel context
+    - latin: filtrat
+      context: all sections, vessel context
+    base: tenet
+  - word: shai
+    meanings:
+    - latin: humor
+      context: biological section, fluid
+    - latin: ubi
+      context: all sections, broad use
+    - latin: fuit
+      context: all sections, past tense
+    base: humor
+  - word: qotal
+    meanings:
+    - latin: stagnat
+      context: biological section, pooling
+    - latin: post
+      context: all sections, recipe context
+    - latin: audit
+      context: all sections, water context
+    - latin: sperat
+      context: all sections, recipe context
+    - latin: dissolvit
+      context: all sections, recipe context
+    - latin: tepefacit
+      context: all sections, recipe context
+    base: stagnat
+  - word: qodai
+    meanings:
+    - latin: aether
+      context: pharmaceutical or cosmological section, ether
+    - latin: cur
+      context: all sections, broad use
+    - latin: dat
+      context: all sections, recipe context
+    base: aether
+  - word: qokar
+    meanings:
+    - latin: planeta
+      context: astronomical or cosmological section, planets
+    - latin: orbis
+      context: astronomical or cosmological section, orbits
+    - latin: gustat
+      context: all sections, juice context
+    - latin: quiescit
+      context: cosmological section, rests
+    - latin: recipit
+      context: all sections, water context
+    - latin: illuminat
+      context: all sections, star context
+    base: orbis
+  - word: qokairy
+    meanings:
+    - latin: luna
+      context: astronomical section, moon
+    - latin: sucus
+      context: pharmaceutical section, juice
+    base: sucus
+  - word: aiin
+    meanings:
+    - latin: est
+      context: all sections, present tense
+    - latin: erat
+      context: all sections, past tense
+    base: est
+  - word: shaiin
+    meanings:
+    - latin: videt
+      context: all sections, star context
+    - latin: legit
+      context: all sections, star context
+    base: videt

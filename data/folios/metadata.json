@@ -1,0 +1,156 @@
+{
+  "q02_f014r": {
+    "folio_id": "014r",
+    "section": "Herbal B",
+    "word_count": 216,
+    "downloaded_at": "2025-11-27T17:37:14.713255",
+    "file": "data/folios/q02_f014r.txt"
+  },
+  "q02_f014v": {
+    "folio_id": "014v",
+    "section": "Herbal B",
+    "word_count": 267,
+    "downloaded_at": "2025-11-27T17:37:14.720858",
+    "file": "data/folios/q02_f014v.txt"
+  },
+  "q02_f016v": {
+    "folio_id": "016v",
+    "section": "Herbal B",
+    "word_count": 218,
+    "downloaded_at": "2025-11-27T17:37:14.718537",
+    "file": "data/folios/q02_f016v.txt"
+  },
+  "q02_f015v": {
+    "folio_id": "015v",
+    "section": "Herbal B",
+    "word_count": 277,
+    "downloaded_at": "2025-11-27T17:37:14.723593",
+    "file": "data/folios/q02_f015v.txt"
+  },
+  "q02_f015r": {
+    "folio_id": "015r",
+    "section": "Herbal B",
+    "word_count": 291,
+    "downloaded_at": "2025-11-27T17:37:14.728082",
+    "file": "data/folios/q02_f015r.txt"
+  },
+  "q02_f016r": {
+    "folio_id": "016r",
+    "section": "Herbal B",
+    "word_count": 229,
+    "downloaded_at": "2025-11-27T17:37:14.726691",
+    "file": "data/folios/q02_f016r.txt"
+  },
+  "q01_f002r": {
+    "folio_id": "002r",
+    "section": "Herbal A",
+    "word_count": 217,
+    "downloaded_at": "2025-11-27T17:45:42.669141",
+    "file": "data/folios/q01_f002r.txt"
+  },
+  "q01_f005r": {
+    "folio_id": "005r",
+    "section": "Herbal A",
+    "word_count": 164,
+    "downloaded_at": "2025-11-27T17:45:42.673500",
+    "file": "data/folios/q01_f005r.txt"
+  },
+  "q01_f004r": {
+    "folio_id": "004r",
+    "section": "Herbal A",
+    "word_count": 195,
+    "downloaded_at": "2025-11-27T17:45:42.679115",
+    "file": "data/folios/q01_f004r.txt"
+  },
+  "q01_f008v": {
+    "folio_id": "008v",
+    "section": "Herbal A",
+    "word_count": 364,
+    "downloaded_at": "2025-11-27T17:45:42.680560",
+    "file": "data/folios/q01_f008v.txt"
+  },
+  "q01_f005v": {
+    "folio_id": "005v",
+    "section": "Herbal A",
+    "word_count": 182,
+    "downloaded_at": "2025-11-27T17:45:42.683206",
+    "file": "data/folios/q01_f005v.txt"
+  },
+  "q01_f004v": {
+    "folio_id": "004v",
+    "section": "Herbal A",
+    "word_count": 307,
+    "downloaded_at": "2025-11-27T17:45:42.688843",
+    "file": "data/folios/q01_f004v.txt"
+  },
+  "q01_f001v": {
+    "folio_id": "001v",
+    "section": "Herbal A",
+    "word_count": 215,
+    "downloaded_at": "2025-11-27T17:45:42.690037",
+    "file": "data/folios/q01_f001v.txt"
+  },
+  "q01_f003v": {
+    "folio_id": "003v",
+    "section": "Herbal A",
+    "word_count": 359,
+    "downloaded_at": "2025-11-27T17:45:42.693974",
+    "file": "data/folios/q01_f003v.txt"
+  },
+  "q01_f006r": {
+    "folio_id": "006r",
+    "section": "Herbal A",
+    "word_count": 229,
+    "downloaded_at": "2025-11-27T17:45:42.695764",
+    "file": "data/folios/q01_f006r.txt"
+  },
+  "q01_f002v": {
+    "folio_id": "002v",
+    "section": "Herbal A",
+    "word_count": 231,
+    "downloaded_at": "2025-11-27T17:45:42.696412",
+    "file": "data/folios/q01_f002v.txt"
+  },
+  "q01_f007r": {
+    "folio_id": "007r",
+    "section": "Herbal A",
+    "word_count": 160,
+    "downloaded_at": "2025-11-27T17:45:42.696973",
+    "file": "data/folios/q01_f007r.txt"
+  },
+  "q01_f001r": {
+    "folio_id": "001r",
+    "section": "Herbal A",
+    "word_count": 1099,
+    "downloaded_at": "2025-11-27T17:45:42.698569",
+    "file": "data/folios/q01_f001r.txt"
+  },
+  "q01_f008r": {
+    "folio_id": "008r",
+    "section": "Herbal A",
+    "word_count": 349,
+    "downloaded_at": "2025-11-27T17:45:42.701254",
+    "file": "data/folios/q01_f008r.txt"
+  },
+  "q01_f006v": {
+    "folio_id": "006v",
+    "section": "Herbal A",
+    "word_count": 484,
+    "downloaded_at": "2025-11-27T17:45:42.702548",
+    "file": "data/folios/q01_f006v.txt"
+  },
+  "q01_f007v": {
+    "folio_id": "007v",
+    "section": "Herbal A",
+    "word_count": 268,
+    "downloaded_at": "2025-11-27T17:45:42.703228",
+    "file": "data/folios/q01_f007v.txt"
+  },
+  "q01_f003r": {
+    "folio_id": "003r",
+    "section": "Herbal A",
+    "word_count": 334,
+    "downloaded_at": "2025-11-27T17:45:42.704109",
+    "file": "data/folios/q01_f003r.txt"
+  }
+}
