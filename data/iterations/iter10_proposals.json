@@ -1,0 +1,65 @@
+{
+  "iteration": 10,
+  "date": "2025-11-27",
+  "strategy": "Word families + moderate risk acceptance",
+  "proposals": [
+    {
+      "tier": 1,
+      "word": "sheol",
+      "latin": "hic locus",
+      "description": "she + ol; location demonstrative compound",
+      "frequency": 9,
+      "confidence": 0.70,
+      "reasoning": "Morphological decomposition she (iste) + ol (locus). Neighbor analysis shows 'she' appears with 'shol' 4x, confirming location word family.",
+      "sections": ["Herbal A", "Astrological", "Biological", "q06"]
+    },
+    {
+      "tier": 1,
+      "word": "ctho",
+      "latin": "terrae",
+      "description": "cth- earth family; genitive of terra",
+      "frequency": 18,
+      "confidence": 0.75,
+      "reasoning": "Appears immediately after cthy (terra) in folio q01_f002r context: 'cthy.ctho'. Part of established cth- word family (cthy=terra, cthor, cthol, etc.). Likely genitive form 'terrae' (of earth).",
+      "sections": ["Astrological", "Herbal A", "q06", "Biological", "Pharmaceutical"]
+    },
+    {
+      "tier": 2,
+      "word": "chan",
+      "latin": "canalis",
+      "description": "ch- botanical prefix + an; channel/duct",
+      "frequency": 11,
+      "confidence": 0.65,
+      "reasoning": "Follows ch- botanical prefix pattern. In botanical context could mean channel, duct, or canal (part of plant structure)",
+      "sections": ["Herbal A", "Pharmaceutical", "Astrological", "Biological"]
+    },
+    {
+      "tier": 2,
+      "word": "os",
+      "latin": "os",
+      "description": "short function word; mouth/opening",
+      "frequency": 10,
+      "confidence": 0.65,
+      "reasoning": "Very short word (2 letters) suggests function word. Latin 'os' means mouth/opening, fits botanical descriptions of plant openings/mouths",
+      "sections": ["Herbal A", "Astrological", "Pharmaceutical", "q06", "Biological"]
+    },
+    {
+      "tier": 2,
+      "word": "key",
+      "latin": "clavis",
+      "description": "possible loan word or botanical key (winged seed)",
+      "frequency": 9,
+      "confidence": 0.60,
+      "reasoning": "Short word could be loan word 'key'. In botanical context, 'key' refers to winged seeds (e.g., maple keys). Lower confidence due to uncertain etymology.",
+      "sections": ["Herbal A", "Astrological", "q06", "Pharmaceutical"]
+    }
+  ],
+  "summary": {
+    "tier_1_count": 2,
+    "tier_2_count": 3,
+    "total_proposals": 5,
+    "total_frequency": 57,
+    "estimated_coverage_gain": "0.8-1.2%"
+  }
+}
+

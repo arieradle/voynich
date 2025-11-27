@@ -1,0 +1,13 @@
+# Word Frequency Analysis
+
+**Total unknown words:** 2881
+
+**Words analyzed:** 3
+
+## Top Unknown Words
+
+| Rank | Word | Frequency | Priority | Sections | Contexts |
+|------|------|-----------|----------|----------|----------|
+| 1 | `ctho` | 18 | 220.0 | Pharmaceutical, Herbal A +3 | pharmaceutical, herbal, all, astronomical, biological |
+| 2 | `os` | 10 | 142.0 | Pharmaceutical, Herbal A +3 | pharmaceutical, herbal, all, astronomical, biological |
+| 3 | `chan` | 11 | 142.0 | Pharmaceutical, Herbal A +2 | astronomical, biological, pharmaceutical, herbal |

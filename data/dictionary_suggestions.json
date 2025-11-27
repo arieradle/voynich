@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "word": "ctho",
+    "frequency": 18,
+    "suggested_latin": "[plant-related]",
+    "suggested_contexts": [
+      "astronomical",
+      "herbal",
+      "all",
+      "biological",
+      "pharmaceutical"
+    ],
+    "reasoning": "Appears 18x across 5 section(s): Astrological, Herbal A, q06, Biological, Pharmaceutical",
+    "confidence": "low"
+  },
+  {
+    "word": "chan",
+    "frequency": 11,
+    "suggested_latin": "[plant-related]",
+    "suggested_contexts": [
+      "herbal",
+      "pharmaceutical",
+      "astronomical",
+      "biological"
+    ],
+    "reasoning": "Appears 11x across 4 section(s): Herbal A, Pharmaceutical, Astrological, Biological",
+    "confidence": "low"
+  },
+  {
+    "word": "os",
+    "frequency": 10,
+    "suggested_latin": "[plant-related]",
+    "suggested_contexts": [
+      "herbal",
+      "astronomical",
+      "pharmaceutical",
+      "all",
+      "biological"
+    ],
+    "reasoning": "Appears 10x across 5 section(s): Herbal A, Astrological, Pharmaceutical, q06, Biological; Short word \u2192 possibly function word (preposition, article)",
+    "confidence": "low"
+  },
+  {
+    "word": "sheol",
+    "frequency": 9,
+    "suggested_latin": "[compound of: she]",
+    "suggested_contexts": [
+      "herbal",
+      "astronomical",
+      "biological",
+      "all"
+    ],
+    "reasoning": "Appears 9x across 4 section(s): Herbal A, Astrological, Biological, q06; Contains known roots: she",
+    "confidence": "low"
+  },
+  {
+    "word": "oteol",
+    "frequency": 9,
+    "suggested_latin": "[plant-related]",
+    "suggested_contexts": [
+      "herbal",
+      "pharmaceutical",
+      "all",
+      "biological"
+    ],
+    "reasoning": "Appears 9x across 4 section(s): Herbal A, Pharmaceutical, q06, Biological",
+    "confidence": "low"
+  },
+  {
+    "word": "key",
+    "frequency": 9,
+    "suggested_latin": "[plant-related]",
+    "suggested_contexts": [
+      "herbal",
+      "astronomical",
+      "all",
+      "pharmaceutical"
+    ],
+    "reasoning": "Appears 9x across 4 section(s): Herbal A, Astrological, q06, Pharmaceutical; Short word \u2192 possibly function word (preposition, article)",
+    "confidence": "low"
+  },
+  {
+    "word": "sheaiin",
+    "frequency": 8,
+    "suggested_latin": "[compound of: aiin, she]",
+    "suggested_contexts": [
+      "astronomical",
+      "pharmaceutical",
+      "biological",
+      "all",
+      "herbal"
+    ],
+    "reasoning": "Appears 8x across 5 section(s): Astrological, Pharmaceutical, Biological, q06, Herbal A; Contains known roots: aiin, she",
+    "confidence": "low"
+  },
+  {
+    "word": "oly",
+    "frequency": 8,
+    "suggested_latin": "[plant-related]",
+    "suggested_contexts": [
+      "pharmaceutical",
+      "herbal",
+      "all",
+      "biological"
+    ],
+    "reasoning": "Appears 8x across 4 section(s): Pharmaceutical, Herbal A, q06, Biological; Short word \u2192 possibly function word (preposition, article)",
+    "confidence": "low"
+  },
+  {
+    "word": "do",
+    "frequency": 8,
+    "suggested_latin": "[plant-related]",
+    "suggested_contexts": [
+      "herbal",
+      "pharmaceutical",
+      "astronomical",
+      "biological"
+    ],
+    "reasoning": "Appears 8x across 4 section(s): Herbal A, Pharmaceutical, Astrological, Biological; Short word \u2192 possibly function word (preposition, article)",
+    "confidence": "low"
+  }
+]
