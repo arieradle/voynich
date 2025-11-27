@@ -1,0 +1,28 @@
+[
+  {
+    "word": "chos",
+    "latin": "herba os",
+    "description": "ch- botanical + os; plant opening; 7x freq; confidence 0.95 (neighbor-boosted)"
+  },
+  {
+    "word": "sheaiin",
+    "latin": "hic est",
+    "description": "she + aiin compound; this is/here is; 8x freq; confidence 0.85"
+  },
+  {
+    "word": "oly",
+    "latin": "ille",
+    "description": "ol + y; that one/that place; 8x freq; confidence 0.80"
+  },
+  {
+    "word": "ody",
+    "latin": "movet",
+    "description": "action marker; moves/acts; 7x freq; confidence 0.80 (neighbor-boosted from 0.60!)"
+  },
+  {
+    "word": "oteol",
+    "latin": "ex illo",
+    "description": "ot- prefix + eol; from that; 9x freq; confidence 0.75"
+  }
+]
+

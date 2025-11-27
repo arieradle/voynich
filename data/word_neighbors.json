@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_words_analyzed": 365,
-    "dictionary_size": 762,
+    "total_words_analyzed": 374,
+    "dictionary_size": 771,
     "neighbor_window_size": 2,
     "top_neighbors_per_word": 15
   },
@@ -1977,6 +1977,219 @@
         {
           "folio": "q01_f003r",
           "context": "schey chor chal chaj chaj"
+        }
+      ]
+    },
+    "chan": {
+      "word": "chan",
+      "latin": "canalis",
+      "occurrences": 29,
+      "top_left_neighbors": [
+        [
+          "chtydaiin",
+          4
+        ],
+        [
+          "otchor",
+          4
+        ],
+        [
+          "okain",
+          4
+        ],
+        [
+          "char",
+          4
+        ],
+        [
+          "otain",
+          3
+        ],
+        [
+          "cthar",
+          3
+        ],
+        [
+          "dor",
+          3
+        ],
+        [
+          "qopcheody",
+          3
+        ],
+        [
+          "otaiin",
+          3
+        ],
+        [
+          "ytchey",
+          3
+        ],
+        [
+          "cthor",
+          3
+        ],
+        [
+          "dainykchy",
+          3
+        ],
+        [
+          "soin",
+          3
+        ],
+        [
+          "schaiin",
+          3
+        ],
+        [
+          "sheody",
+          2
+        ]
+      ],
+      "top_right_neighbors": [
+        [
+          "daiin",
+          4
+        ],
+        [
+          "chain",
+          4
+        ],
+        [
+          "cthor",
+          4
+        ],
+        [
+          "dor",
+          3
+        ],
+        [
+          "chol",
+          3
+        ],
+        [
+          "cheor",
+          3
+        ],
+        [
+          "chocthy",
+          3
+        ],
+        [
+          "dar",
+          3
+        ],
+        [
+          "chaiin",
+          3
+        ],
+        [
+          "qotchain",
+          3
+        ],
+        [
+          "qotchaiin",
+          3
+        ],
+        [
+          "pchor",
+          2
+        ],
+        [
+          "oeeockhy",
+          2
+        ],
+        [
+          "qokechy",
+          2
+        ],
+        [
+          "schaiin",
+          2
+        ]
+      ],
+      "top_all_neighbors": [
+        [
+          "cthor",
+          7
+        ],
+        [
+          "dor",
+          6
+        ],
+        [
+          "schaiin",
+          5
+        ],
+        [
+          "chtydaiin",
+          4
+        ],
+        [
+          "otchor",
+          4
+        ],
+        [
+          "chol",
+          4
+        ],
+        [
+          "daiin",
+          4
+        ],
+        [
+          "okain",
+          4
+        ],
+        [
+          "chain",
+          4
+        ],
+        [
+          "char",
+          4
+        ],
+        [
+          "otain",
+          3
+        ],
+        [
+          "cheor",
+          3
+        ],
+        [
+          "chocthy",
+          3
+        ],
+        [
+          "cthar",
+          3
+        ],
+        [
+          "dar",
+          3
+        ]
+      ],
+      "example_contexts": [
+        {
+          "folio": "q01_f002r",
+          "context": "otochor alshodaiinchol chan otochor alshodaiinchol"
+        },
+        {
+          "folio": "q01_f002v",
+          "context": "chtydaiin otchor chan dor chol"
+        },
+        {
+          "folio": "q01_f002v",
+          "context": "chtydaiin otchor chan dor chol"
+        },
+        {
+          "folio": "q01_f002v",
+          "context": "chtydaiin otchor chan dor chol"
+        },
+        {
+          "folio": "q01_f002v",
+          "context": "chtydaiin otchor chan daiin chotchey"
         }
       ]
     },
@@ -8411,6 +8624,219 @@
         }
       ]
     },
+    "chos": {
+      "word": "chos",
+      "latin": "herba os",
+      "occurrences": 17,
+      "top_left_neighbors": [
+        [
+          "dar",
+          5
+        ],
+        [
+          "chees",
+          3
+        ],
+        [
+          "chocthy",
+          3
+        ],
+        [
+          "qoos",
+          3
+        ],
+        [
+          "kchaiin",
+          3
+        ],
+        [
+          "chaiin",
+          3
+        ],
+        [
+          "daiiin",
+          2
+        ],
+        [
+          "okeeey",
+          2
+        ],
+        [
+          "chy",
+          1
+        ],
+        [
+          "yodaiin",
+          1
+        ],
+        [
+          "cthy",
+          1
+        ],
+        [
+          "otor",
+          1
+        ],
+        [
+          "shol",
+          1
+        ],
+        [
+          "cheockhy",
+          1
+        ],
+        [
+          "choldaiiin",
+          1
+        ]
+      ],
+      "top_right_neighbors": [
+        [
+          "or",
+          4
+        ],
+        [
+          "ckhaiin",
+          4
+        ],
+        [
+          "dan",
+          3
+        ],
+        [
+          "aiin",
+          3
+        ],
+        [
+          "choror",
+          3
+        ],
+        [
+          "cthy",
+          2
+        ],
+        [
+          "chocthy",
+          2
+        ],
+        [
+          "sheor",
+          1
+        ],
+        [
+          "choy",
+          1
+        ],
+        [
+          "oees",
+          1
+        ],
+        [
+          "fchodchy",
+          1
+        ],
+        [
+          "otchy",
+          1
+        ],
+        [
+          "cheos",
+          1
+        ],
+        [
+          "char",
+          1
+        ],
+        [
+          "ctey",
+          1
+        ]
+      ],
+      "top_all_neighbors": [
+        [
+          "dar",
+          5
+        ],
+        [
+          "chocthy",
+          5
+        ],
+        [
+          "or",
+          4
+        ],
+        [
+          "qoos",
+          4
+        ],
+        [
+          "ckhaiin",
+          4
+        ],
+        [
+          "cthy",
+          3
+        ],
+        [
+          "chees",
+          3
+        ],
+        [
+          "dan",
+          3
+        ],
+        [
+          "aiin",
+          3
+        ],
+        [
+          "kchaiin",
+          3
+        ],
+        [
+          "chaiin",
+          3
+        ],
+        [
+          "choror",
+          3
+        ],
+        [
+          "daiiin",
+          2
+        ],
+        [
+          "okeeey",
+          2
+        ],
+        [
+          "chy",
+          1
+        ]
+      ],
+      "example_contexts": [
+        {
+          "folio": "q01_f006r",
+          "context": "chy dar chos sheor choy"
+        },
+        {
+          "folio": "q01_f006v",
+          "context": "yodaiin cthy chos oees or"
+        },
+        {
+          "folio": "q03_f020v",
+          "context": "otor shol chos fchodchy otchy"
+        },
+        {
+          "folio": "q03_f020v",
+          "context": "dar cheockhy chos cheos char"
+        },
+        {
+          "folio": "q04_f027r",
+          "context": "daiiin chees chos ctey dan"
+        }
+      ]
+    },
     "chotaiin": {
       "word": "chotaiin",
       "latin": "herba cursus",
@@ -12826,6 +13252,219 @@
         {
           "folio": "q01_f001r",
           "context": "cphy cphodals cthey shy oldain"
+        }
+      ]
+    },
+    "ctho": {
+      "word": "ctho",
+      "latin": "terrae",
+      "occurrences": 36,
+      "top_left_neighbors": [
+        [
+          "daiin",
+          8
+        ],
+        [
+          "dor",
+          3
+        ],
+        [
+          "chees",
+          3
+        ],
+        [
+          "dchor",
+          3
+        ],
+        [
+          "chey",
+          3
+        ],
+        [
+          "kainchor",
+          3
+        ],
+        [
+          "otchol",
+          3
+        ],
+        [
+          "chaiin",
+          3
+        ],
+        [
+          "chcthy",
+          3
+        ],
+        [
+          "otam",
+          2
+        ],
+        [
+          "deey",
+          2
+        ],
+        [
+          "kcho",
+          2
+        ],
+        [
+          "tcho",
+          2
+        ],
+        [
+          "qotchor",
+          2
+        ],
+        [
+          "dain",
+          2
+        ]
+      ],
+      "top_right_neighbors": [
+        [
+          "daiin",
+          5
+        ],
+        [
+          "sho",
+          3
+        ],
+        [
+          "shy",
+          3
+        ],
+        [
+          "cpharydaiin",
+          3
+        ],
+        [
+          "sos",
+          3
+        ],
+        [
+          "dain",
+          3
+        ],
+        [
+          "ckholdy",
+          3
+        ],
+        [
+          "kchodan",
+          3
+        ],
+        [
+          "chkchory",
+          3
+        ],
+        [
+          "cthol",
+          3
+        ],
+        [
+          "mdy",
+          2
+        ],
+        [
+          "cthey",
+          2
+        ],
+        [
+          "shol",
+          2
+        ],
+        [
+          "cthy",
+          2
+        ],
+        [
+          "dchar",
+          2
+        ]
+      ],
+      "top_all_neighbors": [
+        [
+          "daiin",
+          13
+        ],
+        [
+          "dchor",
+          5
+        ],
+        [
+          "dain",
+          5
+        ],
+        [
+          "sho",
+          4
+        ],
+        [
+          "cthy",
+          3
+        ],
+        [
+          "dor",
+          3
+        ],
+        [
+          "chees",
+          3
+        ],
+        [
+          "shy",
+          3
+        ],
+        [
+          "cpharydaiin",
+          3
+        ],
+        [
+          "sos",
+          3
+        ],
+        [
+          "chey",
+          3
+        ],
+        [
+          "kainchor",
+          3
+        ],
+        [
+          "ckholdy",
+          3
+        ],
+        [
+          "otchol",
+          3
+        ],
+        [
+          "kchodan",
+          3
+        ]
+      ],
+      "example_contexts": [
+        {
+          "folio": "q01_f002r",
+          "context": "sshor cthy ctho qotaiincthey ychor"
+        },
+        {
+          "folio": "q01_f006v",
+          "context": "lorchar otam ctho mdy lorchor"
+        },
+        {
+          "folio": "q01_f006v",
+          "context": "lorchor otam ctho mdy lor"
+        },
+        {
+          "folio": "q01_f008r",
+          "context": "okokchodg okokchodm ctho cthey shol"
+        },
+        {
+          "folio": "q01_f008r",
+          "context": "lody cholal ctho cthey shol"
         }
       ]
     },
@@ -26236,6 +26875,219 @@
         }
       ]
     },
+    "ody": {
+      "word": "ody",
+      "latin": "movet",
+      "occurrences": 19,
+      "top_left_neighbors": [
+        [
+          "shar",
+          4
+        ],
+        [
+          "char",
+          4
+        ],
+        [
+          "yshos",
+          4
+        ],
+        [
+          "daiin",
+          4
+        ],
+        [
+          "kol",
+          3
+        ],
+        [
+          "shor",
+          3
+        ],
+        [
+          "shedy",
+          3
+        ],
+        [
+          "shees",
+          3
+        ],
+        [
+          "chor",
+          3
+        ],
+        [
+          "shokchy",
+          1
+        ],
+        [
+          "cph",
+          1
+        ],
+        [
+          "dchaiin",
+          1
+        ],
+        [
+          "chol",
+          1
+        ],
+        [
+          "okalotchedy",
+          1
+        ],
+        [
+          "chaky",
+          1
+        ]
+      ],
+      "top_right_neighbors": [
+        [
+          "sho",
+          3
+        ],
+        [
+          "otody",
+          3
+        ],
+        [
+          "qoyoeesordy",
+          3
+        ],
+        [
+          "aiin",
+          3
+        ],
+        [
+          "okoy",
+          3
+        ],
+        [
+          "shy",
+          3
+        ],
+        [
+          "sysary",
+          3
+        ],
+        [
+          "qokey",
+          2
+        ],
+        [
+          "daiin",
+          2
+        ],
+        [
+          "ytchoy",
+          1
+        ],
+        [
+          "shokchy",
+          1
+        ],
+        [
+          "qokoy",
+          1
+        ],
+        [
+          "shody",
+          1
+        ],
+        [
+          "cheor",
+          1
+        ],
+        [
+          "shoiin",
+          1
+        ]
+      ],
+      "top_all_neighbors": [
+        [
+          "daiin",
+          6
+        ],
+        [
+          "shar",
+          4
+        ],
+        [
+          "char",
+          4
+        ],
+        [
+          "yshos",
+          4
+        ],
+        [
+          "sho",
+          3
+        ],
+        [
+          "kol",
+          3
+        ],
+        [
+          "shor",
+          3
+        ],
+        [
+          "otody",
+          3
+        ],
+        [
+          "qoyoeesordy",
+          3
+        ],
+        [
+          "aiin",
+          3
+        ],
+        [
+          "okoy",
+          3
+        ],
+        [
+          "shedy",
+          3
+        ],
+        [
+          "shees",
+          3
+        ],
+        [
+          "chor",
+          3
+        ],
+        [
+          "shy",
+          3
+        ]
+      ],
+      "example_contexts": [
+        {
+          "folio": "q01_f004v",
+          "context": "shokchy cph ody ytchoy shokchy"
+        },
+        {
+          "folio": "q01_f004v",
+          "context": "shar char ody qokoy sho"
+        },
+        {
+          "folio": "q01_f004v",
+          "context": "shar char ody qokey sho"
+        },
+        {
+          "folio": "q01_f004v",
+          "context": "shar char ody qokey sho"
+        },
+        {
+          "folio": "q01_f004v",
+          "context": "shar char ody shody cheor"
+        }
+      ]
+    },
     "odyd": {
       "word": "odyd",
       "latin": "movet",
@@ -28899,6 +29751,219 @@
         }
       ]
     },
+    "oly": {
+      "word": "oly",
+      "latin": "ille",
+      "occurrences": 26,
+      "top_left_neighbors": [
+        [
+          "ckhol",
+          5
+        ],
+        [
+          "ykoaiin",
+          5
+        ],
+        [
+          "lor",
+          3
+        ],
+        [
+          "ochey",
+          3
+        ],
+        [
+          "choiin",
+          3
+        ],
+        [
+          "okshol",
+          3
+        ],
+        [
+          "solaiin",
+          3
+        ],
+        [
+          "okar",
+          3
+        ],
+        [
+          "okeody",
+          3
+        ],
+        [
+          "pchair",
+          3
+        ],
+        [
+          "okalotchedy",
+          3
+        ],
+        [
+          "cheky",
+          3
+        ],
+        [
+          "dshe",
+          2
+        ],
+        [
+          "qokeees",
+          2
+        ],
+        [
+          "chdalykeoaiin",
+          2
+        ]
+      ],
+      "top_right_neighbors": [
+        [
+          "koaiin",
+          4
+        ],
+        [
+          "cphor",
+          3
+        ],
+        [
+          "oky",
+          3
+        ],
+        [
+          "chckhy",
+          3
+        ],
+        [
+          "sheaiin",
+          3
+        ],
+        [
+          "shol",
+          3
+        ],
+        [
+          "loldy",
+          3
+        ],
+        [
+          "lol",
+          3
+        ],
+        [
+          "okol",
+          2
+        ],
+        [
+          "ykeo",
+          2
+        ],
+        [
+          "lor",
+          2
+        ],
+        [
+          "tolor",
+          2
+        ],
+        [
+          "solaiin",
+          2
+        ],
+        [
+          "ykeey",
+          2
+        ],
+        [
+          "okey",
+          2
+        ]
+      ],
+      "top_all_neighbors": [
+        [
+          "ckhol",
+          5
+        ],
+        [
+          "ykoaiin",
+          5
+        ],
+        [
+          "lor",
+          5
+        ],
+        [
+          "solaiin",
+          5
+        ],
+        [
+          "koaiin",
+          4
+        ],
+        [
+          "cphor",
+          3
+        ],
+        [
+          "ochey",
+          3
+        ],
+        [
+          "choiin",
+          3
+        ],
+        [
+          "okshol",
+          3
+        ],
+        [
+          "oky",
+          3
+        ],
+        [
+          "okar",
+          3
+        ],
+        [
+          "chckhy",
+          3
+        ],
+        [
+          "okeody",
+          3
+        ],
+        [
+          "pchair",
+          3
+        ],
+        [
+          "sheaiin",
+          3
+        ]
+      ],
+      "example_contexts": [
+        {
+          "folio": "q01_f003v",
+          "context": "ckhol ykoaiin oly koaiin cphor"
+        },
+        {
+          "folio": "q01_f003v",
+          "context": "ckhol ykoaiin oly koaiin cphar"
+        },
+        {
+          "folio": "q01_f003v",
+          "context": "ckhol ykoaiin oly koaiin cphor"
+        },
+        {
+          "folio": "q01_f003v",
+          "context": "ckhol ykoaiin oly koaiin cphor"
+        },
+        {
+          "folio": "q01_f003v",
+          "context": "ckhol ykoaiin oly daiidy qoteeol"
+        }
+      ]
+    },
     "or": {
       "word": "or",
       "latin": "ordo",
@@ -29322,6 +30387,219 @@
         {
           "folio": "q04_f030r",
           "context": "chor chor oraiin dor chseeor"
+        }
+      ]
+    },
+    "os": {
+      "word": "os",
+      "latin": "os",
+      "occurrences": 21,
+      "top_left_neighbors": [
+        [
+          "kshor",
+          3
+        ],
+        [
+          "choky",
+          3
+        ],
+        [
+          "poiis",
+          3
+        ],
+        [
+          "keol",
+          3
+        ],
+        [
+          "okchor",
+          3
+        ],
+        [
+          "dain",
+          2
+        ],
+        [
+          "yshckhy",
+          2
+        ],
+        [
+          "ykchoy",
+          2
+        ],
+        [
+          "chockhy",
+          2
+        ],
+        [
+          "cheor",
+          2
+        ],
+        [
+          "roiry",
+          2
+        ],
+        [
+          "shol",
+          2
+        ],
+        [
+          "otchol",
+          1
+        ],
+        [
+          "chocthy",
+          1
+        ],
+        [
+          "shody",
+          1
+        ]
+      ],
+      "top_right_neighbors": [
+        [
+          "chy",
+          5
+        ],
+        [
+          "dain",
+          3
+        ],
+        [
+          "ytaiin",
+          3
+        ],
+        [
+          "teody",
+          2
+        ],
+        [
+          "cheoeesykeor",
+          2
+        ],
+        [
+          "dchy",
+          2
+        ],
+        [
+          "sain",
+          2
+        ],
+        [
+          "aiin",
+          2
+        ],
+        [
+          "sor",
+          2
+        ],
+        [
+          "shan",
+          2
+        ],
+        [
+          "otchoty",
+          2
+        ],
+        [
+          "daiin",
+          2
+        ],
+        [
+          "ykchy",
+          2
+        ],
+        [
+          "pshy",
+          2
+        ],
+        [
+          "cheor",
+          1
+        ]
+      ],
+      "top_all_neighbors": [
+        [
+          "chy",
+          5
+        ],
+        [
+          "dain",
+          5
+        ],
+        [
+          "teody",
+          3
+        ],
+        [
+          "cheor",
+          3
+        ],
+        [
+          "kshor",
+          3
+        ],
+        [
+          "choky",
+          3
+        ],
+        [
+          "ytaiin",
+          3
+        ],
+        [
+          "poiis",
+          3
+        ],
+        [
+          "keol",
+          3
+        ],
+        [
+          "okchor",
+          3
+        ],
+        [
+          "cheoeesykeor",
+          2
+        ],
+        [
+          "yshckhy",
+          2
+        ],
+        [
+          "ykchoy",
+          2
+        ],
+        [
+          "dchy",
+          2
+        ],
+        [
+          "chockhy",
+          2
+        ]
+      ],
+      "example_contexts": [
+        {
+          "folio": "q01_f001r",
+          "context": "otchol chocthy os chy dain"
+        },
+        {
+          "folio": "q01_f001r",
+          "context": "shody dain os teody dain"
+        },
+        {
+          "folio": "q01_f001r",
+          "context": "teody dain os teody dain"
+        },
+        {
+          "folio": "q01_f003v",
+          "context": "chodaly chom os cheor kar"
+        },
+        {
+          "folio": "q01_f006r",
+          "context": "kshor choky os cheoeesykeor ytaiin"
         }
       ]
     },
@@ -31952,6 +33230,219 @@
         {
           "folio": "q01_f001r",
           "context": "okan ooiin oteey oteosroloty cthardaiin"
+        }
+      ]
+    },
+    "oteol": {
+      "word": "oteol",
+      "latin": "ex illo",
+      "occurrences": 28,
+      "top_left_neighbors": [
+        [
+          "shol",
+          6
+        ],
+        [
+          "kshoy",
+          5
+        ],
+        [
+          "otairin",
+          4
+        ],
+        [
+          "cheo",
+          3
+        ],
+        [
+          "otor",
+          3
+        ],
+        [
+          "chol",
+          3
+        ],
+        [
+          "shotol",
+          3
+        ],
+        [
+          "dar",
+          3
+        ],
+        [
+          "ykdy",
+          3
+        ],
+        [
+          "char",
+          3
+        ],
+        [
+          "otchdain",
+          3
+        ],
+        [
+          "qokol",
+          2
+        ],
+        [
+          "daiinsoleeg",
+          2
+        ],
+        [
+          "chetey",
+          2
+        ],
+        [
+          "ollchesy",
+          2
+        ]
+      ],
+      "top_right_neighbors": [
+        [
+          "okan",
+          5
+        ],
+        [
+          "shodain",
+          5
+        ],
+        [
+          "chol",
+          4
+        ],
+        [
+          "dar",
+          4
+        ],
+        [
+          "cheol",
+          3
+        ],
+        [
+          "chekey",
+          3
+        ],
+        [
+          "chetey",
+          3
+        ],
+        [
+          "okeey",
+          3
+        ],
+        [
+          "cholkalqokal",
+          3
+        ],
+        [
+          "dor",
+          3
+        ],
+        [
+          "otchol",
+          3
+        ],
+        [
+          "oteoly",
+          3
+        ],
+        [
+          "ykeey",
+          3
+        ],
+        [
+          "ychor",
+          2
+        ],
+        [
+          "cthy",
+          2
+        ]
+      ],
+      "top_all_neighbors": [
+        [
+          "chol",
+          7
+        ],
+        [
+          "dar",
+          7
+        ],
+        [
+          "shol",
+          6
+        ],
+        [
+          "kshoy",
+          5
+        ],
+        [
+          "okan",
+          5
+        ],
+        [
+          "shodain",
+          5
+        ],
+        [
+          "chetey",
+          5
+        ],
+        [
+          "otairin",
+          4
+        ],
+        [
+          "cheol",
+          3
+        ],
+        [
+          "cheo",
+          3
+        ],
+        [
+          "otor",
+          3
+        ],
+        [
+          "chekey",
+          3
+        ],
+        [
+          "shotol",
+          3
+        ],
+        [
+          "okeey",
+          3
+        ],
+        [
+          "cholkalqokal",
+          3
+        ]
+      ],
+      "example_contexts": [
+        {
+          "folio": "q01_f001r",
+          "context": "kshoy otairin oteol okan shodain"
+        },
+        {
+          "folio": "q01_f001r",
+          "context": "kshoy otaiiin oteol okan shodain"
+        },
+        {
+          "folio": "q01_f001r",
+          "context": "kshoy otairin oteol okan shodain"
+        },
+        {
+          "folio": "q01_f001r",
+          "context": "kshoy otairin oteol okan shodain"
+        },
+        {
+          "folio": "q01_f001r",
+          "context": "kshoy otairin oteol okan shodain"
         }
       ]
     },
@@ -44578,6 +46069,219 @@
         }
       ]
     },
+    "sheaiin": {
+      "word": "sheaiin",
+      "latin": "hic est",
+      "occurrences": 26,
+      "top_left_neighbors": [
+        [
+          "otchy",
+          4
+        ],
+        [
+          "she",
+          4
+        ],
+        [
+          "shcthal",
+          3
+        ],
+        [
+          "sarchor",
+          3
+        ],
+        [
+          "chcphy",
+          3
+        ],
+        [
+          "oky",
+          3
+        ],
+        [
+          "chepchy",
+          3
+        ],
+        [
+          "shor",
+          3
+        ],
+        [
+          "cphor",
+          3
+        ],
+        [
+          "chor",
+          3
+        ],
+        [
+          "pchair",
+          3
+        ],
+        [
+          "oly",
+          3
+        ],
+        [
+          "cholchaiin",
+          2
+        ],
+        [
+          "chaiin",
+          2
+        ],
+        [
+          "cheecthy",
+          2
+        ]
+      ],
+      "top_right_neighbors": [
+        [
+          "otshchor",
+          4
+        ],
+        [
+          "dainshckhy",
+          4
+        ],
+        [
+          "shol",
+          4
+        ],
+        [
+          "daiin",
+          4
+        ],
+        [
+          "shor",
+          3
+        ],
+        [
+          "qotchol",
+          3
+        ],
+        [
+          "oteos",
+          3
+        ],
+        [
+          "ykcho",
+          3
+        ],
+        [
+          "lchol",
+          3
+        ],
+        [
+          "dotody",
+          3
+        ],
+        [
+          "chykchy",
+          2
+        ],
+        [
+          "chy",
+          2
+        ],
+        [
+          "shosaiin",
+          2
+        ],
+        [
+          "chor",
+          2
+        ],
+        [
+          "shykchy",
+          1
+        ]
+      ],
+      "top_all_neighbors": [
+        [
+          "shor",
+          6
+        ],
+        [
+          "chor",
+          5
+        ],
+        [
+          "otchy",
+          4
+        ],
+        [
+          "she",
+          4
+        ],
+        [
+          "otshchor",
+          4
+        ],
+        [
+          "dainshckhy",
+          4
+        ],
+        [
+          "shol",
+          4
+        ],
+        [
+          "daiin",
+          4
+        ],
+        [
+          "shcthal",
+          3
+        ],
+        [
+          "sarchor",
+          3
+        ],
+        [
+          "chcphy",
+          3
+        ],
+        [
+          "oky",
+          3
+        ],
+        [
+          "qotchol",
+          3
+        ],
+        [
+          "oteos",
+          3
+        ],
+        [
+          "ykcho",
+          3
+        ]
+      ],
+      "example_contexts": [
+        {
+          "folio": "q01_f008v",
+          "context": "shcthal sarchor sheaiin shor chykchy"
+        },
+        {
+          "folio": "q01_f008v",
+          "context": "shcthal sarchor sheaiin shor chykchy"
+        },
+        {
+          "folio": "q01_f008v",
+          "context": "shcthal sarchor sheaiin shor shykchy"
+        },
+        {
+          "folio": "q03_f021r",
+          "context": "chcphy oky sheaiin qotchol oteos"
+        },
+        {
+          "folio": "q03_f021r",
+          "context": "chcphy oky sheaiin qotchol oteos"
+        }
+      ]
+    },
     "shedy": {
       "word": "shedy",
       "latin": "et movens",
@@ -45001,6 +46705,219 @@
         {
           "folio": "q01_f002r",
           "context": "dalor shansaiin sheey ckhor ychain"
+        }
+      ]
+    },
+    "sheol": {
+      "word": "sheol",
+      "latin": "hic locus",
+      "occurrences": 30,
+      "top_left_neighbors": [
+        [
+          "qotol",
+          4
+        ],
+        [
+          "shol",
+          3
+        ],
+        [
+          "sols",
+          3
+        ],
+        [
+          "kodalchy",
+          3
+        ],
+        [
+          "chpady",
+          3
+        ],
+        [
+          "cthol",
+          3
+        ],
+        [
+          "chkor",
+          3
+        ],
+        [
+          "saiin",
+          3
+        ],
+        [
+          "checkhey",
+          3
+        ],
+        [
+          "yshedair",
+          3
+        ],
+        [
+          "aloldy",
+          3
+        ],
+        [
+          "olaiir",
+          3
+        ],
+        [
+          "otor",
+          2
+        ],
+        [
+          "chty",
+          2
+        ],
+        [
+          "ochty",
+          2
+        ]
+      ],
+      "top_right_neighbors": [
+        [
+          "shor",
+          4
+        ],
+        [
+          "daiin",
+          4
+        ],
+        [
+          "chey",
+          4
+        ],
+        [
+          "shey",
+          3
+        ],
+        [
+          "ol",
+          3
+        ],
+        [
+          "sheey",
+          3
+        ],
+        [
+          "qokedy",
+          3
+        ],
+        [
+          "ykeedy",
+          3
+        ],
+        [
+          "cheky",
+          3
+        ],
+        [
+          "tchey",
+          3
+        ],
+        [
+          "shy",
+          3
+        ],
+        [
+          "or",
+          3
+        ],
+        [
+          "pcheol",
+          2
+        ],
+        [
+          "ykeor",
+          2
+        ],
+        [
+          "chol",
+          2
+        ]
+      ],
+      "top_all_neighbors": [
+        [
+          "shol",
+          4
+        ],
+        [
+          "qotol",
+          4
+        ],
+        [
+          "shor",
+          4
+        ],
+        [
+          "daiin",
+          4
+        ],
+        [
+          "okedam",
+          4
+        ],
+        [
+          "chey",
+          4
+        ],
+        [
+          "sols",
+          3
+        ],
+        [
+          "shey",
+          3
+        ],
+        [
+          "kodalchy",
+          3
+        ],
+        [
+          "chpady",
+          3
+        ],
+        [
+          "ol",
+          3
+        ],
+        [
+          "sheey",
+          3
+        ],
+        [
+          "cthol",
+          3
+        ],
+        [
+          "chkor",
+          3
+        ],
+        [
+          "saiin",
+          3
+        ]
+      ],
+      "example_contexts": [
+        {
+          "folio": "q01_f003r",
+          "context": "shol sols sheol shey pcheol"
+        },
+        {
+          "folio": "q01_f003r",
+          "context": "shol sols sheol shey pcheol"
+        },
+        {
+          "folio": "q01_f003r",
+          "context": "shol sols sheol shey okadaiin"
+        },
+        {
+          "folio": "q01_f004r",
+          "context": "kodalchy chpady sheol ol sheey"
+        },
+        {
+          "folio": "q01_f004r",
+          "context": "kodalchy chpady sheol ol sheey"
         }
       ]
     },

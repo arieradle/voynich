@@ -2,12 +2,59 @@
 
 **Total unknown words:** 2881
 
-**Words analyzed:** 3
+**Words analyzed:** 58
 
 ## Top Unknown Words
 
 | Rank | Word | Frequency | Priority | Sections | Contexts |
 |------|------|-----------|----------|----------|----------|
-| 1 | `ctho` | 18 | 220.0 | Pharmaceutical, Herbal A +3 | pharmaceutical, herbal, all, astronomical, biological |
-| 2 | `os` | 10 | 142.0 | Pharmaceutical, Herbal A +3 | pharmaceutical, herbal, all, astronomical, biological |
-| 3 | `chan` | 11 | 142.0 | Pharmaceutical, Herbal A +2 | astronomical, biological, pharmaceutical, herbal |
+| 1 | `ctho` | 16 | 200.0 | Pharmaceutical, Herbal A +3 | astronomical, all, herbal, pharmaceutical, biological |
+| 2 | `key` | 9 | 124.0 | Pharmaceutical, Herbal A +2 | herbal, astronomical, pharmaceutical, all |
+| 3 | `sheaiin` | 8 | 120.0 | Pharmaceutical, Herbal A +3 | astronomical, all, herbal, pharmaceutical, biological |
+| 4 | `do` | 8 | 114.0 | Pharmaceutical, Herbal A +2 | biological, astronomical, herbal, pharmaceutical |
+| 5 | `chan` | 8 | 112.0 | Pharmaceutical, Herbal A +2 | biological, astronomical, herbal, pharmaceutical |
+| 6 | `os` | 7 | 104.0 | Pharmaceutical, Herbal A +2 | herbal, astronomical, pharmaceutical, all |
+| 7 | `kam` | 7 | 104.0 | Pharmaceutical, Herbal A +2 | biological, herbal, pharmaceutical, all |
+| 8 | `daiiin` | 7 | 102.0 | Pharmaceutical, Herbal A +2 | biological, astronomical, herbal, pharmaceutical |
+| 9 | `daiir` | 7 | 102.0 | Pharmaceutical, Herbal A +2 | biological, herbal, astronomical, pharmaceutical |
+| 10 | `cheody` | 7 | 102.0 | Herbal A, Astrological +2 | biological, herbal, astronomical, all |
+| 11 | `keol` | 7 | 102.0 | Pharmaceutical, Herbal A +2 | biological, herbal, astronomical, pharmaceutical |
+| 12 | `dom` | 7 | 101.0 | Pharmaceutical, Herbal A +2 | biological, herbal, pharmaceutical |
+| 13 | `okam` | 6 | 100.0 | Pharmaceutical, Herbal A +3 | astronomical, all, herbal, pharmaceutical, biological |
+| 14 | `oly` | 7 | 96.0 | Pharmaceutical, Biological +1 | biological, pharmaceutical, all |
+| 15 | `chl` | 7 | 96.0 | Pharmaceutical, Astrological +1 | astronomical, herbal, pharmaceutical |
+| 16 | `cthom` | 7 | 94.0 | Herbal A, Biological +1 | biological, herbal, all |
+| 17 | `qo` | 6 | 94.0 | Herbal A, Astrological +2 | biological, herbal, astronomical, all |
+| 18 | `chom` | 7 | 94.0 | Herbal A, Biological +1 | biological, herbal, all |
+| 19 | `qor` | 6 | 94.0 | Pharmaceutical, Astrological +2 | biological, astronomical, pharmaceutical, all |
+| 20 | `shocthy` | 7 | 94.0 | Astrological, Biological +1 | biological, herbal, astronomical |
+| 21 | `chees` | 7 | 94.0 | Astrological, Biological +1 | biological, astronomical, all |
+| 22 | `sheo` | 6 | 92.0 | Pharmaceutical, Herbal A +2 | astronomical, herbal, pharmaceutical, all |
+| 23 | `cheo` | 6 | 92.0 | Herbal A, Astrological +2 | biological, herbal, astronomical, all |
+| 24 | `chos` | 6 | 92.0 | Pharmaceutical, Herbal A +2 | herbal, astronomical, pharmaceutical, all |
+| 25 | `sheol` | 6 | 92.0 | Herbal A, Astrological +2 | biological, herbal, astronomical, all |
+| 26 | `otam` | 6 | 92.0 | Herbal A, Astrological +2 | biological, herbal, astronomical, all |
+| 27 | `qot` | 6 | 91.0 | Herbal A, Astrological +2 | biological, herbal, astronomical |
+| 28 | `t` | 6 | 91.0 | Herbal A, Astrological +2 | biological, herbal, astronomical |
+| 29 | `kshol` | 5 | 90.0 | Pharmaceutical, Herbal A +3 | astronomical, all, herbal, pharmaceutical, biological |
+| 30 | `qody` | 5 | 90.0 | Pharmaceutical, Herbal A +3 | astronomical, all, herbal, pharmaceutical, biological |
+| 31 | `cphor` | 5 | 90.0 | Pharmaceutical, Herbal A +3 | astronomical, all, herbal, pharmaceutical, biological |
+| 32 | `am` | 6 | 86.0 | Pharmaceutical, Herbal A +1 | biological, herbal, pharmaceutical |
+| 33 | `kchol` | 7 | 86.0 | Biological, q06 | biological, all |
+| 34 | `ckhor` | 6 | 84.0 | Pharmaceutical, Herbal A +1 | biological, herbal, pharmaceutical |
+| 35 | `sair` | 6 | 84.0 | Pharmaceutical, Herbal A +1 | astronomical, herbal, pharmaceutical |
+| 36 | `qokey` | 6 | 84.0 | Herbal A, Astrological +1 | herbal, astronomical, all |
+| 37 | `cham` | 6 | 84.0 | Herbal A, Astrological +1 | herbal, astronomical, all |
+| 38 | `sos` | 5 | 84.0 | Herbal A, Astrological +2 | biological, herbal, astronomical, all |
+| 39 | `ytor` | 5 | 82.0 | Pharmaceutical, Herbal A +2 | biological, astronomical, herbal, pharmaceutical |
+| 40 | `ckhol` | 5 | 82.0 | Pharmaceutical, Herbal A +2 | biological, astronomical, herbal, pharmaceutical |
+| 41 | `kchdy` | 5 | 82.0 | Pharmaceutical, Herbal A +2 | herbal, astronomical, pharmaceutical, all |
+| 42 | `ykcho` | 5 | 82.0 | Pharmaceutical, Astrological +2 | biological, astronomical, pharmaceutical, all |
+| 43 | `qokam` | 5 | 82.0 | Pharmaceutical, Herbal A +2 | biological, herbal, pharmaceutical, all |
+| 44 | `om` | 6 | 78.0 | Biological, q06 | biological, all |
+| 45 | `oteol` | 6 | 76.0 | Pharmaceutical, q06 | pharmaceutical, all |
+| 46 | `ody` | 5 | 76.0 | Pharmaceutical, q06 +1 | herbal, pharmaceutical, all |
+| 47 | `cheky` | 5 | 74.0 | Pharmaceutical, Astrological +1 | astronomical, pharmaceutical, all |
+| 48 | `ykar` | 5 | 74.0 | Pharmaceutical, Biological +1 | biological, pharmaceutical, all |
+| 49 | `okey` | 5 | 74.0 | Pharmaceutical, Herbal A +1 | herbal, pharmaceutical, all |
+| 50 | `chokaiin` | 5 | 74.0 | Pharmaceutical, Herbal A +1 | herbal, pharmaceutical, all |

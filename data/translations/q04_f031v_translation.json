@@ -3,8 +3,8 @@
   "section": "Astrological",
   "context": "astronomical",
   "voynich_text": "ytchos octhey okeeos cheody okeey kchody daiin cheody keedy ytchos ockhey okeeos cheody okeey keeody daiin cheody keedy ytchos acthey okeeos cheody okeey kchody daiin cheody kchdy dair cthedy qokedy okeody chedar oked al ockhedy okeedy otas dair cthedy qokedy okeody chedar okedal ockhedy okeedy otaj dair cthedy qokedy okeody chedar oked al ockhedy okeedy otam ykeos cheeoy ar aiin ykeos cheeoy oraiin yteos cheeoy ar aiin saiin ar ckheos chedy okeey qoear oraiin cheom saiin ar ckheos chedy okeey qoear oraiin cheam saiin ar ckheos chedy okeey qoair oraiin cheam",
-  "latin_text": "[ytchos] circa elementum [okeeos] [cheody] quando [kchody] versus [cheody] [keedy] [ytchos] herba parva [okeeos] [cheody] quando [keeody] versus [cheody] [keedy] [ytchos] [acthey] [okeeos] [cheody] quando [kchody] versus [cheody] [kchdy] gratia [cthedy] lucet [okeody] [chedar] [oked] ala [ockhedy] dum [otas] gratia [cthedy] lucet [okeody] [chedar] [okedal] [ockhedy] dum [otaj] gratia [cthedy] lucet [okeody] [chedar] [oked] ala [ockhedy] dum [otam] [ykeos] [cheeoy] et est [ykeos] [cheeoy] ordo est [yteos] [cheeoy] et est sine et [ckheos] in quando [qoear] ordo est [cheom] sine et [ckheos] in quando [qoear] ordo est [cheam] sine et [ckheos] in quando [qoair] ordo est [cheam]",
-  "english_text": "[ytchos] [circa] element [okeeos] [cheody] [quando] [kchody] toward [cheody] [keedy] [ytchos] herb small [okeeos] [cheody] [quando] [keeody] toward [cheody] [keedy] [ytchos] [acthey] [okeeos] [cheody] [quando] [kchody] toward [cheody] [kchdy] grace [cthedy] [lucet] [okeody] [chedar] [oked] wing [ockhedy] [dum] [otas] grace [cthedy] [lucet] [okeody] [chedar] [okedal] [ockhedy] [dum] [otaj] grace [cthedy] [lucet] [okeody] [chedar] [oked] wing [ockhedy] [dum] [otam] [ykeos] [cheeoy] and is [ykeos] [cheeoy] order is [yteos] [cheeoy] and is [sine] and [ckheos] in [quando] [qoear] order is [cheom] [sine] and [ckheos] in [quando] [qoear] order is [cheam] [sine] and [ckheos] in [quando] [qoair] order is [cheam].",
+  "latin_text": "[ytchos] circa elementum [okeeos] herba movet quando [kchody] versus herba movet [keedy] [ytchos] herba parva [okeeos] herba movet quando [keeody] versus herba movet [keedy] [ytchos] [acthey] [okeeos] herba movet quando [kchody] versus herba movet [kchdy] gratia [cthedy] lucet [okeody] [chedar] [oked] ala [ockhedy] dum [otas] gratia [cthedy] lucet [okeody] [chedar] [okedal] [ockhedy] dum [otaj] gratia [cthedy] lucet [okeody] [chedar] [oked] ala [ockhedy] dum ex amans [ykeos] [cheeoy] et est [ykeos] [cheeoy] ordo est [yteos] [cheeoy] et est sine et [ckheos] in quando [qoear] ordo est [cheom] sine et [ckheos] in quando [qoear] ordo est [cheam] sine et [ckheos] in quando [qoair] ordo est [cheam]",
+  "english_text": "[ytchos] [circa] element [okeeos] herb moves [quando] [kchody] toward herb moves [keedy] [ytchos] herb small [okeeos] herb moves [quando] [keeody] toward herb moves [keedy] [ytchos] [acthey] [okeeos] herb moves [quando] [kchody] toward herb moves [kchdy] grace [cthedy] [lucet] [okeody] [chedar] [oked] wing [ockhedy] [dum] [otas] grace [cthedy] [lucet] [okeody] [chedar] [okedal] [ockhedy] [dum] [otaj] grace [cthedy] [lucet] [okeody] [chedar] [oked] wing [ockhedy] [dum] from [amans] [ykeos] [cheeoy] and is [ykeos] [cheeoy] order is [yteos] [cheeoy] and is [sine] and [ckheos] in [quando] [qoear] order is [cheom] [sine] and [ckheos] in [quando] [qoear] order is [cheam] [sine] and [ckheos] in [quando] [qoair] order is [cheam].",
   "word_translations": [
     {
       "original": "ytchos",
@@ -26,9 +26,9 @@
     },
     {
       "original": "cheody",
-      "latin": "[cheody]",
-      "confidence": 0.0,
-      "notes": "unknown"
+      "latin": "herba movet",
+      "confidence": 0.9,
+      "notes": "che- + ody; plant moves; 7x freq; conf 0.80"
     },
     {
       "original": "okeey",
@@ -50,9 +50,9 @@
     },
     {
       "original": "cheody",
-      "latin": "[cheody]",
-      "confidence": 0.0,
-      "notes": "unknown"
+      "latin": "herba movet",
+      "confidence": 0.9,
+      "notes": "che- + ody; plant moves; 7x freq; conf 0.80"
     },
     {
       "original": "keedy",
@@ -80,9 +80,9 @@
     },
     {
       "original": "cheody",
-      "latin": "[cheody]",
-      "confidence": 0.0,
-      "notes": "unknown"
+      "latin": "herba movet",
+      "confidence": 0.9,
+      "notes": "che- + ody; plant moves; 7x freq; conf 0.80"
     },
     {
       "original": "okeey",
@@ -104,9 +104,9 @@
     },
     {
       "original": "cheody",
-      "latin": "[cheody]",
-      "confidence": 0.0,
-      "notes": "unknown"
+      "latin": "herba movet",
+      "confidence": 0.9,
+      "notes": "che- + ody; plant moves; 7x freq; conf 0.80"
     },
     {
       "original": "keedy",
@@ -134,9 +134,9 @@
     },
     {
       "original": "cheody",
-      "latin": "[cheody]",
-      "confidence": 0.0,
-      "notes": "unknown"
+      "latin": "herba movet",
+      "confidence": 0.9,
+      "notes": "che- + ody; plant moves; 7x freq; conf 0.80"
     },
     {
       "original": "okeey",
@@ -158,9 +158,9 @@
     },
     {
       "original": "cheody",
-      "latin": "[cheody]",
-      "confidence": 0.0,
-      "notes": "unknown"
+      "latin": "herba movet",
+      "confidence": 0.9,
+      "notes": "che- + ody; plant moves; 7x freq; conf 0.80"
     },
     {
       "original": "kchdy",
@@ -338,9 +338,9 @@
     },
     {
       "original": "otam",
-      "latin": "[otam]",
-      "confidence": 0.0,
-      "notes": "unknown"
+      "latin": "ex amans",
+      "confidence": 0.9,
+      "notes": "ot- + am; from loving; 6x freq; conf 0.75"
     },
     {
       "original": "ykeos",
@@ -555,10 +555,10 @@
   ],
   "statistics": {
     "total": 91,
-    "known": 39,
-    "unknown": 52,
-    "avg_confidence": 0.37692307692307697,
-    "coverage": 0.42857142857142855
+    "known": 46,
+    "unknown": 45,
+    "avg_confidence": 0.4461538461538462,
+    "coverage": 0.5054945054945055
   },
   "unknown_words": [
     "acthey",
@@ -566,7 +566,6 @@
     "cheam",
     "chedar",
     "cheeoy",
-    "cheody",
     "cheom",
     "ckheos",
     "cthedy",
@@ -581,7 +580,6 @@
     "okeeos",
     "okeody",
     "otaj",
-    "otam",
     "otas",
     "qoair",
     "qoear",
@@ -589,5 +587,5 @@
     "ytchos",
     "yteos"
   ],
-  "translated_at": "2025-11-27T22:32:03.454740"
+  "translated_at": "2025-11-27T23:34:55.529329"
 }

@@ -3,8 +3,8 @@
   "section": "Pharmaceutical",
   "context": "pharmaceutical",
   "voynich_text": "yteey shody tchedydy chekar okaiin okaiin daiin okal yteey shodykchedy dy chekar okaiin okaiin daiin okal yteey shody tchedydy chekar okaiin okaiin daiin okal dar chos aiin or aiin cheekaiin okain ar okeeey dar chos aiin or aiin cheekaiin okain ar okeeey dar chos aiin or aiin cheekaiin okain ar okeeey",
-  "latin_text": "[yteey] hic movet [tchedydy] [chekar] valde ponit ad robur [yteey] [shodykchedy] et [chekar] valde ponit ad robur [yteey] hic movet [tchedydy] [chekar] valde ponit ad robur donum [chos] est ordo est [cheekaiin] erat et [okeeey] donum [chos] est ordo est [cheekaiin] erat et [okeeey] donum [chos] est ordo est [cheekaiin] erat et [okeeey]",
-  "english_text": "[yteey] here moves [tchedydy] [chekar] very [ponit] to strong [yteey] [shodykchedy] and [chekar] very [ponit] to strong [yteey] here moves [tchedydy] [chekar] very [ponit] to strong gift [chos] is order is [cheekaiin] was and [okeeey] gift [chos] is order is [cheekaiin] was and [okeeey] gift [chos] is order is [cheekaiin] was and [okeeey].",
+  "latin_text": "[yteey] hic movet [tchedydy] [chekar] valde ponit ad robur [yteey] [shodykchedy] et [chekar] valde ponit ad robur [yteey] hic movet [tchedydy] [chekar] valde ponit ad robur donum herba os est ordo est [cheekaiin] erat et [okeeey] donum herba os est ordo est [cheekaiin] erat et [okeeey] donum herba os est ordo est [cheekaiin] erat et [okeeey]",
+  "english_text": "[yteey] here moves [tchedydy] [chekar] very [ponit] to strong [yteey] [shodykchedy] and [chekar] very [ponit] to strong [yteey] here moves [tchedydy] [chekar] very [ponit] to strong gift herb [os] is order is [cheekaiin] was and [okeeey] gift herb [os] is order is [cheekaiin] was and [okeeey] gift herb [os] is order is [cheekaiin] was and [okeeey].",
   "word_translations": [
     {
       "original": "yteey",
@@ -158,9 +158,9 @@
     },
     {
       "original": "chos",
-      "latin": "[chos]",
-      "confidence": 0.0,
-      "notes": "unknown"
+      "latin": "herba os",
+      "confidence": 0.9,
+      "notes": "ch- botanical + os; plant opening; 7x freq; confidence 0.95 (neighbor-boosted)"
     },
     {
       "original": "aiin",
@@ -212,9 +212,9 @@
     },
     {
       "original": "chos",
-      "latin": "[chos]",
-      "confidence": 0.0,
-      "notes": "unknown"
+      "latin": "herba os",
+      "confidence": 0.9,
+      "notes": "ch- botanical + os; plant opening; 7x freq; confidence 0.95 (neighbor-boosted)"
     },
     {
       "original": "aiin",
@@ -266,9 +266,9 @@
     },
     {
       "original": "chos",
-      "latin": "[chos]",
-      "confidence": 0.0,
-      "notes": "unknown"
+      "latin": "herba os",
+      "confidence": 0.9,
+      "notes": "ch- botanical + os; plant opening; 7x freq; confidence 0.95 (neighbor-boosted)"
     },
     {
       "original": "aiin",
@@ -315,19 +315,18 @@
   ],
   "statistics": {
     "total": 51,
-    "known": 33,
-    "unknown": 18,
-    "avg_confidence": 0.5470588235294118,
-    "coverage": 0.6470588235294118
+    "known": 36,
+    "unknown": 15,
+    "avg_confidence": 0.6,
+    "coverage": 0.7058823529411765
   },
   "unknown_words": [
     "cheekaiin",
     "chekar",
-    "chos",
     "okeeey",
     "shodykchedy",
     "tchedydy",
     "yteey"
   ],
-  "translated_at": "2025-11-27T22:32:04.317922"
+  "translated_at": "2025-11-27T23:34:56.528280"
 }
