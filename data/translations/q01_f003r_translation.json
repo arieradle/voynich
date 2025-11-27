@@ -195,8 +195,8 @@
     {
       "original": "qocheor",
       "latin": "valde variat",
-      "confidence": 0.81,
-      "notes": "qo-prefix:ch- + eor, botanical change/variation"
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + cheor (varies), varies strongly"
     },
     {
       "original": "chol",
@@ -255,8 +255,8 @@
     {
       "original": "qocheor",
       "latin": "valde variat",
-      "confidence": 0.81,
-      "notes": "qo-prefix:ch- + eor, botanical change/variation"
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + cheor (varies), varies strongly"
     },
     {
       "original": "chol",
@@ -1077,8 +1077,8 @@
     {
       "original": "qokody",
       "latin": "valde movet",
-      "confidence": 0.81,
-      "notes": "qo-prefix:systematic word family: ko- prefix pattern"
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + kody (moves), strongly moves"
     },
     {
       "original": "qokchey",
@@ -1113,8 +1113,8 @@
     {
       "original": "qokody",
       "latin": "valde movet",
-      "confidence": 0.81,
-      "notes": "qo-prefix:systematic word family: ko- prefix pattern"
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + kody (moves), strongly moves"
     },
     {
       "original": "qokshey",
@@ -1143,8 +1143,8 @@
     {
       "original": "qokody",
       "latin": "valde movet",
-      "confidence": 0.81,
-      "notes": "qo-prefix:systematic word family: ko- prefix pattern"
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + kody (moves), strongly moves"
     },
     {
       "original": "qokchey",
@@ -1167,8 +1167,8 @@
     {
       "original": "qodair",
       "latin": "valde gratia",
-      "confidence": 0.81,
-      "notes": "qo-prefix:for benefit"
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + dair (grace/gift), very gracious"
     },
     {
       "original": "okeey",
@@ -1191,8 +1191,8 @@
     {
       "original": "qodair",
       "latin": "valde gratia",
-      "confidence": 0.81,
-      "notes": "qo-prefix:for benefit"
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + dair (grace/gift), very gracious"
     },
     {
       "original": "okeey",
@@ -1215,8 +1215,8 @@
     {
       "original": "qodair",
       "latin": "valde gratia",
-      "confidence": 0.81,
-      "notes": "qo-prefix:for benefit"
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + dair (grace/gift), very gracious"
     },
     {
       "original": "okeey",
@@ -1599,14 +1599,14 @@
     {
       "original": "qopchor",
       "latin": "valde resina",
-      "confidence": 0.81,
-      "notes": "qo-prefix:resin"
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + pchor (resin), strong resin"
     },
     {
       "original": "qopol",
       "latin": "valde locus",
-      "confidence": 0.81,
-      "notes": "qo-prefix:systematic word family: po- prefix pattern"
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + pol (place), strong place"
     },
     {
       "original": "opchol",
@@ -1635,14 +1635,14 @@
     {
       "original": "qopchor",
       "latin": "valde resina",
-      "confidence": 0.81,
-      "notes": "qo-prefix:resin"
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + pchor (resin), strong resin"
     },
     {
       "original": "qopol",
       "latin": "valde locus",
-      "confidence": 0.81,
-      "notes": "qo-prefix:systematic word family: po- prefix pattern"
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + pol (place), strong place"
     },
     {
       "original": "opchol",
@@ -1671,14 +1671,14 @@
     {
       "original": "qopchor",
       "latin": "valde resina",
-      "confidence": 0.81,
-      "notes": "qo-prefix:resin"
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + pchor (resin), strong resin"
     },
     {
       "original": "qopol",
       "latin": "valde locus",
-      "confidence": 0.81,
-      "notes": "qo-prefix:systematic word family: po- prefix pattern"
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + pol (place), strong place"
     },
     {
       "original": "opchol",
@@ -1967,7 +1967,7 @@
     "total": 326,
     "known": 172,
     "unknown": 154,
-    "avg_confidence": 0.45380368098159507,
+    "avg_confidence": 0.4576687116564418,
     "coverage": 0.5276073619631901
   },
   "unknown_words": [
@@ -2057,7 +2057,6 @@
     "daimm",
     "daindd",
     "dainddkol",
-    "dalor",
     "dalschokaiin",
     "damo",
     "damsochey",
@@ -2123,7 +2122,6 @@
     "kres",
     "kshey",
     "kshoy",
-    "kydain",
     "kydainy",
     "lkody",
     "loeees",
@@ -2190,16 +2188,11 @@
     "pydeey",
     "qacheor",
     "qo",
-    "qocheor",
-    "qodair",
     "qokeeo",
     "qokeeodal",
     "qokeom",
     "qokey",
-    "qokody",
     "qokshey",
-    "qopchor",
-    "qopol",
     "qosaiinchor",
     "qoschodam",
     "qot",
@@ -2282,7 +2275,6 @@
     "tsheos",
     "tshey",
     "tshodeesy",
-    "tychor",
     "tyotolom",
     "y,kor",
     "ycheey",
@@ -2294,7 +2286,6 @@
     "ydas",
     "ydoin",
     "ydychaiin",
-    "ypchol",
     "ysheor",
     "yshey",
     "ytain",
@@ -2303,5 +2294,5 @@
     "yto",
     "ytoain"
   ],
-  "translated_at": "2025-11-27T19:47:19.859430"
+  "translated_at": "2025-11-27T20:11:56.293311"
 }

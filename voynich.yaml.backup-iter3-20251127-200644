@@ -122,9 +122,6 @@ voynich_decipherment_rules:
   - word: choky
     description: large, great
     latin: magnus
-  - word: chokchy
-    description: cho (makes) + kchy, botanical action, appears in both sections
-    latin: facit
   - word: chokody
     description: ch (botanical) + ok (magnitude) + ody (movement), growth action
     latin: facit movet
@@ -212,9 +209,6 @@ voynich_decipherment_rules:
   - word: dalo
     description: d- prefix + alo, nourishing/feeding
     latin: alit
-  - word: dalor
-    description: d + al (wing) + or, wing-like structure
-    latin: ala
   - word: dam
     description: end, completion
     latin: finis
@@ -311,9 +305,6 @@ voynich_decipherment_rules:
   - word: kokaiin
     description: kok (makes) + aiin (is) compound, appears near fruits/seeds (20x frequency)
     latin: maturat
-  - word: koaiin
-    description: k + o + aiin (state marker), simple state marker
-    latin: o est
   - word: kol
     description: frequent in herbal folios, appears with plant descriptions
     latin: cum
@@ -560,9 +551,6 @@ voynich_decipherment_rules:
   - word: otoaiin
     description: ot (from/source) + o + aiin (state), from [it] is
     latin: ex o est
-  - word: otochor
-    description: ot (from) + ochor (order), from order
-    latin: ex ordo
   - word: oty
     description: source, appears in multiple folios
     latin: ex
@@ -605,9 +593,6 @@ voynich_decipherment_rules:
   - word: qodaiin
     description: knows, broad use
     latin: cognoscit
-  - word: qodair
-    description: qo (intensifier) + dair (grace/gift), very gracious
-    latin: valde gratia
   - word: qodar
     description: for
     latin: nam
@@ -650,9 +635,6 @@ voynich_decipherment_rules:
   - word: qokchy
     description: qo- prefix + kchy (makes), intensified making/creating
     latin: valde facit
-  - word: qokody
-    description: qo (intensifier) + kody (moves), strongly moves
-    latin: valde movet
   - word: qoke
     description: rising stars
     latin: ascendit
@@ -818,9 +800,6 @@ voynich_decipherment_rules:
   - word: tydy
     description: ty (to) + dy (and), to and
     latin: ad et
-  - word: tychor
-    description: t (touches) + ychor (dry), touches dry
-    latin: tangit siccum
   - word: valde
     description: very, greatly (intensifier), already used in qo- translation but
       appears standalone
@@ -1401,9 +1380,6 @@ voynich_decipherment_rules:
   - word: kychy
     latin: in
     description: 'systematic word family: ky- prefix pattern'
-  - word: kydain
-    latin: facit ad
-    description: k + ydain, causative directional
   - word: kyedy
     latin: movet
     description: 'systematic word family: ky- prefix pattern'
@@ -1752,9 +1728,6 @@ voynich_decipherment_rules:
   - word: qochy
     latin: valde in
     description: 'systematic word family: qo- prefix pattern'
-  - word: qocheor
-    description: qo (intensifier) + cheor (varies), varies strongly
-    latin: valde variat
   - word: qoedy
     latin: valde movet
     description: 'systematic word family: qo- prefix pattern'
@@ -1839,15 +1812,9 @@ voynich_decipherment_rules:
   - word: qopar
     latin: valde et
     description: 'systematic word family: qo- prefix pattern'
-  - word: qopchor
-    description: qo (intensifier) + pchor (resin), strong resin
-    latin: valde resina
   - word: qophar
     latin: valde et
     description: 'systematic word family: qo- prefix pattern'
-  - word: qopol
-    description: qo (intensifier) + pol (place), strong place
-    latin: valde locus
   - word: qosal
     latin: valde ala
     description: 'systematic word family: qo- prefix pattern'
@@ -2247,9 +2214,6 @@ voynich_decipherment_rules:
   - word: ypar
     latin: ad et
     description: 'systematic word family: yp- prefix pattern'
-  - word: ypchol
-    description: y (direction) + pchol (stem), toward stem
-    latin: ad caulis
   - word: ysar
     latin: ad et
     description: 'systematic word family: ys- prefix pattern'
