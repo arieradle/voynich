@@ -393,8 +393,8 @@
     {
       "original": "qotcho",
       "latin": "valde tangit facit",
-      "confidence": 0.81,
-      "notes": "qo-prefix:systematic word family: tc- prefix pattern"
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + tcho (touches/makes), strongly touches/makes"
     },
     {
       "original": "ytor",
@@ -447,8 +447,8 @@
     {
       "original": "qotcho",
       "latin": "valde tangit facit",
-      "confidence": 0.81,
-      "notes": "qo-prefix:systematic word family: tc- prefix pattern"
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + tcho (touches/makes), strongly touches/makes"
     },
     {
       "original": "ytor",
@@ -501,8 +501,8 @@
     {
       "original": "qotcho",
       "latin": "valde tangit facit",
-      "confidence": 0.81,
-      "notes": "qo-prefix:systematic word family: tc- prefix pattern"
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + tcho (touches/makes), strongly touches/makes"
     },
     {
       "original": "ytor",
@@ -555,8 +555,8 @@
     {
       "original": "qotcho",
       "latin": "valde tangit facit",
-      "confidence": 0.81,
-      "notes": "qo-prefix:systematic word family: tc- prefix pattern"
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + tcho (touches/makes), strongly touches/makes"
     },
     {
       "original": "ytor",
@@ -1085,7 +1085,7 @@
     "total": 179,
     "known": 107,
     "unknown": 72,
-    "avg_confidence": 0.5119553072625699,
+    "avg_confidence": 0.5139664804469274,
     "coverage": 0.5977653631284916
   },
   "unknown_words": [
@@ -1262,7 +1262,6 @@
     "dodyd",
     "doin",
     "doldsdlod",
-    "dolody",
     "dorchorychkar",
     "dr",
     "dycheey",
@@ -1322,7 +1321,6 @@
     "koraiin",
     "kos",
     "koshey",
-    "kotchody",
     "koy",
     "kres",
     "kshea",
@@ -1345,7 +1343,6 @@
     "ochodo",
     "ochydcho",
     "odaiin",
-    "odain",
     "odal",
     "odan",
     "odar",
@@ -1427,7 +1424,6 @@
     "pcheol",
     "pcheoldom",
     "pchooiin",
-    "pchoy",
     "potol",
     "potoy",
     "pshod",
@@ -1466,7 +1462,6 @@
     "qotchag",
     "qotcham",
     "qotcheo",
-    "qotcho",
     "qotchody",
     "qotchoiin",
     "qotchoiinchodain",
@@ -1611,7 +1606,6 @@
     "ykeam",
     "ykeeey",
     "ykoaiin",
-    "ykody",
     "ykoiin",
     "ypchol",
     "ysheor",
@@ -1620,7 +1614,6 @@
     "ytcheear",
     "ytchey",
     "ytchoy",
-    "ytchy",
     "yteam",
     "yteeaiir",
     "yteeay",
@@ -1631,5 +1624,5 @@
     "ytor",
     "ytoy"
   ],
-  "translated_at": "2025-11-27T19:34:08.587489"
+  "translated_at": "2025-11-27T19:47:19.880621"
 }

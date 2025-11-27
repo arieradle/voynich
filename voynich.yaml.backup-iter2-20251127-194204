@@ -233,9 +233,6 @@ voynich_decipherment_rules:
   - word: dol
     description: short function word, preposition
     latin: de
-  - word: dolody
-    description: d + ol (that) + ody (movement), directional movement
-    latin: ille movet
   - word: dor
     description: d- + or, giving order/arrangement
     latin: ordinat
@@ -311,9 +308,6 @@ voynich_decipherment_rules:
   - word: kor
     description: k- + or, strength order
     latin: robur ordo
-  - word: kotchody
-    description: k + otchody (movement from source), causative movement
-    latin: facit ex movetur
   - word: ksho
     description: much, many
     latin: multum
@@ -467,9 +461,6 @@ voynich_decipherment_rules:
   - word: od
     description: giving/presenting action
     latin: dat
-  - word: odain
-    description: od (gives) + ain (past state), past giving
-    latin: dat erat
   - word: odyd
     description: moves
     latin: movet
@@ -548,9 +539,6 @@ voynich_decipherment_rules:
   - word: otol
     description: ot (from) + ol (place), from place
     latin: ex loco
-  - word: otoaiin
-    description: ot (from/source) + o + aiin (state), from [it] is
-    latin: ex o est
   - word: oty
     description: source, appears in multiple folios
     latin: ex
@@ -578,9 +566,6 @@ voynich_decipherment_rules:
   - word: pchor
     description: resin
     latin: resina
-  - word: pchoy
-    description: p + cho (makes) + y, causative action, appears in both sections
-    latin: facit
   - word: qo-
     description: prefix on verbs, indicates intensity
     latin: valde
@@ -674,9 +659,6 @@ voynich_decipherment_rules:
   - word: qotal
     description: pooling
     latin: stagnat
-  - word: qotcho
-    description: qo (intensifier) + tcho (touches/makes), strongly touches/makes
-    latin: valde tangit facit
   - word: qotchor
     description: qo- prefix + tchor (twig), intensified branching
     latin: ramificat
@@ -840,9 +822,6 @@ voynich_decipherment_rules:
   - word: ykol
     description: y- + kol (with), associated with
     latin: cum quo
-  - word: ykody
-    description: y (direction) + kody (moves), directional movement
-    latin: ad movet
   - word: ykshy
     description: often
     latin: saepe
@@ -858,12 +837,6 @@ voynich_decipherment_rules:
   - word: ytaiin
     description: y- + taiin, directional with state
     latin: ad erat
-  - word: ytchor
-    description: y (direction) + tchor (small branch), toward small branch, appears in both sections
-    latin: ad ramusculus
-  - word: ytchy
-    description: y (direction) + tchy (interior), toward inside, appears in both sections
-    latin: ad intus
   - word: yty
     description: y-t-y pattern, passes through/transits motion (16x frequency)
     latin: transit
@@ -1110,9 +1083,6 @@ voynich_decipherment_rules:
   - word: dyidy
     latin: et movet
     description: 'systematic word family: dy- prefix pattern'
-  - word: dykchy
-    latin: et facit
-    description: dy (and/with) + kchy, appears in both sections
   - word: dykhar
     latin: et et
     description: 'systematic word family: dy- prefix pattern'
