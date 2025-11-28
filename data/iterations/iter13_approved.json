@@ -1,0 +1,19 @@
+[
+  {"word": "kchol", "latin": "caulem", "description": "kcho- + l; stem/stalk; 11x freq; conf 0.95 (HIGHEST 0.710!)"},
+  {"word": "ykar", "latin": "ad robur", "description": "y + kar; to strength; 11x freq; conf 0.90"},
+  {"word": "sheody", "latin": "hic movet", "description": "she + ody compound; here moves; 8x freq; conf 0.90"},
+  {"word": "cham", "latin": "herba", "description": "ch- botanical; herb; 9x freq; conf 0.85"},
+  {"word": "air", "latin": "hic", "description": "location marker; here; 9x freq; conf 0.80"},
+  {"word": "ckhol", "latin": "caulis", "description": "ckh + ol; stalk; 11x freq; conf 0.80"},
+  {"word": "ytol", "latin": "ad loco", "description": "y + tol; to place; 8x freq; conf 0.80"},
+  {"word": "cheky", "latin": "herba facit", "description": "che + ky; plant makes; 12x freq; conf 0.80"},
+  {"word": "qokey", "latin": "valde tangit", "description": "qo + key; very touches; 10x freq; conf 0.80"},
+  {"word": "ytor", "latin": "ad ordo", "description": "y + tor; to order; 7x freq; conf 0.75"},
+  {"word": "chckhey", "latin": "herba in elementum", "description": "ch + ckh + ey; plant in element; 8x freq; conf 0.75"},
+  {"word": "qokcho", "latin": "valde facit", "description": "qo + kcho; very makes; 6x freq; conf 0.75"},
+  {"word": "sair", "latin": "herba", "description": "botanical term; herb (variant); 7x freq; conf 0.75"},
+  {"word": "odar", "latin": "ordo", "description": "od + ar; order; 6x freq; conf 0.75"},
+  {"word": "ckhor", "latin": "ramulus", "description": "ckh + or; branch/twig; 8x freq; conf 0.75"},
+  {"word": "cheeky", "latin": "herba facit", "description": "che + eky; plant makes; 7x freq; conf 0.75"}
+]
+

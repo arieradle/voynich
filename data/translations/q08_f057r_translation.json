@@ -1,0 +1,822 @@
+{
+  "folio_id": "057r",
+  "section": "q08",
+  "context": "all",
+  "voynich_text": "qokcho daiin cheeodam qokeeo daiin cheeodam qokcho daiin cheeo dam tsheodal okam chckhey okchdy doctho opchey dy kodain oforam tcheodal okam chckhey okchdy doctho opchey dy kedaiin oforam tcheodar okam chckhey okchdy doctho opchey dy kedaiin oforam daiis sheedy qokeedy chcteyotchod shekey tedy okoldm daiir sheedy qokeedy cheteyoteeod shekey tedy okaldg daiin sheedy qokeedy cheteyoteod shekey tedy okaldm tair sheedy lchedy ckhchdyokchy chedy dal qokedam tair sheedy ochedy ckheedyokchy chedy dal qokedam taiin shedy chedy okedyokchy chedy dal qokedm odair sheeo ckhy sar al daiidy odair sheeo ckhy sar al daiijy odair sheeockhy sar al daiindy qoctchey kedy shedaiins cheos ykeos qcthhy tcfhy qoetchey kedy shedaiinscheos ykeos acthey tcfhy qocthey kedy shedaiinschos ykeos qcthchy tcfhy dshedy ctechy cphedom daedy ctheey cphedam dshedy techy cphedam",
+  "latin_text": "valde facit ad [cheeodam] [qokeeo] ad [cheeodam] valde facit ad [cheeo] finis [tsheodal] unus herba in elementum [okchdy] [doctho] sustinet parvum et [kodain] [oforam] [tcheodal] unus herba in elementum [okchdy] [doctho] sustinet parvum et [kedaiin] [oforam] [tcheodar] unus herba in elementum [okchdy] [doctho] sustinet parvum et [kedaiin] [oforam] [daiis] [sheedy] durat [chcteyotchod] [shekey] tangit movet [okoldm] [daiir] [sheedy] durat [cheteyoteeod] [shekey] tangit movet [okaldg] ad [sheedy] durat [cheteyoteod] [shekey] tangit movet [okaldm] [tair] [sheedy] [lchedy] [ckhchdyokchy] in dat alam [qokedam] [tair] [sheedy] in [ckheedyokchy] in dat alam [qokedam] tangit erat descendit in [okedyokchy] in dat alam [qokedm] [odair] [sheeo] herba in latus et ala [daiidy] [odair] [sheeo] herba in latus et ala [daiijy] [odair] [sheeockhy] latus et ala [daiindy] [qoctchey] facit [shedaiins] [cheos] [ykeos] [qcthhy] [tcfhy] [qoetchey] facit [shedaiinscheos] [ykeos] [acthey] [tcfhy] valde circa elementum facit [shedaiinschos] [ykeos] [qcthchy] [tcfhy] [dshedy] [ctechy] [cphedom] [daedy] [ctheey] [cphedam] [dshedy] [techy] [cphedam]",
+  "english_text": "Very makes to [cheeodam] [qokeeo] to [cheeodam] very makes to [cheeo] [finis] [tsheodal] [unus] herb in element [okchdy] [doctho] [sustinet] small and [kodain] [oforam] [tcheodal] [unus] herb in element [okchdy] [doctho] [sustinet] small and [kedaiin] [oforam] [tcheodar] [unus] herb in element [okchdy] [doctho] [sustinet] small and [kedaiin] [oforam] [daiis] [sheedy] [durat] [chcteyotchod] [shekey] touches moves [okoldm] [daiir] [sheedy] [durat] [cheteyoteeod] [shekey] touches moves [okaldg] to [sheedy] [durat] [cheteyoteod] [shekey] touches moves [okaldm] [tair] [sheedy] [lchedy] [ckhchdyokchy] in gives wing [qokedam] [tair] [sheedy] in [ckheedyokchy] in gives wing [qokedam] touches was from in [okedyokchy] in gives wing [qokedm] [odair] [sheeo] herb in wide and wing [daiidy] [odair] [sheeo] herb in wide and wing [daiijy] [odair] [sheeockhy] wide and wing [daiindy] [qoctchey] makes [shedaiins] [cheos] [ykeos] [qcthhy] [tcfhy] [qoetchey] makes [shedaiinscheos] [ykeos] [acthey] [tcfhy] very [circa] element makes [shedaiinschos] [ykeos] [qcthchy] [tcfhy] [dshedy] [ctechy] [cphedom] [daedy] [ctheey] [cphedam] [dshedy] [techy] [cphedam].",
+  "word_translations": [
+    {
+      "original": "qokcho",
+      "latin": "valde facit",
+      "confidence": 0.9,
+      "notes": "qo + kcho; very makes; 6x freq; conf 0.75"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "cheeodam",
+      "latin": "[cheeodam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokeeo",
+      "latin": "[qokeeo]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "cheeodam",
+      "latin": "[cheeodam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokcho",
+      "latin": "valde facit",
+      "confidence": 0.9,
+      "notes": "qo + kcho; very makes; 6x freq; conf 0.75"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "cheeo",
+      "latin": "[cheeo]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dam",
+      "latin": "finis",
+      "confidence": 0.9,
+      "notes": "end, completion"
+    },
+    {
+      "original": "tsheodal",
+      "latin": "[tsheodal]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okam",
+      "latin": "unus",
+      "confidence": 0.9,
+      "notes": "ok- family; one/unity; 6x freq; conf 0.75"
+    },
+    {
+      "original": "chckhey",
+      "latin": "herba in elementum",
+      "confidence": 0.9,
+      "notes": "ch + ckh + ey; plant in element; 8x freq; conf 0.75"
+    },
+    {
+      "original": "okchdy",
+      "latin": "[okchdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "doctho",
+      "latin": "[doctho]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "opchey",
+      "latin": "sustinet parvum",
+      "confidence": 0.9,
+      "notes": "p- + chey, supporting small element"
+    },
+    {
+      "original": "dy",
+      "latin": "et",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "kodain",
+      "latin": "[kodain]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oforam",
+      "latin": "[oforam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "tcheodal",
+      "latin": "[tcheodal]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okam",
+      "latin": "unus",
+      "confidence": 0.9,
+      "notes": "ok- family; one/unity; 6x freq; conf 0.75"
+    },
+    {
+      "original": "chckhey",
+      "latin": "herba in elementum",
+      "confidence": 0.9,
+      "notes": "ch + ckh + ey; plant in element; 8x freq; conf 0.75"
+    },
+    {
+      "original": "okchdy",
+      "latin": "[okchdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "doctho",
+      "latin": "[doctho]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "opchey",
+      "latin": "sustinet parvum",
+      "confidence": 0.9,
+      "notes": "p- + chey, supporting small element"
+    },
+    {
+      "original": "dy",
+      "latin": "et",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "kedaiin",
+      "latin": "[kedaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oforam",
+      "latin": "[oforam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "tcheodar",
+      "latin": "[tcheodar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okam",
+      "latin": "unus",
+      "confidence": 0.9,
+      "notes": "ok- family; one/unity; 6x freq; conf 0.75"
+    },
+    {
+      "original": "chckhey",
+      "latin": "herba in elementum",
+      "confidence": 0.9,
+      "notes": "ch + ckh + ey; plant in element; 8x freq; conf 0.75"
+    },
+    {
+      "original": "okchdy",
+      "latin": "[okchdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "doctho",
+      "latin": "[doctho]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "opchey",
+      "latin": "sustinet parvum",
+      "confidence": 0.9,
+      "notes": "p- + chey, supporting small element"
+    },
+    {
+      "original": "dy",
+      "latin": "et",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "kedaiin",
+      "latin": "[kedaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oforam",
+      "latin": "[oforam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiis",
+      "latin": "[daiis]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sheedy",
+      "latin": "[sheedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokeedy",
+      "latin": "durat",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, broad use"
+    },
+    {
+      "original": "chcteyotchod",
+      "latin": "[chcteyotchod]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shekey",
+      "latin": "[shekey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "tedy",
+      "latin": "tangit movet",
+      "confidence": 0.9,
+      "notes": "systematic word family: te- prefix pattern"
+    },
+    {
+      "original": "okoldm",
+      "latin": "[okoldm]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiir",
+      "latin": "[daiir]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sheedy",
+      "latin": "[sheedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokeedy",
+      "latin": "durat",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, broad use"
+    },
+    {
+      "original": "cheteyoteeod",
+      "latin": "[cheteyoteeod]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shekey",
+      "latin": "[shekey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "tedy",
+      "latin": "tangit movet",
+      "confidence": 0.9,
+      "notes": "systematic word family: te- prefix pattern"
+    },
+    {
+      "original": "okaldg",
+      "latin": "[okaldg]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "sheedy",
+      "latin": "[sheedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokeedy",
+      "latin": "durat",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, broad use"
+    },
+    {
+      "original": "cheteyoteod",
+      "latin": "[cheteyoteod]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shekey",
+      "latin": "[shekey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "tedy",
+      "latin": "tangit movet",
+      "confidence": 0.9,
+      "notes": "systematic word family: te- prefix pattern"
+    },
+    {
+      "original": "okaldm",
+      "latin": "[okaldm]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "tair",
+      "latin": "[tair]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sheedy",
+      "latin": "[sheedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "lchedy",
+      "latin": "[lchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ckhchdyokchy",
+      "latin": "[ckhchdyokchy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chedy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "frequent, fits preposition; containment"
+    },
+    {
+      "original": "dal",
+      "latin": "dat alam",
+      "confidence": 0.9,
+      "notes": "d- + al, giving wing/extension"
+    },
+    {
+      "original": "qokedam",
+      "latin": "[qokedam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "tair",
+      "latin": "[tair]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sheedy",
+      "latin": "[sheedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ochedy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "frequent, fits preposition; containment"
+    },
+    {
+      "original": "ckheedyokchy",
+      "latin": "[ckheedyokchy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chedy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "frequent, fits preposition; containment"
+    },
+    {
+      "original": "dal",
+      "latin": "dat alam",
+      "confidence": 0.9,
+      "notes": "d- + al, giving wing/extension"
+    },
+    {
+      "original": "qokedam",
+      "latin": "[qokedam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "taiin",
+      "latin": "tangit erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: ta- prefix pattern"
+    },
+    {
+      "original": "shedy",
+      "latin": "descendit",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, broad use"
+    },
+    {
+      "original": "chedy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "frequent, fits preposition; containment"
+    },
+    {
+      "original": "okedyokchy",
+      "latin": "[okedyokchy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chedy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "frequent, fits preposition; containment"
+    },
+    {
+      "original": "dal",
+      "latin": "dat alam",
+      "confidence": 0.9,
+      "notes": "d- + al, giving wing/extension"
+    },
+    {
+      "original": "qokedm",
+      "latin": "[qokedm]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "odair",
+      "latin": "[odair]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sheeo",
+      "latin": "[sheeo]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ckhy",
+      "latin": "herba in",
+      "confidence": 0.9,
+      "notes": "ck- + hy, botanical compound"
+    },
+    {
+      "original": "sar",
+      "latin": "latus et",
+      "confidence": 0.9,
+      "notes": "s- + ar, side and"
+    },
+    {
+      "original": "al",
+      "latin": "ala",
+      "confidence": 0.9,
+      "notes": "wing/extension suffix"
+    },
+    {
+      "original": "daiidy",
+      "latin": "[daiidy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "odair",
+      "latin": "[odair]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sheeo",
+      "latin": "[sheeo]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ckhy",
+      "latin": "herba in",
+      "confidence": 0.9,
+      "notes": "ck- + hy, botanical compound"
+    },
+    {
+      "original": "sar",
+      "latin": "latus et",
+      "confidence": 0.9,
+      "notes": "s- + ar, side and"
+    },
+    {
+      "original": "al",
+      "latin": "ala",
+      "confidence": 0.9,
+      "notes": "wing/extension suffix"
+    },
+    {
+      "original": "daiijy",
+      "latin": "[daiijy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "odair",
+      "latin": "[odair]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sheeockhy",
+      "latin": "[sheeockhy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sar",
+      "latin": "latus et",
+      "confidence": 0.9,
+      "notes": "s- + ar, side and"
+    },
+    {
+      "original": "al",
+      "latin": "ala",
+      "confidence": 0.9,
+      "notes": "wing/extension suffix"
+    },
+    {
+      "original": "daiindy",
+      "latin": "[daiindy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qoctchey",
+      "latin": "[qoctchey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "kedy",
+      "latin": "facit",
+      "confidence": 0.9,
+      "notes": "makes, base for qo- verbs"
+    },
+    {
+      "original": "shedaiins",
+      "latin": "[shedaiins]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheos",
+      "latin": "[cheos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ykeos",
+      "latin": "[ykeos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qcthhy",
+      "latin": "[qcthhy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "tcfhy",
+      "latin": "[tcfhy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qoetchey",
+      "latin": "[qoetchey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "kedy",
+      "latin": "facit",
+      "confidence": 0.9,
+      "notes": "makes, base for qo- verbs"
+    },
+    {
+      "original": "shedaiinscheos",
+      "latin": "[shedaiinscheos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ykeos",
+      "latin": "[ykeos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "acthey",
+      "latin": "[acthey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "tcfhy",
+      "latin": "[tcfhy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qocthey",
+      "latin": "valde circa elementum",
+      "confidence": 0.81,
+      "notes": "qo-prefix:cth- + ey, botanical element small"
+    },
+    {
+      "original": "kedy",
+      "latin": "facit",
+      "confidence": 0.9,
+      "notes": "makes, base for qo- verbs"
+    },
+    {
+      "original": "shedaiinschos",
+      "latin": "[shedaiinschos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ykeos",
+      "latin": "[ykeos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qcthchy",
+      "latin": "[qcthchy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "tcfhy",
+      "latin": "[tcfhy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dshedy",
+      "latin": "[dshedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ctechy",
+      "latin": "[ctechy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cphedom",
+      "latin": "[cphedom]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daedy",
+      "latin": "[daedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ctheey",
+      "latin": "[ctheey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cphedam",
+      "latin": "[cphedam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dshedy",
+      "latin": "[dshedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "techy",
+      "latin": "[techy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cphedam",
+      "latin": "[cphedam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    }
+  ],
+  "statistics": {
+    "total": 124,
+    "known": 47,
+    "unknown": 77,
+    "avg_confidence": 0.320241935483871,
+    "coverage": 0.3790322580645161
+  },
+  "unknown_words": [
+    "acthey",
+    "chcteyotchod",
+    "cheeo",
+    "cheeodam",
+    "cheos",
+    "cheteyoteeod",
+    "cheteyoteod",
+    "ckhchdyokchy",
+    "ckheedyokchy",
+    "cphedam",
+    "cphedom",
+    "ctchey",
+    "ctechy",
+    "ctheey",
+    "daedy",
+    "daiidy",
+    "daiijy",
+    "daiindy",
+    "daiir",
+    "daiis",
+    "doctho",
+    "dshedy",
+    "etchey",
+    "kedaiin",
+    "kedam",
+    "kedm",
+    "keeo",
+    "kodain",
+    "lchedy",
+    "odair",
+    "oforam",
+    "okaldg",
+    "okaldm",
+    "okchdy",
+    "okedyokchy",
+    "okoldm",
+    "qcthchy",
+    "qcthhy",
+    "qoctchey",
+    "qocthey",
+    "qoetchey",
+    "qokedam",
+    "qokedm",
+    "qokeeo",
+    "shedaiins",
+    "shedaiinscheos",
+    "shedaiinschos",
+    "sheedy",
+    "sheeo",
+    "sheeockhy",
+    "shekey",
+    "tair",
+    "tcfhy",
+    "tcheodal",
+    "tcheodar",
+    "techy",
+    "tsheodal",
+    "ykeos"
+  ],
+  "translated_at": "2025-11-28T02:34:41.875904"
+}

@@ -1,0 +1,58 @@
+{
+  "folio_id": "065r",
+  "section": "q08",
+  "context": "all",
+  "voynich_text": "otaim dam alam otaim dam alam",
+  "latin_text": "[otaim] finis [alam] [otaim] finis [alam]",
+  "english_text": "[otaim] [finis] [alam] [otaim] [finis] [alam].",
+  "word_translations": [
+    {
+      "original": "otaim",
+      "latin": "[otaim]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dam",
+      "latin": "finis",
+      "confidence": 0.9,
+      "notes": "end, completion"
+    },
+    {
+      "original": "alam",
+      "latin": "[alam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otaim",
+      "latin": "[otaim]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dam",
+      "latin": "finis",
+      "confidence": 0.9,
+      "notes": "end, completion"
+    },
+    {
+      "original": "alam",
+      "latin": "[alam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    }
+  ],
+  "statistics": {
+    "total": 6,
+    "known": 2,
+    "unknown": 4,
+    "avg_confidence": 0.3,
+    "coverage": 0.3333333333333333
+  },
+  "unknown_words": [
+    "alam",
+    "otaim"
+  ],
+  "translated_at": "2025-11-28T02:34:41.894188"
+}

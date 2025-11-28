@@ -1,0 +1,696 @@
+{
+  "folio_id": "065v",
+  "section": "q08",
+  "context": "all",
+  "voynich_text": "cphy fchecfhy dydchepain shety qopy fol chpdy cphy fchecfhy dydchepain shety qopy fol chpdy daiin sheek odyyteo qop air cheoteey dalam daiin sheek odyyteo qops air cheoteeo dalom daiin sheek odyyteo qopr air cheoteey dalam daiin sheek odyyteo qops air cheotchy dalam ytal cheot shky yeas cheody ytal cheot shky ysas cheody ytal cheotshky yas cheody toeedy otor shedyyteey sheody qokesd yfchey toeedy otor shedyyteey sheody qokshd yfchey dshedy okeody qokdshckhy choky chokeody okey dy dshedy okeody qokdshckhy choky chokeody oke ydy dshedy okeody qokdshckhy choky chokeody okey dy qo ytchey shckhh cphyykchhdy chedy shckhdy qo ytchey shckhecphyykchedy chedy shckhdy qo ytchey shckhcphyykchedy chedy shckhdy",
+  "latin_text": "piscina [fchecfhy] [dydchepain] [shety] [qopy] locus [chpdy] piscina [fchecfhy] [dydchepain] [shety] [qopy] locus [chpdy] ad [sheek] [odyyteo] [qop] hic [cheoteey] [dalam] ad [sheek] [odyyteo] [qops] hic [cheoteeo] [dalom] ad [sheek] [odyyteo] [qopr] hic [cheoteey] [dalam] ad [sheek] [odyyteo] [qops] hic [cheotchy] [dalam] [ytal] [cheot] [shky] [yeas] herba movet [ytal] [cheot] [shky] [ysas] herba movet [ytal] [cheotshky] [yas] herba movet [toeedy] ex ordo [shedyyteey] hic movet [qokesd] [yfchey] [toeedy] ex ordo [shedyyteey] hic movet [qokshd] [yfchey] [dshedy] [okeody] [qokdshckhy] magnus [chokeody] [okey] et [dshedy] [okeody] [qokdshckhy] magnus [chokeody] [oke] ad et [dshedy] [okeody] [qokdshckhy] magnus [chokeody] [okey] et qui [ytchey] [shckhh] [cphyykchhdy] in [shckhdy] qui [ytchey] [shckhecphyykchedy] in [shckhdy] qui [ytchey] [shckhcphyykchedy] in [shckhdy]",
+  "english_text": "[piscina] [fchecfhy] [dydchepain] [shety] [qopy] place [chpdy] [piscina] [fchecfhy] [dydchepain] [shety] [qopy] place [chpdy] to [sheek] [odyyteo] [qop] here [cheoteey] [dalam] to [sheek] [odyyteo] [qops] here [cheoteeo] [dalom] to [sheek] [odyyteo] [qopr] here [cheoteey] [dalam] to [sheek] [odyyteo] [qops] here [cheotchy] [dalam] [ytal] [cheot] [shky] [yeas] herb moves [ytal] [cheot] [shky] [ysas] herb moves [ytal] [cheotshky] [yas] herb moves [toeedy] from order [shedyyteey] here moves [qokesd] [yfchey] [toeedy] from order [shedyyteey] here moves [qokshd] [yfchey] [dshedy] [okeody] [qokdshckhy] large [chokeody] [okey] and [dshedy] [okeody] [qokdshckhy] large [chokeody] [oke] to and [dshedy] [okeody] [qokdshckhy] large [chokeody] [okey] and [qui] [ytchey] [shckhh] [cphyykchhdy] in [shckhdy] [qui] [ytchey] [shckhecphyykchedy] in [shckhdy] [qui] [ytchey] [shckhcphyykchedy] in [shckhdy].",
+  "word_translations": [
+    {
+      "original": "cphy",
+      "latin": "piscina",
+      "confidence": 0.9,
+      "notes": "pools"
+    },
+    {
+      "original": "fchecfhy",
+      "latin": "[fchecfhy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dydchepain",
+      "latin": "[dydchepain]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shety",
+      "latin": "[shety]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qopy",
+      "latin": "[qopy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "fol",
+      "latin": "locus",
+      "confidence": 0.9,
+      "notes": "systematic word family: fo- prefix pattern"
+    },
+    {
+      "original": "chpdy",
+      "latin": "[chpdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cphy",
+      "latin": "piscina",
+      "confidence": 0.9,
+      "notes": "pools"
+    },
+    {
+      "original": "fchecfhy",
+      "latin": "[fchecfhy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dydchepain",
+      "latin": "[dydchepain]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shety",
+      "latin": "[shety]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qopy",
+      "latin": "[qopy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "fol",
+      "latin": "locus",
+      "confidence": 0.9,
+      "notes": "systematic word family: fo- prefix pattern"
+    },
+    {
+      "original": "chpdy",
+      "latin": "[chpdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "sheek",
+      "latin": "[sheek]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "odyyteo",
+      "latin": "[odyyteo]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qop",
+      "latin": "[qop]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "air",
+      "latin": "hic",
+      "confidence": 0.9,
+      "notes": "location marker; here; 9x freq; conf 0.80"
+    },
+    {
+      "original": "cheoteey",
+      "latin": "[cheoteey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dalam",
+      "latin": "[dalam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "sheek",
+      "latin": "[sheek]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "odyyteo",
+      "latin": "[odyyteo]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qops",
+      "latin": "[qops]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "air",
+      "latin": "hic",
+      "confidence": 0.9,
+      "notes": "location marker; here; 9x freq; conf 0.80"
+    },
+    {
+      "original": "cheoteeo",
+      "latin": "[cheoteeo]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dalom",
+      "latin": "[dalom]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "sheek",
+      "latin": "[sheek]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "odyyteo",
+      "latin": "[odyyteo]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qopr",
+      "latin": "[qopr]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "air",
+      "latin": "hic",
+      "confidence": 0.9,
+      "notes": "location marker; here; 9x freq; conf 0.80"
+    },
+    {
+      "original": "cheoteey",
+      "latin": "[cheoteey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dalam",
+      "latin": "[dalam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "sheek",
+      "latin": "[sheek]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "odyyteo",
+      "latin": "[odyyteo]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qops",
+      "latin": "[qops]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "air",
+      "latin": "hic",
+      "confidence": 0.9,
+      "notes": "location marker; here; 9x freq; conf 0.80"
+    },
+    {
+      "original": "cheotchy",
+      "latin": "[cheotchy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dalam",
+      "latin": "[dalam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ytal",
+      "latin": "[ytal]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheot",
+      "latin": "[cheot]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shky",
+      "latin": "[shky]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "yeas",
+      "latin": "[yeas]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheody",
+      "latin": "herba movet",
+      "confidence": 0.9,
+      "notes": "che- + ody; plant moves; 7x freq; conf 0.80"
+    },
+    {
+      "original": "ytal",
+      "latin": "[ytal]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheot",
+      "latin": "[cheot]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shky",
+      "latin": "[shky]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ysas",
+      "latin": "[ysas]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheody",
+      "latin": "herba movet",
+      "confidence": 0.9,
+      "notes": "che- + ody; plant moves; 7x freq; conf 0.80"
+    },
+    {
+      "original": "ytal",
+      "latin": "[ytal]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheotshky",
+      "latin": "[cheotshky]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "yas",
+      "latin": "[yas]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheody",
+      "latin": "herba movet",
+      "confidence": 0.9,
+      "notes": "che- + ody; plant moves; 7x freq; conf 0.80"
+    },
+    {
+      "original": "toeedy",
+      "latin": "[toeedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otor",
+      "latin": "ex ordo",
+      "confidence": 0.9,
+      "notes": "systematic word family: ot- prefix pattern"
+    },
+    {
+      "original": "shedyyteey",
+      "latin": "[shedyyteey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sheody",
+      "latin": "hic movet",
+      "confidence": 0.9,
+      "notes": "she + ody compound; here moves; 8x freq; conf 0.90"
+    },
+    {
+      "original": "qokesd",
+      "latin": "[qokesd]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "yfchey",
+      "latin": "[yfchey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "toeedy",
+      "latin": "[toeedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otor",
+      "latin": "ex ordo",
+      "confidence": 0.9,
+      "notes": "systematic word family: ot- prefix pattern"
+    },
+    {
+      "original": "shedyyteey",
+      "latin": "[shedyyteey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sheody",
+      "latin": "hic movet",
+      "confidence": 0.9,
+      "notes": "she + ody compound; here moves; 8x freq; conf 0.90"
+    },
+    {
+      "original": "qokshd",
+      "latin": "[qokshd]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "yfchey",
+      "latin": "[yfchey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dshedy",
+      "latin": "[dshedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okeody",
+      "latin": "[okeody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokdshckhy",
+      "latin": "[qokdshckhy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "choky",
+      "latin": "magnus",
+      "confidence": 0.9,
+      "notes": "large, great"
+    },
+    {
+      "original": "chokeody",
+      "latin": "[chokeody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okey",
+      "latin": "[okey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dy",
+      "latin": "et",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "dshedy",
+      "latin": "[dshedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okeody",
+      "latin": "[okeody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokdshckhy",
+      "latin": "[qokdshckhy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "choky",
+      "latin": "magnus",
+      "confidence": 0.9,
+      "notes": "large, great"
+    },
+    {
+      "original": "chokeody",
+      "latin": "[chokeody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oke",
+      "latin": "[oke]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ydy",
+      "latin": "ad et",
+      "confidence": 0.9,
+      "notes": "y (to) + dy (and), toward and"
+    },
+    {
+      "original": "dshedy",
+      "latin": "[dshedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okeody",
+      "latin": "[okeody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokdshckhy",
+      "latin": "[qokdshckhy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "choky",
+      "latin": "magnus",
+      "confidence": 0.9,
+      "notes": "large, great"
+    },
+    {
+      "original": "chokeody",
+      "latin": "[chokeody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okey",
+      "latin": "[okey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dy",
+      "latin": "et",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "qo",
+      "latin": "qui",
+      "confidence": 0.9,
+      "notes": "relative pronoun; who/which; 6x freq; conf 0.75"
+    },
+    {
+      "original": "ytchey",
+      "latin": "[ytchey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shckhh",
+      "latin": "[shckhh]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cphyykchhdy",
+      "latin": "[cphyykchhdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chedy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "frequent, fits preposition; containment"
+    },
+    {
+      "original": "shckhdy",
+      "latin": "[shckhdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qo",
+      "latin": "qui",
+      "confidence": 0.9,
+      "notes": "relative pronoun; who/which; 6x freq; conf 0.75"
+    },
+    {
+      "original": "ytchey",
+      "latin": "[ytchey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shckhecphyykchedy",
+      "latin": "[shckhecphyykchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chedy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "frequent, fits preposition; containment"
+    },
+    {
+      "original": "shckhdy",
+      "latin": "[shckhdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qo",
+      "latin": "qui",
+      "confidence": 0.9,
+      "notes": "relative pronoun; who/which; 6x freq; conf 0.75"
+    },
+    {
+      "original": "ytchey",
+      "latin": "[ytchey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shckhcphyykchedy",
+      "latin": "[shckhcphyykchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chedy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "frequent, fits preposition; containment"
+    },
+    {
+      "original": "shckhdy",
+      "latin": "[shckhdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    }
+  ],
+  "statistics": {
+    "total": 105,
+    "known": 31,
+    "unknown": 74,
+    "avg_confidence": 0.24857142857142858,
+    "coverage": 0.29523809523809524
+  },
+  "unknown_words": [
+    "cheot",
+    "cheotchy",
+    "cheoteeo",
+    "cheoteey",
+    "cheotshky",
+    "chokeody",
+    "chpdy",
+    "cphyykchhdy",
+    "dalam",
+    "dalom",
+    "dshedy",
+    "dydchepain",
+    "fchecfhy",
+    "kdshckhy",
+    "kesd",
+    "kshd",
+    "odyyteo",
+    "oke",
+    "okeody",
+    "okey",
+    "p",
+    "pr",
+    "ps",
+    "py",
+    "qokdshckhy",
+    "qokesd",
+    "qokshd",
+    "qop",
+    "qopr",
+    "qops",
+    "qopy",
+    "shckhcphyykchedy",
+    "shckhdy",
+    "shckhecphyykchedy",
+    "shckhh",
+    "shedyyteey",
+    "sheek",
+    "shety",
+    "shky",
+    "toeedy",
+    "yas",
+    "yeas",
+    "yfchey",
+    "ysas",
+    "ytal",
+    "ytchey"
+  ],
+  "translated_at": "2025-11-28T02:34:41.896576"
+}

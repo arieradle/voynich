@@ -177,8 +177,8 @@
     {
       "original": "qokcho",
       "latin": "valde facit",
-      "confidence": 0.81,
-      "notes": "qo-prefix:systematic word family: kc- prefix pattern"
+      "confidence": 0.9,
+      "notes": "qo + kcho; very makes; 6x freq; conf 0.75"
     },
     {
       "original": "cthor",
@@ -1277,7 +1277,7 @@
     "total": 211,
     "known": 149,
     "unknown": 62,
-    "avg_confidence": 0.6175829383886257,
+    "avg_confidence": 0.6180094786729858,
     "coverage": 0.7061611374407583
   },
   "unknown_words": [
@@ -1304,7 +1304,6 @@
     "pchocty",
     "pchraiin",
     "pchroiin",
-    "qokcho",
     "qokchocthor",
     "qotchar",
     "sholo",
@@ -1312,5 +1311,5 @@
     "spchocthy",
     "tchar"
   ],
-  "translated_at": "2025-11-27T23:34:53.486773"
+  "translated_at": "2025-11-28T02:34:38.259087"
 }

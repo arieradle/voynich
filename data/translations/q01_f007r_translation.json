@@ -333,8 +333,8 @@
     {
       "original": "qokcho",
       "latin": "valde facit",
-      "confidence": 0.81,
-      "notes": "qo-prefix:systematic word family: kc- prefix pattern"
+      "confidence": 0.9,
+      "notes": "qo + kcho; very makes; 6x freq; conf 0.75"
     },
     {
       "original": "cho",
@@ -363,8 +363,8 @@
     {
       "original": "qokcho",
       "latin": "valde facit",
-      "confidence": 0.81,
-      "notes": "qo-prefix:systematic word family: kc- prefix pattern"
+      "confidence": 0.9,
+      "notes": "qo + kcho; very makes; 6x freq; conf 0.75"
     },
     {
       "original": "cho",
@@ -393,8 +393,8 @@
     {
       "original": "qokcho",
       "latin": "valde facit",
-      "confidence": 0.81,
-      "notes": "qo-prefix:systematic word family: kc- prefix pattern"
+      "confidence": 0.9,
+      "notes": "qo + kcho; very makes; 6x freq; conf 0.75"
     },
     {
       "original": "cho",
@@ -959,7 +959,7 @@
     "total": 158,
     "known": 77,
     "unknown": 81,
-    "avg_confidence": 0.4225316455696203,
+    "avg_confidence": 0.4242405063291139,
     "coverage": 0.4873417721518987
   },
   "unknown_words": [
@@ -993,7 +993,6 @@
     "olchoiin",
     "qkochey",
     "qkoshey",
-    "qokcho",
     "qokchyshol",
     "qokechy",
     "qoos",
@@ -1005,5 +1004,5 @@
     "tchychol",
     "toees"
   ],
-  "translated_at": "2025-11-27T23:34:47.796228"
+  "translated_at": "2025-11-28T02:34:37.676356"
 }

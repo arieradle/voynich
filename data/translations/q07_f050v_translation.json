@@ -1,0 +1,855 @@
+{
+  "folio_id": "050v",
+  "section": "q07",
+  "context": "all",
+  "voynich_text": "dar qoain olaiin olraiin ol okeedy okchdy otar chckhey or dar qoain olaiin ols aiin ol okeedy okchy otar chckhey or dar qoain olaiin olraiin ol okeedy okchdy otar chckhey or dar qoaiin olaiin olraiin ol okeedy okchdy otar chckhey or daiin kedair okal chody qokedy okar okchey okedy otar chkeey daiin kedair okal chody qokedy okar okchey okedy otar chkeey aiin kedair okal chody qokedy okar okchey okedy ytar chkeey aiin kedair okal chody qokedy okar okchey okedy otar chkeey ytsheod ain sheshy echedy kchdyotaiin otaiin oky ytsheod ain sheshy echedy kchdyotaiin okaiin oky ytsheod ain sheshy echedy kchdyotaiin otaiin aky dchedy okaiin olchdy oloeedyykeeod ar arod dchedy okaiin olchdy oloeedyykeeodar arod dchedy okaiin olchdy oloeedyykeeodar arad dchedy okaiin iin olchdy oloeedyykeeodar arad lchey kar ykchy kchdy lchey kar ykchy kchdy lchey kar ykchy kchdy",
+  "latin_text": "donum valde erat ille est [olraiin] omnis dum [okchdy] ex et herba in elementum ordo donum valde erat ille est aut est omnis dum facit ex et herba in elementum ordo donum valde erat ille est [olraiin] omnis dum [okchdy] ex et herba in elementum ordo donum valde erat ille est [olraiin] omnis dum [okchdy] ex et herba in elementum ordo ad [kedair] robur movetur tendit orbis facit elementum extendit ex et [chkeey] ad [kedair] robur movetur tendit orbis facit elementum extendit ex et [chkeey] est [kedair] robur movetur tendit orbis facit elementum extendit [ytar] [chkeey] est [kedair] robur movetur tendit orbis facit elementum extendit ex et [chkeey] [ytsheod] erat [sheshy] [echedy] [kchdyotaiin] cursus facit ad [ytsheod] erat [sheshy] [echedy] [kchdyotaiin] ponit facit ad [ytsheod] erat [sheshy] [echedy] [kchdyotaiin] cursus [aky] [dchedy] ponit [olchdy] [oloeedyykeeod] et [arod] [dchedy] ponit [olchdy] [oloeedyykeeodar] [arod] [dchedy] ponit [olchdy] [oloeedyykeeodar] [arad] [dchedy] ponit [iin] [olchdy] [oloeedyykeeodar] [arad] [lchey] robur et ad in [kchdy] [lchey] robur et ad in [kchdy] [lchey] robur et ad in [kchdy]",
+  "english_text": "Gift very was that is [olraiin] all [dum] [okchdy] from and herb in element order gift very was that is [aut] is all [dum] makes from and herb in element order gift very was that is [olraiin] all [dum] [okchdy] from and herb in element order gift very was that is [olraiin] all [dum] [okchdy] from and herb in element order to [kedair] strong moves stretches [orbis] makes element extends from and [chkeey] to [kedair] strong moves stretches [orbis] makes element extends from and [chkeey] is [kedair] strong moves stretches [orbis] makes element extends [ytar] [chkeey] is [kedair] strong moves stretches [orbis] makes element extends from and [chkeey] [ytsheod] was [sheshy] [echedy] [kchdyotaiin] [cursus] makes to [ytsheod] was [sheshy] [echedy] [kchdyotaiin] [ponit] makes to [ytsheod] was [sheshy] [echedy] [kchdyotaiin] [cursus] [aky] [dchedy] [ponit] [olchdy] [oloeedyykeeod] and [arod] [dchedy] [ponit] [olchdy] [oloeedyykeeodar] [arod] [dchedy] [ponit] [olchdy] [oloeedyykeeodar] [arad] [dchedy] [ponit] [iin] [olchdy] [oloeedyykeeodar] [arad] [lchey] strong and to in [kchdy] [lchey] strong and to in [kchdy] [lchey] strong and to in [kchdy].",
+  "word_translations": [
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "qoain",
+      "latin": "valde erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: qo- prefix pattern"
+    },
+    {
+      "original": "olaiin",
+      "latin": "ille est",
+      "confidence": 0.9,
+      "notes": "ol (that/it) + aiin (is/state marker); that is, demonstrative statement"
+    },
+    {
+      "original": "olraiin",
+      "latin": "[olraiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ol",
+      "latin": "omnis",
+      "confidence": 0.8,
+      "notes": "polysemy:quantitative, all/every"
+    },
+    {
+      "original": "okeedy",
+      "latin": "dum",
+      "confidence": 0.9,
+      "notes": "while"
+    },
+    {
+      "original": "okchdy",
+      "latin": "[okchdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otar",
+      "latin": "ex et",
+      "confidence": 0.9,
+      "notes": "ot (from) + ar (and), from and"
+    },
+    {
+      "original": "chckhey",
+      "latin": "herba in elementum",
+      "confidence": 0.9,
+      "notes": "ch + ckh + ey; plant in element; 8x freq; conf 0.75"
+    },
+    {
+      "original": "or",
+      "latin": "ordo",
+      "confidence": 0.9,
+      "notes": "short connector, order/arrangement"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "qoain",
+      "latin": "valde erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: qo- prefix pattern"
+    },
+    {
+      "original": "olaiin",
+      "latin": "ille est",
+      "confidence": 0.9,
+      "notes": "ol (that/it) + aiin (is/state marker); that is, demonstrative statement"
+    },
+    {
+      "original": "ols",
+      "latin": "aut",
+      "confidence": 0.9,
+      "notes": "short function word, conjunction - or/alternatively (19x frequency)"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "ol",
+      "latin": "omnis",
+      "confidence": 0.8,
+      "notes": "polysemy:quantitative, all/every"
+    },
+    {
+      "original": "okeedy",
+      "latin": "dum",
+      "confidence": 0.9,
+      "notes": "while"
+    },
+    {
+      "original": "okchy",
+      "latin": "facit",
+      "confidence": 0.9,
+      "notes": "makes, does"
+    },
+    {
+      "original": "otar",
+      "latin": "ex et",
+      "confidence": 0.9,
+      "notes": "ot (from) + ar (and), from and"
+    },
+    {
+      "original": "chckhey",
+      "latin": "herba in elementum",
+      "confidence": 0.9,
+      "notes": "ch + ckh + ey; plant in element; 8x freq; conf 0.75"
+    },
+    {
+      "original": "or",
+      "latin": "ordo",
+      "confidence": 0.9,
+      "notes": "short connector, order/arrangement"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "qoain",
+      "latin": "valde erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: qo- prefix pattern"
+    },
+    {
+      "original": "olaiin",
+      "latin": "ille est",
+      "confidence": 0.9,
+      "notes": "ol (that/it) + aiin (is/state marker); that is, demonstrative statement"
+    },
+    {
+      "original": "olraiin",
+      "latin": "[olraiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ol",
+      "latin": "omnis",
+      "confidence": 0.8,
+      "notes": "polysemy:quantitative, all/every"
+    },
+    {
+      "original": "okeedy",
+      "latin": "dum",
+      "confidence": 0.9,
+      "notes": "while"
+    },
+    {
+      "original": "okchdy",
+      "latin": "[okchdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otar",
+      "latin": "ex et",
+      "confidence": 0.9,
+      "notes": "ot (from) + ar (and), from and"
+    },
+    {
+      "original": "chckhey",
+      "latin": "herba in elementum",
+      "confidence": 0.9,
+      "notes": "ch + ckh + ey; plant in element; 8x freq; conf 0.75"
+    },
+    {
+      "original": "or",
+      "latin": "ordo",
+      "confidence": 0.9,
+      "notes": "short connector, order/arrangement"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "qoaiin",
+      "latin": "valde erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: qo- prefix pattern"
+    },
+    {
+      "original": "olaiin",
+      "latin": "ille est",
+      "confidence": 0.9,
+      "notes": "ol (that/it) + aiin (is/state marker); that is, demonstrative statement"
+    },
+    {
+      "original": "olraiin",
+      "latin": "[olraiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ol",
+      "latin": "omnis",
+      "confidence": 0.8,
+      "notes": "polysemy:quantitative, all/every"
+    },
+    {
+      "original": "okeedy",
+      "latin": "dum",
+      "confidence": 0.9,
+      "notes": "while"
+    },
+    {
+      "original": "okchdy",
+      "latin": "[okchdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otar",
+      "latin": "ex et",
+      "confidence": 0.9,
+      "notes": "ot (from) + ar (and), from and"
+    },
+    {
+      "original": "chckhey",
+      "latin": "herba in elementum",
+      "confidence": 0.9,
+      "notes": "ch + ckh + ey; plant in element; 8x freq; conf 0.75"
+    },
+    {
+      "original": "or",
+      "latin": "ordo",
+      "confidence": 0.9,
+      "notes": "short connector, order/arrangement"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "kedair",
+      "latin": "[kedair]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okal",
+      "latin": "robur",
+      "confidence": 0.9,
+      "notes": "k- + al, strength/support extension"
+    },
+    {
+      "original": "chody",
+      "latin": "movetur",
+      "confidence": 0.9,
+      "notes": "ch- + ody, movement/motion"
+    },
+    {
+      "original": "qokedy",
+      "latin": "tendit",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, broad use"
+    },
+    {
+      "original": "okar",
+      "latin": "orbis",
+      "confidence": 0.9,
+      "notes": "orbital paths"
+    },
+    {
+      "original": "okchey",
+      "latin": "facit elementum",
+      "confidence": 0.9,
+      "notes": "k (makes) + chey (element); makes element/component"
+    },
+    {
+      "original": "okedy",
+      "latin": "extendit",
+      "confidence": 0.9,
+      "notes": "action, broad use for extends"
+    },
+    {
+      "original": "otar",
+      "latin": "ex et",
+      "confidence": 0.9,
+      "notes": "ot (from) + ar (and), from and"
+    },
+    {
+      "original": "chkeey",
+      "latin": "[chkeey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "kedair",
+      "latin": "[kedair]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okal",
+      "latin": "robur",
+      "confidence": 0.9,
+      "notes": "k- + al, strength/support extension"
+    },
+    {
+      "original": "chody",
+      "latin": "movetur",
+      "confidence": 0.9,
+      "notes": "ch- + ody, movement/motion"
+    },
+    {
+      "original": "qokedy",
+      "latin": "tendit",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, broad use"
+    },
+    {
+      "original": "okar",
+      "latin": "orbis",
+      "confidence": 0.9,
+      "notes": "orbital paths"
+    },
+    {
+      "original": "okchey",
+      "latin": "facit elementum",
+      "confidence": 0.9,
+      "notes": "k (makes) + chey (element); makes element/component"
+    },
+    {
+      "original": "okedy",
+      "latin": "extendit",
+      "confidence": 0.9,
+      "notes": "action, broad use for extends"
+    },
+    {
+      "original": "otar",
+      "latin": "ex et",
+      "confidence": 0.9,
+      "notes": "ot (from) + ar (and), from and"
+    },
+    {
+      "original": "chkeey",
+      "latin": "[chkeey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "kedair",
+      "latin": "[kedair]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okal",
+      "latin": "robur",
+      "confidence": 0.9,
+      "notes": "k- + al, strength/support extension"
+    },
+    {
+      "original": "chody",
+      "latin": "movetur",
+      "confidence": 0.9,
+      "notes": "ch- + ody, movement/motion"
+    },
+    {
+      "original": "qokedy",
+      "latin": "tendit",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, broad use"
+    },
+    {
+      "original": "okar",
+      "latin": "orbis",
+      "confidence": 0.9,
+      "notes": "orbital paths"
+    },
+    {
+      "original": "okchey",
+      "latin": "facit elementum",
+      "confidence": 0.9,
+      "notes": "k (makes) + chey (element); makes element/component"
+    },
+    {
+      "original": "okedy",
+      "latin": "extendit",
+      "confidence": 0.9,
+      "notes": "action, broad use for extends"
+    },
+    {
+      "original": "ytar",
+      "latin": "[ytar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chkeey",
+      "latin": "[chkeey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "kedair",
+      "latin": "[kedair]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okal",
+      "latin": "robur",
+      "confidence": 0.9,
+      "notes": "k- + al, strength/support extension"
+    },
+    {
+      "original": "chody",
+      "latin": "movetur",
+      "confidence": 0.9,
+      "notes": "ch- + ody, movement/motion"
+    },
+    {
+      "original": "qokedy",
+      "latin": "tendit",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, broad use"
+    },
+    {
+      "original": "okar",
+      "latin": "orbis",
+      "confidence": 0.9,
+      "notes": "orbital paths"
+    },
+    {
+      "original": "okchey",
+      "latin": "facit elementum",
+      "confidence": 0.9,
+      "notes": "k (makes) + chey (element); makes element/component"
+    },
+    {
+      "original": "okedy",
+      "latin": "extendit",
+      "confidence": 0.9,
+      "notes": "action, broad use for extends"
+    },
+    {
+      "original": "otar",
+      "latin": "ex et",
+      "confidence": 0.9,
+      "notes": "ot (from) + ar (and), from and"
+    },
+    {
+      "original": "chkeey",
+      "latin": "[chkeey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ytsheod",
+      "latin": "[ytsheod]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ain",
+      "latin": "erat",
+      "confidence": 0.9,
+      "notes": "suffix marker for state/being/past"
+    },
+    {
+      "original": "sheshy",
+      "latin": "[sheshy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "echedy",
+      "latin": "[echedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "kchdyotaiin",
+      "latin": "[kchdyotaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otaiin",
+      "latin": "cursus",
+      "confidence": 0.9,
+      "notes": "star paths"
+    },
+    {
+      "original": "oky",
+      "latin": "facit ad",
+      "confidence": 0.9,
+      "notes": "ok (action) + y (direction), directed action"
+    },
+    {
+      "original": "ytsheod",
+      "latin": "[ytsheod]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ain",
+      "latin": "erat",
+      "confidence": 0.9,
+      "notes": "suffix marker for state/being/past"
+    },
+    {
+      "original": "sheshy",
+      "latin": "[sheshy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "echedy",
+      "latin": "[echedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "kchdyotaiin",
+      "latin": "[kchdyotaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okaiin",
+      "latin": "ponit",
+      "confidence": 0.9,
+      "notes": "placing"
+    },
+    {
+      "original": "oky",
+      "latin": "facit ad",
+      "confidence": 0.9,
+      "notes": "ok (action) + y (direction), directed action"
+    },
+    {
+      "original": "ytsheod",
+      "latin": "[ytsheod]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ain",
+      "latin": "erat",
+      "confidence": 0.9,
+      "notes": "suffix marker for state/being/past"
+    },
+    {
+      "original": "sheshy",
+      "latin": "[sheshy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "echedy",
+      "latin": "[echedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "kchdyotaiin",
+      "latin": "[kchdyotaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otaiin",
+      "latin": "cursus",
+      "confidence": 0.9,
+      "notes": "star paths"
+    },
+    {
+      "original": "aky",
+      "latin": "[aky]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dchedy",
+      "latin": "[dchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okaiin",
+      "latin": "ponit",
+      "confidence": 0.9,
+      "notes": "placing"
+    },
+    {
+      "original": "olchdy",
+      "latin": "[olchdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oloeedyykeeod",
+      "latin": "[oloeedyykeeod]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ar",
+      "latin": "et",
+      "confidence": 0.9,
+      "notes": "frequent, suits conjunction; links nouns"
+    },
+    {
+      "original": "arod",
+      "latin": "[arod]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dchedy",
+      "latin": "[dchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okaiin",
+      "latin": "ponit",
+      "confidence": 0.9,
+      "notes": "placing"
+    },
+    {
+      "original": "olchdy",
+      "latin": "[olchdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oloeedyykeeodar",
+      "latin": "[oloeedyykeeodar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "arod",
+      "latin": "[arod]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dchedy",
+      "latin": "[dchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okaiin",
+      "latin": "ponit",
+      "confidence": 0.9,
+      "notes": "placing"
+    },
+    {
+      "original": "olchdy",
+      "latin": "[olchdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oloeedyykeeodar",
+      "latin": "[oloeedyykeeodar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "arad",
+      "latin": "[arad]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dchedy",
+      "latin": "[dchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okaiin",
+      "latin": "ponit",
+      "confidence": 0.9,
+      "notes": "placing"
+    },
+    {
+      "original": "iin",
+      "latin": "[iin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "olchdy",
+      "latin": "[olchdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oloeedyykeeodar",
+      "latin": "[oloeedyykeeodar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "arad",
+      "latin": "[arad]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "lchey",
+      "latin": "[lchey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "kar",
+      "latin": "robur et",
+      "confidence": 0.9,
+      "notes": "k- + ar, strength and"
+    },
+    {
+      "original": "ykchy",
+      "latin": "ad in",
+      "confidence": 0.9,
+      "notes": "systematic word family: yk- prefix pattern"
+    },
+    {
+      "original": "kchdy",
+      "latin": "[kchdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "lchey",
+      "latin": "[lchey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "kar",
+      "latin": "robur et",
+      "confidence": 0.9,
+      "notes": "k- + ar, strength and"
+    },
+    {
+      "original": "ykchy",
+      "latin": "ad in",
+      "confidence": 0.9,
+      "notes": "systematic word family: yk- prefix pattern"
+    },
+    {
+      "original": "kchdy",
+      "latin": "[kchdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "lchey",
+      "latin": "[lchey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "kar",
+      "latin": "robur et",
+      "confidence": 0.9,
+      "notes": "k- + ar, strength and"
+    },
+    {
+      "original": "ykchy",
+      "latin": "ad in",
+      "confidence": 0.9,
+      "notes": "systematic word family: yk- prefix pattern"
+    },
+    {
+      "original": "kchdy",
+      "latin": "[kchdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    }
+  ],
+  "statistics": {
+    "total": 136,
+    "known": 85,
+    "unknown": 51,
+    "avg_confidence": 0.5499999999999999,
+    "coverage": 0.625
+  },
+  "unknown_words": [
+    "aky",
+    "arad",
+    "arod",
+    "chkeey",
+    "dchedy",
+    "echedy",
+    "iin",
+    "kchdy",
+    "kchdyotaiin",
+    "kedair",
+    "lchey",
+    "okchdy",
+    "olchdy",
+    "oloeedyykeeod",
+    "oloeedyykeeodar",
+    "olraiin",
+    "sheshy",
+    "ytar",
+    "ytsheod"
+  ],
+  "translated_at": "2025-11-28T02:34:41.271113"
+}

@@ -600,5 +600,149 @@
     "word_count": 305,
     "downloaded_at": "2025-11-27T22:54:56.389976",
     "file": "data/folios/q06_f042v.txt"
+  },
+  "q07_f049r": {
+    "file": "data/folios/q07/f049r.txt",
+    "section": "q07",
+    "folio_id": "049r",
+    "downloaded_at": "2025-11-28T02:24:00"
+  },
+  "q07_f049v": {
+    "file": "data/folios/q07/f049v.txt",
+    "section": "q07",
+    "folio_id": "049v",
+    "downloaded_at": "2025-11-28T02:24:00"
+  },
+  "q07_f050r": {
+    "file": "data/folios/q07/f050r.txt",
+    "section": "q07",
+    "folio_id": "050r",
+    "downloaded_at": "2025-11-28T02:24:00"
+  },
+  "q07_f050v": {
+    "file": "data/folios/q07/f050v.txt",
+    "section": "q07",
+    "folio_id": "050v",
+    "downloaded_at": "2025-11-28T02:24:00"
+  },
+  "q07_f051r": {
+    "file": "data/folios/q07/f051r.txt",
+    "section": "q07",
+    "folio_id": "051r",
+    "downloaded_at": "2025-11-28T02:24:00"
+  },
+  "q07_f051v": {
+    "file": "data/folios/q07/f051v.txt",
+    "section": "q07",
+    "folio_id": "051v",
+    "downloaded_at": "2025-11-28T02:24:00"
+  },
+  "q07_f052r": {
+    "file": "data/folios/q07/f052r.txt",
+    "section": "q07",
+    "folio_id": "052r",
+    "downloaded_at": "2025-11-28T02:24:00"
+  },
+  "q07_f052v": {
+    "file": "data/folios/q07/f052v.txt",
+    "section": "q07",
+    "folio_id": "052v",
+    "downloaded_at": "2025-11-28T02:24:00"
+  },
+  "q07_f053r": {
+    "file": "data/folios/q07/f053r.txt",
+    "section": "q07",
+    "folio_id": "053r",
+    "downloaded_at": "2025-11-28T02:24:00"
+  },
+  "q07_f053v": {
+    "file": "data/folios/q07/f053v.txt",
+    "section": "q07",
+    "folio_id": "053v",
+    "downloaded_at": "2025-11-28T02:24:00"
+  },
+  "q07_f054r": {
+    "file": "data/folios/q07/f054r.txt",
+    "section": "q07",
+    "folio_id": "054r",
+    "downloaded_at": "2025-11-28T02:24:00"
+  },
+  "q07_f054v": {
+    "file": "data/folios/q07/f054v.txt",
+    "section": "q07",
+    "folio_id": "054v",
+    "downloaded_at": "2025-11-28T02:24:00"
+  },
+  "q07_f055r": {
+    "file": "data/folios/q07/f055r.txt",
+    "section": "q07",
+    "folio_id": "055r",
+    "downloaded_at": "2025-11-28T02:24:00"
+  },
+  "q07_f055v": {
+    "file": "data/folios/q07/f055v.txt",
+    "section": "q07",
+    "folio_id": "055v",
+    "downloaded_at": "2025-11-28T02:24:00"
+  },
+  "q07_f056r": {
+    "file": "data/folios/q07/f056r.txt",
+    "section": "q07",
+    "folio_id": "056r",
+    "downloaded_at": "2025-11-28T02:24:00"
+  },
+  "q07_f056v": {
+    "file": "data/folios/q07/f056v.txt",
+    "section": "q07",
+    "folio_id": "056v",
+    "downloaded_at": "2025-11-28T02:24:00"
+  },
+  "q08_f057r": {
+    "file": "/Users/aradledessi/code/pocs/vy/voynich/data/folios/q08/f057r.txt",
+    "section": "q08",
+    "folio_id": "057r",
+    "downloaded_at": "2025-11-28T02:29:30.818385"
+  },
+  "q08_f057v": {
+    "file": "/Users/aradledessi/code/pocs/vy/voynich/data/folios/q08/f057v.txt",
+    "section": "q08",
+    "folio_id": "057v",
+    "downloaded_at": "2025-11-28T02:29:30.818427"
+  },
+  "q08_f058r": {
+    "file": "/Users/aradledessi/code/pocs/vy/voynich/data/folios/q08/f058r.txt",
+    "section": "q08",
+    "folio_id": "058r",
+    "downloaded_at": "2025-11-28T02:29:30.818436"
+  },
+  "q08_f058v": {
+    "file": "/Users/aradledessi/code/pocs/vy/voynich/data/folios/q08/f058v.txt",
+    "section": "q08",
+    "folio_id": "058v",
+    "downloaded_at": "2025-11-28T02:29:30.818444"
+  },
+  "q08_f065r": {
+    "file": "/Users/aradledessi/code/pocs/vy/voynich/data/folios/q08/f065r.txt",
+    "section": "q08",
+    "folio_id": "065r",
+    "downloaded_at": "2025-11-28T02:29:30.818450"
+  },
+  "q08_f065v": {
+    "file": "/Users/aradledessi/code/pocs/vy/voynich/data/folios/q08/f065v.txt",
+    "section": "q08",
+    "folio_id": "065v",
+    "downloaded_at": "2025-11-28T02:29:30.818460"
+  },
+  "q08_f066r": {
+    "file": "/Users/aradledessi/code/pocs/vy/voynich/data/folios/q08/f066r.txt",
+    "section": "q08",
+    "folio_id": "066r",
+    "downloaded_at": "2025-11-28T02:29:30.818466"
+  },
+  "q08_f066v": {
+    "file": "/Users/aradledessi/code/pocs/vy/voynich/data/folios/q08/f066v.txt",
+    "section": "q08",
+    "folio_id": "066v",
+    "downloaded_at": "2025-11-28T02:29:30.818472"
   }
 }

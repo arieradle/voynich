@@ -1,0 +1,1206 @@
+{
+  "folio_id": "053r",
+  "section": "q07",
+  "context": "all",
+  "voynich_text": "kodam chocthody oty kodam chocthody oky kadam chocthody oty dol dain schoshe oty dol dain cho she oty dol dain scho she oty dol daiin scho she oty shoar chokan ody shoeos chokan ody shoar chokan ody ytchodaiin yky otchey okod tchodaiin yky otchey otod ytchodaiin yky otchey okod okes otol cfhy cphodol ykody qokchodotcho qot oty okor otol cfhy cphodol ykody qokchodotcho qot oty oksh otol cfhy cphodol ykody qokchodotcho qot oty ykeodar oqoor ockh odor chain qokodykchdy chees dal ykeodar oqoor ockhodor chain qokodykchdy chees dal ykeodar oqoor ockh odor chain qokodykchdy chees dal ykeodar oqoar ockh odor chaiin qokodykchdy chees dal sodar otos qoy tchy otey chos okodykchody qokchy sodar otos qoy tchy otey chos okodytkchody qokeey sodar otos qoy tchy otey chos okodykchody qokchy sadar otos qoy tchy otey chos okodykchody qokchy qotchol dar qoty chtor oltsho ctoykeeod oytoyd qotchol dar qoty chtor oltshocthoykeeod oytoyd qotchol dar qoty chtor oltsho cthoykeeod oytoyd qotchol dar qoty chtor oltsho cthaykeeod aytayd otol chol ctheees os orol chod qoty otol chol ctheees os orol chod qoty otol chol ctheees os orol chod qoty otol chol cthees os orol chod qoty",
+  "latin_text": "[kodam] [chocthody] ex [kodam] [chocthody] facit ad [kadam] [chocthody] ex de ad [schoshe] ex de ad facit iste ex de ad [scho] iste ex de ad [scho] iste ex [shoar] [chokan] movet [shoeos] [chokan] movet [shoar] [chokan] movet [ytchodaiin] ad que ex elementum est [tchodaiin] ad que ex elementum ex est [ytchodaiin] ad que ex elementum est [okes] ex loco [cfhy] [cphodol] ad movet [qokchodotcho] valde tangit ex robur ordo ex loco [cfhy] [cphodol] ad movet [qokchodotcho] valde tangit ex [oksh] ex loco [cfhy] [cphodol] ad movet [qokchodotcho] valde tangit ex [ykeodar] [oqoor] [ockh] [odor] erat [qokodykchdy] herba esse dat alam [ykeodar] [oqoor] [ockhodor] erat [qokodykchdy] herba esse dat alam [ykeodar] [oqoor] [ockh] [odor] erat [qokodykchdy] herba esse dat alam [ykeodar] [oqoar] [ockh] [odor] erat [qokodykchdy] herba esse dat alam [sodar] [otos] valde ad intus [otey] herba os [okodykchody] valde facit [sodar] [otos] valde ad intus [otey] herba os [okodytkchody] iterum [sodar] [otos] valde ad intus [otey] herba os [okodykchody] valde facit [sadar] [otos] valde ad intus [otey] herba os [okodykchody] valde facit valde caulem donum valde ad herba ordo [oltsho] [ctoykeeod] [oytoyd] valde caulem donum valde ad herba ordo [oltshocthoykeeod] [oytoyd] valde caulem donum valde ad herba ordo [oltsho] [cthoykeeod] [oytoyd] valde caulem donum valde ad herba ordo [oltsho] [cthaykeeod] [aytayd] ex loco caulis [ctheees] os [orol] praebet valde ad ex loco caulis [ctheees] os [orol] praebet valde ad ex loco caulis [ctheees] os [orol] praebet valde ad ex loco caulis [cthees] os [orol] praebet valde ad",
+  "english_text": "[kodam] [chocthody] from [kodam] [chocthody] makes to [kadam] [chocthody] from from to [schoshe] from from to makes this from from to [scho] this from from to [scho] this from [shoar] [chokan] moves [shoeos] [chokan] moves [shoar] [chokan] moves [ytchodaiin] to and from element is [tchodaiin] to and from element from is [ytchodaiin] to and from element is [okes] from [loco] [cfhy] [cphodol] to moves [qokchodotcho] very touches from strong order from [loco] [cfhy] [cphodol] to moves [qokchodotcho] very touches from [oksh] from [loco] [cfhy] [cphodol] to moves [qokchodotcho] very touches from [ykeodar] [oqoor] [ockh] [odor] was [qokodykchdy] herb to be gives wing [ykeodar] [oqoor] [ockhodor] was [qokodykchdy] herb to be gives wing [ykeodar] [oqoor] [ockh] [odor] was [qokodykchdy] herb to be gives wing [ykeodar] [oqoar] [ockh] [odor] was [qokodykchdy] herb to be gives wing [sodar] [otos] very to in [otey] herb [os] [okodykchody] very makes [sodar] [otos] very to in [otey] herb [os] [okodytkchody] [iterum] [sodar] [otos] very to in [otey] herb [os] [okodykchody] very makes [sadar] [otos] very to in [otey] herb [os] [okodykchody] very makes very stem gift very to herb order [oltsho] [ctoykeeod] [oytoyd] very stem gift very to herb order [oltshocthoykeeod] [oytoyd] very stem gift very to herb order [oltsho] [cthoykeeod] [oytoyd] very stem gift very to herb order [oltsho] [cthaykeeod] [aytayd] from [loco] stem [ctheees] [os] [orol] presents very to from [loco] stem [ctheees] [os] [orol] presents very to from [loco] stem [ctheees] [os] [orol] presents very to from [loco] stem [cthees] [os] [orol] presents very to.",
+  "word_translations": [
+    {
+      "original": "kodam",
+      "latin": "[kodam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chocthody",
+      "latin": "[chocthody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oty",
+      "latin": "ex",
+      "confidence": 0.9,
+      "notes": "source, appears in multiple folios"
+    },
+    {
+      "original": "kodam",
+      "latin": "[kodam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chocthody",
+      "latin": "[chocthody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oky",
+      "latin": "facit ad",
+      "confidence": 0.9,
+      "notes": "ok (action) + y (direction), directed action"
+    },
+    {
+      "original": "kadam",
+      "latin": "[kadam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chocthody",
+      "latin": "[chocthody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oty",
+      "latin": "ex",
+      "confidence": 0.9,
+      "notes": "source, appears in multiple folios"
+    },
+    {
+      "original": "dol",
+      "latin": "de",
+      "confidence": 0.9,
+      "notes": "short function word, preposition"
+    },
+    {
+      "original": "dain",
+      "latin": "ad",
+      "confidence": 0.9,
+      "notes": "variant of daiin (to), directional"
+    },
+    {
+      "original": "schoshe",
+      "latin": "[schoshe]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oty",
+      "latin": "ex",
+      "confidence": 0.9,
+      "notes": "source, appears in multiple folios"
+    },
+    {
+      "original": "dol",
+      "latin": "de",
+      "confidence": 0.9,
+      "notes": "short function word, preposition"
+    },
+    {
+      "original": "dain",
+      "latin": "ad",
+      "confidence": 0.9,
+      "notes": "variant of daiin (to), directional"
+    },
+    {
+      "original": "cho",
+      "latin": "facit",
+      "confidence": 0.9,
+      "notes": "action marker base, making/doing"
+    },
+    {
+      "original": "she",
+      "latin": "iste",
+      "confidence": 0.9,
+      "notes": "sh- location prefix + e element, demonstrative pronoun; appears near shy (hic), shol (locus)"
+    },
+    {
+      "original": "oty",
+      "latin": "ex",
+      "confidence": 0.9,
+      "notes": "source, appears in multiple folios"
+    },
+    {
+      "original": "dol",
+      "latin": "de",
+      "confidence": 0.9,
+      "notes": "short function word, preposition"
+    },
+    {
+      "original": "dain",
+      "latin": "ad",
+      "confidence": 0.9,
+      "notes": "variant of daiin (to), directional"
+    },
+    {
+      "original": "scho",
+      "latin": "[scho]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "she",
+      "latin": "iste",
+      "confidence": 0.9,
+      "notes": "sh- location prefix + e element, demonstrative pronoun; appears near shy (hic), shol (locus)"
+    },
+    {
+      "original": "oty",
+      "latin": "ex",
+      "confidence": 0.9,
+      "notes": "source, appears in multiple folios"
+    },
+    {
+      "original": "dol",
+      "latin": "de",
+      "confidence": 0.9,
+      "notes": "short function word, preposition"
+    },
+    {
+      "original": "daiin",
+      "latin": "ad",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "scho",
+      "latin": "[scho]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "she",
+      "latin": "iste",
+      "confidence": 0.9,
+      "notes": "sh- location prefix + e element, demonstrative pronoun; appears near shy (hic), shol (locus)"
+    },
+    {
+      "original": "oty",
+      "latin": "ex",
+      "confidence": 0.9,
+      "notes": "source, appears in multiple folios"
+    },
+    {
+      "original": "shoar",
+      "latin": "[shoar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chokan",
+      "latin": "[chokan]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ody",
+      "latin": "movet",
+      "confidence": 0.9,
+      "notes": "action marker; moves/acts; 7x freq; confidence 0.80 (neighbor-boosted from 0.60!)"
+    },
+    {
+      "original": "shoeos",
+      "latin": "[shoeos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chokan",
+      "latin": "[chokan]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ody",
+      "latin": "movet",
+      "confidence": 0.9,
+      "notes": "action marker; moves/acts; 7x freq; confidence 0.80 (neighbor-boosted from 0.60!)"
+    },
+    {
+      "original": "shoar",
+      "latin": "[shoar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chokan",
+      "latin": "[chokan]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ody",
+      "latin": "movet",
+      "confidence": 0.9,
+      "notes": "action marker; moves/acts; 7x freq; confidence 0.80 (neighbor-boosted from 0.60!)"
+    },
+    {
+      "original": "ytchodaiin",
+      "latin": "[ytchodaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "yky",
+      "latin": "ad que",
+      "confidence": 0.9,
+      "notes": "y- + ky, directional with connector"
+    },
+    {
+      "original": "otchey",
+      "latin": "ex elementum",
+      "confidence": 0.9,
+      "notes": "ot (from/out of) + chey (element/small part); from element, elemental component"
+    },
+    {
+      "original": "okod",
+      "latin": "est",
+      "confidence": 0.9,
+      "notes": "systematic word family: ko- prefix pattern"
+    },
+    {
+      "original": "tchodaiin",
+      "latin": "[tchodaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "yky",
+      "latin": "ad que",
+      "confidence": 0.9,
+      "notes": "y- + ky, directional with connector"
+    },
+    {
+      "original": "otchey",
+      "latin": "ex elementum",
+      "confidence": 0.9,
+      "notes": "ot (from/out of) + chey (element/small part); from element, elemental component"
+    },
+    {
+      "original": "otod",
+      "latin": "ex est",
+      "confidence": 0.9,
+      "notes": "systematic word family: ot- prefix pattern"
+    },
+    {
+      "original": "ytchodaiin",
+      "latin": "[ytchodaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "yky",
+      "latin": "ad que",
+      "confidence": 0.9,
+      "notes": "y- + ky, directional with connector"
+    },
+    {
+      "original": "otchey",
+      "latin": "ex elementum",
+      "confidence": 0.9,
+      "notes": "ot (from/out of) + chey (element/small part); from element, elemental component"
+    },
+    {
+      "original": "okod",
+      "latin": "est",
+      "confidence": 0.9,
+      "notes": "systematic word family: ko- prefix pattern"
+    },
+    {
+      "original": "okes",
+      "latin": "[okes]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otol",
+      "latin": "ex loco",
+      "confidence": 0.9,
+      "notes": "ot (from) + ol (place), from place"
+    },
+    {
+      "original": "cfhy",
+      "latin": "[cfhy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cphodol",
+      "latin": "[cphodol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ykody",
+      "latin": "ad movet",
+      "confidence": 0.9,
+      "notes": "y (direction) + kody (moves), directional movement"
+    },
+    {
+      "original": "qokchodotcho",
+      "latin": "[qokchodotcho]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qot",
+      "latin": "valde tangit",
+      "confidence": 0.9,
+      "notes": "qo- + t; very touches; 6x freq; conf 0.75"
+    },
+    {
+      "original": "oty",
+      "latin": "ex",
+      "confidence": 0.9,
+      "notes": "source, appears in multiple folios"
+    },
+    {
+      "original": "okor",
+      "latin": "robur ordo",
+      "confidence": 0.9,
+      "notes": "k- + or, strength order"
+    },
+    {
+      "original": "otol",
+      "latin": "ex loco",
+      "confidence": 0.9,
+      "notes": "ot (from) + ol (place), from place"
+    },
+    {
+      "original": "cfhy",
+      "latin": "[cfhy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cphodol",
+      "latin": "[cphodol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ykody",
+      "latin": "ad movet",
+      "confidence": 0.9,
+      "notes": "y (direction) + kody (moves), directional movement"
+    },
+    {
+      "original": "qokchodotcho",
+      "latin": "[qokchodotcho]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qot",
+      "latin": "valde tangit",
+      "confidence": 0.9,
+      "notes": "qo- + t; very touches; 6x freq; conf 0.75"
+    },
+    {
+      "original": "oty",
+      "latin": "ex",
+      "confidence": 0.9,
+      "notes": "source, appears in multiple folios"
+    },
+    {
+      "original": "oksh",
+      "latin": "[oksh]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otol",
+      "latin": "ex loco",
+      "confidence": 0.9,
+      "notes": "ot (from) + ol (place), from place"
+    },
+    {
+      "original": "cfhy",
+      "latin": "[cfhy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cphodol",
+      "latin": "[cphodol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ykody",
+      "latin": "ad movet",
+      "confidence": 0.9,
+      "notes": "y (direction) + kody (moves), directional movement"
+    },
+    {
+      "original": "qokchodotcho",
+      "latin": "[qokchodotcho]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qot",
+      "latin": "valde tangit",
+      "confidence": 0.9,
+      "notes": "qo- + t; very touches; 6x freq; conf 0.75"
+    },
+    {
+      "original": "oty",
+      "latin": "ex",
+      "confidence": 0.9,
+      "notes": "source, appears in multiple folios"
+    },
+    {
+      "original": "ykeodar",
+      "latin": "[ykeodar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oqoor",
+      "latin": "[oqoor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ockh",
+      "latin": "[ockh]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "odor",
+      "latin": "[odor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chain",
+      "latin": "erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: ch- prefix pattern"
+    },
+    {
+      "original": "qokodykchdy",
+      "latin": "[qokodykchdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chees",
+      "latin": "herba esse",
+      "confidence": 0.9,
+      "notes": "che- botanical; herb essence; 7x freq; conf 0.75"
+    },
+    {
+      "original": "dal",
+      "latin": "dat alam",
+      "confidence": 0.9,
+      "notes": "d- + al, giving wing/extension"
+    },
+    {
+      "original": "ykeodar",
+      "latin": "[ykeodar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oqoor",
+      "latin": "[oqoor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ockhodor",
+      "latin": "[ockhodor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chain",
+      "latin": "erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: ch- prefix pattern"
+    },
+    {
+      "original": "qokodykchdy",
+      "latin": "[qokodykchdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chees",
+      "latin": "herba esse",
+      "confidence": 0.9,
+      "notes": "che- botanical; herb essence; 7x freq; conf 0.75"
+    },
+    {
+      "original": "dal",
+      "latin": "dat alam",
+      "confidence": 0.9,
+      "notes": "d- + al, giving wing/extension"
+    },
+    {
+      "original": "ykeodar",
+      "latin": "[ykeodar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oqoor",
+      "latin": "[oqoor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ockh",
+      "latin": "[ockh]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "odor",
+      "latin": "[odor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chain",
+      "latin": "erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: ch- prefix pattern"
+    },
+    {
+      "original": "qokodykchdy",
+      "latin": "[qokodykchdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chees",
+      "latin": "herba esse",
+      "confidence": 0.9,
+      "notes": "che- botanical; herb essence; 7x freq; conf 0.75"
+    },
+    {
+      "original": "dal",
+      "latin": "dat alam",
+      "confidence": 0.9,
+      "notes": "d- + al, giving wing/extension"
+    },
+    {
+      "original": "ykeodar",
+      "latin": "[ykeodar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oqoar",
+      "latin": "[oqoar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ockh",
+      "latin": "[ockh]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "odor",
+      "latin": "[odor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chaiin",
+      "latin": "erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: ch- prefix pattern"
+    },
+    {
+      "original": "qokodykchdy",
+      "latin": "[qokodykchdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chees",
+      "latin": "herba esse",
+      "confidence": 0.9,
+      "notes": "che- botanical; herb essence; 7x freq; conf 0.75"
+    },
+    {
+      "original": "dal",
+      "latin": "dat alam",
+      "confidence": 0.9,
+      "notes": "d- + al, giving wing/extension"
+    },
+    {
+      "original": "sodar",
+      "latin": "[sodar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otos",
+      "latin": "[otos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qoy",
+      "latin": "valde ad",
+      "confidence": 0.9,
+      "notes": "qo- prefix + y (motion), very to/toward direction (16x frequency)"
+    },
+    {
+      "original": "tchy",
+      "latin": "intus",
+      "confidence": 0.9,
+      "notes": "contains chy (in) root, positional term"
+    },
+    {
+      "original": "otey",
+      "latin": "[otey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chos",
+      "latin": "herba os",
+      "confidence": 0.9,
+      "notes": "ch- botanical + os; plant opening; 7x freq; confidence 0.95 (neighbor-boosted)"
+    },
+    {
+      "original": "okodykchody",
+      "latin": "[okodykchody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokchy",
+      "latin": "valde facit",
+      "confidence": 0.9,
+      "notes": "qo- prefix + kchy (makes), intensified making/creating"
+    },
+    {
+      "original": "sodar",
+      "latin": "[sodar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otos",
+      "latin": "[otos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qoy",
+      "latin": "valde ad",
+      "confidence": 0.9,
+      "notes": "qo- prefix + y (motion), very to/toward direction (16x frequency)"
+    },
+    {
+      "original": "tchy",
+      "latin": "intus",
+      "confidence": 0.9,
+      "notes": "contains chy (in) root, positional term"
+    },
+    {
+      "original": "otey",
+      "latin": "[otey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chos",
+      "latin": "herba os",
+      "confidence": 0.9,
+      "notes": "ch- botanical + os; plant opening; 7x freq; confidence 0.95 (neighbor-boosted)"
+    },
+    {
+      "original": "okodytkchody",
+      "latin": "[okodytkchody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokeey",
+      "latin": "iterum",
+      "confidence": 0.9,
+      "notes": "again"
+    },
+    {
+      "original": "sodar",
+      "latin": "[sodar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otos",
+      "latin": "[otos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qoy",
+      "latin": "valde ad",
+      "confidence": 0.9,
+      "notes": "qo- prefix + y (motion), very to/toward direction (16x frequency)"
+    },
+    {
+      "original": "tchy",
+      "latin": "intus",
+      "confidence": 0.9,
+      "notes": "contains chy (in) root, positional term"
+    },
+    {
+      "original": "otey",
+      "latin": "[otey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chos",
+      "latin": "herba os",
+      "confidence": 0.9,
+      "notes": "ch- botanical + os; plant opening; 7x freq; confidence 0.95 (neighbor-boosted)"
+    },
+    {
+      "original": "okodykchody",
+      "latin": "[okodykchody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokchy",
+      "latin": "valde facit",
+      "confidence": 0.9,
+      "notes": "qo- prefix + kchy (makes), intensified making/creating"
+    },
+    {
+      "original": "sadar",
+      "latin": "[sadar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otos",
+      "latin": "[otos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qoy",
+      "latin": "valde ad",
+      "confidence": 0.9,
+      "notes": "qo- prefix + y (motion), very to/toward direction (16x frequency)"
+    },
+    {
+      "original": "tchy",
+      "latin": "intus",
+      "confidence": 0.9,
+      "notes": "contains chy (in) root, positional term"
+    },
+    {
+      "original": "otey",
+      "latin": "[otey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chos",
+      "latin": "herba os",
+      "confidence": 0.9,
+      "notes": "ch- botanical + os; plant opening; 7x freq; confidence 0.95 (neighbor-boosted)"
+    },
+    {
+      "original": "okodykchody",
+      "latin": "[okodykchody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokchy",
+      "latin": "valde facit",
+      "confidence": 0.9,
+      "notes": "qo- prefix + kchy (makes), intensified making/creating"
+    },
+    {
+      "original": "qotchol",
+      "latin": "valde caulem",
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + tchol (stem/stalk); very much stem, emphatic stem reference"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "qoty",
+      "latin": "valde ad",
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + ty (to/toward); very much to/toward"
+    },
+    {
+      "original": "chtor",
+      "latin": "herba ordo",
+      "confidence": 0.9,
+      "notes": "ch- + tor, botanical order/arrangement"
+    },
+    {
+      "original": "oltsho",
+      "latin": "[oltsho]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ctoykeeod",
+      "latin": "[ctoykeeod]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oytoyd",
+      "latin": "[oytoyd]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qotchol",
+      "latin": "valde caulem",
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + tchol (stem/stalk); very much stem, emphatic stem reference"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "qoty",
+      "latin": "valde ad",
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + ty (to/toward); very much to/toward"
+    },
+    {
+      "original": "chtor",
+      "latin": "herba ordo",
+      "confidence": 0.9,
+      "notes": "ch- + tor, botanical order/arrangement"
+    },
+    {
+      "original": "oltshocthoykeeod",
+      "latin": "[oltshocthoykeeod]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oytoyd",
+      "latin": "[oytoyd]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qotchol",
+      "latin": "valde caulem",
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + tchol (stem/stalk); very much stem, emphatic stem reference"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "qoty",
+      "latin": "valde ad",
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + ty (to/toward); very much to/toward"
+    },
+    {
+      "original": "chtor",
+      "latin": "herba ordo",
+      "confidence": 0.9,
+      "notes": "ch- + tor, botanical order/arrangement"
+    },
+    {
+      "original": "oltsho",
+      "latin": "[oltsho]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cthoykeeod",
+      "latin": "[cthoykeeod]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oytoyd",
+      "latin": "[oytoyd]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qotchol",
+      "latin": "valde caulem",
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + tchol (stem/stalk); very much stem, emphatic stem reference"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "qoty",
+      "latin": "valde ad",
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + ty (to/toward); very much to/toward"
+    },
+    {
+      "original": "chtor",
+      "latin": "herba ordo",
+      "confidence": 0.9,
+      "notes": "ch- + tor, botanical order/arrangement"
+    },
+    {
+      "original": "oltsho",
+      "latin": "[oltsho]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cthaykeeod",
+      "latin": "[cthaykeeod]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aytayd",
+      "latin": "[aytayd]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otol",
+      "latin": "ex loco",
+      "confidence": 0.9,
+      "notes": "ot (from) + ol (place), from place"
+    },
+    {
+      "original": "chol",
+      "latin": "caulis",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "ctheees",
+      "latin": "[ctheees]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "os",
+      "latin": "os",
+      "confidence": 0.9,
+      "notes": "short function word; mouth/opening (botanical); 10x freq"
+    },
+    {
+      "original": "orol",
+      "latin": "[orol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chod",
+      "latin": "praebet",
+      "confidence": 0.9,
+      "notes": "ch- + od, giving/presenting"
+    },
+    {
+      "original": "qoty",
+      "latin": "valde ad",
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + ty (to/toward); very much to/toward"
+    },
+    {
+      "original": "otol",
+      "latin": "ex loco",
+      "confidence": 0.9,
+      "notes": "ot (from) + ol (place), from place"
+    },
+    {
+      "original": "chol",
+      "latin": "caulis",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "ctheees",
+      "latin": "[ctheees]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "os",
+      "latin": "os",
+      "confidence": 0.9,
+      "notes": "short function word; mouth/opening (botanical); 10x freq"
+    },
+    {
+      "original": "orol",
+      "latin": "[orol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chod",
+      "latin": "praebet",
+      "confidence": 0.9,
+      "notes": "ch- + od, giving/presenting"
+    },
+    {
+      "original": "qoty",
+      "latin": "valde ad",
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + ty (to/toward); very much to/toward"
+    },
+    {
+      "original": "otol",
+      "latin": "ex loco",
+      "confidence": 0.9,
+      "notes": "ot (from) + ol (place), from place"
+    },
+    {
+      "original": "chol",
+      "latin": "caulis",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "ctheees",
+      "latin": "[ctheees]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "os",
+      "latin": "os",
+      "confidence": 0.9,
+      "notes": "short function word; mouth/opening (botanical); 10x freq"
+    },
+    {
+      "original": "orol",
+      "latin": "[orol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chod",
+      "latin": "praebet",
+      "confidence": 0.9,
+      "notes": "ch- + od, giving/presenting"
+    },
+    {
+      "original": "qoty",
+      "latin": "valde ad",
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + ty (to/toward); very much to/toward"
+    },
+    {
+      "original": "otol",
+      "latin": "ex loco",
+      "confidence": 0.9,
+      "notes": "ot (from) + ol (place), from place"
+    },
+    {
+      "original": "chol",
+      "latin": "caulis",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "cthees",
+      "latin": "[cthees]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "os",
+      "latin": "os",
+      "confidence": 0.9,
+      "notes": "short function word; mouth/opening (botanical); 10x freq"
+    },
+    {
+      "original": "orol",
+      "latin": "[orol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chod",
+      "latin": "praebet",
+      "confidence": 0.9,
+      "notes": "ch- + od, giving/presenting"
+    },
+    {
+      "original": "qoty",
+      "latin": "valde ad",
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + ty (to/toward); very much to/toward"
+    }
+  ],
+  "statistics": {
+    "total": 191,
+    "known": 108,
+    "unknown": 83,
+    "avg_confidence": 0.5010471204188481,
+    "coverage": 0.5654450261780105
+  },
+  "unknown_words": [
+    "aytayd",
+    "cfhy",
+    "chocthody",
+    "chokan",
+    "cphodol",
+    "cthaykeeod",
+    "ctheees",
+    "cthees",
+    "cthoykeeod",
+    "ctoykeeod",
+    "kadam",
+    "kchodotcho",
+    "kodam",
+    "kodykchdy",
+    "ockh",
+    "ockhodor",
+    "odor",
+    "okes",
+    "okodykchody",
+    "okodytkchody",
+    "oksh",
+    "oltsho",
+    "oltshocthoykeeod",
+    "oqoar",
+    "oqoor",
+    "orol",
+    "otey",
+    "otos",
+    "oytoyd",
+    "qokchodotcho",
+    "qokodykchdy",
+    "sadar",
+    "scho",
+    "schoshe",
+    "shoar",
+    "shoeos",
+    "sodar",
+    "tchodaiin",
+    "ykeodar",
+    "ytchodaiin"
+  ],
+  "translated_at": "2025-11-28T02:34:41.290077"
+}

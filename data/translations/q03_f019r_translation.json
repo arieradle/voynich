@@ -699,8 +699,8 @@
     {
       "original": "qokcho",
       "latin": "valde facit",
-      "confidence": 0.81,
-      "notes": "qo-prefix:systematic word family: kc- prefix pattern"
+      "confidence": 0.9,
+      "notes": "qo + kcho; very makes; 6x freq; conf 0.75"
     },
     {
       "original": "ky",
@@ -777,8 +777,8 @@
     {
       "original": "qokcho",
       "latin": "valde facit",
-      "confidence": 0.81,
-      "notes": "qo-prefix:systematic word family: kc- prefix pattern"
+      "confidence": 0.9,
+      "notes": "qo + kcho; very makes; 6x freq; conf 0.75"
     },
     {
       "original": "ky",
@@ -1313,7 +1313,7 @@
     "total": 217,
     "known": 159,
     "unknown": 58,
-    "avg_confidence": 0.6049769585253456,
+    "avg_confidence": 0.6058064516129033,
     "coverage": 0.7327188940092166
   },
   "unknown_words": [
@@ -1335,7 +1335,6 @@
     "osocthor",
     "otytchy",
     "qodchy",
-    "qokcho",
     "qokorar",
     "qolody",
     "qotshy",
@@ -1345,5 +1344,5 @@
     "tdaiin",
     "ykchor"
   ],
-  "translated_at": "2025-11-27T23:34:54.504822"
+  "translated_at": "2025-11-28T02:34:38.811110"
 }

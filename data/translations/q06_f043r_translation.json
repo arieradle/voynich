@@ -3,8 +3,8 @@
   "section": "q06",
   "context": "all",
   "voynich_text": "kchedy chedy daly cheody cheolkeepchy kchedy chedy daly cheody cheolkeepchy kchedy chedy daly cheody cheol keepchy kchedy chedy dala cheody cheol keepchy kchedy chedy daly cheody cheolkeepchy dshedy qotedy dor cheey odain dshedy qotedy dor cheey odain dshedy qotedy dor cheey odain dshedy qotedy dor cheey odain ykeody checkhy chotehy odain chckhhhy chokor aiin ykeody checkhy choteey odain chckheey chokoraiin ykeody checkhy choteey odain chckhey choko raiin ykeody checkhy choteey odain chckheey chokoraiin",
-  "latin_text": "[kchedy] in [daly] herba movet [cheolkeepchy] [kchedy] in [daly] herba movet [cheolkeepchy] [kchedy] in [daly] herba movet folia [keepchy] [kchedy] in ala herba movet folia [keepchy] [kchedy] in [daly] herba movet [cheolkeepchy] [dshedy] valde tangit movet ordinat parvum dat erat [dshedy] valde tangit movet ordinat parvum dat erat [dshedy] valde tangit movet ordinat parvum dat erat [dshedy] valde tangit movet ordinat parvum dat erat [ykeody] [checkhy] [chotehy] dat erat [chckhhhy] [chokor] est [ykeody] [checkhy] [choteey] dat erat [chckheey] [chokoraiin] [ykeody] [checkhy] [choteey] dat erat [chckhey] [choko] et est [ykeody] [checkhy] [choteey] dat erat [chckheey] [chokoraiin]",
-  "english_text": "[kchedy] in [daly] herb moves [cheolkeepchy] [kchedy] in [daly] herb moves [cheolkeepchy] [kchedy] in [daly] herb moves leaves [keepchy] [kchedy] in wing herb moves leaves [keepchy] [kchedy] in [daly] herb moves [cheolkeepchy] [dshedy] very touches moves arranges small gives was [dshedy] very touches moves arranges small gives was [dshedy] very touches moves arranges small gives was [dshedy] very touches moves arranges small gives was [ykeody] [checkhy] [chotehy] gives was [chckhhhy] [chokor] is [ykeody] [checkhy] [choteey] gives was [chckheey] [chokoraiin] [ykeody] [checkhy] [choteey] gives was [chckhey] [choko] and is [ykeody] [checkhy] [choteey] gives was [chckheey] [chokoraiin].",
+  "latin_text": "[kchedy] in [daly] herba movet [cheolkeepchy] [kchedy] in [daly] herba movet [cheolkeepchy] [kchedy] in [daly] herba movet folia [keepchy] [kchedy] in ala herba movet folia [keepchy] [kchedy] in [daly] herba movet [cheolkeepchy] [dshedy] valde tangit movet ordinat parvum dat erat [dshedy] valde tangit movet ordinat parvum dat erat [dshedy] valde tangit movet ordinat parvum dat erat [dshedy] valde tangit movet ordinat parvum dat erat [ykeody] [checkhy] [chotehy] dat erat [chckhhhy] [chokor] est [ykeody] [checkhy] [choteey] dat erat [chckheey] [chokoraiin] [ykeody] [checkhy] [choteey] dat erat herba in elementum [choko] et est [ykeody] [checkhy] [choteey] dat erat [chckheey] [chokoraiin]",
+  "english_text": "[kchedy] in [daly] herb moves [cheolkeepchy] [kchedy] in [daly] herb moves [cheolkeepchy] [kchedy] in [daly] herb moves leaves [keepchy] [kchedy] in wing herb moves leaves [keepchy] [kchedy] in [daly] herb moves [cheolkeepchy] [dshedy] very touches moves arranges small gives was [dshedy] very touches moves arranges small gives was [dshedy] very touches moves arranges small gives was [dshedy] very touches moves arranges small gives was [ykeody] [checkhy] [chotehy] gives was [chckhhhy] [chokor] is [ykeody] [checkhy] [choteey] gives was [chckheey] [chokoraiin] [ykeody] [checkhy] [choteey] gives was herb in element [choko] and is [ykeody] [checkhy] [choteey] gives was [chckheey] [chokoraiin].",
   "word_translations": [
     {
       "original": "kchedy",
@@ -392,9 +392,9 @@
     },
     {
       "original": "chckhey",
-      "latin": "[chckhey]",
-      "confidence": 0.0,
-      "notes": "unknown"
+      "latin": "herba in elementum",
+      "confidence": 0.9,
+      "notes": "ch + ckh + ey; plant in element; 8x freq; conf 0.75"
     },
     {
       "original": "choko",
@@ -447,14 +447,13 @@
   ],
   "statistics": {
     "total": 73,
-    "known": 35,
-    "unknown": 38,
-    "avg_confidence": 0.4252054794520548,
-    "coverage": 0.4794520547945205
+    "known": 36,
+    "unknown": 37,
+    "avg_confidence": 0.43753424657534246,
+    "coverage": 0.4931506849315068
   },
   "unknown_words": [
     "chckheey",
-    "chckhey",
     "chckhhhy",
     "checkhy",
     "cheolkeepchy",
@@ -470,5 +469,5 @@
     "qotedy",
     "ykeody"
   ],
-  "translated_at": "2025-11-27T23:34:57.554937"
+  "translated_at": "2025-11-28T02:34:40.620333"
 }

@@ -69,16 +69,26 @@ python translate_folio.py --section q02 --show 014r
 python analyze_gaps.py --min-freq 5
 ```
 
-### 🆕 Expanding to New Sections
+### 🆕 Expanding to New Sections (ONE COMMAND!)
+
+```bash
+# ✨ NEW: Automated scrape + translate workflow
+python scripts/scrape_and_translate.py --quire q07
+
+# Or multiple quires at once
+python scripts/scrape_and_translate.py --quire q07 q08 q09
+
+# See SCRAPE_TRANSLATE_GUIDE.md for details
+```
+
+### Manual Scraping (if needed)
 
 ```bash
 # List all available quires
 python scrape_voynich_nu.py --list-quires
 
-# Scrape new sections (q03-q20 available!)
+# Scrape only (without translation)
 python scrape_voynich_nu.py --quire q03 q04 q05
-
-# See SECTION_EXPANSION_GUIDE.md for complete workflow
 ```
 
 ### For AI Agents
