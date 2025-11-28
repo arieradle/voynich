@@ -1,0 +1,580 @@
+{
+  "folio_id": "085r1",
+  "section": "q14",
+  "context": "cosmological",
+  "voynich_text": "rorain shey pchey qokeey chor ol shedy roraiin shey pchey qokeey chor ol shedy dair chokaiin cheod cheolkeedy dair chotaiin cheod cheolkeedy shoiin qokar okary cheey shoiin qokar okary cheey okchy okchdy otchedy dam lam okchy okchdy otchedy dam lam ydair tar chedy oraiin ychedy okedy ydair tar chedy saiin ychedy okedy schedaiir oteody chcthdy qokaiin ykchedy schedair oteody chcthdy qokaiin ykchedy ychedy shetshdy qotar okedy qokal saiin ol karar odeeed ychedy shetshdy qotar okedy qokal saiin ol karar odeeed sar chedar olpchdy otol otchedy sar chedar olpchdy otol otchedy",
+  "latin_text": "[rorain] exit sustinet parvum iterum via ille descendit [roraiin] exit sustinet parvum iterum via ille descendit gratia [chokaiin] pars variat [cheolkeedy] gratia herba cursus pars variat [cheolkeedy] hic est planeta [okary] parvum hic est planeta [okary] parvum facit [okchdy] [otchedy] finis [lam] facit [okchdy] [otchedy] finis [lam] [ydair] tangit et in ordo est [ychedy] extendit [ydair] tangit et in sine [ychedy] extendit [schedaiir] [oteody] [chcthdy] mundus [ykchedy] [schedair] [oteody] [chcthdy] mundus [ykchedy] [ychedy] [shetshdy] valde et extendit valde ala sine ille [karar] [odeeed] [ychedy] [shetshdy] valde et extendit valde ala sine ille [karar] [odeeed] latus et [chedar] [olpchdy] ex loco [otchedy] latus et [chedar] [olpchdy] ex loco [otchedy]",
+  "english_text": "[rorain] from [sustinet] small [iterum] path that from [roraiin] from [sustinet] small [iterum] path that from grace [chokaiin] part varies [cheolkeedy] grace herb [cursus] part varies [cheolkeedy] here is [planeta] [okary] small here is [planeta] [okary] small makes [okchdy] [otchedy] [finis] [lam] makes [okchdy] [otchedy] [finis] [lam] [ydair] touches and in order is [ychedy] extends [ydair] touches and in [sine] [ychedy] extends [schedaiir] [oteody] [chcthdy] [mundus] [ykchedy] [schedair] [oteody] [chcthdy] [mundus] [ykchedy] [ychedy] [shetshdy] very and extends very wing [sine] that [karar] [odeeed] [ychedy] [shetshdy] very and extends very wing [sine] that [karar] [odeeed] wide and [chedar] [olpchdy] from [loco] [otchedy] wide and [chedar] [olpchdy] from [loco] [otchedy].",
+  "word_translations": [
+    {
+      "original": "rorain",
+      "latin": "[rorain]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shey",
+      "latin": "exit",
+      "confidence": 0.9,
+      "notes": "goes out, water context"
+    },
+    {
+      "original": "pchey",
+      "latin": "sustinet parvum",
+      "confidence": 0.9,
+      "notes": "p- + chey, supporting small element"
+    },
+    {
+      "original": "qokeey",
+      "latin": "iterum",
+      "confidence": 0.9,
+      "notes": "again"
+    },
+    {
+      "original": "chor",
+      "latin": "via",
+      "confidence": 0.8,
+      "notes": "polysemy:cosmological section, path/route"
+    },
+    {
+      "original": "ol",
+      "latin": "ille",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "shedy",
+      "latin": "descendit",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, broad use"
+    },
+    {
+      "original": "roraiin",
+      "latin": "[roraiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shey",
+      "latin": "exit",
+      "confidence": 0.9,
+      "notes": "goes out, water context"
+    },
+    {
+      "original": "pchey",
+      "latin": "sustinet parvum",
+      "confidence": 0.9,
+      "notes": "p- + chey, supporting small element"
+    },
+    {
+      "original": "qokeey",
+      "latin": "iterum",
+      "confidence": 0.9,
+      "notes": "again"
+    },
+    {
+      "original": "chor",
+      "latin": "via",
+      "confidence": 0.8,
+      "notes": "polysemy:cosmological section, path/route"
+    },
+    {
+      "original": "ol",
+      "latin": "ille",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "shedy",
+      "latin": "descendit",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, broad use"
+    },
+    {
+      "original": "dair",
+      "latin": "gratia",
+      "confidence": 0.9,
+      "notes": "for benefit"
+    },
+    {
+      "original": "chokaiin",
+      "latin": "[chokaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheod",
+      "latin": "pars variat",
+      "confidence": 0.9,
+      "notes": "ch- + eod, botanical element variation"
+    },
+    {
+      "original": "cheolkeedy",
+      "latin": "[cheolkeedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dair",
+      "latin": "gratia",
+      "confidence": 0.9,
+      "notes": "for benefit"
+    },
+    {
+      "original": "chotaiin",
+      "latin": "herba cursus",
+      "confidence": 0.9,
+      "notes": "ch (from plant) + otaiin (movement/flow pattern); herbal flow, plant's directional growth"
+    },
+    {
+      "original": "cheod",
+      "latin": "pars variat",
+      "confidence": 0.9,
+      "notes": "ch- + eod, botanical element variation"
+    },
+    {
+      "original": "cheolkeedy",
+      "latin": "[cheolkeedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shoiin",
+      "latin": "hic est",
+      "confidence": 0.9,
+      "notes": "systematic word family: sh- prefix pattern"
+    },
+    {
+      "original": "qokar",
+      "latin": "planeta",
+      "confidence": 0.8,
+      "notes": "polysemy:astronomical or cosmological section, planets"
+    },
+    {
+      "original": "okary",
+      "latin": "[okary]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheey",
+      "latin": "parvum",
+      "confidence": 0.9,
+      "notes": "systematic word family: ch- prefix pattern"
+    },
+    {
+      "original": "shoiin",
+      "latin": "hic est",
+      "confidence": 0.9,
+      "notes": "systematic word family: sh- prefix pattern"
+    },
+    {
+      "original": "qokar",
+      "latin": "planeta",
+      "confidence": 0.8,
+      "notes": "polysemy:astronomical or cosmological section, planets"
+    },
+    {
+      "original": "okary",
+      "latin": "[okary]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "cheey",
+      "latin": "parvum",
+      "confidence": 0.9,
+      "notes": "systematic word family: ch- prefix pattern"
+    },
+    {
+      "original": "okchy",
+      "latin": "facit",
+      "confidence": 0.9,
+      "notes": "makes, does"
+    },
+    {
+      "original": "okchdy",
+      "latin": "[okchdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otchedy",
+      "latin": "[otchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dam",
+      "latin": "finis",
+      "confidence": 0.9,
+      "notes": "end, completion"
+    },
+    {
+      "original": "lam",
+      "latin": "[lam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okchy",
+      "latin": "facit",
+      "confidence": 0.9,
+      "notes": "makes, does"
+    },
+    {
+      "original": "okchdy",
+      "latin": "[okchdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otchedy",
+      "latin": "[otchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dam",
+      "latin": "finis",
+      "confidence": 0.9,
+      "notes": "end, completion"
+    },
+    {
+      "original": "lam",
+      "latin": "[lam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ydair",
+      "latin": "[ydair]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "tar",
+      "latin": "tangit et",
+      "confidence": 0.9,
+      "notes": "t- + ar, touching and"
+    },
+    {
+      "original": "chedy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "frequent, fits preposition; containment"
+    },
+    {
+      "original": "oraiin",
+      "latin": "ordo est",
+      "confidence": 0.9,
+      "notes": "or (order) + aiin (is/state); in order, ordered state"
+    },
+    {
+      "original": "ychedy",
+      "latin": "[ychedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okedy",
+      "latin": "extendit",
+      "confidence": 0.9,
+      "notes": "action, broad use for extends"
+    },
+    {
+      "original": "ydair",
+      "latin": "[ydair]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "tar",
+      "latin": "tangit et",
+      "confidence": 0.9,
+      "notes": "t- + ar, touching and"
+    },
+    {
+      "original": "chedy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "frequent, fits preposition; containment"
+    },
+    {
+      "original": "saiin",
+      "latin": "sine",
+      "confidence": 0.9,
+      "notes": "without"
+    },
+    {
+      "original": "ychedy",
+      "latin": "[ychedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okedy",
+      "latin": "extendit",
+      "confidence": 0.9,
+      "notes": "action, broad use for extends"
+    },
+    {
+      "original": "schedaiir",
+      "latin": "[schedaiir]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oteody",
+      "latin": "[oteody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chcthdy",
+      "latin": "[chcthdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokaiin",
+      "latin": "mundus",
+      "confidence": 0.8,
+      "notes": "polysemy:cosmological section, near rosettes"
+    },
+    {
+      "original": "ykchedy",
+      "latin": "[ykchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "schedair",
+      "latin": "[schedair]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oteody",
+      "latin": "[oteody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chcthdy",
+      "latin": "[chcthdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokaiin",
+      "latin": "mundus",
+      "confidence": 0.8,
+      "notes": "polysemy:cosmological section, near rosettes"
+    },
+    {
+      "original": "ykchedy",
+      "latin": "[ykchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ychedy",
+      "latin": "[ychedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shetshdy",
+      "latin": "[shetshdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qotar",
+      "latin": "valde et",
+      "confidence": 0.9,
+      "notes": "systematic word family: qo- prefix pattern"
+    },
+    {
+      "original": "okedy",
+      "latin": "extendit",
+      "confidence": 0.9,
+      "notes": "action, broad use for extends"
+    },
+    {
+      "original": "qokal",
+      "latin": "valde ala",
+      "confidence": 0.9,
+      "notes": "systematic word family: qo- prefix pattern"
+    },
+    {
+      "original": "saiin",
+      "latin": "sine",
+      "confidence": 0.9,
+      "notes": "without"
+    },
+    {
+      "original": "ol",
+      "latin": "ille",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "karar",
+      "latin": "[karar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "odeeed",
+      "latin": "[odeeed]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ychedy",
+      "latin": "[ychedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shetshdy",
+      "latin": "[shetshdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qotar",
+      "latin": "valde et",
+      "confidence": 0.9,
+      "notes": "systematic word family: qo- prefix pattern"
+    },
+    {
+      "original": "okedy",
+      "latin": "extendit",
+      "confidence": 0.9,
+      "notes": "action, broad use for extends"
+    },
+    {
+      "original": "qokal",
+      "latin": "valde ala",
+      "confidence": 0.9,
+      "notes": "systematic word family: qo- prefix pattern"
+    },
+    {
+      "original": "saiin",
+      "latin": "sine",
+      "confidence": 0.9,
+      "notes": "without"
+    },
+    {
+      "original": "ol",
+      "latin": "ille",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "karar",
+      "latin": "[karar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "odeeed",
+      "latin": "[odeeed]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sar",
+      "latin": "latus et",
+      "confidence": 0.9,
+      "notes": "s- + ar, side and"
+    },
+    {
+      "original": "chedar",
+      "latin": "[chedar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "olpchdy",
+      "latin": "[olpchdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otol",
+      "latin": "ex loco",
+      "confidence": 0.9,
+      "notes": "ot (from) + ol (place), from place"
+    },
+    {
+      "original": "otchedy",
+      "latin": "[otchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "sar",
+      "latin": "latus et",
+      "confidence": 0.9,
+      "notes": "s- + ar, side and"
+    },
+    {
+      "original": "chedar",
+      "latin": "[chedar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "olpchdy",
+      "latin": "[olpchdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otol",
+      "latin": "ex loco",
+      "confidence": 0.9,
+      "notes": "ot (from) + ol (place), from place"
+    },
+    {
+      "original": "otchedy",
+      "latin": "[otchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    }
+  ],
+  "statistics": {
+    "total": 90,
+    "known": 51,
+    "unknown": 39,
+    "avg_confidence": 0.48777777777777775,
+    "coverage": 0.5666666666666667
+  },
+  "unknown_words": [
+    "chcthdy",
+    "chedar",
+    "cheolkeedy",
+    "chokaiin",
+    "karar",
+    "lam",
+    "odeeed",
+    "okary",
+    "okchdy",
+    "olpchdy",
+    "otchedy",
+    "oteody",
+    "roraiin",
+    "rorain",
+    "schedaiir",
+    "schedair",
+    "shetshdy",
+    "ychedy",
+    "ydair",
+    "ykchedy"
+  ],
+  "translated_at": "2025-11-28T03:14:38.591965"
+}

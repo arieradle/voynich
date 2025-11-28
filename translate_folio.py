@@ -79,8 +79,13 @@ class FolioTranslator:
         # Get folio path
         folio_path = self.downloader.get_folio_path(section, folio_id)
         
+        # Fallback: Try direct file path for non-standard folios (like Q14)
         if not folio_path or not folio_path.exists():
-            raise FileNotFoundError(f"Folio not found: {section}/f{folio_id}. Download it first.")
+            direct_path = Path(f"data/folios/{section}/f{folio_id}.txt")
+            if direct_path.exists():
+                folio_path = direct_path
+            else:
+                raise FileNotFoundError(f"Folio not found: {section}/f{folio_id}. Download it first.")
         
         print(f"\n🔤 Translating: {section}/f{folio_id}")
         

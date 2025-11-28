@@ -1,0 +1,888 @@
+{
+  "folio_id": "086v6",
+  "section": "q14",
+  "context": "cosmological",
+  "voynich_text": "ykeealar qokal otar ykairolky ykeealar qokal otar ykairolky pol shopchey pchecfhey or aiiin qokaiin cholkar pol sheopchey pchcfhy or aiin qokaiin cholkar dchedy chcthdy shol oky ytaiin ykain chedy dy dal shdaiin dchedy chcthdy shol oky ytaiin ykaiin chedy dy dal shdaiin lshar okar qoeedy qotar otal olky qokal ol kaiin octhair lo lshear okar qoeedy qotar otal olky qokal ol kaiin octhair lo otaiin qokain otal otal lt al lkar chdy qotol qokain otaiin qokaiin otal otal lt al lkar chdy qotal qokaiin qokaiin choty ytaiin chokain chocthy chy taiin okaiin okan qokaiin choty ytaiin chokaiin chocthy chy taiin okaiin okan shor qoky chorolk chokaiin qoolkaiin qoaiin or aiiin ykedy shor qoky chorolk chakaiin qoal kaiin qoaiin or aiin ykedy paiin otar otolkshy qokshey ar otalky chear aiodam paiin otar otol kshy qok shey ar otalky chear aiadam",
+  "latin_text": "[ykeealar] valde ala ex et [ykairolky] [ykeealar] valde ala ex et [ykairolky] locus [shopchey] [pchecfhey] ordo [aiiin] mundus [cholkar] locus [sheopchey] [pchcfhy] ordo est mundus [cholkar] [dchedy] [chcthdy] facit facit ad ad erat [ykain] in et dat alam [shdaiin] [dchedy] [chcthdy] facit facit ad ad erat erat quidem in et dat alam [shdaiin] [lshar] orbis [qoeedy] valde et ex ala [olky] valde ala ille erat [octhair] [lo] [lshear] orbis [qoeedy] valde et ex ala [olky] valde ala ille erat [octhair] [lo] cursus stella valde ex ala [lt] ala [lkar] herba et valde locus stella cursus mundus valde ex ala [lt] ala [lkar] herba et post valde mundus parvus ad erat magnitudo erat in terra facit inter tangit erat ponit [okan] mundus parvus ad erat [chokaiin] in terra facit inter tangit erat ponit [okan] saepe valde et [chorolk] [chokaiin] [qoolkaiin] valde erat ordo [aiiin] [ykedy] saepe valde et [chorolk] [chakaiin] valde ala erat valde erat ordo est [ykedy] erat ex et [otolkshy] [qokshey] et [otalky] herba pars [aiodam] erat ex et ex loco parvum potest exit et [otalky] herba pars [aiadam]",
+  "english_text": "[ykeealar] very wing from and [ykairolky] [ykeealar] very wing from and [ykairolky] place [shopchey] [pchecfhey] order [aiiin] [mundus] [cholkar] place [sheopchey] [pchcfhy] order is [mundus] [cholkar] [dchedy] [chcthdy] makes makes to to was [ykain] in and gives wing [shdaiin] [dchedy] [chcthdy] makes makes to to was was indeed in and gives wing [shdaiin] [lshar] [orbis] [qoeedy] very and from wing [olky] very wing that was [octhair] [lo] [lshear] [orbis] [qoeedy] very and from wing [olky] very wing that was [octhair] [lo] [cursus] star very from wing [lt] wing [lkar] herb and very place star [cursus] [mundus] very from wing [lt] wing [lkar] herb and [post] very [mundus] small to was magnitude was in earth makes among touches was [ponit] [okan] [mundus] small to was [chokaiin] in earth makes among touches was [ponit] [okan] often very and [chorolk] [chokaiin] [qoolkaiin] very was order [aiiin] [ykedy] often very and [chorolk] [chakaiin] very wing was very was order is [ykedy] was from and [otolkshy] [qokshey] and [otalky] herb part [aiodam] was from and from [loco] small [potest] from and [otalky] herb part [aiadam].",
+  "word_translations": [
+    {
+      "original": "ykeealar",
+      "latin": "[ykeealar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokal",
+      "latin": "valde ala",
+      "confidence": 0.9,
+      "notes": "systematic word family: qo- prefix pattern"
+    },
+    {
+      "original": "otar",
+      "latin": "ex et",
+      "confidence": 0.9,
+      "notes": "ot (from) + ar (and), from and"
+    },
+    {
+      "original": "ykairolky",
+      "latin": "[ykairolky]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ykeealar",
+      "latin": "[ykeealar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokal",
+      "latin": "valde ala",
+      "confidence": 0.9,
+      "notes": "systematic word family: qo- prefix pattern"
+    },
+    {
+      "original": "otar",
+      "latin": "ex et",
+      "confidence": 0.9,
+      "notes": "ot (from) + ar (and), from and"
+    },
+    {
+      "original": "ykairolky",
+      "latin": "[ykairolky]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "pol",
+      "latin": "locus",
+      "confidence": 0.9,
+      "notes": "systematic word family: po- prefix pattern"
+    },
+    {
+      "original": "shopchey",
+      "latin": "[shopchey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "pchecfhey",
+      "latin": "[pchecfhey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "or",
+      "latin": "ordo",
+      "confidence": 0.9,
+      "notes": "short connector, order/arrangement"
+    },
+    {
+      "original": "aiiin",
+      "latin": "[aiiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokaiin",
+      "latin": "mundus",
+      "confidence": 0.8,
+      "notes": "polysemy:cosmological section, near rosettes"
+    },
+    {
+      "original": "cholkar",
+      "latin": "[cholkar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "pol",
+      "latin": "locus",
+      "confidence": 0.9,
+      "notes": "systematic word family: po- prefix pattern"
+    },
+    {
+      "original": "sheopchey",
+      "latin": "[sheopchey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "pchcfhy",
+      "latin": "[pchcfhy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "or",
+      "latin": "ordo",
+      "confidence": 0.9,
+      "notes": "short connector, order/arrangement"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "qokaiin",
+      "latin": "mundus",
+      "confidence": 0.8,
+      "notes": "polysemy:cosmological section, near rosettes"
+    },
+    {
+      "original": "cholkar",
+      "latin": "[cholkar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dchedy",
+      "latin": "[dchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chcthdy",
+      "latin": "[chcthdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shol",
+      "latin": "facit",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "oky",
+      "latin": "facit ad",
+      "confidence": 0.9,
+      "notes": "ok (action) + y (direction), directed action"
+    },
+    {
+      "original": "ytaiin",
+      "latin": "ad erat",
+      "confidence": 0.9,
+      "notes": "y- + taiin, directional with state"
+    },
+    {
+      "original": "ykain",
+      "latin": "[ykain]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chedy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "frequent, fits preposition; containment"
+    },
+    {
+      "original": "dy",
+      "latin": "et",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "dal",
+      "latin": "dat alam",
+      "confidence": 0.9,
+      "notes": "d- + al, giving wing/extension"
+    },
+    {
+      "original": "shdaiin",
+      "latin": "[shdaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dchedy",
+      "latin": "[dchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chcthdy",
+      "latin": "[chcthdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shol",
+      "latin": "facit",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "oky",
+      "latin": "facit ad",
+      "confidence": 0.9,
+      "notes": "ok (action) + y (direction), directed action"
+    },
+    {
+      "original": "ytaiin",
+      "latin": "ad erat",
+      "confidence": 0.9,
+      "notes": "y- + taiin, directional with state"
+    },
+    {
+      "original": "ykaiin",
+      "latin": "erat quidem",
+      "confidence": 0.9,
+      "notes": "y- + kaiin, associated with state/being"
+    },
+    {
+      "original": "chedy",
+      "latin": "in",
+      "confidence": 0.9,
+      "notes": "frequent, fits preposition; containment"
+    },
+    {
+      "original": "dy",
+      "latin": "et",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "dal",
+      "latin": "dat alam",
+      "confidence": 0.9,
+      "notes": "d- + al, giving wing/extension"
+    },
+    {
+      "original": "shdaiin",
+      "latin": "[shdaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "lshar",
+      "latin": "[lshar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okar",
+      "latin": "orbis",
+      "confidence": 0.9,
+      "notes": "orbital paths"
+    },
+    {
+      "original": "qoeedy",
+      "latin": "[qoeedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qotar",
+      "latin": "valde et",
+      "confidence": 0.9,
+      "notes": "systematic word family: qo- prefix pattern"
+    },
+    {
+      "original": "otal",
+      "latin": "ex ala",
+      "confidence": 0.9,
+      "notes": "ot (from) + al (wing), from extension"
+    },
+    {
+      "original": "olky",
+      "latin": "[olky]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokal",
+      "latin": "valde ala",
+      "confidence": 0.9,
+      "notes": "systematic word family: qo- prefix pattern"
+    },
+    {
+      "original": "ol",
+      "latin": "ille",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "kaiin",
+      "latin": "erat",
+      "confidence": 0.9,
+      "notes": "has -aiin suffix marker, appears in botanical contexts"
+    },
+    {
+      "original": "octhair",
+      "latin": "[octhair]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "lo",
+      "latin": "[lo]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "lshear",
+      "latin": "[lshear]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okar",
+      "latin": "orbis",
+      "confidence": 0.9,
+      "notes": "orbital paths"
+    },
+    {
+      "original": "qoeedy",
+      "latin": "[qoeedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qotar",
+      "latin": "valde et",
+      "confidence": 0.9,
+      "notes": "systematic word family: qo- prefix pattern"
+    },
+    {
+      "original": "otal",
+      "latin": "ex ala",
+      "confidence": 0.9,
+      "notes": "ot (from) + al (wing), from extension"
+    },
+    {
+      "original": "olky",
+      "latin": "[olky]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokal",
+      "latin": "valde ala",
+      "confidence": 0.9,
+      "notes": "systematic word family: qo- prefix pattern"
+    },
+    {
+      "original": "ol",
+      "latin": "ille",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "kaiin",
+      "latin": "erat",
+      "confidence": 0.9,
+      "notes": "has -aiin suffix marker, appears in botanical contexts"
+    },
+    {
+      "original": "octhair",
+      "latin": "[octhair]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "lo",
+      "latin": "[lo]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otaiin",
+      "latin": "cursus",
+      "confidence": 0.9,
+      "notes": "star paths"
+    },
+    {
+      "original": "qokain",
+      "latin": "stella",
+      "confidence": 0.9,
+      "notes": "near stars"
+    },
+    {
+      "original": "otal",
+      "latin": "ex ala",
+      "confidence": 0.9,
+      "notes": "ot (from) + al (wing), from extension"
+    },
+    {
+      "original": "otal",
+      "latin": "ex ala",
+      "confidence": 0.9,
+      "notes": "ot (from) + al (wing), from extension"
+    },
+    {
+      "original": "lt",
+      "latin": "[lt]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "al",
+      "latin": "ala",
+      "confidence": 0.9,
+      "notes": "wing/extension suffix"
+    },
+    {
+      "original": "lkar",
+      "latin": "[lkar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chdy",
+      "latin": "herba et",
+      "confidence": 0.9,
+      "notes": "ch- + dy (and), botanical connector"
+    },
+    {
+      "original": "qotol",
+      "latin": "valde locus",
+      "confidence": 0.9,
+      "notes": "qo (intensifier) + tol (place/location); very much at location, emphatic place marker"
+    },
+    {
+      "original": "qokain",
+      "latin": "stella",
+      "confidence": 0.9,
+      "notes": "near stars"
+    },
+    {
+      "original": "otaiin",
+      "latin": "cursus",
+      "confidence": 0.9,
+      "notes": "star paths"
+    },
+    {
+      "original": "qokaiin",
+      "latin": "mundus",
+      "confidence": 0.8,
+      "notes": "polysemy:cosmological section, near rosettes"
+    },
+    {
+      "original": "otal",
+      "latin": "ex ala",
+      "confidence": 0.9,
+      "notes": "ot (from) + al (wing), from extension"
+    },
+    {
+      "original": "otal",
+      "latin": "ex ala",
+      "confidence": 0.9,
+      "notes": "ot (from) + al (wing), from extension"
+    },
+    {
+      "original": "lt",
+      "latin": "[lt]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "al",
+      "latin": "ala",
+      "confidence": 0.9,
+      "notes": "wing/extension suffix"
+    },
+    {
+      "original": "lkar",
+      "latin": "[lkar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chdy",
+      "latin": "herba et",
+      "confidence": 0.9,
+      "notes": "ch- + dy (and), botanical connector"
+    },
+    {
+      "original": "qotal",
+      "latin": "post",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, recipe context"
+    },
+    {
+      "original": "qokaiin",
+      "latin": "mundus",
+      "confidence": 0.8,
+      "notes": "polysemy:cosmological section, near rosettes"
+    },
+    {
+      "original": "qokaiin",
+      "latin": "mundus",
+      "confidence": 0.8,
+      "notes": "polysemy:cosmological section, near rosettes"
+    },
+    {
+      "original": "choty",
+      "latin": "parvus",
+      "confidence": 0.9,
+      "notes": "small"
+    },
+    {
+      "original": "ytaiin",
+      "latin": "ad erat",
+      "confidence": 0.9,
+      "notes": "y- + taiin, directional with state"
+    },
+    {
+      "original": "chokain",
+      "latin": "magnitudo erat",
+      "confidence": 0.9,
+      "notes": "chok (magnitude) + ain, size state"
+    },
+    {
+      "original": "chocthy",
+      "latin": "in terra facit",
+      "confidence": 0.9,
+      "notes": "cho + cthy (earth), earth-related action"
+    },
+    {
+      "original": "chy",
+      "latin": "inter",
+      "confidence": 0.8,
+      "notes": "polysemy:cosmological section, between/among"
+    },
+    {
+      "original": "taiin",
+      "latin": "tangit erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: ta- prefix pattern"
+    },
+    {
+      "original": "okaiin",
+      "latin": "ponit",
+      "confidence": 0.9,
+      "notes": "placing"
+    },
+    {
+      "original": "okan",
+      "latin": "[okan]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokaiin",
+      "latin": "mundus",
+      "confidence": 0.8,
+      "notes": "polysemy:cosmological section, near rosettes"
+    },
+    {
+      "original": "choty",
+      "latin": "parvus",
+      "confidence": 0.9,
+      "notes": "small"
+    },
+    {
+      "original": "ytaiin",
+      "latin": "ad erat",
+      "confidence": 0.9,
+      "notes": "y- + taiin, directional with state"
+    },
+    {
+      "original": "chokaiin",
+      "latin": "[chokaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chocthy",
+      "latin": "in terra facit",
+      "confidence": 0.9,
+      "notes": "cho + cthy (earth), earth-related action"
+    },
+    {
+      "original": "chy",
+      "latin": "inter",
+      "confidence": 0.8,
+      "notes": "polysemy:cosmological section, between/among"
+    },
+    {
+      "original": "taiin",
+      "latin": "tangit erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: ta- prefix pattern"
+    },
+    {
+      "original": "okaiin",
+      "latin": "ponit",
+      "confidence": 0.9,
+      "notes": "placing"
+    },
+    {
+      "original": "okan",
+      "latin": "[okan]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shor",
+      "latin": "saepe",
+      "confidence": 0.9,
+      "notes": "often"
+    },
+    {
+      "original": "qoky",
+      "latin": "valde et",
+      "confidence": 0.9,
+      "notes": "qo- (intensifier) + ky (and), intensified connector, appears 17x"
+    },
+    {
+      "original": "chorolk",
+      "latin": "[chorolk]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chokaiin",
+      "latin": "[chokaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qoolkaiin",
+      "latin": "[qoolkaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qoaiin",
+      "latin": "valde erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: qo- prefix pattern"
+    },
+    {
+      "original": "or",
+      "latin": "ordo",
+      "confidence": 0.9,
+      "notes": "short connector, order/arrangement"
+    },
+    {
+      "original": "aiiin",
+      "latin": "[aiiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ykedy",
+      "latin": "[ykedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shor",
+      "latin": "saepe",
+      "confidence": 0.9,
+      "notes": "often"
+    },
+    {
+      "original": "qoky",
+      "latin": "valde et",
+      "confidence": 0.9,
+      "notes": "qo- (intensifier) + ky (and), intensified connector, appears 17x"
+    },
+    {
+      "original": "chorolk",
+      "latin": "[chorolk]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chakaiin",
+      "latin": "[chakaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qoal",
+      "latin": "valde ala",
+      "confidence": 0.9,
+      "notes": "systematic word family: qo- prefix pattern"
+    },
+    {
+      "original": "kaiin",
+      "latin": "erat",
+      "confidence": 0.9,
+      "notes": "has -aiin suffix marker, appears in botanical contexts"
+    },
+    {
+      "original": "qoaiin",
+      "latin": "valde erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: qo- prefix pattern"
+    },
+    {
+      "original": "or",
+      "latin": "ordo",
+      "confidence": 0.9,
+      "notes": "short connector, order/arrangement"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "ykedy",
+      "latin": "[ykedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "paiin",
+      "latin": "erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: pa- prefix pattern"
+    },
+    {
+      "original": "otar",
+      "latin": "ex et",
+      "confidence": 0.9,
+      "notes": "ot (from) + ar (and), from and"
+    },
+    {
+      "original": "otolkshy",
+      "latin": "[otolkshy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokshey",
+      "latin": "[qokshey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ar",
+      "latin": "et",
+      "confidence": 0.9,
+      "notes": "frequent, suits conjunction; links nouns"
+    },
+    {
+      "original": "otalky",
+      "latin": "[otalky]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chear",
+      "latin": "herba pars",
+      "confidence": 0.9,
+      "notes": "ch- + ear, botanical element"
+    },
+    {
+      "original": "aiodam",
+      "latin": "[aiodam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "paiin",
+      "latin": "erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: pa- prefix pattern"
+    },
+    {
+      "original": "otar",
+      "latin": "ex et",
+      "confidence": 0.9,
+      "notes": "ot (from) + ar (and), from and"
+    },
+    {
+      "original": "otol",
+      "latin": "ex loco",
+      "confidence": 0.9,
+      "notes": "ot (from) + ol (place), from place"
+    },
+    {
+      "original": "kshy",
+      "latin": "parvum",
+      "confidence": 0.9,
+      "notes": "systematic word family: ks- prefix pattern"
+    },
+    {
+      "original": "qok",
+      "latin": "potest",
+      "confidence": 0.9,
+      "notes": "can, action context"
+    },
+    {
+      "original": "shey",
+      "latin": "exit",
+      "confidence": 0.9,
+      "notes": "goes out, water context"
+    },
+    {
+      "original": "ar",
+      "latin": "et",
+      "confidence": 0.9,
+      "notes": "frequent, suits conjunction; links nouns"
+    },
+    {
+      "original": "otalky",
+      "latin": "[otalky]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chear",
+      "latin": "herba pars",
+      "confidence": 0.9,
+      "notes": "ch- + ear, botanical element"
+    },
+    {
+      "original": "aiadam",
+      "latin": "[aiadam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    }
+  ],
+  "statistics": {
+    "total": 139,
+    "known": 90,
+    "unknown": 49,
+    "avg_confidence": 0.5625899280575539,
+    "coverage": 0.6474820143884892
+  },
+  "unknown_words": [
+    "aiadam",
+    "aiiin",
+    "aiodam",
+    "chakaiin",
+    "chcthdy",
+    "chokaiin",
+    "cholkar",
+    "chorolk",
+    "dchedy",
+    "eedy",
+    "kshey",
+    "lkar",
+    "lo",
+    "lshar",
+    "lshear",
+    "lt",
+    "octhair",
+    "okan",
+    "olkaiin",
+    "olky",
+    "otalky",
+    "otolkshy",
+    "pchcfhy",
+    "pchecfhey",
+    "qoeedy",
+    "qokshey",
+    "qoolkaiin",
+    "shdaiin",
+    "sheopchey",
+    "shopchey",
+    "ykain",
+    "ykairolky",
+    "ykedy",
+    "ykeealar"
+  ],
+  "translated_at": "2025-11-28T03:14:38.617858"
+}

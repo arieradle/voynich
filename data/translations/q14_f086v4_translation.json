@@ -1,0 +1,705 @@
+{
+  "folio_id": "086v4",
+  "section": "q14",
+  "context": "cosmological",
+  "voynich_text": "kchey dair alody shes qeeor or odarchdy chdy olcheos orain tchedy dain arody shes qoeor or odaredy chdy olcheos osain pchedar ar oepor oteer cs aiin olkeor dar air dery doeedey pchedar ar ocpor otees oesaiin olkeor dar airdshy doeedey pchsodar oedy qokeol qoeoloqokeol dar ol olair am chsodar oedy qokeol qoeoloqokeol dar ol olairam pcheodar oedy qokeol qoeoloqokeol dar ol olairam tol shs or aiin ol keeod lcheody okedy qokeody qoaiin al tol shsor aiin ol keeod lcheody okedy qokeody qoaino tol shesor aiin ol keeod lcheody okedy qokeody qoainar dar oleey ol yy dar oleey olyy dar oleeey ol yy={was <f85r2 1;V dar oleeey olyy",
+  "latin_text": "facit elementum gratia [alody] [shes] [qeeor] ordo [odarchdy] herba et [olcheos] [orain] [tchedy] ad [arody] [shes] valde ordo ordo [odaredy] herba et [olcheos] [osain] [pchedar] et [oepor] ex est [cs] est [olkeor] donum hic [dery] [doeedey] [pchedar] et [ocpor] [otees] [oesaiin] [olkeor] donum [airdshy] [doeedey] [pchsodar] [oedy] valde tangit loco [qoeoloqokeol] donum ille [olair] [am] [chsodar] [oedy] valde tangit loco [qoeoloqokeol] donum ille [olairam] [pcheodar] [oedy] valde tangit loco [qoeoloqokeol] donum ille [olairam] tangit locus [shs] ordo est ille [keeod] [lcheody] extendit [qokeody] valde erat ala tangit locus [shsor] est ille [keeod] [lcheody] extendit [qokeody] [qoaino] tangit locus [shesor] est ille [keeod] [lcheody] extendit [qokeody] [qoainar] donum [oleey] ille [yy] donum [oleey] [olyy] donum [oleeey] ille [yy={was] [<f85r2] [1;V] donum [oleeey] [olyy]",
+  "english_text": "Makes element grace [alody] [shes] [qeeor] order [odarchdy] herb and [olcheos] [orain] [tchedy] to [arody] [shes] very order order [odaredy] herb and [olcheos] [osain] [pchedar] and [oepor] from is [cs] is [olkeor] gift here [dery] [doeedey] [pchedar] and [ocpor] [otees] [oesaiin] [olkeor] gift [airdshy] [doeedey] [pchsodar] [oedy] very touches [loco] [qoeoloqokeol] gift that [olair] [am] [chsodar] [oedy] very touches [loco] [qoeoloqokeol] gift that [olairam] [pcheodar] [oedy] very touches [loco] [qoeoloqokeol] gift that [olairam] touches place [shs] order is that [keeod] [lcheody] extends [qokeody] very was wing touches place [shsor] is that [keeod] [lcheody] extends [qokeody] [qoaino] touches place [shesor] is that [keeod] [lcheody] extends [qokeody] [qoainar] gift [oleey] that [yy] gift [oleey] [olyy] gift [oleeey] that [yy={was] [<f85r2] [1;V] gift [oleeey] [olyy].",
+  "word_translations": [
+    {
+      "original": "kchey",
+      "latin": "facit elementum",
+      "confidence": 0.9,
+      "notes": "k (makes) + chey (element); makes element/component"
+    },
+    {
+      "original": "dair",
+      "latin": "gratia",
+      "confidence": 0.9,
+      "notes": "for benefit"
+    },
+    {
+      "original": "alody",
+      "latin": "[alody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shes",
+      "latin": "[shes]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qeeor",
+      "latin": "[qeeor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "or",
+      "latin": "ordo",
+      "confidence": 0.9,
+      "notes": "short connector, order/arrangement"
+    },
+    {
+      "original": "odarchdy",
+      "latin": "[odarchdy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chdy",
+      "latin": "herba et",
+      "confidence": 0.9,
+      "notes": "ch- + dy (and), botanical connector"
+    },
+    {
+      "original": "olcheos",
+      "latin": "[olcheos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "orain",
+      "latin": "[orain]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "tchedy",
+      "latin": "[tchedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dain",
+      "latin": "ad",
+      "confidence": 0.9,
+      "notes": "variant of daiin (to), directional"
+    },
+    {
+      "original": "arody",
+      "latin": "[arody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "shes",
+      "latin": "[shes]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qoeor",
+      "latin": "valde ordo",
+      "confidence": 0.9,
+      "notes": "systematic word family: qo- prefix pattern"
+    },
+    {
+      "original": "or",
+      "latin": "ordo",
+      "confidence": 0.9,
+      "notes": "short connector, order/arrangement"
+    },
+    {
+      "original": "odaredy",
+      "latin": "[odaredy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chdy",
+      "latin": "herba et",
+      "confidence": 0.9,
+      "notes": "ch- + dy (and), botanical connector"
+    },
+    {
+      "original": "olcheos",
+      "latin": "[olcheos]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "osain",
+      "latin": "[osain]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "pchedar",
+      "latin": "[pchedar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ar",
+      "latin": "et",
+      "confidence": 0.9,
+      "notes": "frequent, suits conjunction; links nouns"
+    },
+    {
+      "original": "oepor",
+      "latin": "[oepor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oteer",
+      "latin": "ex est",
+      "confidence": 0.9,
+      "notes": "systematic word family: ot- prefix pattern"
+    },
+    {
+      "original": "cs",
+      "latin": "[cs]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "olkeor",
+      "latin": "[olkeor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "air",
+      "latin": "hic",
+      "confidence": 0.9,
+      "notes": "location marker; here; 9x freq; conf 0.80"
+    },
+    {
+      "original": "dery",
+      "latin": "[dery]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "doeedey",
+      "latin": "[doeedey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "pchedar",
+      "latin": "[pchedar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ar",
+      "latin": "et",
+      "confidence": 0.9,
+      "notes": "frequent, suits conjunction; links nouns"
+    },
+    {
+      "original": "ocpor",
+      "latin": "[ocpor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "otees",
+      "latin": "[otees]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oesaiin",
+      "latin": "[oesaiin]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "olkeor",
+      "latin": "[olkeor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "airdshy",
+      "latin": "[airdshy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "doeedey",
+      "latin": "[doeedey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "pchsodar",
+      "latin": "[pchsodar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oedy",
+      "latin": "[oedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokeol",
+      "latin": "valde tangit loco",
+      "confidence": 0.81,
+      "notes": "qo-prefix:ke- + ol; touches place; 7x freq; conf 0.75"
+    },
+    {
+      "original": "qoeoloqokeol",
+      "latin": "[qoeoloqokeol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "ol",
+      "latin": "ille",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "olair",
+      "latin": "[olair]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "am",
+      "latin": "[am]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "chsodar",
+      "latin": "[chsodar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oedy",
+      "latin": "[oedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokeol",
+      "latin": "valde tangit loco",
+      "confidence": 0.81,
+      "notes": "qo-prefix:ke- + ol; touches place; 7x freq; conf 0.75"
+    },
+    {
+      "original": "qoeoloqokeol",
+      "latin": "[qoeoloqokeol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "ol",
+      "latin": "ille",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "olairam",
+      "latin": "[olairam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "pcheodar",
+      "latin": "[pcheodar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "oedy",
+      "latin": "[oedy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qokeol",
+      "latin": "valde tangit loco",
+      "confidence": 0.81,
+      "notes": "qo-prefix:ke- + ol; touches place; 7x freq; conf 0.75"
+    },
+    {
+      "original": "qoeoloqokeol",
+      "latin": "[qoeoloqokeol]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "ol",
+      "latin": "ille",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "olairam",
+      "latin": "[olairam]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "tol",
+      "latin": "tangit locus",
+      "confidence": 0.9,
+      "notes": "systematic word family: to- prefix pattern"
+    },
+    {
+      "original": "shs",
+      "latin": "[shs]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "or",
+      "latin": "ordo",
+      "confidence": 0.9,
+      "notes": "short connector, order/arrangement"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "ol",
+      "latin": "ille",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "keeod",
+      "latin": "[keeod]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "lcheody",
+      "latin": "[lcheody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okedy",
+      "latin": "extendit",
+      "confidence": 0.9,
+      "notes": "action, broad use for extends"
+    },
+    {
+      "original": "qokeody",
+      "latin": "[qokeody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qoaiin",
+      "latin": "valde erat",
+      "confidence": 0.9,
+      "notes": "systematic word family: qo- prefix pattern"
+    },
+    {
+      "original": "al",
+      "latin": "ala",
+      "confidence": 0.9,
+      "notes": "wing/extension suffix"
+    },
+    {
+      "original": "tol",
+      "latin": "tangit locus",
+      "confidence": 0.9,
+      "notes": "systematic word family: to- prefix pattern"
+    },
+    {
+      "original": "shsor",
+      "latin": "[shsor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "ol",
+      "latin": "ille",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "keeod",
+      "latin": "[keeod]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "lcheody",
+      "latin": "[lcheody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okedy",
+      "latin": "extendit",
+      "confidence": 0.9,
+      "notes": "action, broad use for extends"
+    },
+    {
+      "original": "qokeody",
+      "latin": "[qokeody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qoaino",
+      "latin": "[qoaino]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "tol",
+      "latin": "tangit locus",
+      "confidence": 0.9,
+      "notes": "systematic word family: to- prefix pattern"
+    },
+    {
+      "original": "shesor",
+      "latin": "[shesor]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "aiin",
+      "latin": "est",
+      "confidence": 0.8,
+      "notes": "polysemy:all sections, present tense"
+    },
+    {
+      "original": "ol",
+      "latin": "ille",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "keeod",
+      "latin": "[keeod]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "lcheody",
+      "latin": "[lcheody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "okedy",
+      "latin": "extendit",
+      "confidence": 0.9,
+      "notes": "action, broad use for extends"
+    },
+    {
+      "original": "qokeody",
+      "latin": "[qokeody]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "qoainar",
+      "latin": "[qoainar]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "oleey",
+      "latin": "[oleey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ol",
+      "latin": "ille",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "yy",
+      "latin": "[yy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "oleey",
+      "latin": "[oleey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "olyy",
+      "latin": "[olyy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "oleeey",
+      "latin": "[oleeey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "ol",
+      "latin": "ille",
+      "confidence": 0.6,
+      "notes": "polysemy:base"
+    },
+    {
+      "original": "yy={was <f85r2",
+      "latin": "[yy={was <f85r2]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "1;V",
+      "latin": "[1;V]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "dar",
+      "latin": "donum",
+      "confidence": 0.9,
+      "notes": "short function word, gift/giving"
+    },
+    {
+      "original": "oleeey",
+      "latin": "[oleeey]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    },
+    {
+      "original": "olyy",
+      "latin": "[olyy]",
+      "confidence": 0.0,
+      "notes": "unknown"
+    }
+  ],
+  "statistics": {
+    "total": 107,
+    "known": 45,
+    "unknown": 62,
+    "avg_confidence": 0.3498130841121495,
+    "coverage": 0.4205607476635514
+  },
+  "unknown_words": [
+    "1;V",
+    "<f85r2",
+    "ainar",
+    "aino",
+    "airdshy",
+    "alody",
+    "am",
+    "arody",
+    "chsodar",
+    "cs",
+    "dery",
+    "doeedey",
+    "eoloqokeol",
+    "keeod",
+    "keody",
+    "lcheody",
+    "ocpor",
+    "odarchdy",
+    "odaredy",
+    "oedy",
+    "oepor",
+    "oesaiin",
+    "olair",
+    "olairam",
+    "olcheos",
+    "oleeey",
+    "oleey",
+    "olkeor",
+    "olyy",
+    "orain",
+    "osain",
+    "otees",
+    "pchedar",
+    "pcheodar",
+    "pchsodar",
+    "qeeor",
+    "qoainar",
+    "qoaino",
+    "qoeoloqokeol",
+    "qokeody",
+    "qokeol",
+    "shes",
+    "shesor",
+    "shs",
+    "shsor",
+    "tchedy",
+    "yy",
+    "yy={was",
+    "yy={was <f85r2"
+  ],
+  "translated_at": "2025-11-28T03:14:38.607102"
+}
