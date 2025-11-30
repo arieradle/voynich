@@ -574,3 +574,63 @@ See [LICENSE](LICENSE) file for details.
 **Coverage**: 61.47% | **Dictionary**: 789 words | **Target**: 65% (3.53% away!)
 
 **Ready to decode the Voynich Manuscript!** 🚀📚🔬
+
+---
+
+## 🔬 Translation Quality Validation
+
+**NEW: Automated quality validation integrated into workflow**
+
+### Validation Metrics (Embedded in Every Translation)
+
+Every translation file now includes real-time validation metrics:
+
+```json
+{
+  "validation_metrics": {
+    "latin": {
+      "word_entropy": 5.341,  // Expected: ~9.5 for natural language
+      "compression_ratio": 0.260,
+      "lexical_diversity": { "ttr": 0.239 }
+    },
+    "quality_flags": {
+      "low_word_entropy": false,
+      "high_compression": false,
+      "low_diversity": true  // ⚠️ Warning triggered
+    }
+  }
+}
+```
+
+### Quality Validation Tools
+
+**1. Entropy Analyzer** - Information theory metrics
+```bash
+python scripts/entropy_analyzer.py
+# Output: data/entropy_analysis.json
+```
+
+**2. Null Hypothesis Tester** - Statistical validation
+```bash
+python scripts/null_hypothesis_tester.py
+# Output: data/null_hypothesis_test.json
+```
+
+### Current Validation Status
+
+| Metric | Current | Expected | Status |
+|--------|---------|----------|--------|
+| **Coherence vs Random** | 100% better | > 80% | ✅ PASS |
+| **Grammar Patterns** | 72.7% better | > 70% | ✅ PASS |
+| **Word Entropy** | 4.4 bits/word | ~9.5 | ⚠️ LOW (repetition issue) |
+| **Repetition Control** | 6% better | > 50% | ❌ CRITICAL ISSUE |
+
+**Key Finding:** System captures real patterns (100% better coherence than random), but exhibits excessive repetition suggesting it may be translating structural elements (labels) rather than continuous semantic content.
+
+### Documentation
+
+- `docs/TRANSLATION_VALIDATION_REPORT.md` - Comprehensive analysis
+- `docs/VALIDATION_TOOLS_INTEGRATION.md` - Integration guide
+- See validation reports for detailed interpretation guidelines
+
+---

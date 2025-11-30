@@ -313,6 +313,28 @@ phases:
         action: "Identify next iteration priorities"
         script: "python analyze_gaps.py --min-freq 5 --max-suggestions 20"
         output: "data/next_iteration_priorities.json"
+      
+      - step: 5.6
+        name: "entropy_analysis"
+        action: "Calculate information theory metrics for translation quality"
+        script: "python scripts/entropy_analyzer.py"
+        output: "data/entropy_analysis.json"
+        success_criteria:
+          - "word_entropy_calculated"
+          - "compression_ratio_measured"
+        note: "Validates linguistic quality of translations"
+        
+      - step: 5.7
+        name: "null_hypothesis_test"
+        action: "Compare translations against random baseline"
+        script: "python scripts/null_hypothesis_tester.py"
+        output: "data/null_hypothesis_test.json"
+        success_criteria:
+          - "better_than_random_coherence"
+        warning_if:
+          - "repetition_control < 0.5"
+          - "grammar_patterns < 0.7"
+        note: "Critical validation - ensures translations are not spurious"
     
     validation_gate:
       name: "translation_review"
@@ -326,10 +348,18 @@ phases:
         
         Unknown Words: [old] → [new] ([delta])
         
+        Translation Quality Metrics:
+        - Entropy Analysis: [see data/entropy_analysis.json]
+        - Null Hypothesis Test: [coherence/grammar/repetition scores]
+        - Word Entropy: [value] bits/word [expected: ~9.5]
+        - Repetition vs Random: [better/worse]
+        
+        ⚠️  WARNING if repetition control < 50% or word entropy < 5.0
+        
         Review translations and continue?
-      options: ["proceed", "review_specific_folios", "rollback_iteration"]
+      options: ["proceed", "review_specific_folios", "rollback_iteration", "investigate_quality_issues"]
       required: true
-      auto_proceed_if: "coverage_improvement >= 0.03"
+      auto_proceed_if: "coverage_improvement >= 0.03 AND coherence_better_than_random >= 0.8"
 
   # --------------------------------------------------------------------------
   # Phase 6: REPORT - Summarize iteration and plan next steps
@@ -349,6 +379,9 @@ phases:
           - "remaining_priorities"
           - "pattern_insights"
           - "recommended_next_steps"
+          - "entropy_metrics"
+          - "null_hypothesis_results"
+          - "quality_assessment"
         
       - step: 6.2
         name: "update_metrics_tracking"
@@ -407,12 +440,17 @@ success_criteria:
     - coverage_herbal_a: ">= 0.60"  # 60% Herbal A
     - coverage_herbal_b: ">= 0.70"  # 70% Herbal B
     - coherency_score: ">= 7.0"  # Maintain coherency
+    - word_entropy: ">= 7.0"  # Minimum word entropy (9.5 is natural language)
+    - coherence_vs_random: ">= 0.80"  # 80% better than random baseline
     
   quality_gates:
     - no_duplicate_entries: true
     - all_words_have_descriptions: true
     - latin_translations_valid: true
     - polysemy_properly_formatted: true
+    - entropy_within_acceptable_range: true
+    - better_than_random_baseline: true
+    - repetition_control_positive: true
 
 # ============================================================================
 # FALLBACK STRATEGIES
@@ -447,6 +485,26 @@ fallback_strategies:
       - "consult_external_resources"
       - "try_alternative_decomposition_strategies"
       - "request_expert_linguistic_consultation"
+  
+  if_poor_entropy_metrics:
+    strategy: "quality_validation"
+    actions:
+      - "check_if_translations_are_too_repetitive"
+      - "investigate_label_vs_prose_distinction"
+      - "review_if_translating_structural_markers_not_semantic_content"
+      - "consider_visual_correlation_testing"
+      - "re-evaluate_linguistic_assumptions"
+    warning: "Low word entropy or high repetition suggests non-linguistic patterns"
+  
+  if_worse_than_random:
+    strategy: "critical_review"
+    actions:
+      - "halt_further_iterations"
+      - "review_validation_report"
+      - "consider_if_base_hypothesis_is_incorrect"
+      - "test_visual_correlation_with_images"
+      - "distinguish_labels_from_continuous_text"
+    alert: "CRITICAL: Translations performing worse than random baseline"
 
 # ============================================================================
 # HELPER SCRIPT LINKS
@@ -462,6 +520,8 @@ scripts:
   validation_checker: "scripts/validation_checker.py"
   neighbor_tracker: "scripts/neighbor_tracker.py"
   neighbor_query: "scripts/neighbor_query.py"
+  entropy_analyzer: "scripts/entropy_analyzer.py"
+  null_hypothesis_tester: "scripts/null_hypothesis_tester.py"
   translate_folio: "translate_folio.py"
   analyze_gaps: "analyze_gaps.py"
 

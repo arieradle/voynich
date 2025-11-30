@@ -1,0 +1,4530 @@
+{
+  "trials": [
+    [
+      {
+        "folio_id": "001r",
+        "section": "Herbal A",
+        "coverage": 0.691190706679574,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.22101132134757018,
+            "grammar": {
+              "pattern_score": 0.3096976016684046,
+              "short_word_ratio": 0.31178310740354537,
+              "order_variability": 0.8132168925964547
+            },
+            "repetition": 0.4781021897810219
+          },
+          "random_metrics": {
+            "coherence": 0.16229033246459124,
+            "grammar": {
+              "pattern_score": 0.3707647628267183,
+              "short_word_ratio": 0.18780251694094868,
+              "order_variability": 0.9371974830590513
+            },
+            "repetition": 1.0
+          },
+          "improvement": {
+            "coherence": 0.05872098888297894,
+            "grammar_pattern": -0.061067161158313676,
+            "repetition": -0.5218978102189781
+          }
+        }
+      },
+      {
+        "folio_id": "001v",
+        "section": "Herbal A",
+        "coverage": 0.6093023255813953,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.20234172934220862,
+            "grammar": {
+              "pattern_score": 0.30434782608695654,
+              "short_word_ratio": 0.391304347826087,
+              "order_variability": 0.7336956521739131
+            },
+            "repetition": 0.9565217391304348
+          },
+          "random_metrics": {
+            "coherence": 0.15797029792508555,
+            "grammar": {
+              "pattern_score": 0.3302325581395349,
+              "short_word_ratio": 0.28837209302325584,
+              "order_variability": 0.8366279069767442
+            },
+            "repetition": 0.8953488372093024
+          },
+          "improvement": {
+            "coherence": 0.044371431417123075,
+            "grammar_pattern": -0.025884732052578352,
+            "repetition": 0.06117290192113245
+          }
+        }
+      },
+      {
+        "folio_id": "002r",
+        "section": "Herbal A",
+        "coverage": 0.6142857142857143,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.18945002236781205,
+            "grammar": {
+              "pattern_score": 0.30939226519337015,
+              "short_word_ratio": 0.4696132596685083,
+              "order_variability": 0.6553867403314917
+            },
+            "repetition": 0.0
+          },
+          "random_metrics": {
+            "coherence": 0.1551800544207701,
+            "grammar": {
+              "pattern_score": 0.20952380952380953,
+              "short_word_ratio": 0.14285714285714285,
+              "order_variability": 0.9821428571428572
+            },
+            "repetition": 0.9285714285714286
+          },
+          "improvement": {
+            "coherence": 0.03426996794704196,
+            "grammar_pattern": 0.09986845566956062,
+            "repetition": -0.9285714285714286
+          }
+        }
+      },
+      {
+        "folio_id": "002v",
+        "section": "Herbal A",
+        "coverage": 0.6782608695652174,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.2729989859932168,
+            "grammar": {
+              "pattern_score": 0.4719626168224299,
+              "short_word_ratio": 0.24766355140186916,
+              "order_variability": 0.8773364485981309
+            },
+            "repetition": 0.4252336448598131
+          },
+          "random_metrics": {
+            "coherence": 0.2046991710251026,
+            "grammar": {
+              "pattern_score": 0.23043478260869565,
+              "short_word_ratio": 0.10869565217391304,
+              "order_variability": 0.9836956521739131
+            },
+            "repetition": 0.4565217391304348
+          },
+          "improvement": {
+            "coherence": 0.06829981496811421,
+            "grammar_pattern": 0.24152783421373425,
+            "repetition": -0.031288094270621736
+          }
+        }
+      },
+      {
+        "folio_id": "003r",
+        "section": "Herbal A",
+        "coverage": 0.6503067484662577,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.17952318199944373,
+            "grammar": {
+              "pattern_score": 0.3593220338983051,
+              "short_word_ratio": 0.21016949152542372,
+              "order_variability": 0.9148305084745763
+            },
+            "repetition": 0.34745762711864403
+          },
+          "random_metrics": {
+            "coherence": 0.13804863538755563,
+            "grammar": {
+              "pattern_score": 0.24539877300613497,
+              "short_word_ratio": 0.12883435582822086,
+              "order_variability": 0.9961656441717791
+            },
+            "repetition": 0.8865030674846626
+          },
+          "improvement": {
+            "coherence": 0.0414745466118881,
+            "grammar_pattern": 0.11392326089217011,
+            "repetition": -0.5390454403660185
+          }
+        }
+      },
+      {
+        "folio_id": "003v",
+        "section": "Herbal A",
+        "coverage": 0.5507246376811594,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.21862393240444156,
+            "grammar": {
+              "pattern_score": 0.35094339622641507,
+              "short_word_ratio": 0.29056603773584905,
+              "order_variability": 0.834433962264151
+            },
+            "repetition": 0.7075471698113208
+          },
+          "random_metrics": {
+            "coherence": 0.17634793960042638,
+            "grammar": {
+              "pattern_score": 0.16231884057971013,
+              "short_word_ratio": 0.18840579710144928,
+              "order_variability": 0.9365942028985508
+            },
+            "repetition": 0.9782608695652174
+          },
+          "improvement": {
+            "coherence": 0.04227599280401517,
+            "grammar_pattern": 0.18862455564670494,
+            "repetition": -0.2707136997538966
+          }
+        }
+      },
+      {
+        "folio_id": "004r",
+        "section": "Herbal A",
+        "coverage": 0.6923076923076923,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.17489896282980166,
+            "grammar": {
+              "pattern_score": 0.3236994219653179,
+              "short_word_ratio": 0.30057803468208094,
+              "order_variability": 0.824421965317919
+            },
+            "repetition": 0.28612716763005785
+          },
+          "random_metrics": {
+            "coherence": 0.16357753387652108,
+            "grammar": {
+              "pattern_score": 0.27692307692307694,
+              "short_word_ratio": 0.1641025641025641,
+              "order_variability": 0.9608974358974359
+            },
+            "repetition": 0.5769230769230769
+          },
+          "improvement": {
+            "coherence": 0.011321428953280588,
+            "grammar_pattern": 0.046776345042240985,
+            "repetition": -0.290795909293019
+          }
+        }
+      },
+      {
+        "folio_id": "004v",
+        "section": "Herbal A",
+        "coverage": 0.5906040268456376,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.23398308567434878,
+            "grammar": {
+              "pattern_score": 0.3155893536121673,
+              "short_word_ratio": 0.3612167300380228,
+              "order_variability": 0.7637832699619772
+            },
+            "repetition": 0.0
+          },
+          "random_metrics": {
+            "coherence": 0.15138355577892038,
+            "grammar": {
+              "pattern_score": 0.26174496644295303,
+              "short_word_ratio": 0.10067114093959731,
+              "order_variability": 0.9756711409395973
+            },
+            "repetition": 0.9630872483221476
+          },
+          "improvement": {
+            "coherence": 0.0825995298954284,
+            "grammar_pattern": 0.05384438716921425,
+            "repetition": -0.9630872483221476
+          }
+        }
+      },
+      {
+        "folio_id": "005r",
+        "section": "Herbal A",
+        "coverage": 0.7142857142857143,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.2023417293422085,
+            "grammar": {
+              "pattern_score": 0.32065217391304346,
+              "short_word_ratio": 0.32065217391304346,
+              "order_variability": 0.8043478260869565
+            },
+            "repetition": 0.3586956521739131
+          },
+          "random_metrics": {
+            "coherence": 0.15867724248458326,
+            "grammar": {
+              "pattern_score": 0.4782608695652174,
+              "short_word_ratio": 0.10559006211180125,
+              "order_variability": 0.9805900621118012
+            },
+            "repetition": 0.7546583850931677
+          },
+          "improvement": {
+            "coherence": 0.04366448685762525,
+            "grammar_pattern": -0.15760869565217395,
+            "repetition": -0.39596273291925466
+          }
+        }
+      },
+      {
+        "folio_id": "005v",
+        "section": "Herbal A",
+        "coverage": 0.664804469273743,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.23658211685350883,
+            "grammar": {
+              "pattern_score": 0.3136094674556213,
+              "short_word_ratio": 0.34911242603550297,
+              "order_variability": 0.775887573964497
+            },
+            "repetition": 0.0
+          },
+          "random_metrics": {
+            "coherence": 0.19776235201999615,
+            "grammar": {
+              "pattern_score": 0.11731843575418995,
+              "short_word_ratio": 0.22905027932960895,
+              "order_variability": 0.895949720670391
+            },
+            "repetition": 0.2150837988826816
+          },
+          "improvement": {
+            "coherence": 0.03881976483351268,
+            "grammar_pattern": 0.19629103170143136,
+            "repetition": -0.2150837988826816
+          }
+        }
+      },
+      {
+        "folio_id": "006r",
+        "section": "Herbal A",
+        "coverage": 0.6728110599078341,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.1454430595841718,
+            "grammar": {
+              "pattern_score": 0.42473118279569894,
+              "short_word_ratio": 0.3118279569892473,
+              "order_variability": 0.8131720430107527
+            },
+            "repetition": 0.5860215053763441
+          },
+          "random_metrics": {
+            "coherence": 0.13710957492905196,
+            "grammar": {
+              "pattern_score": 0.30414746543778803,
+              "short_word_ratio": 0.07834101382488479,
+              "order_variability": 0.9533410138248848
+            },
+            "repetition": 0.8548387096774194
+          },
+          "improvement": {
+            "coherence": 0.00833348465511985,
+            "grammar_pattern": 0.1205837173579109,
+            "repetition": -0.26881720430107525
+          }
+        }
+      },
+      {
+        "folio_id": "006v",
+        "section": "Herbal A",
+        "coverage": 0.5959821428571429,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.19412561409925944,
+            "grammar": {
+              "pattern_score": 0.35795454545454547,
+              "short_word_ratio": 0.3096590909090909,
+              "order_variability": 0.8153409090909092
+            },
+            "repetition": 0.7329545454545454
+          },
+          "random_metrics": {
+            "coherence": 0.15361723022105767,
+            "grammar": {
+              "pattern_score": 0.16964285714285715,
+              "short_word_ratio": 0.14508928571428573,
+              "order_variability": 0.9799107142857143
+            },
+            "repetition": 0.9419642857142857
+          },
+          "improvement": {
+            "coherence": 0.04050838387820177,
+            "grammar_pattern": 0.18831168831168832,
+            "repetition": -0.20900974025974028
+          }
+        }
+      },
+      {
+        "folio_id": "007r",
+        "section": "Herbal A",
+        "coverage": 0.4873417721518987,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.17525093645678003,
+            "grammar": {
+              "pattern_score": 0.5588235294117647,
+              "short_word_ratio": 0.16666666666666666,
+              "order_variability": 0.9583333333333334
+            },
+            "repetition": 0.0
+          },
+          "random_metrics": {
+            "coherence": 0.14112753096880692,
+            "grammar": {
+              "pattern_score": 0.17088607594936708,
+              "short_word_ratio": 0.08227848101265822,
+              "order_variability": 0.9572784810126582
+            },
+            "repetition": 1.0
+          },
+          "improvement": {
+            "coherence": 0.0341234054879731,
+            "grammar_pattern": 0.3879374534623976,
+            "repetition": -1.0
+          }
+        }
+      },
+      {
+        "folio_id": "007v",
+        "section": "Herbal A",
+        "coverage": 0.6428571428571429,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.2350067189439924,
+            "grammar": {
+              "pattern_score": 0.35348837209302325,
+              "short_word_ratio": 0.3953488372093023,
+              "order_variability": 0.7296511627906976
+            },
+            "repetition": 0.011627906976744207
+          },
+          "random_metrics": {
+            "coherence": 0.16911099105359984,
+            "grammar": {
+              "pattern_score": 0.21052631578947367,
+              "short_word_ratio": 0.15413533834586465,
+              "order_variability": 0.9708646616541353
+            },
+            "repetition": 0.6353383458646618
+          },
+          "improvement": {
+            "coherence": 0.06589572789039255,
+            "grammar_pattern": 0.14296205630354958,
+            "repetition": -0.6237104388879176
+          }
+        }
+      },
+      {
+        "folio_id": "008r",
+        "section": "Herbal A",
+        "coverage": 0.4941860465116279,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.15200380226246935,
+            "grammar": {
+              "pattern_score": 0.4106280193236715,
+              "short_word_ratio": 0.30917874396135264,
+              "order_variability": 0.8158212560386473
+            },
+            "repetition": 0.48550724637681153
+          },
+          "random_metrics": {
+            "coherence": 0.12194599009941087,
+            "grammar": {
+              "pattern_score": 0.21511627906976744,
+              "short_word_ratio": 0.08139534883720931,
+              "order_variability": 0.9563953488372093
+            },
+            "repetition": 1.0
+          },
+          "improvement": {
+            "coherence": 0.030057812163058473,
+            "grammar_pattern": 0.19551174025390405,
+            "repetition": -0.5144927536231885
+          }
+        }
+      },
+      {
+        "folio_id": "008v",
+        "section": "Herbal A",
+        "coverage": 0.5879120879120879,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.2042134953594409,
+            "grammar": {
+              "pattern_score": 0.3985239852398524,
+              "short_word_ratio": 0.3062730627306273,
+              "order_variability": 0.8187269372693726
+            },
+            "repetition": 0.466789667896679
+          },
+          "random_metrics": {
+            "coherence": 0.1683921669417099,
+            "grammar": {
+              "pattern_score": 0.1813186813186813,
+              "short_word_ratio": 0.15934065934065933,
+              "order_variability": 0.9656593406593407
+            },
+            "repetition": 0.8131868131868132
+          },
+          "improvement": {
+            "coherence": 0.035821328417731,
+            "grammar_pattern": 0.21720530392117107,
+            "repetition": -0.3463971452901342
+          }
+        }
+      },
+      {
+        "folio_id": "014r",
+        "section": "Herbal B",
+        "coverage": 0.839622641509434,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.16178499902697852,
+            "grammar": {
+              "pattern_score": 0.41150442477876104,
+              "short_word_ratio": 0.34513274336283184,
+              "order_variability": 0.7798672566371682
+            },
+            "repetition": 0.4823008849557522
+          },
+          "random_metrics": {
+            "coherence": 0.1399076621083022,
+            "grammar": {
+              "pattern_score": 0.3443396226415094,
+              "short_word_ratio": 0.13679245283018868,
+              "order_variability": 0.9882075471698113
+            },
+            "repetition": 1.0
+          },
+          "improvement": {
+            "coherence": 0.021877336918676327,
+            "grammar_pattern": 0.06716480213725162,
+            "repetition": -0.5176991150442478
+          }
+        }
+      },
+      {
+        "folio_id": "014v",
+        "section": "Herbal B",
+        "coverage": 0.7471264367816092,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.21071191889426144,
+            "grammar": {
+              "pattern_score": 0.4246575342465753,
+              "short_word_ratio": 0.4246575342465753,
+              "order_variability": 0.7003424657534247
+            },
+            "repetition": 0.0
+          },
+          "random_metrics": {
+            "coherence": 0.17525193335232514,
+            "grammar": {
+              "pattern_score": 0.2796934865900383,
+              "short_word_ratio": 0.16091954022988506,
+              "order_variability": 0.9640804597701149
+            },
+            "repetition": 0.6187739463601534
+          },
+          "improvement": {
+            "coherence": 0.0354599855419363,
+            "grammar_pattern": 0.14496404765653703,
+            "repetition": -0.6187739463601534
+          }
+        }
+      },
+      {
+        "folio_id": "015r",
+        "section": "Herbal B",
+        "coverage": 0.6007067137809188,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.199525023222063,
+            "grammar": {
+              "pattern_score": 0.33181818181818185,
+              "short_word_ratio": 0.2863636363636364,
+              "order_variability": 0.8386363636363636
+            },
+            "repetition": 0.6363636363636364
+          },
+          "random_metrics": {
+            "coherence": 0.17367548323138726,
+            "grammar": {
+              "pattern_score": 0.29328621908127206,
+              "short_word_ratio": 0.06713780918727916,
+              "order_variability": 0.9421378091872792
+            },
+            "repetition": 1.0
+          },
+          "improvement": {
+            "coherence": 0.02584953999067574,
+            "grammar_pattern": 0.038531962736909786,
+            "repetition": -0.36363636363636365
+          }
+        }
+      },
+      {
+        "folio_id": "015v",
+        "section": "Herbal B",
+        "coverage": 0.8371212121212122,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.21634914758237533,
+            "grammar": {
+              "pattern_score": 0.41132075471698115,
+              "short_word_ratio": 0.28679245283018867,
+              "order_variability": 0.8382075471698114
+            },
+            "repetition": 0.5566037735849056
+          },
+          "random_metrics": {
+            "coherence": 0.19644134931359847,
+            "grammar": {
+              "pattern_score": 0.21212121212121213,
+              "short_word_ratio": 0.1893939393939394,
+              "order_variability": 0.9356060606060606
+            },
+            "repetition": 0.5909090909090909
+          },
+          "improvement": {
+            "coherence": 0.019907798268776866,
+            "grammar_pattern": 0.19919954259576902,
+            "repetition": -0.03430531732418529
+          }
+        }
+      },
+      {
+        "folio_id": "016r",
+        "section": "Herbal B",
+        "coverage": 0.6017699115044248,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.17249444692808602,
+            "grammar": {
+              "pattern_score": 0.26373626373626374,
+              "short_word_ratio": 0.45054945054945056,
+              "order_variability": 0.6744505494505495
+            },
+            "repetition": 0.18131868131868134
+          },
+          "random_metrics": {
+            "coherence": 0.13149186570104043,
+            "grammar": {
+              "pattern_score": 0.2168141592920354,
+              "short_word_ratio": 0.20353982300884957,
+              "order_variability": 0.9214601769911505
+            },
+            "repetition": 0.9247787610619469
+          },
+          "improvement": {
+            "coherence": 0.04100258122704559,
+            "grammar_pattern": 0.04692210444422834,
+            "repetition": -0.7434600797432656
+          }
+        }
+      },
+      {
+        "folio_id": "016v",
+        "section": "Herbal B",
+        "coverage": 0.7061611374407583,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.18660523330045908,
+            "grammar": {
+              "pattern_score": 0.35121951219512193,
+              "short_word_ratio": 0.43414634146341463,
+              "order_variability": 0.6908536585365854
+            },
+            "repetition": 0.0
+          },
+          "random_metrics": {
+            "coherence": 0.13729766762047269,
+            "grammar": {
+              "pattern_score": 0.26540284360189575,
+              "short_word_ratio": 0.13270142180094788,
+              "order_variability": 0.9922985781990521
+            },
+            "repetition": 0.9312796208530806
+          },
+          "improvement": {
+            "coherence": 0.0493075656799864,
+            "grammar_pattern": 0.08581666859322618,
+            "repetition": -0.9312796208530806
+          }
+        }
+      },
+      {
+        "folio_id": "017r",
+        "section": "Biological",
+        "coverage": 0.5036496350364964,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.23001357660609056,
+            "grammar": {
+              "pattern_score": 0.3786407766990291,
+              "short_word_ratio": 0.1941747572815534,
+              "order_variability": 0.9308252427184466
+            },
+            "repetition": 0.3834951456310679
+          },
+          "random_metrics": {
+            "coherence": 0.15720804960524803,
+            "grammar": {
+              "pattern_score": 0.15693430656934307,
+              "short_word_ratio": 0.11313868613138686,
+              "order_variability": 0.9881386861313869
+            },
+            "repetition": 1.0
+          },
+          "improvement": {
+            "coherence": 0.07280552700084253,
+            "grammar_pattern": 0.22170647012968606,
+            "repetition": -0.6165048543689321
+          }
+        }
+      },
+      {
+        "folio_id": "017v",
+        "section": "Biological",
+        "coverage": 0.6574307304785895,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.1596269234571468,
+            "grammar": {
+              "pattern_score": 0.36151603498542273,
+              "short_word_ratio": 0.2478134110787172,
+              "order_variability": 0.8771865889212828
+            },
+            "repetition": 0.7419825072886297
+          },
+          "random_metrics": {
+            "coherence": 0.12321917940470006,
+            "grammar": {
+              "pattern_score": 0.32997481108312343,
+              "short_word_ratio": 0.10579345088161209,
+              "order_variability": 0.9807934508816121
+            },
+            "repetition": 0.8702770780856424
+          },
+          "improvement": {
+            "coherence": 0.03640774405244673,
+            "grammar_pattern": 0.0315412239022993,
+            "repetition": -0.12829457079701267
+          }
+        }
+      },
+      {
+        "folio_id": "018r",
+        "section": "Biological",
+        "coverage": 0.65625,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.18597454737256758,
+            "grammar": {
+              "pattern_score": 0.4095744680851064,
+              "short_word_ratio": 0.10106382978723404,
+              "order_variability": 0.976063829787234
+            },
+            "repetition": 0.8617021276595745
+          },
+          "random_metrics": {
+            "coherence": 0.13577570020335727,
+            "grammar": {
+              "pattern_score": 0.26785714285714285,
+              "short_word_ratio": 0.09375,
+              "order_variability": 0.96875
+            },
+            "repetition": 0.9196428571428572
+          },
+          "improvement": {
+            "coherence": 0.0501988471692103,
+            "grammar_pattern": 0.14171732522796354,
+            "repetition": -0.05794072948328266
+          }
+        }
+      },
+      {
+        "folio_id": "018v",
+        "section": "Biological",
+        "coverage": 0.6804511278195489,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.23518187091744946,
+            "grammar": {
+              "pattern_score": 0.2901960784313726,
+              "short_word_ratio": 0.3843137254901961,
+              "order_variability": 0.740686274509804
+            },
+            "repetition": 0.0
+          },
+          "random_metrics": {
+            "coherence": 0.1935267102375844,
+            "grammar": {
+              "pattern_score": 0.2518796992481203,
+              "short_word_ratio": 0.07894736842105263,
+              "order_variability": 0.9539473684210527
+            },
+            "repetition": 0.8984962406015038
+          },
+          "improvement": {
+            "coherence": 0.04165516067986508,
+            "grammar_pattern": 0.03831637918325226,
+            "repetition": -0.8984962406015038
+          }
+        }
+      },
+      {
+        "folio_id": "019r",
+        "section": "Biological",
+        "coverage": 0.7327188940092166,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.17924637285735623,
+            "grammar": {
+              "pattern_score": 0.387434554973822,
+              "short_word_ratio": 0.4031413612565445,
+              "order_variability": 0.7218586387434556
+            },
+            "repetition": 0.24345549738219907
+          },
+          "random_metrics": {
+            "coherence": 0.1597436897155975,
+            "grammar": {
+              "pattern_score": 0.29493087557603687,
+              "short_word_ratio": 0.17511520737327188,
+              "order_variability": 0.9498847926267281
+            },
+            "repetition": 0.39400921658986165
+          },
+          "improvement": {
+            "coherence": 0.019502683141758737,
+            "grammar_pattern": 0.09250367939778514,
+            "repetition": -0.15055371920766258
+          }
+        }
+      },
+      {
+        "folio_id": "019v",
+        "section": "Biological",
+        "coverage": 0.7457044673539519,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.2114952869292679,
+            "grammar": {
+              "pattern_score": 0.40716612377850164,
+              "short_word_ratio": 0.28338762214983715,
+              "order_variability": 0.8416123778501629
+            },
+            "repetition": 0.5228013029315961
+          },
+          "random_metrics": {
+            "coherence": 0.1774039982283443,
+            "grammar": {
+              "pattern_score": 0.26804123711340205,
+              "short_word_ratio": 0.15807560137457044,
+              "order_variability": 0.9669243986254296
+            },
+            "repetition": 0.19415807560137455
+          },
+          "improvement": {
+            "coherence": 0.034091288700923594,
+            "grammar_pattern": 0.1391248866650996,
+            "repetition": 0.32864322733022155
+          }
+        }
+      },
+      {
+        "folio_id": "020r",
+        "section": "Biological",
+        "coverage": 0.6547619047619048,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.17790169055550742,
+            "grammar": {
+              "pattern_score": 0.43621399176954734,
+              "short_word_ratio": 0.23045267489711935,
+              "order_variability": 0.8945473251028806
+            },
+            "repetition": 0.4711934156378601
+          },
+          "random_metrics": {
+            "coherence": 0.13692626631463856,
+            "grammar": {
+              "pattern_score": 0.19444444444444445,
+              "short_word_ratio": 0.15079365079365079,
+              "order_variability": 0.9742063492063492
+            },
+            "repetition": 1.0
+          },
+          "improvement": {
+            "coherence": 0.04097542424086886,
+            "grammar_pattern": 0.2417695473251029,
+            "repetition": -0.5288065843621399
+          }
+        }
+      },
+      {
+        "folio_id": "020v",
+        "section": "Biological",
+        "coverage": 0.6818181818181818,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.22787720180623228,
+            "grammar": {
+              "pattern_score": 0.2976588628762542,
+              "short_word_ratio": 0.3779264214046823,
+              "order_variability": 0.7470735785953178
+            },
+            "repetition": 0.061872909698996836
+          },
+          "random_metrics": {
+            "coherence": 0.18261266614568572,
+            "grammar": {
+              "pattern_score": 0.22727272727272727,
+              "short_word_ratio": 0.1696969696969697,
+              "order_variability": 0.9553030303030303
+            },
+            "repetition": 0.8939393939393939
+          },
+          "improvement": {
+            "coherence": 0.045264535660546557,
+            "grammar_pattern": 0.07038613560352694,
+            "repetition": -0.8320664842403971
+          }
+        }
+      }
+    ],
+    [
+      {
+        "folio_id": "001r",
+        "section": "Herbal A",
+        "coverage": 0.691190706679574,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.22101132134757018,
+            "grammar": {
+              "pattern_score": 0.3096976016684046,
+              "short_word_ratio": 0.31178310740354537,
+              "order_variability": 0.8132168925964547
+            },
+            "repetition": 0.4781021897810219
+          },
+          "random_metrics": {
+            "coherence": 0.16105394839706422,
+            "grammar": {
+              "pattern_score": 0.44336882865440463,
+              "short_word_ratio": 0.10939012584704744,
+              "order_variability": 0.9843901258470474
+            },
+            "repetition": 0.9966118102613746
+          },
+          "improvement": {
+            "coherence": 0.05995737295050596,
+            "grammar_pattern": -0.13367122698600004,
+            "repetition": -0.5185096204803527
+          }
+        }
+      },
+      {
+        "folio_id": "001v",
+        "section": "Herbal A",
+        "coverage": 0.6093023255813953,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.20234172934220862,
+            "grammar": {
+              "pattern_score": 0.30434782608695654,
+              "short_word_ratio": 0.391304347826087,
+              "order_variability": 0.7336956521739131
+            },
+            "repetition": 0.9565217391304348
+          },
+          "random_metrics": {
+            "coherence": 0.15963320059036712,
+            "grammar": {
+              "pattern_score": 0.3209302325581395,
+              "short_word_ratio": 0.18604651162790697,
+              "order_variability": 0.938953488372093
+            },
+            "repetition": 1.0
+          },
+          "improvement": {
+            "coherence": 0.0427085287518415,
+            "grammar_pattern": -0.016582406471182976,
+            "repetition": -0.04347826086956519
+          }
+        }
+      },
+      {
+        "folio_id": "002r",
+        "section": "Herbal A",
+        "coverage": 0.6142857142857143,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.18945002236781205,
+            "grammar": {
+              "pattern_score": 0.30939226519337015,
+              "short_word_ratio": 0.4696132596685083,
+              "order_variability": 0.6553867403314917
+            },
+            "repetition": 0.0
+          },
+          "random_metrics": {
+            "coherence": 0.1551800544207701,
+            "grammar": {
+              "pattern_score": 0.2761904761904762,
+              "short_word_ratio": 0.14285714285714285,
+              "order_variability": 0.9821428571428572
+            },
+            "repetition": 1.0
+          },
+          "improvement": {
+            "coherence": 0.03426996794704196,
+            "grammar_pattern": 0.033201789002893944,
+            "repetition": -1.0
+          }
+        }
+      },
+      {
+        "folio_id": "002v",
+        "section": "Herbal A",
+        "coverage": 0.6782608695652174,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.2729989859932168,
+            "grammar": {
+              "pattern_score": 0.4719626168224299,
+              "short_word_ratio": 0.24766355140186916,
+              "order_variability": 0.8773364485981309
+            },
+            "repetition": 0.4252336448598131
+          },
+          "random_metrics": {
+            "coherence": 0.2046991710251026,
+            "grammar": {
+              "pattern_score": 0.36086956521739133,
+              "short_word_ratio": 0.13043478260869565,
+              "order_variability": 0.9945652173913043
+            },
+            "repetition": 0.6304347826086957
+          },
+          "improvement": {
+            "coherence": 0.06829981496811421,
+            "grammar_pattern": 0.11109305160503857,
+            "repetition": -0.2052011377488826
+          }
+        }
+      },
+      {
+        "folio_id": "003r",
+        "section": "Herbal A",
+        "coverage": 0.6503067484662577,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.17952318199944373,
+            "grammar": {
+              "pattern_score": 0.3593220338983051,
+              "short_word_ratio": 0.21016949152542372,
+              "order_variability": 0.9148305084745763
+            },
+            "repetition": 0.34745762711864403
+          },
+          "random_metrics": {
+            "coherence": 0.14027653926036665,
+            "grammar": {
+              "pattern_score": 0.32515337423312884,
+              "short_word_ratio": 0.10122699386503067,
+              "order_variability": 0.9762269938650306
+            },
+            "repetition": 0.8865030674846626
+          },
+          "improvement": {
+            "coherence": 0.039246642739077076,
+            "grammar_pattern": 0.03416865966517624,
+            "repetition": -0.5390454403660185
+          }
+        }
+      },
+      {
+        "folio_id": "003v",
+        "section": "Herbal A",
+        "coverage": 0.5507246376811594,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.21862393240444156,
+            "grammar": {
+              "pattern_score": 0.35094339622641507,
+              "short_word_ratio": 0.29056603773584905,
+              "order_variability": 0.834433962264151
+            },
+            "repetition": 0.7075471698113208
+          },
+          "random_metrics": {
+            "coherence": 0.17634793960042638,
+            "grammar": {
+              "pattern_score": 0.24057971014492754,
+              "short_word_ratio": 0.16231884057971013,
+              "order_variability": 0.9626811594202899
+            },
+            "repetition": 1.0
+          },
+          "improvement": {
+            "coherence": 0.04227599280401517,
+            "grammar_pattern": 0.11036368608148753,
+            "repetition": -0.2924528301886792
+          }
+        }
+      },
+      {
+        "folio_id": "004r",
+        "section": "Herbal A",
+        "coverage": 0.6923076923076923,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.17489896282980166,
+            "grammar": {
+              "pattern_score": 0.3236994219653179,
+              "short_word_ratio": 0.30057803468208094,
+              "order_variability": 0.824421965317919
+            },
+            "repetition": 0.28612716763005785
+          },
+          "random_metrics": {
+            "coherence": 0.16035253249801296,
+            "grammar": {
+              "pattern_score": 0.4205128205128205,
+              "short_word_ratio": 0.07692307692307693,
+              "order_variability": 0.9519230769230769
+            },
+            "repetition": 0.7820512820512822
+          },
+          "improvement": {
+            "coherence": 0.014546430331788707,
+            "grammar_pattern": -0.0968133985475026,
+            "repetition": -0.4959241144212243
+          }
+        }
+      },
+      {
+        "folio_id": "004v",
+        "section": "Herbal A",
+        "coverage": 0.5906040268456376,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.23398308567434878,
+            "grammar": {
+              "pattern_score": 0.3155893536121673,
+              "short_word_ratio": 0.3612167300380228,
+              "order_variability": 0.7637832699619772
+            },
+            "repetition": 0.0
+          },
+          "random_metrics": {
+            "coherence": 0.15138355577892038,
+            "grammar": {
+              "pattern_score": 0.32550335570469796,
+              "short_word_ratio": 0.1610738255033557,
+              "order_variability": 0.9639261744966443
+            },
+            "repetition": 0.9630872483221476
+          },
+          "improvement": {
+            "coherence": 0.0825995298954284,
+            "grammar_pattern": -0.009914002092530683,
+            "repetition": -0.9630872483221476
+          }
+        }
+      },
+      {
+        "folio_id": "005r",
+        "section": "Herbal A",
+        "coverage": 0.7142857142857143,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.2023417293422085,
+            "grammar": {
+              "pattern_score": 0.32065217391304346,
+              "short_word_ratio": 0.32065217391304346,
+              "order_variability": 0.8043478260869565
+            },
+            "repetition": 0.3586956521739131
+          },
+          "random_metrics": {
+            "coherence": 0.1524928123010778,
+            "grammar": {
+              "pattern_score": 0.35403726708074534,
+              "short_word_ratio": 0.16770186335403728,
+              "order_variability": 0.9572981366459627
+            },
+            "repetition": 0.6925465838509317
+          },
+          "improvement": {
+            "coherence": 0.0498489170411307,
+            "grammar_pattern": -0.033385093167701885,
+            "repetition": -0.3338509316770186
+          }
+        }
+      },
+      {
+        "folio_id": "005v",
+        "section": "Herbal A",
+        "coverage": 0.664804469273743,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.23658211685350883,
+            "grammar": {
+              "pattern_score": 0.3136094674556213,
+              "short_word_ratio": 0.34911242603550297,
+              "order_variability": 0.775887573964497
+            },
+            "repetition": 0.0
+          },
+          "random_metrics": {
+            "coherence": 0.1986229996240465,
+            "grammar": {
+              "pattern_score": 0.43575418994413406,
+              "short_word_ratio": 0.18435754189944134,
+              "order_variability": 0.9406424581005587
+            },
+            "repetition": 0.2150837988826816
+          },
+          "improvement": {
+            "coherence": 0.037959117229462325,
+            "grammar_pattern": -0.12214472248851277,
+            "repetition": -0.2150837988826816
+          }
+        }
+      },
+      {
+        "folio_id": "006r",
+        "section": "Herbal A",
+        "coverage": 0.6728110599078341,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.1454430595841718,
+            "grammar": {
+              "pattern_score": 0.42473118279569894,
+              "short_word_ratio": 0.3118279569892473,
+              "order_variability": 0.8131720430107527
+            },
+            "repetition": 0.5860215053763441
+          },
+          "random_metrics": {
+            "coherence": 0.1354649206638865,
+            "grammar": {
+              "pattern_score": 0.31797235023041476,
+              "short_word_ratio": 0.05069124423963134,
+              "order_variability": 0.9256912442396313
+            },
+            "repetition": 0.9470046082949308
+          },
+          "improvement": {
+            "coherence": 0.009978138920285318,
+            "grammar_pattern": 0.10675883256528418,
+            "repetition": -0.3609831029185867
+          }
+        }
+      },
+      {
+        "folio_id": "006v",
+        "section": "Herbal A",
+        "coverage": 0.5959821428571429,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.19412561409925944,
+            "grammar": {
+              "pattern_score": 0.35795454545454547,
+              "short_word_ratio": 0.3096590909090909,
+              "order_variability": 0.8153409090909092
+            },
+            "repetition": 0.7329545454545454
+          },
+          "random_metrics": {
+            "coherence": 0.15361723022105767,
+            "grammar": {
+              "pattern_score": 0.14732142857142858,
+              "short_word_ratio": 0.11160714285714286,
+              "order_variability": 0.9866071428571429
+            },
+            "repetition": 0.9419642857142857
+          },
+          "improvement": {
+            "coherence": 0.04050838387820177,
+            "grammar_pattern": 0.2106331168831169,
+            "repetition": -0.20900974025974028
+          }
+        }
+      },
+      {
+        "folio_id": "007r",
+        "section": "Herbal A",
+        "coverage": 0.4873417721518987,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.17525093645678003,
+            "grammar": {
+              "pattern_score": 0.5588235294117647,
+              "short_word_ratio": 0.16666666666666666,
+              "order_variability": 0.9583333333333334
+            },
+            "repetition": 0.0
+          },
+          "random_metrics": {
+            "coherence": 0.14112753096880692,
+            "grammar": {
+              "pattern_score": 0.2974683544303797,
+              "short_word_ratio": 0.06329113924050633,
+              "order_variability": 0.9382911392405063
+            },
+            "repetition": 1.0
+          },
+          "improvement": {
+            "coherence": 0.0341234054879731,
+            "grammar_pattern": 0.261355174981385,
+            "repetition": -1.0
+          }
+        }
+      },
+      {
+        "folio_id": "007v",
+        "section": "Herbal A",
+        "coverage": 0.6428571428571429,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.2350067189439924,
+            "grammar": {
+              "pattern_score": 0.35348837209302325,
+              "short_word_ratio": 0.3953488372093023,
+              "order_variability": 0.7296511627906976
+            },
+            "repetition": 0.011627906976744207
+          },
+          "random_metrics": {
+            "coherence": 0.16757014102716694,
+            "grammar": {
+              "pattern_score": 0.37218045112781956,
+              "short_word_ratio": 0.09774436090225563,
+              "order_variability": 0.9727443609022557
+            },
+            "repetition": 0.6353383458646618
+          },
+          "improvement": {
+            "coherence": 0.06743657791682545,
+            "grammar_pattern": -0.018692079034796305,
+            "repetition": -0.6237104388879176
+          }
+        }
+      },
+      {
+        "folio_id": "008r",
+        "section": "Herbal A",
+        "coverage": 0.4941860465116279,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.15200380226246935,
+            "grammar": {
+              "pattern_score": 0.4106280193236715,
+              "short_word_ratio": 0.30917874396135264,
+              "order_variability": 0.8158212560386473
+            },
+            "repetition": 0.48550724637681153
+          },
+          "random_metrics": {
+            "coherence": 0.12194599009941087,
+            "grammar": {
+              "pattern_score": 0.25,
+              "short_word_ratio": 0.08139534883720931,
+              "order_variability": 0.9563953488372093
+            },
+            "repetition": 1.0
+          },
+          "improvement": {
+            "coherence": 0.030057812163058473,
+            "grammar_pattern": 0.1606280193236715,
+            "repetition": -0.5144927536231885
+          }
+        }
+      },
+      {
+        "folio_id": "008v",
+        "section": "Herbal A",
+        "coverage": 0.5879120879120879,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.2042134953594409,
+            "grammar": {
+              "pattern_score": 0.3985239852398524,
+              "short_word_ratio": 0.3062730627306273,
+              "order_variability": 0.8187269372693726
+            },
+            "repetition": 0.466789667896679
+          },
+          "random_metrics": {
+            "coherence": 0.1699189610424202,
+            "grammar": {
+              "pattern_score": 0.26373626373626374,
+              "short_word_ratio": 0.09340659340659341,
+              "order_variability": 0.9684065934065934
+            },
+            "repetition": 0.8131868131868132
+          },
+          "improvement": {
+            "coherence": 0.034294534317020675,
+            "grammar_pattern": 0.13478772150358864,
+            "repetition": -0.3463971452901342
+          }
+        }
+      },
+      {
+        "folio_id": "014r",
+        "section": "Herbal B",
+        "coverage": 0.839622641509434,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.16178499902697852,
+            "grammar": {
+              "pattern_score": 0.41150442477876104,
+              "short_word_ratio": 0.34513274336283184,
+              "order_variability": 0.7798672566371682
+            },
+            "repetition": 0.4823008849557522
+          },
+          "random_metrics": {
+            "coherence": 0.1399076621083022,
+            "grammar": {
+              "pattern_score": 0.2358490566037736,
+              "short_word_ratio": 0.10377358490566038,
+              "order_variability": 0.9787735849056604
+            },
+            "repetition": 0.8867924528301887
+          },
+          "improvement": {
+            "coherence": 0.021877336918676327,
+            "grammar_pattern": 0.17565536817498745,
+            "repetition": -0.4044915678744365
+          }
+        }
+      },
+      {
+        "folio_id": "014v",
+        "section": "Herbal B",
+        "coverage": 0.7471264367816092,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.21071191889426144,
+            "grammar": {
+              "pattern_score": 0.4246575342465753,
+              "short_word_ratio": 0.4246575342465753,
+              "order_variability": 0.7003424657534247
+            },
+            "repetition": 0.0
+          },
+          "random_metrics": {
+            "coherence": 0.17525193335232514,
+            "grammar": {
+              "pattern_score": 0.2567049808429119,
+              "short_word_ratio": 0.10344827586206896,
+              "order_variability": 0.978448275862069
+            },
+            "repetition": 0.6187739463601534
+          },
+          "improvement": {
+            "coherence": 0.0354599855419363,
+            "grammar_pattern": 0.16795255340366344,
+            "repetition": -0.6187739463601534
+          }
+        }
+      },
+      {
+        "folio_id": "015r",
+        "section": "Herbal B",
+        "coverage": 0.6007067137809188,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.199525023222063,
+            "grammar": {
+              "pattern_score": 0.33181818181818185,
+              "short_word_ratio": 0.2863636363636364,
+              "order_variability": 0.8386363636363636
+            },
+            "repetition": 0.6363636363636364
+          },
+          "random_metrics": {
+            "coherence": 0.17367548323138726,
+            "grammar": {
+              "pattern_score": 0.2332155477031802,
+              "short_word_ratio": 0.09540636042402827,
+              "order_variability": 0.9704063604240283
+            },
+            "repetition": 1.0
+          },
+          "improvement": {
+            "coherence": 0.02584953999067574,
+            "grammar_pattern": 0.09860263411500164,
+            "repetition": -0.36363636363636365
+          }
+        }
+      },
+      {
+        "folio_id": "015v",
+        "section": "Herbal B",
+        "coverage": 0.8371212121212122,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.21634914758237533,
+            "grammar": {
+              "pattern_score": 0.41132075471698115,
+              "short_word_ratio": 0.28679245283018867,
+              "order_variability": 0.8382075471698114
+            },
+            "repetition": 0.5566037735849056
+          },
+          "random_metrics": {
+            "coherence": 0.19644134931359847,
+            "grammar": {
+              "pattern_score": 0.4810606060606061,
+              "short_word_ratio": 0.10606060606060606,
+              "order_variability": 0.9810606060606061
+            },
+            "repetition": 0.5909090909090909
+          },
+          "improvement": {
+            "coherence": 0.019907798268776866,
+            "grammar_pattern": -0.06973985134362493,
+            "repetition": -0.03430531732418529
+          }
+        }
+      },
+      {
+        "folio_id": "016r",
+        "section": "Herbal B",
+        "coverage": 0.6017699115044248,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.17249444692808602,
+            "grammar": {
+              "pattern_score": 0.26373626373626374,
+              "short_word_ratio": 0.45054945054945056,
+              "order_variability": 0.6744505494505495
+            },
+            "repetition": 0.18131868131868134
+          },
+          "random_metrics": {
+            "coherence": 0.13262945692241712,
+            "grammar": {
+              "pattern_score": 0.2831858407079646,
+              "short_word_ratio": 0.10176991150442478,
+              "order_variability": 0.9767699115044248
+            },
+            "repetition": 0.9247787610619469
+          },
+          "improvement": {
+            "coherence": 0.0398649900056689,
+            "grammar_pattern": -0.019449576971700855,
+            "repetition": -0.7434600797432656
+          }
+        }
+      },
+      {
+        "folio_id": "016v",
+        "section": "Herbal B",
+        "coverage": 0.7061611374407583,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.18660523330045908,
+            "grammar": {
+              "pattern_score": 0.35121951219512193,
+              "short_word_ratio": 0.43414634146341463,
+              "order_variability": 0.6908536585365854
+            },
+            "repetition": 0.0
+          },
+          "random_metrics": {
+            "coherence": 0.13729766762047269,
+            "grammar": {
+              "pattern_score": 0.32701421800947866,
+              "short_word_ratio": 0.12796208530805686,
+              "order_variability": 0.9970379146919431
+            },
+            "repetition": 0.9312796208530806
+          },
+          "improvement": {
+            "coherence": 0.0493075656799864,
+            "grammar_pattern": 0.024205294185643267,
+            "repetition": -0.9312796208530806
+          }
+        }
+      },
+      {
+        "folio_id": "017r",
+        "section": "Biological",
+        "coverage": 0.5036496350364964,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.23001357660609056,
+            "grammar": {
+              "pattern_score": 0.3786407766990291,
+              "short_word_ratio": 0.1941747572815534,
+              "order_variability": 0.9308252427184466
+            },
+            "repetition": 0.3834951456310679
+          },
+          "random_metrics": {
+            "coherence": 0.15720804960524803,
+            "grammar": {
+              "pattern_score": 0.20437956204379562,
+              "short_word_ratio": 0.08029197080291971,
+              "order_variability": 0.9552919708029197
+            },
+            "repetition": 1.0
+          },
+          "improvement": {
+            "coherence": 0.07280552700084253,
+            "grammar_pattern": 0.1742612146552335,
+            "repetition": -0.6165048543689321
+          }
+        }
+      },
+      {
+        "folio_id": "017v",
+        "section": "Biological",
+        "coverage": 0.6574307304785895,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.1596269234571468,
+            "grammar": {
+              "pattern_score": 0.36151603498542273,
+              "short_word_ratio": 0.2478134110787172,
+              "order_variability": 0.8771865889212828
+            },
+            "repetition": 0.7419825072886297
+          },
+          "random_metrics": {
+            "coherence": 0.12321917940470006,
+            "grammar": {
+              "pattern_score": 0.34760705289672544,
+              "short_word_ratio": 0.10327455919395466,
+              "order_variability": 0.9782745591939547
+            },
+            "repetition": 0.8702770780856424
+          },
+          "improvement": {
+            "coherence": 0.03640774405244673,
+            "grammar_pattern": 0.013908982088697286,
+            "repetition": -0.12829457079701267
+          }
+        }
+      },
+      {
+        "folio_id": "018r",
+        "section": "Biological",
+        "coverage": 0.65625,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.18597454737256758,
+            "grammar": {
+              "pattern_score": 0.4095744680851064,
+              "short_word_ratio": 0.10106382978723404,
+              "order_variability": 0.976063829787234
+            },
+            "repetition": 0.8617021276595745
+          },
+          "random_metrics": {
+            "coherence": 0.1373593323193404,
+            "grammar": {
+              "pattern_score": 0.20982142857142858,
+              "short_word_ratio": 0.0625,
+              "order_variability": 0.9375
+            },
+            "repetition": 0.9196428571428572
+          },
+          "improvement": {
+            "coherence": 0.04861521505322719,
+            "grammar_pattern": 0.19975303951367782,
+            "repetition": -0.05794072948328266
+          }
+        }
+      },
+      {
+        "folio_id": "018v",
+        "section": "Biological",
+        "coverage": 0.6804511278195489,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.23518187091744946,
+            "grammar": {
+              "pattern_score": 0.2901960784313726,
+              "short_word_ratio": 0.3843137254901961,
+              "order_variability": 0.740686274509804
+            },
+            "repetition": 0.0
+          },
+          "random_metrics": {
+            "coherence": 0.1907140474533251,
+            "grammar": {
+              "pattern_score": 0.13533834586466165,
+              "short_word_ratio": 0.18421052631578946,
+              "order_variability": 0.9407894736842105
+            },
+            "repetition": 0.8984962406015038
+          },
+          "improvement": {
+            "coherence": 0.04446782346412437,
+            "grammar_pattern": 0.15485773256671093,
+            "repetition": -0.8984962406015038
+          }
+        }
+      },
+      {
+        "folio_id": "019r",
+        "section": "Biological",
+        "coverage": 0.7327188940092166,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.17924637285735623,
+            "grammar": {
+              "pattern_score": 0.387434554973822,
+              "short_word_ratio": 0.4031413612565445,
+              "order_variability": 0.7218586387434556
+            },
+            "repetition": 0.24345549738219907
+          },
+          "random_metrics": {
+            "coherence": 0.1597436897155975,
+            "grammar": {
+              "pattern_score": 0.30414746543778803,
+              "short_word_ratio": 0.06912442396313365,
+              "order_variability": 0.9441244239631337
+            },
+            "repetition": 0.39400921658986165
+          },
+          "improvement": {
+            "coherence": 0.019502683141758737,
+            "grammar_pattern": 0.08328708953603398,
+            "repetition": -0.15055371920766258
+          }
+        }
+      },
+      {
+        "folio_id": "019v",
+        "section": "Biological",
+        "coverage": 0.7457044673539519,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.2114952869292679,
+            "grammar": {
+              "pattern_score": 0.40716612377850164,
+              "short_word_ratio": 0.28338762214983715,
+              "order_variability": 0.8416123778501629
+            },
+            "repetition": 0.5228013029315961
+          },
+          "random_metrics": {
+            "coherence": 0.1774039982283443,
+            "grammar": {
+              "pattern_score": 0.38144329896907214,
+              "short_word_ratio": 0.12714776632302405,
+              "order_variability": 0.997852233676976
+            },
+            "repetition": 0.33161512027491413
+          },
+          "improvement": {
+            "coherence": 0.034091288700923594,
+            "grammar_pattern": 0.0257228248094295,
+            "repetition": 0.19118618265668197
+          }
+        }
+      },
+      {
+        "folio_id": "020r",
+        "section": "Biological",
+        "coverage": 0.6547619047619048,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.17790169055550742,
+            "grammar": {
+              "pattern_score": 0.43621399176954734,
+              "short_word_ratio": 0.23045267489711935,
+              "order_variability": 0.8945473251028806
+            },
+            "repetition": 0.4711934156378601
+          },
+          "random_metrics": {
+            "coherence": 0.13692626631463856,
+            "grammar": {
+              "pattern_score": 0.3253968253968254,
+              "short_word_ratio": 0.07936507936507936,
+              "order_variability": 0.9543650793650793
+            },
+            "repetition": 1.0
+          },
+          "improvement": {
+            "coherence": 0.04097542424086886,
+            "grammar_pattern": 0.11081716637272193,
+            "repetition": -0.5288065843621399
+          }
+        }
+      },
+      {
+        "folio_id": "020v",
+        "section": "Biological",
+        "coverage": 0.6818181818181818,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.22787720180623228,
+            "grammar": {
+              "pattern_score": 0.2976588628762542,
+              "short_word_ratio": 0.3779264214046823,
+              "order_variability": 0.7470735785953178
+            },
+            "repetition": 0.061872909698996836
+          },
+          "random_metrics": {
+            "coherence": 0.18261266614568572,
+            "grammar": {
+              "pattern_score": 0.3393939393939394,
+              "short_word_ratio": 0.15151515151515152,
+              "order_variability": 0.9734848484848485
+            },
+            "repetition": 1.0
+          },
+          "improvement": {
+            "coherence": 0.045264535660546557,
+            "grammar_pattern": -0.04173507651768521,
+            "repetition": -0.9381270903010032
+          }
+        }
+      }
+    ],
+    [
+      {
+        "folio_id": "001r",
+        "section": "Herbal A",
+        "coverage": 0.691190706679574,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.22101132134757018,
+            "grammar": {
+              "pattern_score": 0.3096976016684046,
+              "short_word_ratio": 0.31178310740354537,
+              "order_variability": 0.8132168925964547
+            },
+            "repetition": 0.4781021897810219
+          },
+          "random_metrics": {
+            "coherence": 0.16379375088633796,
+            "grammar": {
+              "pattern_score": 0.4801548886737657,
+              "short_word_ratio": 0.1132623426911907,
+              "order_variability": 0.9882623426911907
+            },
+            "repetition": 0.9482090997095838
+          },
+          "improvement": {
+            "coherence": 0.057217570461232214,
+            "grammar_pattern": -0.1704572870053611,
+            "repetition": -0.47010690992856186
+          }
+        }
+      },
+      {
+        "folio_id": "001v",
+        "section": "Herbal A",
+        "coverage": 0.6093023255813953,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.20234172934220862,
+            "grammar": {
+              "pattern_score": 0.30434782608695654,
+              "short_word_ratio": 0.391304347826087,
+              "order_variability": 0.7336956521739131
+            },
+            "repetition": 0.9565217391304348
+          },
+          "random_metrics": {
+            "coherence": 0.15797029792508555,
+            "grammar": {
+              "pattern_score": 0.5209302325581395,
+              "short_word_ratio": 0.22325581395348837,
+              "order_variability": 0.9017441860465116
+            },
+            "repetition": 0.9883720930232558
+          },
+          "improvement": {
+            "coherence": 0.044371431417123075,
+            "grammar_pattern": -0.216582406471183,
+            "repetition": -0.03185035389282098
+          }
+        }
+      },
+      {
+        "folio_id": "002r",
+        "section": "Herbal A",
+        "coverage": 0.6142857142857143,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.18945002236781205,
+            "grammar": {
+              "pattern_score": 0.30939226519337015,
+              "short_word_ratio": 0.4696132596685083,
+              "order_variability": 0.6553867403314917
+            },
+            "repetition": 0.0
+          },
+          "random_metrics": {
+            "coherence": 0.1551800544207701,
+            "grammar": {
+              "pattern_score": 0.35714285714285715,
+              "short_word_ratio": 0.03333333333333333,
+              "order_variability": 0.9083333333333333
+            },
+            "repetition": 1.0
+          },
+          "improvement": {
+            "coherence": 0.03426996794704196,
+            "grammar_pattern": -0.047750591949487,
+            "repetition": -1.0
+          }
+        }
+      },
+      {
+        "folio_id": "002v",
+        "section": "Herbal A",
+        "coverage": 0.6782608695652174,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.2729989859932168,
+            "grammar": {
+              "pattern_score": 0.4719626168224299,
+              "short_word_ratio": 0.24766355140186916,
+              "order_variability": 0.8773364485981309
+            },
+            "repetition": 0.4252336448598131
+          },
+          "random_metrics": {
+            "coherence": 0.20650685421804382,
+            "grammar": {
+              "pattern_score": 0.34782608695652173,
+              "short_word_ratio": 0.06956521739130435,
+              "order_variability": 0.9445652173913044
+            },
+            "repetition": 0.5434782608695652
+          },
+          "improvement": {
+            "coherence": 0.06649213177517299,
+            "grammar_pattern": 0.12413652986590817,
+            "repetition": -0.11824461600975211
+          }
+        }
+      },
+      {
+        "folio_id": "003r",
+        "section": "Herbal A",
+        "coverage": 0.6503067484662577,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.17952318199944373,
+            "grammar": {
+              "pattern_score": 0.3593220338983051,
+              "short_word_ratio": 0.21016949152542372,
+              "order_variability": 0.9148305084745763
+            },
+            "repetition": 0.34745762711864403
+          },
+          "random_metrics": {
+            "coherence": 0.13625846619677018,
+            "grammar": {
+              "pattern_score": 0.294478527607362,
+              "short_word_ratio": 0.09815950920245399,
+              "order_variability": 0.973159509202454
+            },
+            "repetition": 0.8251533742331288
+          },
+          "improvement": {
+            "coherence": 0.04326471580267355,
+            "grammar_pattern": 0.0648435062909431,
+            "repetition": -0.4776957471144848
+          }
+        }
+      },
+      {
+        "folio_id": "003v",
+        "section": "Herbal A",
+        "coverage": 0.5507246376811594,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.21862393240444156,
+            "grammar": {
+              "pattern_score": 0.35094339622641507,
+              "short_word_ratio": 0.29056603773584905,
+              "order_variability": 0.834433962264151
+            },
+            "repetition": 0.7075471698113208
+          },
+          "random_metrics": {
+            "coherence": 0.17772789944209344,
+            "grammar": {
+              "pattern_score": 0.3681159420289855,
+              "short_word_ratio": 0.11884057971014493,
+              "order_variability": 0.993840579710145
+            },
+            "repetition": 1.0
+          },
+          "improvement": {
+            "coherence": 0.04089603296234812,
+            "grammar_pattern": -0.017172545802570438,
+            "repetition": -0.2924528301886792
+          }
+        }
+      },
+      {
+        "folio_id": "004r",
+        "section": "Herbal A",
+        "coverage": 0.6923076923076923,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.17489896282980166,
+            "grammar": {
+              "pattern_score": 0.3236994219653179,
+              "short_word_ratio": 0.30057803468208094,
+              "order_variability": 0.824421965317919
+            },
+            "repetition": 0.28612716763005785
+          },
+          "random_metrics": {
+            "coherence": 0.16222103432651458,
+            "grammar": {
+              "pattern_score": 0.5487179487179488,
+              "short_word_ratio": 0.07692307692307693,
+              "order_variability": 0.9519230769230769
+            },
+            "repetition": 0.7820512820512822
+          },
+          "improvement": {
+            "coherence": 0.012677928503287084,
+            "grammar_pattern": -0.22501852675263084,
+            "repetition": -0.4959241144212243
+          }
+        }
+      },
+      {
+        "folio_id": "004v",
+        "section": "Herbal A",
+        "coverage": 0.5906040268456376,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.23398308567434878,
+            "grammar": {
+              "pattern_score": 0.3155893536121673,
+              "short_word_ratio": 0.3612167300380228,
+              "order_variability": 0.7637832699619772
+            },
+            "repetition": 0.0
+          },
+          "random_metrics": {
+            "coherence": 0.1525127687251292,
+            "grammar": {
+              "pattern_score": 0.29194630872483224,
+              "short_word_ratio": 0.06375838926174497,
+              "order_variability": 0.9387583892617449
+            },
+            "repetition": 0.9630872483221476
+          },
+          "improvement": {
+            "coherence": 0.08147031694921958,
+            "grammar_pattern": 0.02364304488733504,
+            "repetition": -0.9630872483221476
+          }
+        }
+      },
+      {
+        "folio_id": "005r",
+        "section": "Herbal A",
+        "coverage": 0.7142857142857143,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.2023417293422085,
+            "grammar": {
+              "pattern_score": 0.32065217391304346,
+              "short_word_ratio": 0.32065217391304346,
+              "order_variability": 0.8043478260869565
+            },
+            "repetition": 0.3586956521739131
+          },
+          "random_metrics": {
+            "coherence": 0.1524928123010778,
+            "grammar": {
+              "pattern_score": 0.34782608695652173,
+              "short_word_ratio": 0.08695652173913043,
+              "order_variability": 0.9619565217391304
+            },
+            "repetition": 0.7546583850931677
+          },
+          "improvement": {
+            "coherence": 0.0498489170411307,
+            "grammar_pattern": -0.02717391304347827,
+            "repetition": -0.39596273291925466
+          }
+        }
+      },
+      {
+        "folio_id": "005v",
+        "section": "Herbal A",
+        "coverage": 0.664804469273743,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.23658211685350883,
+            "grammar": {
+              "pattern_score": 0.3136094674556213,
+              "short_word_ratio": 0.34911242603550297,
+              "order_variability": 0.775887573964497
+            },
+            "repetition": 0.0
+          },
+          "random_metrics": {
+            "coherence": 0.1950497246561218,
+            "grammar": {
+              "pattern_score": 0.49162011173184356,
+              "short_word_ratio": 0.10614525139664804,
+              "order_variability": 0.9811452513966481
+            },
+            "repetition": 0.2150837988826816
+          },
+          "improvement": {
+            "coherence": 0.041532392197387025,
+            "grammar_pattern": -0.17801064427622226,
+            "repetition": -0.2150837988826816
+          }
+        }
+      },
+      {
+        "folio_id": "006r",
+        "section": "Herbal A",
+        "coverage": 0.6728110599078341,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.1454430595841718,
+            "grammar": {
+              "pattern_score": 0.42473118279569894,
+              "short_word_ratio": 0.3118279569892473,
+              "order_variability": 0.8131720430107527
+            },
+            "repetition": 0.5860215053763441
+          },
+          "random_metrics": {
+            "coherence": 0.13665891080967207,
+            "grammar": {
+              "pattern_score": 0.3824884792626728,
+              "short_word_ratio": 0.0967741935483871,
+              "order_variability": 0.9717741935483871
+            },
+            "repetition": 0.9470046082949308
+          },
+          "improvement": {
+            "coherence": 0.008784148774499734,
+            "grammar_pattern": 0.042242703533026116,
+            "repetition": -0.3609831029185867
+          }
+        }
+      },
+      {
+        "folio_id": "006v",
+        "section": "Herbal A",
+        "coverage": 0.5959821428571429,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.19412561409925944,
+            "grammar": {
+              "pattern_score": 0.35795454545454547,
+              "short_word_ratio": 0.3096590909090909,
+              "order_variability": 0.8153409090909092
+            },
+            "repetition": 0.7329545454545454
+          },
+          "random_metrics": {
+            "coherence": 0.15361723022105767,
+            "grammar": {
+              "pattern_score": 0.31473214285714285,
+              "short_word_ratio": 0.08928571428571429,
+              "order_variability": 0.9642857142857143
+            },
+            "repetition": 0.875
+          },
+          "improvement": {
+            "coherence": 0.04050838387820177,
+            "grammar_pattern": 0.04322240259740262,
+            "repetition": -0.14204545454545459
+          }
+        }
+      },
+      {
+        "folio_id": "007r",
+        "section": "Herbal A",
+        "coverage": 0.4873417721518987,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.17525093645678003,
+            "grammar": {
+              "pattern_score": 0.5588235294117647,
+              "short_word_ratio": 0.16666666666666666,
+              "order_variability": 0.9583333333333334
+            },
+            "repetition": 0.0
+          },
+          "random_metrics": {
+            "coherence": 0.14112753096880692,
+            "grammar": {
+              "pattern_score": 0.2848101265822785,
+              "short_word_ratio": 0.012658227848101266,
+              "order_variability": 0.8876582278481012
+            },
+            "repetition": 0.9303797468354431
+          },
+          "improvement": {
+            "coherence": 0.0341234054879731,
+            "grammar_pattern": 0.2740134028294862,
+            "repetition": -0.9303797468354431
+          }
+        }
+      },
+      {
+        "folio_id": "007v",
+        "section": "Herbal A",
+        "coverage": 0.6428571428571429,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.2350067189439924,
+            "grammar": {
+              "pattern_score": 0.35348837209302325,
+              "short_word_ratio": 0.3953488372093023,
+              "order_variability": 0.7296511627906976
+            },
+            "repetition": 0.011627906976744207
+          },
+          "random_metrics": {
+            "coherence": 0.1658780241226664,
+            "grammar": {
+              "pattern_score": 0.2857142857142857,
+              "short_word_ratio": 0.13909774436090225,
+              "order_variability": 0.9859022556390977
+            },
+            "repetition": 0.6353383458646618
+          },
+          "improvement": {
+            "coherence": 0.069128694821326,
+            "grammar_pattern": 0.06777408637873755,
+            "repetition": -0.6237104388879176
+          }
+        }
+      },
+      {
+        "folio_id": "008r",
+        "section": "Herbal A",
+        "coverage": 0.4941860465116279,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.15200380226246935,
+            "grammar": {
+              "pattern_score": 0.4106280193236715,
+              "short_word_ratio": 0.30917874396135264,
+              "order_variability": 0.8158212560386473
+            },
+            "repetition": 0.48550724637681153
+          },
+          "random_metrics": {
+            "coherence": 0.12402299993677535,
+            "grammar": {
+              "pattern_score": 0.2761627906976744,
+              "short_word_ratio": 0.05813953488372093,
+              "order_variability": 0.9331395348837209
+            },
+            "repetition": 1.0
+          },
+          "improvement": {
+            "coherence": 0.027980802325694,
+            "grammar_pattern": 0.13446522862599708,
+            "repetition": -0.5144927536231885
+          }
+        }
+      },
+      {
+        "folio_id": "008v",
+        "section": "Herbal A",
+        "coverage": 0.5879120879120879,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.2042134953594409,
+            "grammar": {
+              "pattern_score": 0.3985239852398524,
+              "short_word_ratio": 0.3062730627306273,
+              "order_variability": 0.8187269372693726
+            },
+            "repetition": 0.466789667896679
+          },
+          "random_metrics": {
+            "coherence": 0.1672092657235139,
+            "grammar": {
+              "pattern_score": 0.3489010989010989,
+              "short_word_ratio": 0.03021978021978022,
+              "order_variability": 0.9052197802197802
+            },
+            "repetition": 0.8131868131868132
+          },
+          "improvement": {
+            "coherence": 0.03700422963592698,
+            "grammar_pattern": 0.0496228863387535,
+            "repetition": -0.3463971452901342
+          }
+        }
+      },
+      {
+        "folio_id": "014r",
+        "section": "Herbal B",
+        "coverage": 0.839622641509434,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.16178499902697852,
+            "grammar": {
+              "pattern_score": 0.41150442477876104,
+              "short_word_ratio": 0.34513274336283184,
+              "order_variability": 0.7798672566371682
+            },
+            "repetition": 0.4823008849557522
+          },
+          "random_metrics": {
+            "coherence": 0.1399076621083022,
+            "grammar": {
+              "pattern_score": 0.419811320754717,
+              "short_word_ratio": 0.04245283018867924,
+              "order_variability": 0.9174528301886793
+            },
+            "repetition": 1.0
+          },
+          "improvement": {
+            "coherence": 0.021877336918676327,
+            "grammar_pattern": -0.008306895975955964,
+            "repetition": -0.5176991150442478
+          }
+        }
+      },
+      {
+        "folio_id": "014v",
+        "section": "Herbal B",
+        "coverage": 0.7471264367816092,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.21071191889426144,
+            "grammar": {
+              "pattern_score": 0.4246575342465753,
+              "short_word_ratio": 0.4246575342465753,
+              "order_variability": 0.7003424657534247
+            },
+            "repetition": 0.0
+          },
+          "random_metrics": {
+            "coherence": 0.17525193335232514,
+            "grammar": {
+              "pattern_score": 0.48659003831417624,
+              "short_word_ratio": 0.07662835249042145,
+              "order_variability": 0.9516283524904214
+            },
+            "repetition": 0.6187739463601534
+          },
+          "improvement": {
+            "coherence": 0.0354599855419363,
+            "grammar_pattern": -0.061932504067600924,
+            "repetition": -0.6187739463601534
+          }
+        }
+      },
+      {
+        "folio_id": "015r",
+        "section": "Herbal B",
+        "coverage": 0.6007067137809188,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.199525023222063,
+            "grammar": {
+              "pattern_score": 0.33181818181818185,
+              "short_word_ratio": 0.2863636363636364,
+              "order_variability": 0.8386363636363636
+            },
+            "repetition": 0.6363636363636364
+          },
+          "random_metrics": {
+            "coherence": 0.17367548323138726,
+            "grammar": {
+              "pattern_score": 0.3568904593639576,
+              "short_word_ratio": 0.10247349823321555,
+              "order_variability": 0.9774734982332156
+            },
+            "repetition": 1.0
+          },
+          "improvement": {
+            "coherence": 0.02584953999067574,
+            "grammar_pattern": -0.025072277545775734,
+            "repetition": -0.36363636363636365
+          }
+        }
+      },
+      {
+        "folio_id": "015v",
+        "section": "Herbal B",
+        "coverage": 0.8371212121212122,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.21634914758237533,
+            "grammar": {
+              "pattern_score": 0.41132075471698115,
+              "short_word_ratio": 0.28679245283018867,
+              "order_variability": 0.8382075471698114
+            },
+            "repetition": 0.5566037735849056
+          },
+          "random_metrics": {
+            "coherence": 0.19644134931359847,
+            "grammar": {
+              "pattern_score": 0.48863636363636365,
+              "short_word_ratio": 0.12121212121212122,
+              "order_variability": 0.9962121212121212
+            },
+            "repetition": 0.5909090909090909
+          },
+          "improvement": {
+            "coherence": 0.019907798268776866,
+            "grammar_pattern": -0.0773156089193825,
+            "repetition": -0.03430531732418529
+          }
+        }
+      },
+      {
+        "folio_id": "016r",
+        "section": "Herbal B",
+        "coverage": 0.6017699115044248,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.17249444692808602,
+            "grammar": {
+              "pattern_score": 0.26373626373626374,
+              "short_word_ratio": 0.45054945054945056,
+              "order_variability": 0.6744505494505495
+            },
+            "repetition": 0.18131868131868134
+          },
+          "random_metrics": {
+            "coherence": 0.12992489778186933,
+            "grammar": {
+              "pattern_score": 0.29646017699115046,
+              "short_word_ratio": 0.10176991150442478,
+              "order_variability": 0.9767699115044248
+            },
+            "repetition": 1.0
+          },
+          "improvement": {
+            "coherence": 0.04256954914621669,
+            "grammar_pattern": -0.032723913254886716,
+            "repetition": -0.8186813186813187
+          }
+        }
+      },
+      {
+        "folio_id": "016v",
+        "section": "Herbal B",
+        "coverage": 0.7061611374407583,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.18660523330045908,
+            "grammar": {
+              "pattern_score": 0.35121951219512193,
+              "short_word_ratio": 0.43414634146341463,
+              "order_variability": 0.6908536585365854
+            },
+            "repetition": 0.0
+          },
+          "random_metrics": {
+            "coherence": 0.13729766762047269,
+            "grammar": {
+              "pattern_score": 0.3459715639810427,
+              "short_word_ratio": 0.0995260663507109,
+              "order_variability": 0.9745260663507109
+            },
+            "repetition": 0.9312796208530806
+          },
+          "improvement": {
+            "coherence": 0.0493075656799864,
+            "grammar_pattern": 0.005247948214079257,
+            "repetition": -0.9312796208530806
+          }
+        }
+      },
+      {
+        "folio_id": "017r",
+        "section": "Biological",
+        "coverage": 0.5036496350364964,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.23001357660609056,
+            "grammar": {
+              "pattern_score": 0.3786407766990291,
+              "short_word_ratio": 0.1941747572815534,
+              "order_variability": 0.9308252427184466
+            },
+            "repetition": 0.3834951456310679
+          },
+          "random_metrics": {
+            "coherence": 0.15720804960524803,
+            "grammar": {
+              "pattern_score": 0.22992700729927007,
+              "short_word_ratio": 0.09854014598540146,
+              "order_variability": 0.9735401459854015
+            },
+            "repetition": 1.0
+          },
+          "improvement": {
+            "coherence": 0.07280552700084253,
+            "grammar_pattern": 0.14871376939975905,
+            "repetition": -0.6165048543689321
+          }
+        }
+      },
+      {
+        "folio_id": "017v",
+        "section": "Biological",
+        "coverage": 0.6574307304785895,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.1596269234571468,
+            "grammar": {
+              "pattern_score": 0.36151603498542273,
+              "short_word_ratio": 0.2478134110787172,
+              "order_variability": 0.8771865889212828
+            },
+            "repetition": 0.7419825072886297
+          },
+          "random_metrics": {
+            "coherence": 0.12463985046309445,
+            "grammar": {
+              "pattern_score": 0.40554156171284633,
+              "short_word_ratio": 0.15365239294710328,
+              "order_variability": 0.9713476070528967
+            },
+            "repetition": 0.7947103274559194
+          },
+          "improvement": {
+            "coherence": 0.03498707299405235,
+            "grammar_pattern": -0.0440255267274236,
+            "repetition": -0.05272782016728972
+          }
+        }
+      },
+      {
+        "folio_id": "018r",
+        "section": "Biological",
+        "coverage": 0.65625,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.18597454737256758,
+            "grammar": {
+              "pattern_score": 0.4095744680851064,
+              "short_word_ratio": 0.10106382978723404,
+              "order_variability": 0.976063829787234
+            },
+            "repetition": 0.8617021276595745
+          },
+          "random_metrics": {
+            "coherence": 0.13577570020335727,
+            "grammar": {
+              "pattern_score": 0.3392857142857143,
+              "short_word_ratio": 0.0625,
+              "order_variability": 0.9375
+            },
+            "repetition": 0.9196428571428572
+          },
+          "improvement": {
+            "coherence": 0.0501988471692103,
+            "grammar_pattern": 0.07028875379939209,
+            "repetition": -0.05794072948328266
+          }
+        }
+      },
+      {
+        "folio_id": "018v",
+        "section": "Biological",
+        "coverage": 0.6804511278195489,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.23518187091744946,
+            "grammar": {
+              "pattern_score": 0.2901960784313726,
+              "short_word_ratio": 0.3843137254901961,
+              "order_variability": 0.740686274509804
+            },
+            "repetition": 0.0
+          },
+          "random_metrics": {
+            "coherence": 0.1907140474533251,
+            "grammar": {
+              "pattern_score": 0.2819548872180451,
+              "short_word_ratio": 0.10150375939849623,
+              "order_variability": 0.9765037593984962
+            },
+            "repetition": 0.8984962406015038
+          },
+          "improvement": {
+            "coherence": 0.04446782346412437,
+            "grammar_pattern": 0.008241191213327448,
+            "repetition": -0.8984962406015038
+          }
+        }
+      },
+      {
+        "folio_id": "019r",
+        "section": "Biological",
+        "coverage": 0.7327188940092166,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.17924637285735623,
+            "grammar": {
+              "pattern_score": 0.387434554973822,
+              "short_word_ratio": 0.4031413612565445,
+              "order_variability": 0.7218586387434556
+            },
+            "repetition": 0.24345549738219907
+          },
+          "random_metrics": {
+            "coherence": 0.1597436897155975,
+            "grammar": {
+              "pattern_score": 0.4976958525345622,
+              "short_word_ratio": 0.1336405529953917,
+              "order_variability": 0.9913594470046083
+            },
+            "repetition": 0.25576036866359453
+          },
+          "improvement": {
+            "coherence": 0.019502683141758737,
+            "grammar_pattern": -0.11026129756074021,
+            "repetition": -0.012304871281395457
+          }
+        }
+      },
+      {
+        "folio_id": "019v",
+        "section": "Biological",
+        "coverage": 0.7457044673539519,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.2114952869292679,
+            "grammar": {
+              "pattern_score": 0.40716612377850164,
+              "short_word_ratio": 0.28338762214983715,
+              "order_variability": 0.8416123778501629
+            },
+            "repetition": 0.5228013029315961
+          },
+          "random_metrics": {
+            "coherence": 0.1774039982283443,
+            "grammar": {
+              "pattern_score": 0.3848797250859107,
+              "short_word_ratio": 0.12714776632302405,
+              "order_variability": 0.997852233676976
+            },
+            "repetition": 0.33161512027491413
+          },
+          "improvement": {
+            "coherence": 0.034091288700923594,
+            "grammar_pattern": 0.02228639869259097,
+            "repetition": 0.19118618265668197
+          }
+        }
+      },
+      {
+        "folio_id": "020r",
+        "section": "Biological",
+        "coverage": 0.6547619047619048,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.17790169055550742,
+            "grammar": {
+              "pattern_score": 0.43621399176954734,
+              "short_word_ratio": 0.23045267489711935,
+              "order_variability": 0.8945473251028806
+            },
+            "repetition": 0.4711934156378601
+          },
+          "random_metrics": {
+            "coherence": 0.13692626631463856,
+            "grammar": {
+              "pattern_score": 0.2698412698412698,
+              "short_word_ratio": 0.0873015873015873,
+              "order_variability": 0.9623015873015873
+            },
+            "repetition": 1.0
+          },
+          "improvement": {
+            "coherence": 0.04097542424086886,
+            "grammar_pattern": 0.1663727219282775,
+            "repetition": -0.5288065843621399
+          }
+        }
+      },
+      {
+        "folio_id": "020v",
+        "section": "Biological",
+        "coverage": 0.6818181818181818,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.22787720180623228,
+            "grammar": {
+              "pattern_score": 0.2976588628762542,
+              "short_word_ratio": 0.3779264214046823,
+              "order_variability": 0.7470735785953178
+            },
+            "repetition": 0.061872909698996836
+          },
+          "random_metrics": {
+            "coherence": 0.18510432549918288,
+            "grammar": {
+              "pattern_score": 0.3696969696969697,
+              "short_word_ratio": 0.11515151515151516,
+              "order_variability": 0.9901515151515151
+            },
+            "repetition": 0.803030303030303
+          },
+          "improvement": {
+            "coherence": 0.0427728763070494,
+            "grammar_pattern": -0.07203810682071549,
+            "repetition": -0.7411573933313061
+          }
+        }
+      }
+    ],
+    [
+      {
+        "folio_id": "001r",
+        "section": "Herbal A",
+        "coverage": 0.691190706679574,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.22101132134757018,
+            "grammar": {
+              "pattern_score": 0.3096976016684046,
+              "short_word_ratio": 0.31178310740354537,
+              "order_variability": 0.8132168925964547
+            },
+            "repetition": 0.4781021897810219
+          },
+          "random_metrics": {
+            "coherence": 0.15914531994676195,
+            "grammar": {
+              "pattern_score": 0.462729912875121,
+              "short_word_ratio": 0.13165537270087124,
+              "order_variability": 0.9933446272991288
+            },
+            "repetition": 1.0
+          },
+          "improvement": {
+            "coherence": 0.061866001400808224,
+            "grammar_pattern": -0.1530323112067164,
+            "repetition": -0.5218978102189781
+          }
+        }
+      },
+      {
+        "folio_id": "001v",
+        "section": "Herbal A",
+        "coverage": 0.6093023255813953,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.20234172934220862,
+            "grammar": {
+              "pattern_score": 0.30434782608695654,
+              "short_word_ratio": 0.391304347826087,
+              "order_variability": 0.7336956521739131
+            },
+            "repetition": 0.9565217391304348
+          },
+          "random_metrics": {
+            "coherence": 0.15797029792508555,
+            "grammar": {
+              "pattern_score": 0.5023255813953489,
+              "short_word_ratio": 0.15813953488372093,
+              "order_variability": 0.9668604651162791
+            },
+            "repetition": 0.9418604651162791
+          },
+          "improvement": {
+            "coherence": 0.044371431417123075,
+            "grammar_pattern": -0.19797775530839234,
+            "repetition": 0.014661274014155734
+          }
+        }
+      },
+      {
+        "folio_id": "002r",
+        "section": "Herbal A",
+        "coverage": 0.6142857142857143,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.18945002236781205,
+            "grammar": {
+              "pattern_score": 0.30939226519337015,
+              "short_word_ratio": 0.4696132596685083,
+              "order_variability": 0.6553867403314917
+            },
+            "repetition": 0.0
+          },
+          "random_metrics": {
+            "coherence": 0.1551800544207701,
+            "grammar": {
+              "pattern_score": 0.22380952380952382,
+              "short_word_ratio": 0.10952380952380952,
+              "order_variability": 0.9845238095238096
+            },
+            "repetition": 1.0
+          },
+          "improvement": {
+            "coherence": 0.03426996794704196,
+            "grammar_pattern": 0.08558274138384633,
+            "repetition": -1.0
+          }
+        }
+      },
+      {
+        "folio_id": "002v",
+        "section": "Herbal A",
+        "coverage": 0.6782608695652174,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.2729989859932168,
+            "grammar": {
+              "pattern_score": 0.4719626168224299,
+              "short_word_ratio": 0.24766355140186916,
+              "order_variability": 0.8773364485981309
+            },
+            "repetition": 0.4252336448598131
+          },
+          "random_metrics": {
+            "coherence": 0.2046991710251026,
+            "grammar": {
+              "pattern_score": 0.30434782608695654,
+              "short_word_ratio": 0.13478260869565217,
+              "order_variability": 0.9902173913043478
+            },
+            "repetition": 0.6304347826086957
+          },
+          "improvement": {
+            "coherence": 0.06829981496811421,
+            "grammar_pattern": 0.16761479073547336,
+            "repetition": -0.2052011377488826
+          }
+        }
+      },
+      {
+        "folio_id": "003r",
+        "section": "Herbal A",
+        "coverage": 0.6503067484662577,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.17952318199944373,
+            "grammar": {
+              "pattern_score": 0.3593220338983051,
+              "short_word_ratio": 0.21016949152542372,
+              "order_variability": 0.9148305084745763
+            },
+            "repetition": 0.34745762711864403
+          },
+          "random_metrics": {
+            "coherence": 0.13625846619677018,
+            "grammar": {
+              "pattern_score": 0.27300613496932513,
+              "short_word_ratio": 0.15030674846625766,
+              "order_variability": 0.9746932515337423
+            },
+            "repetition": 0.8251533742331288
+          },
+          "improvement": {
+            "coherence": 0.04326471580267355,
+            "grammar_pattern": 0.08631589892897995,
+            "repetition": -0.4776957471144848
+          }
+        }
+      },
+      {
+        "folio_id": "003v",
+        "section": "Herbal A",
+        "coverage": 0.5507246376811594,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.21862393240444156,
+            "grammar": {
+              "pattern_score": 0.35094339622641507,
+              "short_word_ratio": 0.29056603773584905,
+              "order_variability": 0.834433962264151
+            },
+            "repetition": 0.7075471698113208
+          },
+          "random_metrics": {
+            "coherence": 0.17634793960042638,
+            "grammar": {
+              "pattern_score": 0.2463768115942029,
+              "short_word_ratio": 0.15942028985507245,
+              "order_variability": 0.9655797101449275
+            },
+            "repetition": 0.8913043478260869
+          },
+          "improvement": {
+            "coherence": 0.04227599280401517,
+            "grammar_pattern": 0.10456658463221216,
+            "repetition": -0.1837571780147661
+          }
+        }
+      },
+      {
+        "folio_id": "004r",
+        "section": "Herbal A",
+        "coverage": 0.6923076923076923,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.17489896282980166,
+            "grammar": {
+              "pattern_score": 0.3236994219653179,
+              "short_word_ratio": 0.30057803468208094,
+              "order_variability": 0.824421965317919
+            },
+            "repetition": 0.28612716763005785
+          },
+          "random_metrics": {
+            "coherence": 0.1581515356764951,
+            "grammar": {
+              "pattern_score": 0.31794871794871793,
+              "short_word_ratio": 0.2153846153846154,
+              "order_variability": 0.9096153846153846
+            },
+            "repetition": 0.7820512820512822
+          },
+          "improvement": {
+            "coherence": 0.01674742715330657,
+            "grammar_pattern": 0.0057507040165999945,
+            "repetition": -0.4959241144212243
+          }
+        }
+      },
+      {
+        "folio_id": "004v",
+        "section": "Herbal A",
+        "coverage": 0.5906040268456376,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.23398308567434878,
+            "grammar": {
+              "pattern_score": 0.3155893536121673,
+              "short_word_ratio": 0.3612167300380228,
+              "order_variability": 0.7637832699619772
+            },
+            "repetition": 0.0
+          },
+          "random_metrics": {
+            "coherence": 0.15138355577892038,
+            "grammar": {
+              "pattern_score": 0.3221476510067114,
+              "short_word_ratio": 0.11409395973154363,
+              "order_variability": 0.9890939597315436
+            },
+            "repetition": 0.9630872483221476
+          },
+          "improvement": {
+            "coherence": 0.0825995298954284,
+            "grammar_pattern": -0.00655829739454411,
+            "repetition": -0.9630872483221476
+          }
+        }
+      },
+      {
+        "folio_id": "005r",
+        "section": "Herbal A",
+        "coverage": 0.7142857142857143,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.2023417293422085,
+            "grammar": {
+              "pattern_score": 0.32065217391304346,
+              "short_word_ratio": 0.32065217391304346,
+              "order_variability": 0.8043478260869565
+            },
+            "repetition": 0.3586956521739131
+          },
+          "random_metrics": {
+            "coherence": 0.15484438509247722,
+            "grammar": {
+              "pattern_score": 0.43478260869565216,
+              "short_word_ratio": 0.18633540372670807,
+              "order_variability": 0.9386645962732919
+            },
+            "repetition": 0.7546583850931677
+          },
+          "improvement": {
+            "coherence": 0.04749734424973129,
+            "grammar_pattern": -0.1141304347826087,
+            "repetition": -0.39596273291925466
+          }
+        }
+      },
+      {
+        "folio_id": "005v",
+        "section": "Herbal A",
+        "coverage": 0.664804469273743,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.23658211685350883,
+            "grammar": {
+              "pattern_score": 0.3136094674556213,
+              "short_word_ratio": 0.34911242603550297,
+              "order_variability": 0.775887573964497
+            },
+            "repetition": 0.0
+          },
+          "random_metrics": {
+            "coherence": 0.20294511128445636,
+            "grammar": {
+              "pattern_score": 0.5027932960893855,
+              "short_word_ratio": 0.1340782122905028,
+              "order_variability": 0.9909217877094972
+            },
+            "repetition": 0.10335195530726271
+          },
+          "improvement": {
+            "coherence": 0.03363700556905247,
+            "grammar_pattern": -0.1891838286337642,
+            "repetition": -0.10335195530726271
+          }
+        }
+      },
+      {
+        "folio_id": "006r",
+        "section": "Herbal A",
+        "coverage": 0.6728110599078341,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.1454430595841718,
+            "grammar": {
+              "pattern_score": 0.42473118279569894,
+              "short_word_ratio": 0.3118279569892473,
+              "order_variability": 0.8131720430107527
+            },
+            "repetition": 0.5860215053763441
+          },
+          "random_metrics": {
+            "coherence": 0.13665891080967207,
+            "grammar": {
+              "pattern_score": 0.2350230414746544,
+              "short_word_ratio": 0.10138248847926268,
+              "order_variability": 0.9763824884792627
+            },
+            "repetition": 0.9470046082949308
+          },
+          "improvement": {
+            "coherence": 0.008784148774499734,
+            "grammar_pattern": 0.18970814132104455,
+            "repetition": -0.3609831029185867
+          }
+        }
+      },
+      {
+        "folio_id": "006v",
+        "section": "Herbal A",
+        "coverage": 0.5959821428571429,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.19412561409925944,
+            "grammar": {
+              "pattern_score": 0.35795454545454547,
+              "short_word_ratio": 0.3096590909090909,
+              "order_variability": 0.8153409090909092
+            },
+            "repetition": 0.7329545454545454
+          },
+          "random_metrics": {
+            "coherence": 0.15361723022105767,
+            "grammar": {
+              "pattern_score": 0.21205357142857142,
+              "short_word_ratio": 0.22321428571428573,
+              "order_variability": 0.9017857142857143
+            },
+            "repetition": 0.9419642857142857
+          },
+          "improvement": {
+            "coherence": 0.04050838387820177,
+            "grammar_pattern": 0.14590097402597405,
+            "repetition": -0.20900974025974028
+          }
+        }
+      },
+      {
+        "folio_id": "007r",
+        "section": "Herbal A",
+        "coverage": 0.4873417721518987,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.17525093645678003,
+            "grammar": {
+              "pattern_score": 0.5588235294117647,
+              "short_word_ratio": 0.16666666666666666,
+              "order_variability": 0.9583333333333334
+            },
+            "repetition": 0.0
+          },
+          "random_metrics": {
+            "coherence": 0.14112753096880692,
+            "grammar": {
+              "pattern_score": 0.16455696202531644,
+              "short_word_ratio": 0.12658227848101267,
+              "order_variability": 0.9984177215189873
+            },
+            "repetition": 0.9303797468354431
+          },
+          "improvement": {
+            "coherence": 0.0341234054879731,
+            "grammar_pattern": 0.3942665673864483,
+            "repetition": -0.9303797468354431
+          }
+        }
+      },
+      {
+        "folio_id": "007v",
+        "section": "Herbal A",
+        "coverage": 0.6428571428571429,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.2350067189439924,
+            "grammar": {
+              "pattern_score": 0.35348837209302325,
+              "short_word_ratio": 0.3953488372093023,
+              "order_variability": 0.7296511627906976
+            },
+            "repetition": 0.011627906976744207
+          },
+          "random_metrics": {
+            "coherence": 0.1658780241226664,
+            "grammar": {
+              "pattern_score": 0.2857142857142857,
+              "short_word_ratio": 0.15789473684210525,
+              "order_variability": 0.9671052631578947
+            },
+            "repetition": 0.6353383458646618
+          },
+          "improvement": {
+            "coherence": 0.069128694821326,
+            "grammar_pattern": 0.06777408637873755,
+            "repetition": -0.6237104388879176
+          }
+        }
+      },
+      {
+        "folio_id": "008r",
+        "section": "Herbal A",
+        "coverage": 0.4941860465116279,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.15200380226246935,
+            "grammar": {
+              "pattern_score": 0.4106280193236715,
+              "short_word_ratio": 0.30917874396135264,
+              "order_variability": 0.8158212560386473
+            },
+            "repetition": 0.48550724637681153
+          },
+          "random_metrics": {
+            "coherence": 0.12419270029319784,
+            "grammar": {
+              "pattern_score": 0.2063953488372093,
+              "short_word_ratio": 0.13953488372093023,
+              "order_variability": 0.9854651162790697
+            },
+            "repetition": 1.0
+          },
+          "improvement": {
+            "coherence": 0.0278111019692715,
+            "grammar_pattern": 0.20423267048646218,
+            "repetition": -0.5144927536231885
+          }
+        }
+      },
+      {
+        "folio_id": "008v",
+        "section": "Herbal A",
+        "coverage": 0.5879120879120879,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.2042134953594409,
+            "grammar": {
+              "pattern_score": 0.3985239852398524,
+              "short_word_ratio": 0.3062730627306273,
+              "order_variability": 0.8187269372693726
+            },
+            "repetition": 0.466789667896679
+          },
+          "random_metrics": {
+            "coherence": 0.16810171366434312,
+            "grammar": {
+              "pattern_score": 0.29945054945054944,
+              "short_word_ratio": 0.11263736263736264,
+              "order_variability": 0.9876373626373627
+            },
+            "repetition": 0.8131868131868132
+          },
+          "improvement": {
+            "coherence": 0.03611178169509777,
+            "grammar_pattern": 0.09907343578930294,
+            "repetition": -0.3463971452901342
+          }
+        }
+      },
+      {
+        "folio_id": "014r",
+        "section": "Herbal B",
+        "coverage": 0.839622641509434,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.16178499902697852,
+            "grammar": {
+              "pattern_score": 0.41150442477876104,
+              "short_word_ratio": 0.34513274336283184,
+              "order_variability": 0.7798672566371682
+            },
+            "repetition": 0.4823008849557522
+          },
+          "random_metrics": {
+            "coherence": 0.1399076621083022,
+            "grammar": {
+              "pattern_score": 0.2783018867924528,
+              "short_word_ratio": 0.14622641509433962,
+              "order_variability": 0.9787735849056604
+            },
+            "repetition": 1.0
+          },
+          "improvement": {
+            "coherence": 0.021877336918676327,
+            "grammar_pattern": 0.1332025379863082,
+            "repetition": -0.5176991150442478
+          }
+        }
+      },
+      {
+        "folio_id": "014v",
+        "section": "Herbal B",
+        "coverage": 0.7471264367816092,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.21071191889426144,
+            "grammar": {
+              "pattern_score": 0.4246575342465753,
+              "short_word_ratio": 0.4246575342465753,
+              "order_variability": 0.7003424657534247
+            },
+            "repetition": 0.0
+          },
+          "random_metrics": {
+            "coherence": 0.17525193335232514,
+            "grammar": {
+              "pattern_score": 0.28735632183908044,
+              "short_word_ratio": 0.15708812260536398,
+              "order_variability": 0.967911877394636
+            },
+            "repetition": 0.6187739463601534
+          },
+          "improvement": {
+            "coherence": 0.0354599855419363,
+            "grammar_pattern": 0.13730121240749488,
+            "repetition": -0.6187739463601534
+          }
+        }
+      },
+      {
+        "folio_id": "015r",
+        "section": "Herbal B",
+        "coverage": 0.6007067137809188,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.199525023222063,
+            "grammar": {
+              "pattern_score": 0.33181818181818185,
+              "short_word_ratio": 0.2863636363636364,
+              "order_variability": 0.8386363636363636
+            },
+            "repetition": 0.6363636363636364
+          },
+          "random_metrics": {
+            "coherence": 0.17367548323138726,
+            "grammar": {
+              "pattern_score": 0.22968197879858657,
+              "short_word_ratio": 0.11307420494699646,
+              "order_variability": 0.9880742049469965
+            },
+            "repetition": 1.0
+          },
+          "improvement": {
+            "coherence": 0.02584953999067574,
+            "grammar_pattern": 0.10213620301959528,
+            "repetition": -0.36363636363636365
+          }
+        }
+      },
+      {
+        "folio_id": "015v",
+        "section": "Herbal B",
+        "coverage": 0.8371212121212122,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.21634914758237533,
+            "grammar": {
+              "pattern_score": 0.41132075471698115,
+              "short_word_ratio": 0.28679245283018867,
+              "order_variability": 0.8382075471698114
+            },
+            "repetition": 0.5566037735849056
+          },
+          "random_metrics": {
+            "coherence": 0.19644134931359847,
+            "grammar": {
+              "pattern_score": 0.3409090909090909,
+              "short_word_ratio": 0.26515151515151514,
+              "order_variability": 0.8598484848484849
+            },
+            "repetition": 0.5909090909090909
+          },
+          "improvement": {
+            "coherence": 0.019907798268776866,
+            "grammar_pattern": 0.07041166380789027,
+            "repetition": -0.03430531732418529
+          }
+        }
+      },
+      {
+        "folio_id": "016r",
+        "section": "Herbal B",
+        "coverage": 0.6017699115044248,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.17249444692808602,
+            "grammar": {
+              "pattern_score": 0.26373626373626374,
+              "short_word_ratio": 0.45054945054945056,
+              "order_variability": 0.6744505494505495
+            },
+            "repetition": 0.18131868131868134
+          },
+          "random_metrics": {
+            "coherence": 0.12992489778186933,
+            "grammar": {
+              "pattern_score": 0.26991150442477874,
+              "short_word_ratio": 0.1504424778761062,
+              "order_variability": 0.9745575221238938
+            },
+            "repetition": 1.0
+          },
+          "improvement": {
+            "coherence": 0.04256954914621669,
+            "grammar_pattern": -0.0061752406885149935,
+            "repetition": -0.8186813186813187
+          }
+        }
+      },
+      {
+        "folio_id": "016v",
+        "section": "Herbal B",
+        "coverage": 0.7061611374407583,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.18660523330045908,
+            "grammar": {
+              "pattern_score": 0.35121951219512193,
+              "short_word_ratio": 0.43414634146341463,
+              "order_variability": 0.6908536585365854
+            },
+            "repetition": 0.0
+          },
+          "random_metrics": {
+            "coherence": 0.14029444432969185,
+            "grammar": {
+              "pattern_score": 0.3222748815165877,
+              "short_word_ratio": 0.13744075829383887,
+              "order_variability": 0.9875592417061612
+            },
+            "repetition": 0.7890995260663507
+          },
+          "improvement": {
+            "coherence": 0.046310788970767236,
+            "grammar_pattern": 0.028944630678534256,
+            "repetition": -0.7890995260663507
+          }
+        }
+      },
+      {
+        "folio_id": "017r",
+        "section": "Biological",
+        "coverage": 0.5036496350364964,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.23001357660609056,
+            "grammar": {
+              "pattern_score": 0.3786407766990291,
+              "short_word_ratio": 0.1941747572815534,
+              "order_variability": 0.9308252427184466
+            },
+            "repetition": 0.3834951456310679
+          },
+          "random_metrics": {
+            "coherence": 0.15720804960524803,
+            "grammar": {
+              "pattern_score": 0.20802919708029197,
+              "short_word_ratio": 0.15328467153284672,
+              "order_variability": 0.9717153284671532
+            },
+            "repetition": 1.0
+          },
+          "improvement": {
+            "coherence": 0.07280552700084253,
+            "grammar_pattern": 0.17061157961873716,
+            "repetition": -0.6165048543689321
+          }
+        }
+      },
+      {
+        "folio_id": "017v",
+        "section": "Biological",
+        "coverage": 0.6574307304785895,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.1596269234571468,
+            "grammar": {
+              "pattern_score": 0.36151603498542273,
+              "short_word_ratio": 0.2478134110787172,
+              "order_variability": 0.8771865889212828
+            },
+            "repetition": 0.7419825072886297
+          },
+          "random_metrics": {
+            "coherence": 0.12321917940470006,
+            "grammar": {
+              "pattern_score": 0.3702770780856423,
+              "short_word_ratio": 0.1309823677581864,
+              "order_variability": 0.9940176322418136
+            },
+            "repetition": 0.8702770780856424
+          },
+          "improvement": {
+            "coherence": 0.03640774405244673,
+            "grammar_pattern": -0.008761043100219579,
+            "repetition": -0.12829457079701267
+          }
+        }
+      },
+      {
+        "folio_id": "018r",
+        "section": "Biological",
+        "coverage": 0.65625,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.18597454737256758,
+            "grammar": {
+              "pattern_score": 0.4095744680851064,
+              "short_word_ratio": 0.10106382978723404,
+              "order_variability": 0.976063829787234
+            },
+            "repetition": 0.8617021276595745
+          },
+          "random_metrics": {
+            "coherence": 0.13577570020335727,
+            "grammar": {
+              "pattern_score": 0.22767857142857142,
+              "short_word_ratio": 0.10714285714285714,
+              "order_variability": 0.9821428571428571
+            },
+            "repetition": 0.9196428571428572
+          },
+          "improvement": {
+            "coherence": 0.0501988471692103,
+            "grammar_pattern": 0.18189589665653497,
+            "repetition": -0.05794072948328266
+          }
+        }
+      },
+      {
+        "folio_id": "018v",
+        "section": "Biological",
+        "coverage": 0.6804511278195489,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.23518187091744946,
+            "grammar": {
+              "pattern_score": 0.2901960784313726,
+              "short_word_ratio": 0.3843137254901961,
+              "order_variability": 0.740686274509804
+            },
+            "repetition": 0.0
+          },
+          "random_metrics": {
+            "coherence": 0.1907140474533251,
+            "grammar": {
+              "pattern_score": 0.21052631578947367,
+              "short_word_ratio": 0.21052631578947367,
+              "order_variability": 0.9144736842105263
+            },
+            "repetition": 0.8984962406015038
+          },
+          "improvement": {
+            "coherence": 0.04446782346412437,
+            "grammar_pattern": 0.0796697626418989,
+            "repetition": -0.8984962406015038
+          }
+        }
+      },
+      {
+        "folio_id": "019r",
+        "section": "Biological",
+        "coverage": 0.7327188940092166,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.17924637285735623,
+            "grammar": {
+              "pattern_score": 0.387434554973822,
+              "short_word_ratio": 0.4031413612565445,
+              "order_variability": 0.7218586387434556
+            },
+            "repetition": 0.24345549738219907
+          },
+          "random_metrics": {
+            "coherence": 0.1597436897155975,
+            "grammar": {
+              "pattern_score": 0.3225806451612903,
+              "short_word_ratio": 0.24423963133640553,
+              "order_variability": 0.8807603686635945
+            },
+            "repetition": 0.39400921658986165
+          },
+          "improvement": {
+            "coherence": 0.019502683141758737,
+            "grammar_pattern": 0.0648539098125317,
+            "repetition": -0.15055371920766258
+          }
+        }
+      },
+      {
+        "folio_id": "019v",
+        "section": "Biological",
+        "coverage": 0.7457044673539519,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.2114952869292679,
+            "grammar": {
+              "pattern_score": 0.40716612377850164,
+              "short_word_ratio": 0.28338762214983715,
+              "order_variability": 0.8416123778501629
+            },
+            "repetition": 0.5228013029315961
+          },
+          "random_metrics": {
+            "coherence": 0.1774039982283443,
+            "grammar": {
+              "pattern_score": 0.36082474226804123,
+              "short_word_ratio": 0.16151202749140894,
+              "order_variability": 0.9634879725085911
+            },
+            "repetition": 0.33161512027491413
+          },
+          "improvement": {
+            "coherence": 0.034091288700923594,
+            "grammar_pattern": 0.04634138151046041,
+            "repetition": 0.19118618265668197
+          }
+        }
+      },
+      {
+        "folio_id": "020r",
+        "section": "Biological",
+        "coverage": 0.6547619047619048,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.17790169055550742,
+            "grammar": {
+              "pattern_score": 0.43621399176954734,
+              "short_word_ratio": 0.23045267489711935,
+              "order_variability": 0.8945473251028806
+            },
+            "repetition": 0.4711934156378601
+          },
+          "random_metrics": {
+            "coherence": 0.13692626631463856,
+            "grammar": {
+              "pattern_score": 0.24206349206349206,
+              "short_word_ratio": 0.15079365079365079,
+              "order_variability": 0.9742063492063492
+            },
+            "repetition": 1.0
+          },
+          "improvement": {
+            "coherence": 0.04097542424086886,
+            "grammar_pattern": 0.19415049970605527,
+            "repetition": -0.5288065843621399
+          }
+        }
+      },
+      {
+        "folio_id": "020v",
+        "section": "Biological",
+        "coverage": 0.6818181818181818,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.22787720180623228,
+            "grammar": {
+              "pattern_score": 0.2976588628762542,
+              "short_word_ratio": 0.3779264214046823,
+              "order_variability": 0.7470735785953178
+            },
+            "repetition": 0.061872909698996836
+          },
+          "random_metrics": {
+            "coherence": 0.1859275159977516,
+            "grammar": {
+              "pattern_score": 0.3939393939393939,
+              "short_word_ratio": 0.13636363636363635,
+              "order_variability": 0.9886363636363636
+            },
+            "repetition": 0.8939393939393939
+          },
+          "improvement": {
+            "coherence": 0.041949685808480686,
+            "grammar_pattern": -0.09628053106313972,
+            "repetition": -0.8320664842403971
+          }
+        }
+      }
+    ],
+    [
+      {
+        "folio_id": "001r",
+        "section": "Herbal A",
+        "coverage": 0.691190706679574,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.22101132134757018,
+            "grammar": {
+              "pattern_score": 0.3096976016684046,
+              "short_word_ratio": 0.31178310740354537,
+              "order_variability": 0.8132168925964547
+            },
+            "repetition": 0.4781021897810219
+          },
+          "random_metrics": {
+            "coherence": 0.16037763793411552,
+            "grammar": {
+              "pattern_score": 0.3823814133591481,
+              "short_word_ratio": 0.12778315585672798,
+              "order_variability": 0.997216844143272
+            },
+            "repetition": 1.0
+          },
+          "improvement": {
+            "coherence": 0.06063368341345465,
+            "grammar_pattern": -0.0726838116907435,
+            "repetition": -0.5218978102189781
+          }
+        }
+      },
+      {
+        "folio_id": "001v",
+        "section": "Herbal A",
+        "coverage": 0.6093023255813953,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.20234172934220862,
+            "grammar": {
+              "pattern_score": 0.30434782608695654,
+              "short_word_ratio": 0.391304347826087,
+              "order_variability": 0.7336956521739131
+            },
+            "repetition": 0.9565217391304348
+          },
+          "random_metrics": {
+            "coherence": 0.16159201241754806,
+            "grammar": {
+              "pattern_score": 0.42790697674418604,
+              "short_word_ratio": 0.14418604651162792,
+              "order_variability": 0.9808139534883721
+            },
+            "repetition": 0.7558139534883721
+          },
+          "improvement": {
+            "coherence": 0.04074971692466056,
+            "grammar_pattern": -0.1235591506572295,
+            "repetition": 0.2007077856420627
+          }
+        }
+      },
+      {
+        "folio_id": "002r",
+        "section": "Herbal A",
+        "coverage": 0.6142857142857143,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.18945002236781205,
+            "grammar": {
+              "pattern_score": 0.30939226519337015,
+              "short_word_ratio": 0.4696132596685083,
+              "order_variability": 0.6553867403314917
+            },
+            "repetition": 0.0
+          },
+          "random_metrics": {
+            "coherence": 0.15813186418014558,
+            "grammar": {
+              "pattern_score": 0.2857142857142857,
+              "short_word_ratio": 0.11904761904761904,
+              "order_variability": 0.9940476190476191
+            },
+            "repetition": 0.9285714285714286
+          },
+          "improvement": {
+            "coherence": 0.03131815818766648,
+            "grammar_pattern": 0.023677979479084454,
+            "repetition": -0.9285714285714286
+          }
+        }
+      },
+      {
+        "folio_id": "002v",
+        "section": "Herbal A",
+        "coverage": 0.6782608695652174,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.2729989859932168,
+            "grammar": {
+              "pattern_score": 0.4719626168224299,
+              "short_word_ratio": 0.24766355140186916,
+              "order_variability": 0.8773364485981309
+            },
+            "repetition": 0.4252336448598131
+          },
+          "random_metrics": {
+            "coherence": 0.2046991710251026,
+            "grammar": {
+              "pattern_score": 0.22608695652173913,
+              "short_word_ratio": 0.004347826086956522,
+              "order_variability": 0.8793478260869565
+            },
+            "repetition": 0.6304347826086957
+          },
+          "improvement": {
+            "coherence": 0.06829981496811421,
+            "grammar_pattern": 0.24587566030069077,
+            "repetition": -0.2052011377488826
+          }
+        }
+      },
+      {
+        "folio_id": "003r",
+        "section": "Herbal A",
+        "coverage": 0.6503067484662577,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.17952318199944373,
+            "grammar": {
+              "pattern_score": 0.3593220338983051,
+              "short_word_ratio": 0.21016949152542372,
+              "order_variability": 0.9148305084745763
+            },
+            "repetition": 0.34745762711864403
+          },
+          "random_metrics": {
+            "coherence": 0.13847094028269336,
+            "grammar": {
+              "pattern_score": 0.2085889570552147,
+              "short_word_ratio": 0.08895705521472393,
+              "order_variability": 0.963957055214724
+            },
+            "repetition": 0.8865030674846626
+          },
+          "improvement": {
+            "coherence": 0.04105224171675037,
+            "grammar_pattern": 0.15073307684309037,
+            "repetition": -0.5390454403660185
+          }
+        }
+      },
+      {
+        "folio_id": "003v",
+        "section": "Herbal A",
+        "coverage": 0.5507246376811594,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.21862393240444156,
+            "grammar": {
+              "pattern_score": 0.35094339622641507,
+              "short_word_ratio": 0.29056603773584905,
+              "order_variability": 0.834433962264151
+            },
+            "repetition": 0.7075471698113208
+          },
+          "random_metrics": {
+            "coherence": 0.17634793960042638,
+            "grammar": {
+              "pattern_score": 0.20869565217391303,
+              "short_word_ratio": 0.13333333333333333,
+              "order_variability": 0.9916666666666667
+            },
+            "repetition": 1.0
+          },
+          "improvement": {
+            "coherence": 0.04227599280401517,
+            "grammar_pattern": 0.14224774405250204,
+            "repetition": -0.2924528301886792
+          }
+        }
+      },
+      {
+        "folio_id": "004r",
+        "section": "Herbal A",
+        "coverage": 0.6923076923076923,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.17489896282980166,
+            "grammar": {
+              "pattern_score": 0.3236994219653179,
+              "short_word_ratio": 0.30057803468208094,
+              "order_variability": 0.824421965317919
+            },
+            "repetition": 0.28612716763005785
+          },
+          "random_metrics": {
+            "coherence": 0.16002003750499671,
+            "grammar": {
+              "pattern_score": 0.35384615384615387,
+              "short_word_ratio": 0.2,
+              "order_variability": 0.925
+            },
+            "repetition": 0.7820512820512822
+          },
+          "improvement": {
+            "coherence": 0.014878925324804948,
+            "grammar_pattern": -0.030146731880835942,
+            "repetition": -0.4959241144212243
+          }
+        }
+      },
+      {
+        "folio_id": "004v",
+        "section": "Herbal A",
+        "coverage": 0.5906040268456376,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.23398308567434878,
+            "grammar": {
+              "pattern_score": 0.3155893536121673,
+              "short_word_ratio": 0.3612167300380228,
+              "order_variability": 0.7637832699619772
+            },
+            "repetition": 0.0
+          },
+          "random_metrics": {
+            "coherence": 0.15138355577892038,
+            "grammar": {
+              "pattern_score": 0.21140939597315436,
+              "short_word_ratio": 0.12416107382550336,
+              "order_variability": 0.9991610738255033
+            },
+            "repetition": 0.9630872483221476
+          },
+          "improvement": {
+            "coherence": 0.0825995298954284,
+            "grammar_pattern": 0.10417995763901292,
+            "repetition": -0.9630872483221476
+          }
+        }
+      },
+      {
+        "folio_id": "005r",
+        "section": "Herbal A",
+        "coverage": 0.7142857142857143,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.2023417293422085,
+            "grammar": {
+              "pattern_score": 0.32065217391304346,
+              "short_word_ratio": 0.32065217391304346,
+              "order_variability": 0.8043478260869565
+            },
+            "repetition": 0.3586956521739131
+          },
+          "random_metrics": {
+            "coherence": 0.15761441408602095,
+            "grammar": {
+              "pattern_score": 0.422360248447205,
+              "short_word_ratio": 0.22981366459627328,
+              "order_variability": 0.8951863354037267
+            },
+            "repetition": 0.8788819875776398
+          },
+          "improvement": {
+            "coherence": 0.04472731525618756,
+            "grammar_pattern": -0.10170807453416153,
+            "repetition": -0.5201863354037267
+          }
+        }
+      },
+      {
+        "folio_id": "005v",
+        "section": "Herbal A",
+        "coverage": 0.664804469273743,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.23658211685350883,
+            "grammar": {
+              "pattern_score": 0.3136094674556213,
+              "short_word_ratio": 0.34911242603550297,
+              "order_variability": 0.775887573964497
+            },
+            "repetition": 0.0
+          },
+          "random_metrics": {
+            "coherence": 0.20230276855853624,
+            "grammar": {
+              "pattern_score": 0.3240223463687151,
+              "short_word_ratio": 0.03910614525139665,
+              "order_variability": 0.9141061452513967
+            },
+            "repetition": 0.2150837988826816
+          },
+          "improvement": {
+            "coherence": 0.03427934829497259,
+            "grammar_pattern": -0.010412878913093782,
+            "repetition": -0.2150837988826816
+          }
+        }
+      },
+      {
+        "folio_id": "006r",
+        "section": "Herbal A",
+        "coverage": 0.6728110599078341,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.1454430595841718,
+            "grammar": {
+              "pattern_score": 0.42473118279569894,
+              "short_word_ratio": 0.3118279569892473,
+              "order_variability": 0.8131720430107527
+            },
+            "repetition": 0.5860215053763441
+          },
+          "random_metrics": {
+            "coherence": 0.1354649206638865,
+            "grammar": {
+              "pattern_score": 0.2857142857142857,
+              "short_word_ratio": 0.08755760368663594,
+              "order_variability": 0.9625576036866359
+            },
+            "repetition": 0.9470046082949308
+          },
+          "improvement": {
+            "coherence": 0.009978138920285318,
+            "grammar_pattern": 0.13901689708141324,
+            "repetition": -0.3609831029185867
+          }
+        }
+      },
+      {
+        "folio_id": "006v",
+        "section": "Herbal A",
+        "coverage": 0.5959821428571429,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.19412561409925944,
+            "grammar": {
+              "pattern_score": 0.35795454545454547,
+              "short_word_ratio": 0.3096590909090909,
+              "order_variability": 0.8153409090909092
+            },
+            "repetition": 0.7329545454545454
+          },
+          "random_metrics": {
+            "coherence": 0.15361723022105767,
+            "grammar": {
+              "pattern_score": 0.19419642857142858,
+              "short_word_ratio": 0.13169642857142858,
+              "order_variability": 0.9933035714285714
+            },
+            "repetition": 0.9419642857142857
+          },
+          "improvement": {
+            "coherence": 0.04050838387820177,
+            "grammar_pattern": 0.1637581168831169,
+            "repetition": -0.20900974025974028
+          }
+        }
+      },
+      {
+        "folio_id": "007r",
+        "section": "Herbal A",
+        "coverage": 0.4873417721518987,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.17525093645678003,
+            "grammar": {
+              "pattern_score": 0.5588235294117647,
+              "short_word_ratio": 0.16666666666666666,
+              "order_variability": 0.9583333333333334
+            },
+            "repetition": 0.0
+          },
+          "random_metrics": {
+            "coherence": 0.14112753096880692,
+            "grammar": {
+              "pattern_score": 0.22151898734177214,
+              "short_word_ratio": 0.05063291139240506,
+              "order_variability": 0.9256329113924051
+            },
+            "repetition": 1.0
+          },
+          "improvement": {
+            "coherence": 0.0341234054879731,
+            "grammar_pattern": 0.3373045420699926,
+            "repetition": -1.0
+          }
+        }
+      },
+      {
+        "folio_id": "007v",
+        "section": "Herbal A",
+        "coverage": 0.6428571428571429,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.2350067189439924,
+            "grammar": {
+              "pattern_score": 0.35348837209302325,
+              "short_word_ratio": 0.3953488372093023,
+              "order_variability": 0.7296511627906976
+            },
+            "repetition": 0.011627906976744207
+          },
+          "random_metrics": {
+            "coherence": 0.1658780241226664,
+            "grammar": {
+              "pattern_score": 0.23684210526315788,
+              "short_word_ratio": 0.12406015037593984,
+              "order_variability": 0.9990601503759399
+            },
+            "repetition": 0.6353383458646618
+          },
+          "improvement": {
+            "coherence": 0.069128694821326,
+            "grammar_pattern": 0.11664626682986537,
+            "repetition": -0.6237104388879176
+          }
+        }
+      },
+      {
+        "folio_id": "008r",
+        "section": "Herbal A",
+        "coverage": 0.4941860465116279,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.15200380226246935,
+            "grammar": {
+              "pattern_score": 0.4106280193236715,
+              "short_word_ratio": 0.30917874396135264,
+              "order_variability": 0.8158212560386473
+            },
+            "repetition": 0.48550724637681153
+          },
+          "random_metrics": {
+            "coherence": 0.12402299993677535,
+            "grammar": {
+              "pattern_score": 0.1569767441860465,
+              "short_word_ratio": 0.09883720930232558,
+              "order_variability": 0.9738372093023255
+            },
+            "repetition": 1.0
+          },
+          "improvement": {
+            "coherence": 0.027980802325694,
+            "grammar_pattern": 0.253651275137625,
+            "repetition": -0.5144927536231885
+          }
+        }
+      },
+      {
+        "folio_id": "008v",
+        "section": "Herbal A",
+        "coverage": 0.5879120879120879,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.2042134953594409,
+            "grammar": {
+              "pattern_score": 0.3985239852398524,
+              "short_word_ratio": 0.3062730627306273,
+              "order_variability": 0.8187269372693726
+            },
+            "repetition": 0.466789667896679
+          },
+          "random_metrics": {
+            "coherence": 0.16615800901550692,
+            "grammar": {
+              "pattern_score": 0.20604395604395603,
+              "short_word_ratio": 0.11263736263736264,
+              "order_variability": 0.9876373626373627
+            },
+            "repetition": 0.8131868131868132
+          },
+          "improvement": {
+            "coherence": 0.038055486343933964,
+            "grammar_pattern": 0.19248002919589635,
+            "repetition": -0.3463971452901342
+          }
+        }
+      },
+      {
+        "folio_id": "014r",
+        "section": "Herbal B",
+        "coverage": 0.839622641509434,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.16178499902697852,
+            "grammar": {
+              "pattern_score": 0.41150442477876104,
+              "short_word_ratio": 0.34513274336283184,
+              "order_variability": 0.7798672566371682
+            },
+            "repetition": 0.4823008849557522
+          },
+          "random_metrics": {
+            "coherence": 0.1399076621083022,
+            "grammar": {
+              "pattern_score": 0.25943396226415094,
+              "short_word_ratio": 0.13679245283018868,
+              "order_variability": 0.9882075471698113
+            },
+            "repetition": 1.0
+          },
+          "improvement": {
+            "coherence": 0.021877336918676327,
+            "grammar_pattern": 0.1520704625146101,
+            "repetition": -0.5176991150442478
+          }
+        }
+      },
+      {
+        "folio_id": "014v",
+        "section": "Herbal B",
+        "coverage": 0.7471264367816092,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.21071191889426144,
+            "grammar": {
+              "pattern_score": 0.4246575342465753,
+              "short_word_ratio": 0.4246575342465753,
+              "order_variability": 0.7003424657534247
+            },
+            "repetition": 0.0
+          },
+          "random_metrics": {
+            "coherence": 0.17525193335232514,
+            "grammar": {
+              "pattern_score": 0.19540229885057472,
+              "short_word_ratio": 0.20306513409961685,
+              "order_variability": 0.9219348659003832
+            },
+            "repetition": 0.6187739463601534
+          },
+          "improvement": {
+            "coherence": 0.0354599855419363,
+            "grammar_pattern": 0.2292552353960006,
+            "repetition": -0.6187739463601534
+          }
+        }
+      },
+      {
+        "folio_id": "015r",
+        "section": "Herbal B",
+        "coverage": 0.6007067137809188,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.199525023222063,
+            "grammar": {
+              "pattern_score": 0.33181818181818185,
+              "short_word_ratio": 0.2863636363636364,
+              "order_variability": 0.8386363636363636
+            },
+            "repetition": 0.6363636363636364
+          },
+          "random_metrics": {
+            "coherence": 0.17367548323138726,
+            "grammar": {
+              "pattern_score": 0.2332155477031802,
+              "short_word_ratio": 0.10954063604240283,
+              "order_variability": 0.9845406360424028
+            },
+            "repetition": 1.0
+          },
+          "improvement": {
+            "coherence": 0.02584953999067574,
+            "grammar_pattern": 0.09860263411500164,
+            "repetition": -0.36363636363636365
+          }
+        }
+      },
+      {
+        "folio_id": "015v",
+        "section": "Herbal B",
+        "coverage": 0.8371212121212122,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.21634914758237533,
+            "grammar": {
+              "pattern_score": 0.41132075471698115,
+              "short_word_ratio": 0.28679245283018867,
+              "order_variability": 0.8382075471698114
+            },
+            "repetition": 0.5566037735849056
+          },
+          "random_metrics": {
+            "coherence": 0.19814865209179233,
+            "grammar": {
+              "pattern_score": 0.24242424242424243,
+              "short_word_ratio": 0.14015151515151514,
+              "order_variability": 0.9848484848484849
+            },
+            "repetition": 0.4772727272727273
+          },
+          "improvement": {
+            "coherence": 0.018200495490583002,
+            "grammar_pattern": 0.16889651229273872,
+            "repetition": 0.07933104631217835
+          }
+        }
+      },
+      {
+        "folio_id": "016r",
+        "section": "Herbal B",
+        "coverage": 0.6017699115044248,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.17249444692808602,
+            "grammar": {
+              "pattern_score": 0.26373626373626374,
+              "short_word_ratio": 0.45054945054945056,
+              "order_variability": 0.6744505494505495
+            },
+            "repetition": 0.18131868131868134
+          },
+          "random_metrics": {
+            "coherence": 0.12992489778186933,
+            "grammar": {
+              "pattern_score": 0.23008849557522124,
+              "short_word_ratio": 0.14601769911504425,
+              "order_variability": 0.9789823008849557
+            },
+            "repetition": 1.0
+          },
+          "improvement": {
+            "coherence": 0.04256954914621669,
+            "grammar_pattern": 0.03364776816104251,
+            "repetition": -0.8186813186813187
+          }
+        }
+      },
+      {
+        "folio_id": "016v",
+        "section": "Herbal B",
+        "coverage": 0.7061611374407583,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.18660523330045908,
+            "grammar": {
+              "pattern_score": 0.35121951219512193,
+              "short_word_ratio": 0.43414634146341463,
+              "order_variability": 0.6908536585365854
+            },
+            "repetition": 0.0
+          },
+          "random_metrics": {
+            "coherence": 0.1393008339211792,
+            "grammar": {
+              "pattern_score": 0.23696682464454977,
+              "short_word_ratio": 0.11848341232227488,
+              "order_variability": 0.9934834123222749
+            },
+            "repetition": 0.9312796208530806
+          },
+          "improvement": {
+            "coherence": 0.04730439937927988,
+            "grammar_pattern": 0.11425268755057216,
+            "repetition": -0.9312796208530806
+          }
+        }
+      },
+      {
+        "folio_id": "017r",
+        "section": "Biological",
+        "coverage": 0.5036496350364964,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.23001357660609056,
+            "grammar": {
+              "pattern_score": 0.3786407766990291,
+              "short_word_ratio": 0.1941747572815534,
+              "order_variability": 0.9308252427184466
+            },
+            "repetition": 0.3834951456310679
+          },
+          "random_metrics": {
+            "coherence": 0.15720804960524803,
+            "grammar": {
+              "pattern_score": 0.22992700729927007,
+              "short_word_ratio": 0.12773722627737227,
+              "order_variability": 0.9972627737226277
+            },
+            "repetition": 1.0
+          },
+          "improvement": {
+            "coherence": 0.07280552700084253,
+            "grammar_pattern": 0.14871376939975905,
+            "repetition": -0.6165048543689321
+          }
+        }
+      },
+      {
+        "folio_id": "017v",
+        "section": "Biological",
+        "coverage": 0.6574307304785895,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.1596269234571468,
+            "grammar": {
+              "pattern_score": 0.36151603498542273,
+              "short_word_ratio": 0.2478134110787172,
+              "order_variability": 0.8771865889212828
+            },
+            "repetition": 0.7419825072886297
+          },
+          "random_metrics": {
+            "coherence": 0.12321917940470006,
+            "grammar": {
+              "pattern_score": 0.2972292191435768,
+              "short_word_ratio": 0.10579345088161209,
+              "order_variability": 0.9807934508816121
+            },
+            "repetition": 0.8702770780856424
+          },
+          "improvement": {
+            "coherence": 0.03640774405244673,
+            "grammar_pattern": 0.06428681584184592,
+            "repetition": -0.12829457079701267
+          }
+        }
+      },
+      {
+        "folio_id": "018r",
+        "section": "Biological",
+        "coverage": 0.65625,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.18597454737256758,
+            "grammar": {
+              "pattern_score": 0.4095744680851064,
+              "short_word_ratio": 0.10106382978723404,
+              "order_variability": 0.976063829787234
+            },
+            "repetition": 0.8617021276595745
+          },
+          "random_metrics": {
+            "coherence": 0.13577570020335727,
+            "grammar": {
+              "pattern_score": 0.22321428571428573,
+              "short_word_ratio": 0.09821428571428571,
+              "order_variability": 0.9732142857142857
+            },
+            "repetition": 0.9196428571428572
+          },
+          "improvement": {
+            "coherence": 0.0501988471692103,
+            "grammar_pattern": 0.18636018237082067,
+            "repetition": -0.05794072948328266
+          }
+        }
+      },
+      {
+        "folio_id": "018v",
+        "section": "Biological",
+        "coverage": 0.6804511278195489,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.23518187091744946,
+            "grammar": {
+              "pattern_score": 0.2901960784313726,
+              "short_word_ratio": 0.3843137254901961,
+              "order_variability": 0.740686274509804
+            },
+            "repetition": 0.0
+          },
+          "random_metrics": {
+            "coherence": 0.1907140474533251,
+            "grammar": {
+              "pattern_score": 0.2706766917293233,
+              "short_word_ratio": 0.16917293233082706,
+              "order_variability": 0.9558270676691729
+            },
+            "repetition": 0.8984962406015038
+          },
+          "improvement": {
+            "coherence": 0.04446782346412437,
+            "grammar_pattern": 0.01951938670204928,
+            "repetition": -0.8984962406015038
+          }
+        }
+      },
+      {
+        "folio_id": "019r",
+        "section": "Biological",
+        "coverage": 0.7327188940092166,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.17924637285735623,
+            "grammar": {
+              "pattern_score": 0.387434554973822,
+              "short_word_ratio": 0.4031413612565445,
+              "order_variability": 0.7218586387434556
+            },
+            "repetition": 0.24345549738219907
+          },
+          "random_metrics": {
+            "coherence": 0.1597436897155975,
+            "grammar": {
+              "pattern_score": 0.31336405529953915,
+              "short_word_ratio": 0.14285714285714285,
+              "order_variability": 0.9821428571428572
+            },
+            "repetition": 0.39400921658986165
+          },
+          "improvement": {
+            "coherence": 0.019502683141758737,
+            "grammar_pattern": 0.07407049967428286,
+            "repetition": -0.15055371920766258
+          }
+        }
+      },
+      {
+        "folio_id": "019v",
+        "section": "Biological",
+        "coverage": 0.7457044673539519,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.2114952869292679,
+            "grammar": {
+              "pattern_score": 0.40716612377850164,
+              "short_word_ratio": 0.28338762214983715,
+              "order_variability": 0.8416123778501629
+            },
+            "repetition": 0.5228013029315961
+          },
+          "random_metrics": {
+            "coherence": 0.1774039982283443,
+            "grammar": {
+              "pattern_score": 0.2508591065292096,
+              "short_word_ratio": 0.11683848797250859,
+              "order_variability": 0.9918384879725086
+            },
+            "repetition": 0.33161512027491413
+          },
+          "improvement": {
+            "coherence": 0.034091288700923594,
+            "grammar_pattern": 0.15630701724929202,
+            "repetition": 0.19118618265668197
+          }
+        }
+      },
+      {
+        "folio_id": "020r",
+        "section": "Biological",
+        "coverage": 0.6547619047619048,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.17790169055550742,
+            "grammar": {
+              "pattern_score": 0.43621399176954734,
+              "short_word_ratio": 0.23045267489711935,
+              "order_variability": 0.8945473251028806
+            },
+            "repetition": 0.4711934156378601
+          },
+          "random_metrics": {
+            "coherence": 0.13692626631463856,
+            "grammar": {
+              "pattern_score": 0.2261904761904762,
+              "short_word_ratio": 0.12301587301587301,
+              "order_variability": 0.998015873015873
+            },
+            "repetition": 1.0
+          },
+          "improvement": {
+            "coherence": 0.04097542424086886,
+            "grammar_pattern": 0.21002351557907115,
+            "repetition": -0.5288065843621399
+          }
+        }
+      },
+      {
+        "folio_id": "020v",
+        "section": "Biological",
+        "coverage": 0.6818181818181818,
+        "comparison": {
+          "real_metrics": {
+            "coherence": 0.22787720180623228,
+            "grammar": {
+              "pattern_score": 0.2976588628762542,
+              "short_word_ratio": 0.3779264214046823,
+              "order_variability": 0.7470735785953178
+            },
+            "repetition": 0.061872909698996836
+          },
+          "random_metrics": {
+            "coherence": 0.18511953552126426,
+            "grammar": {
+              "pattern_score": 0.2606060606060606,
+              "short_word_ratio": 0.16363636363636364,
+              "order_variability": 0.9613636363636364
+            },
+            "repetition": 1.0
+          },
+          "improvement": {
+            "coherence": 0.04275766628496802,
+            "grammar_pattern": 0.037052802270193586,
+            "repetition": -0.9381270903010032
+          }
+        }
+      }
+    ]
+  ],
+  "aggregated": {
+    "coherence": {
+      "avg_improvement": 0.040656305645866406,
+      "positive_ratio": 1.0
+    },
+    "grammar": {
+      "avg_improvement": 0.06987971786814523,
+      "positive_ratio": 0.7266666666666667
+    },
+    "repetition": {
+      "avg_improvement": -0.45153070416077423,
+      "positive_ratio": 0.06
+    }
+  },
+  "num_trials": 5,
+  "num_files_per_trial": 30
+}

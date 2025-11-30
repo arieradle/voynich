@@ -1,0 +1,162 @@
+{
+  "downloaded": {
+    "f014r": {
+      "folio_id": "f014r",
+      "quire": "q02",
+      "image_url": "https://voynich.nu/q02/f014r_crd.jpg",
+      "local_path": "data/folio_images/f014r/f014r.jpg",
+      "file_size_kb": 51.767578125,
+      "status": "success",
+      "cached": false
+    },
+    "f049r": {
+      "folio_id": "f049r",
+      "quire": "q07",
+      "image_url": "https://voynich.nu/q07/f049r_crd.jpg",
+      "local_path": "data/folio_images/f049r/f049r.jpg",
+      "file_size_kb": 46.349609375,
+      "status": "success",
+      "cached": false
+    },
+    "f049v": {
+      "folio_id": "f049v",
+      "quire": "q07",
+      "image_url": "https://voynich.nu/q07/f049v_crd.jpg",
+      "local_path": "data/folio_images/f049v/f049v.jpg",
+      "file_size_kb": 46.9599609375,
+      "status": "success",
+      "cached": false
+    },
+    "f050r": {
+      "folio_id": "f050r",
+      "quire": "q07",
+      "image_url": "https://voynich.nu/q07/f050r_crd.jpg",
+      "local_path": "data/folio_images/f050r/f050r.jpg",
+      "file_size_kb": 51.337890625,
+      "status": "success",
+      "cached": false
+    },
+    "f050v": {
+      "folio_id": "f050v",
+      "quire": "q07",
+      "image_url": "https://voynich.nu/q07/f050v_crd.jpg",
+      "local_path": "data/folio_images/f050v/f050v.jpg",
+      "file_size_kb": 44.3359375,
+      "status": "success",
+      "cached": false
+    },
+    "f051r": {
+      "folio_id": "f051r",
+      "quire": "q07",
+      "image_url": "https://voynich.nu/q07/f051r_crd.jpg",
+      "local_path": "data/folio_images/f051r/f051r.jpg",
+      "file_size_kb": 46.5380859375,
+      "status": "success",
+      "cached": false
+    },
+    "f051v": {
+      "folio_id": "f051v",
+      "quire": "q07",
+      "image_url": "https://voynich.nu/q07/f051v_crd.jpg",
+      "local_path": "data/folio_images/f051v/f051v.jpg",
+      "file_size_kb": 46.9228515625,
+      "status": "success",
+      "cached": false
+    },
+    "f052r": {
+      "folio_id": "f052r",
+      "quire": "q07",
+      "image_url": "https://voynich.nu/q07/f052r_crd.jpg",
+      "local_path": "data/folio_images/f052r/f052r.jpg",
+      "file_size_kb": 51.357421875,
+      "status": "success",
+      "cached": false
+    },
+    "f052v": {
+      "folio_id": "f052v",
+      "quire": "q07",
+      "image_url": "https://voynich.nu/q07/f052v_crd.jpg",
+      "local_path": "data/folio_images/f052v/f052v.jpg",
+      "file_size_kb": 46.759765625,
+      "status": "success",
+      "cached": false
+    },
+    "f053r": {
+      "folio_id": "f053r",
+      "quire": "q07",
+      "image_url": "https://voynich.nu/q07/f053r_crd.jpg",
+      "local_path": "data/folio_images/f053r/f053r.jpg",
+      "file_size_kb": 54.5693359375,
+      "status": "success",
+      "cached": false
+    },
+    "f053v": {
+      "folio_id": "f053v",
+      "quire": "q07",
+      "image_url": "https://voynich.nu/q07/f053v_crd.jpg",
+      "local_path": "data/folio_images/f053v/f053v.jpg",
+      "file_size_kb": 43.6826171875,
+      "status": "success",
+      "cached": false
+    },
+    "f054r": {
+      "folio_id": "f054r",
+      "quire": "q07",
+      "image_url": "https://voynich.nu/q07/f054r_crd.jpg",
+      "local_path": "data/folio_images/f054r/f054r.jpg",
+      "file_size_kb": 49.015625,
+      "status": "success",
+      "cached": false
+    },
+    "f054v": {
+      "folio_id": "f054v",
+      "quire": "q07",
+      "image_url": "https://voynich.nu/q07/f054v_crd.jpg",
+      "local_path": "data/folio_images/f054v/f054v.jpg",
+      "file_size_kb": 56.26953125,
+      "status": "success",
+      "cached": false
+    },
+    "f055r": {
+      "folio_id": "f055r",
+      "quire": "q07",
+      "image_url": "https://voynich.nu/q07/f055r_crd.jpg",
+      "local_path": "data/folio_images/f055r/f055r.jpg",
+      "file_size_kb": 49.3212890625,
+      "status": "success",
+      "cached": false
+    },
+    "f055v": {
+      "folio_id": "f055v",
+      "quire": "q07",
+      "image_url": "https://voynich.nu/q07/f055v_crd.jpg",
+      "local_path": "data/folio_images/f055v/f055v.jpg",
+      "file_size_kb": 45.478515625,
+      "status": "success",
+      "cached": false
+    },
+    "f056r": {
+      "folio_id": "f056r",
+      "quire": "q07",
+      "image_url": "https://voynich.nu/q07/f056r_crd.jpg",
+      "local_path": "data/folio_images/f056r/f056r.jpg",
+      "file_size_kb": 44.2109375,
+      "status": "success",
+      "cached": false
+    },
+    "f056v": {
+      "folio_id": "f056v",
+      "quire": "q07",
+      "image_url": "https://voynich.nu/q07/f056v_crd.jpg",
+      "local_path": "data/folio_images/f056v/f056v.jpg",
+      "file_size_kb": 42.4482421875,
+      "status": "success",
+      "cached": false
+    }
+  },
+  "failed": [
+    "f014r",
+    "f014r"
+  ],
+  "metadata": {}
+}

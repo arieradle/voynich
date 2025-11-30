@@ -5,9 +5,13 @@ Translate Voynich manuscript folios using deterministic translation
 
 import argparse
 import json
+import math
+import re
+import gzip
 from pathlib import Path
 from datetime import datetime
 from typing import Dict, List
+from collections import Counter
 from download_folios import FolioDownloader
 from translator import VoynichTranslator, TranslationResult
 
@@ -15,11 +19,102 @@ from translator import VoynichTranslator, TranslationResult
 class FolioTranslator:
     """High-level folio translation coordinator"""
     
-    def __init__(self, output_dir: str = "data/translations"):
+    def __init__(self, output_dir: str = "data/translations", include_validation: bool = True):
         self.downloader = FolioDownloader()
         self.translator = VoynichTranslator()
         self.output_dir = Path(output_dir)
         self.output_dir.mkdir(parents=True, exist_ok=True)
+        self.include_validation = include_validation
+    
+    def calculate_entropy(self, text: str, unit: str = 'char') -> float:
+        """Calculate Shannon entropy for validation"""
+        if not text:
+            return 0.0
+        
+        if unit == 'char':
+            tokens = list(text.lower())
+        elif unit == 'word':
+            tokens = re.findall(r'\b\w+\b', text.lower())
+        else:
+            return 0.0
+        
+        if not tokens:
+            return 0.0
+        
+        frequencies = Counter(tokens)
+        total = len(tokens)
+        
+        entropy = 0.0
+        for count in frequencies.values():
+            p = count / total
+            entropy -= p * math.log2(p)
+        
+        return entropy
+    
+    def calculate_compression_ratio(self, text: str) -> float:
+        """Calculate gzip compression ratio"""
+        if not text:
+            return 0.0
+        
+        original_bytes = text.encode('utf-8')
+        compressed_bytes = gzip.compress(original_bytes)
+        
+        return len(compressed_bytes) / len(original_bytes)
+    
+    def calculate_lexical_diversity(self, text: str) -> Dict:
+        """Calculate type-token ratio"""
+        words = re.findall(r'\b\w+\b', text.lower())
+        
+        if not words:
+            return {"ttr": 0.0, "unique_words": 0, "total_words": 0}
+        
+        word_counts = Counter(words)
+        unique_words = len(word_counts)
+        total_words = len(words)
+        
+        return {
+            "ttr": unique_words / total_words,
+            "unique_words": unique_words,
+            "total_words": total_words
+        }
+    
+    def calculate_validation_metrics(self, voynich_text: str, latin_text: str, english_text: str) -> Dict:
+        """Calculate validation metrics for a translation"""
+        # Remove bracketed unknowns for cleaner analysis
+        latin_clean = re.sub(r'\[[\w\s]+\]', '', latin_text)
+        english_clean = re.sub(r'\[[\w\s]+\]', '', english_text)
+        
+        return {
+            "voynich": {
+                "char_entropy": round(self.calculate_entropy(voynich_text, 'char'), 3),
+                "word_entropy": round(self.calculate_entropy(voynich_text, 'word'), 3),
+                "compression_ratio": round(self.calculate_compression_ratio(voynich_text), 3),
+                "lexical_diversity": self.calculate_lexical_diversity(voynich_text)
+            },
+            "latin": {
+                "char_entropy": round(self.calculate_entropy(latin_clean, 'char'), 3),
+                "word_entropy": round(self.calculate_entropy(latin_clean, 'word'), 3),
+                "compression_ratio": round(self.calculate_compression_ratio(latin_clean), 3),
+                "lexical_diversity": self.calculate_lexical_diversity(latin_clean)
+            },
+            "english": {
+                "char_entropy": round(self.calculate_entropy(english_clean, 'char'), 3),
+                "word_entropy": round(self.calculate_entropy(english_clean, 'word'), 3),
+                "compression_ratio": round(self.calculate_compression_ratio(english_clean), 3),
+                "lexical_diversity": self.calculate_lexical_diversity(english_clean)
+            },
+            "quality_flags": {
+                "low_word_entropy": self.calculate_entropy(latin_clean, 'word') < 5.0,
+                "high_compression": self.calculate_compression_ratio(latin_clean) < 0.25,
+                "low_diversity": self.calculate_lexical_diversity(latin_clean)["ttr"] < 0.3
+            },
+            "expected_values": {
+                "latin_char_entropy": "~3.8 bits/char",
+                "latin_word_entropy": "~9.5 bits/word",
+                "english_char_entropy": "~4.1 bits/char",
+                "english_word_entropy": "~10.0 bits/word"
+            }
+        }
     
     def translate_folio_file(self, folio_path: Path, context: str = None, section: str = None) -> Dict:
         """Translate a folio from its cached file"""
@@ -61,7 +156,14 @@ class FolioTranslator:
         result_objects = self.translator.translate_phrase(full_voynich, context)
         stats = self.translator.get_translation_stats(result_objects)
         
-        return {
+        # Calculate validation metrics if enabled
+        validation_metrics = None
+        if self.include_validation:
+            validation_metrics = self.calculate_validation_metrics(
+                full_voynich, full_latin, full_english
+            )
+        
+        result = {
             "folio_id": folio_data["folio_id"],
             "section": folio_data["section"],
             "context": context,
@@ -73,6 +175,12 @@ class FolioTranslator:
             "unknown_words": self.translator.get_unknown_words(),
             "translated_at": datetime.now().isoformat()
         }
+        
+        # Add validation metrics if calculated
+        if validation_metrics:
+            result["validation_metrics"] = validation_metrics
+        
+        return result
     
     def translate_and_save(self, section: str, folio_id: str, context: str = None, force: bool = False) -> Dict:
         """Translate a folio and save results"""
@@ -108,6 +216,23 @@ class FolioTranslator:
         print(f"   • Known: {stats['known']} ({stats['coverage']:.1%})")
         print(f"   • Unknown: {stats['unknown']}")
         print(f"   • Avg confidence: {stats['avg_confidence']:.2f}")
+        
+        # Print validation metrics if available
+        if 'validation_metrics' in result:
+            vm = result['validation_metrics']
+            print(f"\n🔬 Validation Metrics:")
+            print(f"   • Latin word entropy: {vm['latin']['word_entropy']} bits/word (expected: ~9.5)")
+            print(f"   • English word entropy: {vm['english']['word_entropy']} bits/word (expected: ~10.0)")
+            print(f"   • Lexical diversity (TTR): {vm['latin']['lexical_diversity']['ttr']:.3f}")
+            
+            # Show quality warnings
+            flags = vm['quality_flags']
+            if flags['low_word_entropy']:
+                print(f"   ⚠️  WARNING: Low word entropy (excessive repetition)")
+            if flags['high_compression']:
+                print(f"   ⚠️  WARNING: High compression (too predictable)")
+            if flags['low_diversity']:
+                print(f"   ⚠️  WARNING: Low lexical diversity (limited vocabulary)")
         
         if result["unknown_words"]:
             print(f"\n❓ Unknown words ({len(result['unknown_words'])}):")

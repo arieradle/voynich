@@ -1306,5 +1306,48 @@
     "tyykeeyky",
     "ykeody"
   ],
-  "translated_at": "2025-11-28T02:34:38.238255"
+  "translated_at": "2025-11-30T11:11:59.432354",
+  "validation_metrics": {
+    "voynich": {
+      "char_entropy": 3.737,
+      "word_entropy": 6.026,
+      "compression_ratio": 0.228,
+      "lexical_diversity": {
+        "ttr": 0.3632075471698113,
+        "unique_words": 77,
+        "total_words": 212
+      }
+    },
+    "latin": {
+      "char_entropy": 3.954,
+      "word_entropy": 5.341,
+      "compression_ratio": 0.26,
+      "lexical_diversity": {
+        "ttr": 0.23893805309734514,
+        "unique_words": 54,
+        "total_words": 226
+      }
+    },
+    "english": {
+      "char_entropy": 3.929,
+      "word_entropy": 4.922,
+      "compression_ratio": 0.257,
+      "lexical_diversity": {
+        "ttr": 0.19138755980861244,
+        "unique_words": 40,
+        "total_words": 209
+      }
+    },
+    "quality_flags": {
+      "low_word_entropy": false,
+      "high_compression": false,
+      "low_diversity": true
+    },
+    "expected_values": {
+      "latin_char_entropy": "~3.8 bits/char",
+      "latin_word_entropy": "~9.5 bits/word",
+      "english_char_entropy": "~4.1 bits/char",
+      "english_word_entropy": "~10.0 bits/word"
+    }
+  }
 }
